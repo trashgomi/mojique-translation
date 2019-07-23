@@ -4,7 +4,9 @@ This project is a fan-made English translation for Mojique (もじクエ), the R
 
 ## Progress
 
-This project is not yet underway, and is instead currently in the process of gathering volunteers. If you'd like to see this translation get started, please spread word far and wide!
+Lines Translated: 0/19466 (Updated 07/23/2019)
+
+This project is not yet underway, and is instead currently in the process of gathering volunteers. If you'd like to see this translation get started, please spread word far and wide! Also consider joining yourself: see the section below.
 
 ## Can I Help?
 
@@ -30,9 +32,9 @@ This section is required for any contributors making any actual changes to the t
 * First, download and install any required tools from the subsection below.
 * Next, clone this repository into an appropriate folder on your computer.
 * [Download the appropriate version of Mojique](https://aokurage.booth.pm/items/966800). This is necessary because the repo doesn't contain all of the game's files.
-* Copy all of the downloaded game files into your local repository, but **don't overwrite any existing files**. The entire _mojikue verx.yz_ folder you downloaded goes inside the repo's root directory (_mojique-translation_)
+* Copy all of the downloaded game files into your local repository, but **don't overwrite any existing files**. The entire _mojikue ver-.--_ folder you downloaded goes inside the repo's root directory (_mojique-translation_)
 * Test that the game runs.
-* Run Translator++ and open the 
+* Run Translator++ and open the _translation.trans_ file.
 * You are now ready to contribute!
 
 ### Required Tools
@@ -40,8 +42,23 @@ This section is required for any contributors making any actual changes to the t
 This project is made possible by [Translator++](https://forums.rpgmakerweb.com/index.php?threads/translator-game-translation-tool.102706/).
 This tool is required for making any changes to the game. [Download here.](https://mega.nz/#F!P191mCib!f1gDY15BkUN20_61ikoAew)
 
+## Making Changes
+
+The best way to add new translations is to first choose a scene (i.e. one of the many maps) that hasn't been touched yet. Then you should make an appopriately-named branch and make commits to that branch as you please.
+
+Translator++ supports multiple columns (stages) of translations.
+* Assistant translators should write their translations into the **Initial** column. 
+* Lead translators should create and use a column called **Checked**, and write their version of the initial translations in that column. If the initial version is correct, the lead translator can simply copy it into their **Checked** column.
+* Localisers can create and use a column called **Localised**, and write their version of checked translations in that column. However, localisers must get all of their localised lines checked once more by a lead translator.
+
+Any _Google_, _Translation 1_, or _Translation 2_ columns are default and can be deleted.
+
+Branches shouldn't be merged into _master_ until they have gone through this whole process.
+
+Following this convention, we can avoid work overlap and merge conflicts.
+
 ## Contributors
 
 If you are contributing in one of the ways mentioned above (or in some other capacity), please edit this file and leave your name and role here! Alternatively, ask someone else to add your name for you.
 
-* trashgomi - Assistant Translator
+* trashgomi - Assistant Translator, Repo Owner
