@@ -13,6 +13,7 @@ There are many ways you can contribute, whether or not you can translate Japanes
 * If you have a very strong grasp of both Japanese and English, you can act as a **lead translator**. We need at least one of these! Lead translators will be in charge of organising other translators, checking translations for correctness, and deciphering the most obscure lines of Japanese dialogue.
 * If you have decent knowledge of both Japanese and English, you can be an **assistant translator**. We need several of these. Assistant translators will do a lot of the heavy lifting and translate most of the text so that the lead translators can do their job.
 * If you are fluent in English, you can act as a **localiser**. Localisers will ensure that every line of dialogue sounds natural and has appropriate levels of expression and stylisation.
+* We also need at least one **typesetter**. This is someone who knows a thing or two about image editing (e.g. Photoshop) and can add English text to images in place of Japanese text.
 * Otherwise, you can be a **playtester** (as long as you have a decent grasp of English). Playtesters will check for typos, missing translations and other dialogue errors, as well as ensuring that the game works as it should.
 
 To contribute, you should register for a GitHub account. Ideally, all translators should know how to create commits to this project - you can find out how using the [GitHub guides](https://guides.github.com/).
