@@ -1,0 +1,142 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+盗賊
+「エント村にて、野菜・卵をタル2杯分・・・」
+> CONTEXT: Map633/events/20/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊
+「ジンブー村にて樫の木材を少々・・・」
+> CONTEXT: Map633/events/20/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊
+「東部港にて現金250,086レン・・・」
+> CONTEXT: Map633/events/20/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊
+「活動報告は以上です！」
+> CONTEXT: Map633/events/20/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+へえ～！　今回は上々じゃねえか！
+> CONTEXT: Map633/events/20/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やっぱ陽動作戦が効いたみてーだな！
+> CONTEXT: Map633/events/20/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊
+「はい。　おかげで余裕をもってブツ探しが
+　できました。」
+> CONTEXT: Map633/events/20/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊
+「明日のターゲット、港町ザザーブでも
+　ぜひ実行しましょう。」
+> CONTEXT: Map633/events/20/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おう！　ザザーブはエモノがたんまりあるから
+な！
+> CONTEXT: Map633/events/20/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+気合入れてかかるぜ！！
+> CONTEXT: Map633/events/20/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊
+「はい！」
+> CONTEXT: Map633/events/20/pages/0/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map633/events/20/pages/1/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よっしゃ！　今夜は収穫祝い兼団結会だ！
+> CONTEXT: Map633/events/20/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+多少のハメ外しは許す！！
+> CONTEXT: Map633/events/20/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊
+「おおおおおぉぉぉーーーーー！！！」
+> CONTEXT: Map633/events/20/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+つーわけで、手はずどおり、オレを含めた
+陽動班は酒場を襲う。
+> CONTEXT: Map633/events/20/pages/1/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうすりゃ、警備の騎士団は酒場に集中
+するだろうよ。
+> CONTEXT: Map633/events/20/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その隙に、実動班は民家へ侵入してエモノを
+たんまり盗って来い！
+> CONTEXT: Map633/events/20/pages/1/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+分かったら、とっとと作戦開始だ！　行くぜ！！
+> CONTEXT: Map633/events/20/pages/1/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊
+「おおおーー！！」
+> CONTEXT: Map633/events/20/pages/1/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ん・・・ちょっと小便してえけど・・・）
+> CONTEXT: Map633/events/20/pages/1/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（もう時間ねえな・・・いいや、別に・・・）
+> CONTEXT: Map633/events/20/pages/1/23/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,531 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+最上階のようだ。
+> CONTEXT: Map487/events/6/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+破邪の光は、ここで浴びられるのかな？
+> CONTEXT: Map487/events/6/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はぁ・・・はぁ・・・/////
+> CONTEXT: Map487/events/6/pages/1/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルミィさん大丈夫ですか・・・？
+> CONTEXT: Map487/events/6/pages/1/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふ、服がこすれるだけで・・・ぅ、か、
+感じすぎてしまい・・・っ
+> CONTEXT: Map487/events/6/pages/1/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もう、これ以上・・・う・・・動いたら・・・っ/////
+> CONTEXT: Map487/events/6/pages/1/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どっちにせよ、ここらへんが限界みたいだね。
+> CONTEXT: Map487/events/6/pages/1/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お目当てのありがたい光ってどこダー？
+> CONTEXT: Map487/events/6/pages/1/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見たところ、光を発するようなオブジェは
+ありませんね・・・
+> CONTEXT: Map487/events/6/pages/1/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まさか、そこのタイマツの火が・・・
+> CONTEXT: Map487/events/6/pages/1/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あの火の明かりを浴びればいいの？
+> CONTEXT: Map487/events/6/pages/1/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お世辞にも“破邪”といった感じはしないな。
+> CONTEXT: Map487/events/6/pages/1/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ねえ、そこの宝箱開けてみない？
+> CONTEXT: Map487/events/6/pages/1/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+案外、“破邪の光”っていうアイテムかも
+しれないよ？
+> CONTEXT: Map487/events/6/pages/1/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まあ、他にあてもないし。　中をのぞいて
+みてもいいかしらね。
+> CONTEXT: Map487/events/6/pages/1/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミララちゃん
+「じゃじゃじゃーーーん！！」
+> CONTEXT: Map487/events/6/pages/2/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミララちゃん
+「全国のホータイファンのみんなーーー！！
+　お待たせーーーー！！！」
+> CONTEXT: Map487/events/6/pages/2/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミララちゃん
+「ホータイ☆アイドル、ミララちゃん！！
+　ただいま華麗に参ーー上ーーー！！！」
+> CONTEXT: Map487/events/6/pages/2/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+額を撃てばいいのカー？
+> CONTEXT: Map487/events/6/pages/2/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミララちゃん
+「ちょっとーー！！　かよわいホータイっ娘に
+　向かってそれはないでしょーー！！」
+> CONTEXT: Map487/events/6/pages/2/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミララちゃん
+「てゆーか、敵じゃないしー☆」
+> CONTEXT: Map487/events/6/pages/2/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃあ何？
+> CONTEXT: Map487/events/6/pages/2/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミララちゃん
+「何って言われても、ミララちゃんはミララちゃん
+　だよーー！！」
+> CONTEXT: Map487/events/6/pages/2/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+せ、精霊王のこむさんなら、分かりますか・・・？
+> CONTEXT: Map487/events/6/pages/2/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すみません・・・さっぱり見当もつきません・・・
+> CONTEXT: Map487/events/6/pages/2/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミララとやらに、1つ尋ねたい。
+> CONTEXT: Map487/events/6/pages/2/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この金字塔のどこかで“破邪の光”を浴びる
+ことができると聞いてやってきた。
+> CONTEXT: Map487/events/6/pages/2/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何か知らないか？
+> CONTEXT: Map487/events/6/pages/2/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミララちゃん
+「あーーーれーーー！！　それって
+　ミララちゃんのことじゃーーーん！！！」
+> CONTEXT: Map487/events/6/pages/2/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え？　どゆこと？
+> CONTEXT: Map487/events/6/pages/2/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミララちゃん
+「ミララちゃんねー、ホータイアイドルを
+　始める前は、あらゆる呪術を解く不思議な
+　力を使ってみんなの役に立ってたんだー☆」
+> CONTEXT: Map487/events/6/pages/2/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミララちゃん
+「それでついたあだ名が“破邪の光”なんだ
+　よーー！！　びっくり！！」
+> CONTEXT: Map487/events/6/pages/2/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・それが本当なら、治療してもらいたい者が
+いる。
+> CONTEXT: Map487/events/6/pages/2/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全身が感じまくっちゃって、アヘアヘ状態なんだ
+よね。
+> CONTEXT: Map487/events/6/pages/2/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・/////
+> CONTEXT: Map487/events/6/pages/2/81/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/42/pages/0/101/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/42/pages/0/169/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミララちゃん
+「ありまー、それは厄介な呪術だねーー！！」
+> CONTEXT: Map487/events/6/pages/2/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミララちゃん
+「うーん、治療してあげてもいいけどー、
+　ほら、ミララちゃんってインドア派じゃん？」
+> CONTEXT: Map487/events/6/pages/2/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミララちゃん
+「疲れることって苦手なんだー！　今はもう
+　アイドルだし☆」
+> CONTEXT: Map487/events/6/pages/2/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（アイドルの方がよっぽど体力使うと思う
+　けど・・・）
+> CONTEXT: Map487/events/6/pages/2/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミララちゃん
+「だからー、どうしても呪術を解いてほしいなら
+　－・・・」
+> CONTEXT: Map487/events/6/pages/2/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミララちゃん
+「それなりの力を示してもらおっかなーー！！」
+> CONTEXT: Map487/events/6/pages/2/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大天使カニエル
+「やっほーミララちゃーん久しぶり～！」
+> CONTEXT: Map487/events/6/pages/2/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大天使カニエル
+「なんかおもしろそうじゃーん！　暇だから、
+　あたいも加勢するよ～！」
+> CONTEXT: Map487/events/6/pages/2/137/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミララちゃん
+「おおー！　カニエル姉さんお久～☆」
+> CONTEXT: Map487/events/6/pages/2/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミララちゃん
+「いいけど、あんまりマジになっちゃだめ
+　だからね～？」
+> CONTEXT: Map487/events/6/pages/2/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大天使カニエル
+「もちろん分かってるって！
+　んじゃ、行くよー！」
+> CONTEXT: Map487/events/6/pages/2/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミララちゃん
+「おっけーい☆」
+> CONTEXT: Map487/events/6/pages/2/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミララちゃん
+「痛ったーーーーーい！！　涙で脱水
+　しちゃーーーーーう！！」
+> CONTEXT: Map487/events/6/pages/4/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+時間が惜しい。　治療を頼む。
+> CONTEXT: Map487/events/6/pages/4/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミララちゃん
+「なんか冷たーい、ミララちゃん鬼凹～☆」
+> CONTEXT: Map487/events/6/pages/4/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミララちゃん
+「てゆーか、そろそろ効果出てると思うけど
+　なー？」
+> CONTEXT: Map487/events/6/pages/4/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え？　効果？？
+> CONTEXT: Map487/events/6/pages/4/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・そう言えばいつの間にか、感覚が
+落ち着いています。
+> CONTEXT: Map487/events/6/pages/4/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうなの？　どういうこと・・・？
+> CONTEXT: Map487/events/6/pages/4/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミララちゃん
+「ミララちゃんってね、生まれつき生体オーラに
+　神聖な癒しの力があるっぽいの。」
+> CONTEXT: Map487/events/6/pages/4/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミララちゃん
+「だから、ミララちゃんの近くにいるだけで
+　じわじわ呪いが解けていくんだー☆」
+> CONTEXT: Map487/events/6/pages/4/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃあ、さっき戦ってる間にルミィさんの呪いは
+消えちゃったんですね。
+> CONTEXT: Map487/events/6/pages/4/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どっちにしても、戦う意味は無かったのね。
+> CONTEXT: Map487/events/6/pages/4/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ありがとうございます。　おかげで元の体に
+戻ることができました。
+> CONTEXT: Map487/events/6/pages/4/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神聖な癒しの生体オーラ・・・素晴らしいですね。
+> CONTEXT: Map487/events/6/pages/4/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミララちゃん
+「わーーい！！　ほめられたーー！！」
+> CONTEXT: Map487/events/6/pages/4/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+礼を言う。
+> CONTEXT: Map487/events/6/pages/4/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今は時間が無いが、何か困ったことがあれば
+力を貸そう。
+> CONTEXT: Map487/events/6/pages/4/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミララちゃん
+「うーん、特に何も困ってないかなー。」
+> CONTEXT: Map487/events/6/pages/4/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミララちゃん
+「それにミララちゃん、また眠くなって
+　きちゃった☆」
+> CONTEXT: Map487/events/6/pages/4/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミララちゃん
+「もう寝るね！！　100年後くらいに、また
+　会おうねーーー！！」
+> CONTEXT: Map487/events/6/pages/4/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミララちゃん
+「おやすみイカスミーーー☆」
+> CONTEXT: Map487/events/6/pages/4/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大天使カニエル
+「そんじゃあたいも・・・」
+> CONTEXT: Map487/events/6/pages/5/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大天使カニエル
+「さらばだにタラバガニーーー☆」
+> CONTEXT: Map487/events/6/pages/5/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+けっきょく何だったんダー？
+> CONTEXT: Map487/events/6/pages/5/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よく分からないが、目的は果たせたな。
+> CONTEXT: Map487/events/6/pages/5/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ええ。　本当にありがとうございます。
+> CONTEXT: Map487/events/6/pages/5/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さっそく戻って干渉剤の製作に取り掛かりたいと
+思います。
+> CONTEXT: Map487/events/6/pages/5/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうしよう！　ここ、もう暑くて暑くて・・・
+> CONTEXT: Map487/events/6/pages/5/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ではお城に戻りましょうか。
+> CONTEXT: Map487/events/6/pages/5/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミララちゃん
+「むにゃむ・・・もう食べらんないよぉ☆
+　ZZZ・・・」
+> CONTEXT: Map487/events/6/pages/6/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お城に移動する？
+> CONTEXT: Map487/events/13/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,728 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+む、あれは・・・
+> CONTEXT: Map383/events/4/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おお、これはいかにも・・・！
+> CONTEXT: Map383/events/4/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精霊王の祭壇って感じだね！！
+> CONTEXT: Map383/events/4/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+てことは、この中に精霊王が眠ってるって
+ことかな！！
+> CONTEXT: Map383/events/4/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+可能性は高いな。
+> CONTEXT: Map383/events/4/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+で、どうすれば出てくるのかな・・・？
+> CONTEXT: Map383/events/4/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どっかに封印を解く何かがある、とか・・・？
+> CONTEXT: Map383/events/4/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とりあえず、みんなでお祈りしてみる？
+> CONTEXT: Map383/events/4/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+できることを全て試そう。
+> CONTEXT: Map383/events/4/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何か突破口が見つかるかもしれない。
+> CONTEXT: Map383/events/4/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よーーし！　頑張って精霊王を目覚めさせる
+ぞー！！
+> CONTEXT: Map383/events/4/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えーっと・・・あと試してないの、何かあったっけ
+・・・？
+> CONTEXT: Map383/events/4/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+常夏さんの案で、「祭壇にガムテープを貼って
+思いっきり剥がす」が残ってます。
+> CONTEXT: Map383/events/4/pages/0/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+却下でしょ。
+> CONTEXT: Map383/events/4/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+にゃんこ知らないの？　ガムテープは万能
+ツールだって、神絵師はみんな言ってるよ！！
+> CONTEXT: Map383/events/4/pages/0/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃ、カラットたちもガムテープで倒してね。
+> CONTEXT: Map383/events/4/pages/0/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+先生ごめんなさい。
+> CONTEXT: Map383/events/4/pages/0/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「あ・・・あの～・・・」
+> CONTEXT: Map383/events/4/pages/0/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「そんなことしても、私は目覚めませんよ・・・」
+> CONTEXT: Map383/events/4/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+びくっ！
+> CONTEXT: Map383/events/4/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精霊王！？　どこ！？
+> CONTEXT: Map383/events/4/pages/0/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ええと・・・は、初めまして・・・精霊王です。
+> CONTEXT: Map383/events/4/pages/0/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・え！？
+> CONTEXT: Map383/events/4/pages/0/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この、小さな女の子が・・・
+> CONTEXT: Map383/events/4/pages/0/179/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精霊王っ！？！？
+> CONTEXT: Map383/events/4/pages/0/183/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ぽかーん）
+> CONTEXT: Map383/events/4/pages/0/187/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はい、一応・・・
+> CONTEXT: Map383/events/4/pages/0/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（どう見ても普通の女の子だ・・・）
+> CONTEXT: Map383/events/4/pages/0/197/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+外見に驚くより、まず先に聞きたいことがある。
+> CONTEXT: Map383/events/4/pages/0/201/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精霊王は、この祭壇に眠っている存在では
+なかったのか。
+> CONTEXT: Map383/events/4/pages/0/202/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+向こうの道から歩いてきたように見えたが。
+> CONTEXT: Map383/events/4/pages/0/204/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+確かにここで眠りについていましたけど、
+少し前に目覚めまして・・・
+> CONTEXT: Map383/events/4/pages/0/209/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+世界を覆い始めた魔力の気に、無理やり
+起こされた、というか・・・
+> CONTEXT: Map383/events/4/pages/0/211/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうだったんだー。
+> CONTEXT: Map383/events/4/pages/0/216/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうだ、自己紹介がまだだったわね。
+> CONTEXT: Map383/events/4/pages/0/220/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+私たちは・・・
+> CONTEXT: Map383/events/4/pages/0/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、みなさんの事は存じてますよ。
+> CONTEXT: Map383/events/4/pages/0/226/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+異世界から召喚された次代の熾天少女の
+方々ですよね。
+> CONTEXT: Map383/events/4/pages/0/227/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おおおおー！　さすが精霊王！！
+何でも知ってるんだね！！
+> CONTEXT: Map383/events/4/pages/0/232/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いえ、そうではなくて・・・
+> CONTEXT: Map383/events/4/pages/0/236/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+実は、みなさんがこちらの世界へ来てから
+ひそかにずっと後をつけていたんですよ・・・
+> CONTEXT: Map383/events/4/pages/0/237/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+黙っててごめんなさい。
+> CONTEXT: Map383/events/4/pages/0/239/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え、そうだったの！？
+> CONTEXT: Map383/events/4/pages/0/243/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぜーんぜん気付かなかった・・・
+> CONTEXT: Map383/events/4/pages/0/247/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なぜそんなまねを？
+> CONTEXT: Map383/events/4/pages/0/251/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+先代の熾天少女であるノア様からの言い付け
+です。
+> CONTEXT: Map383/events/4/pages/0/256/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『彼女たちが天の使いの力をうまく使いこなせる
+ようになるまで、陰からそっと助力してあげな
+さい。』と・・・
+> CONTEXT: Map383/events/4/pages/0/258/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それで、ずっと私たちの後をつけていたん
+ですか。
+> CONTEXT: Map383/events/4/pages/0/264/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふむ。　ようやく理解したぞ。
+> CONTEXT: Map383/events/4/pages/0/269/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お前は、これまでに何度か我々の窮地を
+救ったことがあるな？
+> CONTEXT: Map383/events/4/pages/0/270/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我々が盗賊団の牢屋に捕らわれた時、
+北部の凍った洞窟で新人兵の頭上につららが
+降り注いだ時、
+> CONTEXT: Map383/events/4/pages/0/272/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そして最近では、盗賊団の策略で大量の伏兵に
+挟み討ちにされた時。
+> CONTEXT: Map383/events/4/pages/0/275/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全部、精霊王ちゃんが助けてくれたんだ！？
+> CONTEXT: Map383/events/4/pages/0/280/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、はい。　せんえつながら・・・
+> CONTEXT: Map383/events/4/pages/0/285/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ありがとう！　いつも見守ってくれてたんだね！
+> CONTEXT: Map383/events/4/pages/0/288/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ええ・・・。　ただ、その・・・
+> CONTEXT: Map383/events/4/pages/0/293/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カラットと側近が復活した際の膨大な魔力波の
+影響で、ノア様との疎通ができなくなってしまい
+まして、
+> CONTEXT: Map383/events/4/pages/0/294/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もはや、どのタイミングでみなさまと合流して
+いいのか分からず、今に至るまでずっと後ろを
+くっついていた次第です・・・
+> CONTEXT: Map383/events/4/pages/0/297/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なるほどな。
+> CONTEXT: Map383/events/4/pages/0/303/Dialogue < UNTRANSLATED
+> CONTEXT: Map191/events/4/pages/0/188/Dialogue < UNTRANSLATED
+> CONTEXT: Map097/events/2/pages/0/34/Dialogue < UNTRANSLATED
+> CONTEXT: Map009/events/2/pages/1/41/Dialogue < UNTRANSLATED
+> CONTEXT: Map127/events/11/pages/0/259/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんな時に、我々が精霊王の復活を目的として
+ここまで来たことを知り、自ら名乗り出たと言う
+わけか。
+> CONTEXT: Map383/events/4/pages/0/304/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+私がもっと早く名乗り出ていれば、こんな
+ところまで来る必要なんて無かったんですよね。
+> CONTEXT: Map383/events/4/pages/0/314/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すみません。
+> CONTEXT: Map383/events/4/pages/0/316/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+先代の熾天少女って、ノアさんって言うのね。
+> CONTEXT: Map383/events/4/pages/0/320/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その方と一緒に、かつて煉絶の姫君カラットと
+闘っていたの？
+> CONTEXT: Map383/events/4/pages/0/321/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はい！
+> CONTEXT: Map383/events/4/pages/0/327/Dialogue < UNTRANSLATED
+> CONTEXT: Map203/events/2/pages/1/90/Dialogue < UNTRANSLATED
+> CONTEXT: Map195/events/2/pages/0/187/Dialogue < UNTRANSLATED
+> CONTEXT: Map120/events/19/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まあ、その・・・あくまで補助ですけど。
+> CONTEXT: Map383/events/4/pages/0/328/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ならば、当時の状況を知る貴重な存在だ。
+> CONTEXT: Map383/events/4/pages/0/332/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+話を聞かせてほしい。
+> CONTEXT: Map383/events/4/pages/0/333/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ええ、もちろんです！
+> CONTEXT: Map383/events/4/pages/0/338/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ねえ、話を聞きたいのはやまやまだけど、
+> CONTEXT: Map383/events/4/pages/0/342/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたし、のど乾いちゃった。
+> CONTEXT: Map383/events/4/pages/0/343/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、実はわたしもカラカラ・・・
+> CONTEXT: Map383/events/4/pages/0/346/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+砂漠を歩きづめだったからね。
+> CONTEXT: Map383/events/4/pages/0/353/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたしも何か飲みたいわ。
+> CONTEXT: Map383/events/4/pages/0/356/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それでしたら、このすぐ先にオアシスが
+ありますよ。
+> CONTEXT: Map383/events/4/pages/0/365/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キレイな水なので、それを飲みながらお話し
+しましょう。
+> CONTEXT: Map383/events/4/pages/0/367/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おおー！　さすが地元人！！
+> CONTEXT: Map383/events/4/pages/0/372/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃあ、詳しい話はオアシスでくつろぎながら
+だね！
+> CONTEXT: Map383/events/4/pages/0/376/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほら、ここの陰で！
+> CONTEXT: Map383/events/13/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・精霊王ちゃん・・・？
+> CONTEXT: Map383/events/13/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぁ・・・ぁの・・・ご、ご・・・
+> CONTEXT: Map383/events/13/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ごめん・・な、さい・・・っ、も、もぉ・・・
+> CONTEXT: Map383/events/13/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もぉだめぇっっ！！
+> CONTEXT: Map383/events/13/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・うぅ・・・っ
+> CONTEXT: Map383/events/13/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぐすん・・・っ
+> CONTEXT: Map383/events/13/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え、えっとね・・・その・・・
+> CONTEXT: Map383/events/13/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う、運とか・・・いろいろ悪かったみたい・・・
+だから、まあ・・・
+> CONTEXT: Map383/events/13/pages/0/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の、ノーカンね！　ノーカン！
+> CONTEXT: Map383/events/13/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふぇぇええん！　ご、ごめんなさぁあい・・・っ！！
+> CONTEXT: Map383/events/13/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うわああぁぁぁんっ！！
+> CONTEXT: Map383/events/13/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とりあえず、みんなにバレる前に片付け
+ちゃおうよ。
+> CONTEXT: Map383/events/13/pages/0/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたし、オアシスの水を汲んで来るね。
+> CONTEXT: Map383/events/13/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぐすっ・・・すみません・・・すみません・・・っ
+> CONTEXT: Map383/events/13/pages/0/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（こ、ここなら・・・っ）
+> CONTEXT: Map383/events/16/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、危なかったぁ・・・////
+> CONTEXT: Map383/events/16/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふう・・・すっきりした・・・♪
+> CONTEXT: Map383/events/16/pages/0/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+で、でも・・・秋空さんには、恥ずかしいこと
+知られちゃった・・・
+> CONTEXT: Map383/events/16/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うう・・・顔合わせるの、気まずいなぁ・・・
+> CONTEXT: Map383/events/16/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、そそそ、そ、そこにはべべべ別にな、
+なな、何もないですよっ！？！？！
+> CONTEXT: Map383/events/18/pages/0/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map383/events/19/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この祭壇の裏側に、隠し通路があるのか。
+> CONTEXT: Map383/events/25/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はい。　今、開けますね。
+> CONTEXT: Map383/events/25/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それにしても、何で通路を隠してあるの？
+> CONTEXT: Map383/events/25/pages/0/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+遺跡荒らしみたいなのがいる、とか・・・？
+> CONTEXT: Map383/events/25/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だいたいそんなところです。
+> CONTEXT: Map383/events/25/pages/0/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それに、金字塔には破邪の光以外にも、
+古代の特殊な術式など未だに解明されて
+いないものもあると言われています。
+> CONTEXT: Map383/events/25/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そういった古代技術が、むげに破壊されたり
+しないように、いつもは通路を隠してあるん
+ですよ。
+> CONTEXT: Map383/events/25/pages/0/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なかなか興味深い話ですね。
+> CONTEXT: Map383/events/25/pages/0/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こんな体でなければ、すぐにでも調査したい
+ところです。
+> CONTEXT: Map383/events/25/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（サイエンティストって、ストイックな人ばっか
+　だなぁ・・・）
+> CONTEXT: Map383/events/25/pages/0/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通路が開いたなら、どんどん進むネー！！
+> CONTEXT: Map383/events/25/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+破邪の光、ワタシも浴びたいヨー！！
+> CONTEXT: Map383/events/25/pages/0/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+消えてなくならないように注意しなさいね。
+> CONTEXT: Map383/events/25/pages/0/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+むーー！！　ワタシはバイキンじゃないヨー！！
+> CONTEXT: Map383/events/25/pages/0/116/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,318 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ベスばあさん
+「ふーむ・・・おかしいわね・・・」
+> CONTEXT: Map019/events/1/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベスばあさん
+「確かにこのあたりに地図が・・・」
+> CONTEXT: Map019/events/1/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もしや、なくしたのか？
+> CONTEXT: Map019/events/1/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベスばあさん
+「いいや、そんなはずはないわ。」
+> CONTEXT: Map019/events/1/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベスばあさん
+「このあたしが、モノをしまいなくすなんてことは
+　ありえない話よ。」
+> CONTEXT: Map019/events/1/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベスばあさん
+「このあたりじゃ、【モノをしまいなくさないベス】
+　で名が通ってるくらいだからね！」
+> CONTEXT: Map019/events/1/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ピンポイントな通り名ですね・・・
+> CONTEXT: Map019/events/1/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「おばあちゃん、もしかして地図を探してる
+　のー？」
+> CONTEXT: Map019/events/1/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベスばあさん
+「そうだよ。　何か知ってるのかい？」
+> CONTEXT: Map019/events/1/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「もう・・・おばあちゃんは直前のことをすぐ
+　忘れちゃうのねー。」
+> CONTEXT: Map019/events/1/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「さっきやってきた女の子に、地図あげちゃった
+　ばかりでしょー？」
+> CONTEXT: Map019/events/1/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベスばあさん
+「・・・・・・。」
+> CONTEXT: Map019/events/1/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベスばあさん
+「・・・あっ！　そういやそうだったねえ！！」
+> CONTEXT: Map019/events/1/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベスばあさん
+「昔のことは覚えてても、ついさっきのことを
+　忘れるようになっちゃったのよ！」
+> CONTEXT: Map019/events/1/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベスばあさん
+「たははははは！！」
+> CONTEXT: Map019/events/1/pages/0/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えーと、つまり・・・
+> CONTEXT: Map019/events/1/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+無駄足だったというわけか。
+> CONTEXT: Map019/events/1/pages/0/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベスばあさん
+「ごめんなさいねえ。　地図は1つしか無いから
+　あきらめてくれるかい？」
+> CONTEXT: Map019/events/1/pages/0/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+致し方あるまい。　地図による現在地確認は
+あきらめるとしよう。
+> CONTEXT: Map019/events/1/pages/0/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+問題は、今後の策だな。
+> CONTEXT: Map019/events/1/pages/0/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベスばあさん
+「なんだ、あんたたちは自分のいる場所が
+　分からないのかい？」
+> CONTEXT: Map019/events/1/pages/0/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、はい。　気が付いたら、森の中に倒れてて
+・・・
+> CONTEXT: Map019/events/1/pages/0/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここがどこなのか、ぜんぜん分からないん
+です。
+> CONTEXT: Map019/events/1/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベスばあさん
+「ああ・・・そういえば・・・」
+> CONTEXT: Map019/events/1/pages/0/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベスばあさん
+「さっき地図をあげた女の子も、そんなことを
+　言ってたわねえ。」
+> CONTEXT: Map019/events/1/pages/0/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え？　それって・・・
+> CONTEXT: Map019/events/1/pages/0/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+俺たちの同級生の可能性が高いな。
+> CONTEXT: Map019/events/1/pages/0/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+質問だが、地図を渡した女がどこへ向かったか
+分かるか？
+> CONTEXT: Map019/events/1/pages/0/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベスばあさん
+「そうだねえ。」
+> CONTEXT: Map019/events/1/pages/0/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベスばあさん
+「その娘はたしか、『交通手段がほしい』って
+　言ってたから、もしかしたら・・・」
+> CONTEXT: Map019/events/1/pages/0/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベスばあさん
+「船が出入りしてて、しかもここから一番近い
+　『港町ザザーブ』に向かったかもね。」
+> CONTEXT: Map019/events/1/pages/0/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なるほど。　電車や船が通っている地域ならば
+おのずと現在位置が把握できるというわけか。
+> CONTEXT: Map019/events/1/pages/0/137/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、そのザザーブっていう町は、えっと・・・
+どこにあるんですか？
+> CONTEXT: Map019/events/1/pages/0/143/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベスばあさん
+「あんたたち、ドノ村から来たんだったね。」
+> CONTEXT: Map019/events/1/pages/0/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベスばあさん
+「まずはドノ村まで戻って、それから村の南に
+　ある森を東の方へ進んでいけば、着くわよ。」
+> CONTEXT: Map019/events/1/pages/0/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+了解した。　それなら、さほど時間もかからず
+到着できそうだ。
+> CONTEXT: Map019/events/1/pages/0/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はむこ、すぐに出発するとしよう。
+急げばまだ追いつけるかもしれない。
+> CONTEXT: Map019/events/1/pages/0/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、う・・・うん。
+> CONTEXT: Map019/events/1/pages/0/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうした、具合でも悪いのか？
+> CONTEXT: Map019/events/1/pages/0/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+べ、別に・・・そういうわけじゃ・・・ないけど・・・
+> CONTEXT: Map019/events/1/pages/0/169/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベスばあさん
+「地図を持ってった女の子は、そりゃもう嵐の
+　ように元気なコだったわよ。」
+> CONTEXT: Map019/events/1/pages/0/171/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベスばあさん
+「あの俊足なら、若い頃のあたしでも
+　追いつけないかもねえ。」
+> CONTEXT: Map019/events/1/pages/0/174/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ならばなおさら急ごう。　行くぞはむこ。
+> CONTEXT: Map019/events/1/pages/0/179/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う、ん・・・えっと・・・分かった。
+> CONTEXT: Map019/events/1/pages/0/183/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベスばあさん
+「若いうちに、いっぱい冒険しときな。
+　たははは！！」
+> CONTEXT: Map019/events/1/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING

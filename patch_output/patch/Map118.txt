@@ -1,0 +1,207 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ん？　その声は確か、騎士団長か・・・？
+> CONTEXT: Map118/events/2/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こんにちは。
+> CONTEXT: Map118/events/2/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おおお～！　兵士がいっぱい！
+> CONTEXT: Map118/events/2/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「うむ。　これより、盗賊団の根城へ総攻撃を
+　かけるところなのだ。」
+> CONTEXT: Map118/events/2/pages/0/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「当然、人質救出を最優先させるがね。」
+> CONTEXT: Map118/events/2/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ああ、それでしたらもう・・・
+> CONTEXT: Map118/events/2/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こちらの方々に、助けていただきました！
+> CONTEXT: Map118/events/2/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「な・・・なんと・・・！」
+> CONTEXT: Map118/events/2/pages/0/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「まさか、その人数で・・・いったい、どうやって
+　・・・！？」
+> CONTEXT: Map118/events/2/pages/0/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+理由は分からないが、盗賊団の連中にも
+熾天少女の力は通用するらしい。
+> CONTEXT: Map118/events/2/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一時は敵の策に陥り囚われたが、どうにか
+ヘッドを叩いて人質救出に至った。
+> CONTEXT: Map118/events/2/pages/0/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「すばらしい！　誠にすばらしい！！」
+> CONTEXT: Map118/events/2/pages/0/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「ではさっそく君たちを城に招き、祝杯を
+　あげるとしよう！」
+> CONTEXT: Map118/events/2/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「皆の者！　この方々を丁重に城へお招き
+　するのだ！」
+> CONTEXT: Map118/events/2/pages/0/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、いえ・・・そんなお構いなく・・・
+> CONTEXT: Map118/events/2/pages/0/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あまりにぎやかなのは性に合わん。
+> CONTEXT: Map118/events/2/pages/0/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え～？　お城に入れてくれるんだよ？
+> CONTEXT: Map118/events/2/pages/0/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+行こうよーレグマくん！！
+> CONTEXT: Map118/events/2/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうだよー！　きっとごちそういっぱいだよ！？
+> CONTEXT: Map118/events/2/pages/0/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「私としては、世界の救世主たる君たちには
+　是非とも姫に謁見してほしいのだが・・・」
+> CONTEXT: Map118/events/2/pages/0/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「まあ、無理強いするわけにはいかぬ。　城へ
+　来るかどうかは話し合って決めるといい。」
+> CONTEXT: Map118/events/2/pages/0/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「もし来てもらえるのであれば、今日の夕刻
+　までに城門まで足を運んでほしい。」
+> CONTEXT: Map118/events/2/pages/0/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「衛兵には、私から話をしておこう。」
+> CONTEXT: Map118/events/2/pages/0/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「では皆の者！　今回の作戦は終了し、帰還
+　する！！」
+> CONTEXT: Map118/events/2/pages/0/136/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兵
+「は！！」
+> CONTEXT: Map118/events/2/pages/0/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さてと・・・どうする？
+> CONTEXT: Map118/events/2/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とりあえず、シャルシャルを家まで送り届けよう。
+> CONTEXT: Map118/events/2/pages/1/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+城へ行くかどうかは、その後話し合う予定と
+する。
+> CONTEXT: Map118/events/2/pages/1/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうだね。　まだ時間あるし。
+> CONTEXT: Map118/events/2/pages/1/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+↑：迷いの森
+→：城下町・ユーリャ教会
+↓：オシル湖
+> CONTEXT: Map118/events/24/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map085/events/24/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

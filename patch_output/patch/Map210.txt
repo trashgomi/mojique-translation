@@ -1,0 +1,18 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ここが拠点か。
+> CONTEXT: Map210/events/2/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いかにも、といった悪趣味な内装だな。
+> CONTEXT: Map210/events/2/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全員、気を引き締めて進むぞ。
+> CONTEXT: Map210/events/2/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING

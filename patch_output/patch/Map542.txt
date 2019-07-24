@@ -1,0 +1,60 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+はぁ！！
+> CONTEXT: Map542/events/2/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これで少しは時間が稼げますわ。
+> CONTEXT: Map542/events/2/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ホント、逃げる時は抜け目ないね。
+> CONTEXT: Map542/events/2/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う、うるさいですわね！！！　そんなことは
+ありませんわよ！！
+> CONTEXT: Map542/events/2/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だってさっき、錠を開けるときに氷のカギの
+形を整えずに開けようとして失敗したじゃ
+ないですの！！
+> CONTEXT: Map542/events/2/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え？　形を合わせてないカギで開くと思ったの？
+マジで？
+> CONTEXT: Map542/events/2/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はう・・・っ！！/////
+> CONTEXT: Map542/events/2/pages/0/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、そんなのいいですから、早く逃げましょう
+・・・！
+> CONTEXT: Map542/events/2/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうだな。　今はできるだけこの場から遠くへ
+離れるとしよう。
+> CONTEXT: Map542/events/2/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING

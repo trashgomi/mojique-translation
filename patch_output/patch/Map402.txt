@@ -1,0 +1,83 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ここは・・・
+> CONTEXT: Map402/events/2/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+物品の保管庫のようですね。
+> CONTEXT: Map402/events/2/pages/0/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何かおもしろいアイテムないかな？
+> CONTEXT: Map402/events/2/pages/0/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（「例えばどんな？」って聞いてほしそうな
+目だーーーー！！）
+> CONTEXT: Map402/events/2/pages/0/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聞いた事のないような薬品がいっぱいですね。
+> CONTEXT: Map402/events/2/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+用途が分からない以上、持ち出したところで
+役に立つとは思えないな。
+> CONTEXT: Map402/events/2/pages/0/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（えっちぃ道具とかないかな～・・・）
+> CONTEXT: Map402/events/2/pages/0/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（・・・ん？　このラベル・・・）
+> CONTEXT: Map402/events/2/pages/0/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（「最重要：稀薬SPL-195」・・・？）
+> CONTEXT: Map402/events/2/pages/0/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（なんか、最重要って言われると欲しくなっちゃう
+　な～！）
+> CONTEXT: Map402/events/2/pages/0/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（稀薬SPL-195のビンをくすねた。）
+> CONTEXT: Map402/events/2/pages/0/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+脱出に使えそうな物は無いようだ。
+> CONTEXT: Map402/events/2/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+行くとしよう。
+> CONTEXT: Map402/events/2/pages/0/109/Dialogue < UNTRANSLATED
+> CONTEXT: Map170/events/13/pages/0/89/Dialogue < UNTRANSLATED
+> CONTEXT: Map009/events/2/pages/1/353/Dialogue < UNTRANSLATED
+
+> END STRING

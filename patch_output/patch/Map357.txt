@@ -1,0 +1,470 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+そこまでだ。
+> CONTEXT: Map357/events/16/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+姫から離れろ。
+> CONTEXT: Map357/events/16/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おおお！　よいところに来てくれた！
+> CONTEXT: Map357/events/16/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この狼藉者どもをこらしめてやってはくれぬか？
+> CONTEXT: Map357/events/16/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もちろんそのつもり！！
+> CONTEXT: Map357/events/16/pages/0/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さあ、カラット！　今度は逃がさないわよ！
+> CONTEXT: Map357/events/16/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あらまあまあ！！　大事なお話の途中で
+なんてお行儀の悪い方たちですこと！！
+> CONTEXT: Map357/events/16/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+弱そうだし、ちゃっちゃと片付けちゃおうよ。
+> CONTEXT: Map357/events/16/pages/0/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あれ？　カラット・・・じゃない？
+> CONTEXT: Map357/events/16/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え、でも兵士さんの話では、城に攻めて
+きたのはカラットだって・・・
+> CONTEXT: Map357/events/16/pages/0/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どこへ行っても勘違いされて、本当に迷惑
+ですこと！！
+> CONTEXT: Map357/events/16/pages/0/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よぉーくお聞きなさい！
+> CONTEXT: Map357/events/16/pages/0/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わたくしは、あの“煉絶の姫君”などと称する
+野蛮なカラットとは対極の存在・・・
+> CONTEXT: Map357/events/16/pages/0/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+“蒼麗の歌姫”カラットですことよ！！
+> CONTEXT: Map357/events/16/pages/0/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・？？？？
+> CONTEXT: Map357/events/16/pages/0/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はぁ・・・説明しなきゃダメか・・・
+> CONTEXT: Map357/events/16/pages/0/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あのね、魔界には【パンギーニ家】と
+【ダジェルバージ家】っていう2大派閥が
+あってね。
+> CONTEXT: Map357/events/16/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+姉さんはカラット=パンギーニ、つまり
+パンギーニ家の息女、
+> CONTEXT: Map357/events/16/pages/0/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+煉絶の姫君のほうはカラット=ダジェルバージ、
+・・・ダジェルバージ家の息女なんだよ。
+> CONTEXT: Map357/events/16/pages/0/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんで同じ名前なの？
+> CONTEXT: Map357/events/16/pages/0/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+忌々しいことに！！　わたくしもあの小娘も
+偶然同じ名前を与えられてしまったのですわ！
+> CONTEXT: Map357/events/16/pages/0/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いいえ！！　わたくしの生まれの方が早いの
+ですから、きっとダジェルバージの蛮族どもが
+わたくしの名前をおパクリになったに違いない
+のです！！
+> CONTEXT: Map357/events/16/pages/0/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まあそんなわけで、姉さんと向こうのカラットは
+ライバル同士でいつもバチバチやってるんだよ。
+> CONTEXT: Map357/events/16/pages/0/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんか・・・ややこしいね・・・
+> CONTEXT: Map357/events/16/pages/0/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それで、なぜお前たちが人間界の城を
+襲うようなマネをしている？
+> CONTEXT: Map357/events/16/pages/0/152/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+決まっていますわ！！
+> CONTEXT: Map357/events/16/pages/0/158/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+憎きダジェルバージ家が人間界を征服して
+力を示そうとしているのなら、
+> CONTEXT: Map357/events/16/pages/0/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それより先にわたくしが征服して、パンギーニ家
+の方が優れていることを見せつけてやらなくては
+いけませんのよ！！
+> CONTEXT: Map357/events/16/pages/0/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えっと・・・それってつまり・・・
+> CONTEXT: Map357/events/16/pages/0/167/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+人間界って、あんた達の派閥争いのとばっちり
+を受けてるだけじゃないの・・・
+> CONTEXT: Map357/events/16/pages/0/172/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぶっちゃけね。
+> CONTEXT: Map357/events/16/pages/0/178/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「な、なんと迷惑な話だ・・・」
+> CONTEXT: Map357/events/16/pages/0/180/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よそでやってくれぬかのう・・・
+> CONTEXT: Map357/events/16/pages/0/184/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一応聞くけど、考えなおしてくれないかな？
+> CONTEXT: Map357/events/16/pages/0/188/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あちらのカラットが人間界征服を取りやめると
+言うなら、手を引かないこともなくてよ。
+> CONTEXT: Map357/events/16/pages/0/191/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも、ちんちくりんなクセにおプライドだけは
+一人前ですから、頼んだところでどうせ
+諦めたりはしないでしょうけど！！
+> CONTEXT: Map357/events/16/pages/0/197/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どっちもプライドの塊だし。
+> CONTEXT: Map357/events/16/pages/0/204/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+穏便に事が済むに越したことはなかったが。
+> CONTEXT: Map357/events/16/pages/0/207/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そっちが力で訴えるなら、こっちだって容赦
+しないわ。
+> CONTEXT: Map357/events/16/pages/0/210/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まあ野蛮ですこと！！
+> CONTEXT: Map357/events/16/pages/0/216/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もとより、この城はわたくしの支配下に
+置くつもりでしたし、邪魔をするというなら
+華麗に排除するまで！！
+> CONTEXT: Map357/events/16/pages/0/217/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お覚悟なさい！！！
+> CONTEXT: Map357/events/16/pages/0/224/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+待って、姉さん。
+> CONTEXT: Map357/events/16/pages/0/229/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+姉さんは興奮するとすぐ辺り一面を凍結
+させちゃうし・・・
+> CONTEXT: Map357/events/16/pages/0/230/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この程度の相手なら僕一人で十分だよ。
+> CONTEXT: Map357/events/16/pages/0/232/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まあサッファ、頼もしいですわ！！
+> CONTEXT: Map357/events/16/pages/0/237/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+では、わたくしは優雅にショウを楽しませて
+いただきますわね！！
+> CONTEXT: Map357/events/16/pages/0/238/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+1対4でいいの？
+> CONTEXT: Map357/events/16/pages/0/243/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そっちこそ、逃げるなら今のうちだと思うけど。
+> CONTEXT: Map357/events/16/pages/0/248/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+むっきー！！　ばかにされたーーー！！
+> CONTEXT: Map357/events/16/pages/0/252/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もういい、前置きは十分だ。
+> CONTEXT: Map357/events/16/pages/0/256/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全員、戦闘態勢。
+> CONTEXT: Map357/events/16/pages/0/257/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んじゃ、いくね。
+> CONTEXT: Map357/events/16/pages/0/262/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、あれ・・・？ 　なかなか強いね・・・
+> CONTEXT: Map357/events/16/pages/2/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いてて・・・っ
+> CONTEXT: Map357/events/16/pages/2/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サッファ！！　大丈夫ですの！！？
+> CONTEXT: Map357/events/16/pages/2/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんとか弟の方は退けたな。
+> CONTEXT: Map357/events/16/pages/2/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふう・・・ちっちゃいのに強かったね・・・！
+> CONTEXT: Map357/events/16/pages/2/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+怪我は大したことないよ・・・
+> CONTEXT: Map357/events/16/pages/2/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それよりこの人たち、何か特別な力を
+持ってるみたい・・・
+> CONTEXT: Map357/events/16/pages/2/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やっぱり姉さんも手伝ってくれる？
+> CONTEXT: Map357/events/16/pages/2/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何を言ってますの！　今はあなたの怪我の
+手当が先ですわ！！！
+> CONTEXT: Map357/events/16/pages/2/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここはいったん引いて、出直しますわよ！！
+> CONTEXT: Map357/events/16/pages/2/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただのかすり傷なのに・・・姉さんはいつも
+大袈裟だなあ・・・
+> CONTEXT: Map357/events/16/pages/2/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あなた方、この借りは必ずお返しいたしますわ！
+> CONTEXT: Map357/events/16/pages/2/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お覚悟しておきなさいな！！！
+> CONTEXT: Map357/events/16/pages/2/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、消えた。
+> CONTEXT: Map357/events/16/pages/2/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よかった・・・
+> CONTEXT: Map357/events/16/pages/2/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+2人同時に来てたら、勝てなかったかも・・・
+> CONTEXT: Map357/events/16/pages/2/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ともあれ助かった！
+> CONTEXT: Map357/events/16/pages/2/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今回の一件については、一度話をまとめる
+必要がありそうじゃのう・・・
+> CONTEXT: Map357/events/16/pages/2/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ガウラよ、動ける者は負傷兵の手当を頼むぞ。
+> CONTEXT: Map357/events/16/pages/2/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「はっ！」
+> CONTEXT: Map357/events/16/pages/2/104/Dialogue < UNTRANSLATED
+
+> END STRING

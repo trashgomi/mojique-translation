@@ -1,0 +1,705 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+この女子は・・・
+> CONTEXT: Map009/events/2/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご老体
+「なんじゃ、お前さんの連れか？」
+> CONTEXT: Map009/events/2/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いや、連れというわけではないが、同じ高校に
+通う同級生だ。
+> CONTEXT: Map009/events/2/pages/1/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あまり話したことはないので、面識は薄いが。
+> CONTEXT: Map009/events/2/pages/1/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+くぅー・・・すぴー・・・
+> CONTEXT: Map009/events/2/pages/1/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+確か、A組の・・・「はむこ」と呼ばれている女子
+だったか。
+> CONTEXT: Map009/events/2/pages/1/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご老体
+「森の中で倒れておったのじゃ。」
+> CONTEXT: Map009/events/2/pages/1/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご老体
+「大きな怪我は無いが、おそらく魔物に
+　襲われて気を失ったのじゃろう。」
+> CONTEXT: Map009/events/2/pages/1/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すー・・・すー・・・
+> CONTEXT: Map009/events/2/pages/1/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おい、起きろはむこ。　聞きたいことがある。
+> CONTEXT: Map009/events/2/pages/1/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+目を覚ますんだ。
+> CONTEXT: Map009/events/2/pages/1/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う、ん・・・むにゃむ・・・
+> CONTEXT: Map009/events/2/pages/1/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おそば・・・おいしい・・・Zzz
+> CONTEXT: Map009/events/2/pages/1/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なるほど、分からん。
+> CONTEXT: Map009/events/2/pages/1/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご老体
+「ずいぶん寝ておったから、そろそろ目を
+　覚ましてもいい頃合いじゃのう。」
+> CONTEXT: Map009/events/2/pages/1/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・ん。
+> CONTEXT: Map009/events/2/pages/1/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふぉえ・・・？
+> CONTEXT: Map009/events/2/pages/1/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふぉえ、じゃない。　しっかりしろ。
+> CONTEXT: Map009/events/2/pages/1/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここがどこだか分かるか？
+> CONTEXT: Map009/events/2/pages/1/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここ、どこ？
+> CONTEXT: Map009/events/2/pages/1/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+知らん。　こっちが聞きたい。
+> CONTEXT: Map009/events/2/pages/1/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご老体
+「覚えておらんか？　北の森で倒れておった
+　のじゃが・・・」
+> CONTEXT: Map009/events/2/pages/1/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あっ！　思い出した！！
+> CONTEXT: Map009/events/2/pages/1/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わたし森でヘンなお化けみたいなのと戦って、
+いつの間にか意識を失ってた・・・のかな？
+> CONTEXT: Map009/events/2/pages/1/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お化けみたいなの・・・俺がさっき森で出会った
+ヤツか。
+> CONTEXT: Map009/events/2/pages/1/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんな化け物と戦えば負けるに決まってる
+だろう。　無鉄砲な女だな。
+> CONTEXT: Map009/events/2/pages/1/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いや～、何匹かやっつけたんだけど、そのうち
+疲れちゃって・・・
+> CONTEXT: Map009/events/2/pages/1/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご老体
+「な、なんじゃと！？　お前さん、あの魔物を
+　倒したのか！？」
+> CONTEXT: Map009/events/2/pages/1/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お前、素手・・・だよな？
+> CONTEXT: Map009/events/2/pages/1/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う、うん。　なんというか、もう夢中でポカポカ
+やってたら、勝てちゃって・・・
+> CONTEXT: Map009/events/2/pages/1/136/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご老体
+「お前さん、見かけによらず良いセンスしとる
+　のう！」
+> CONTEXT: Map009/events/2/pages/1/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+同意見だ。　驚嘆に値する。
+> CONTEXT: Map009/events/2/pages/1/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+い、いやいや、それほどでも～！
+> CONTEXT: Map009/events/2/pages/1/147/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それはそうと、はむこ。
+> CONTEXT: Map009/events/2/pages/1/151/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フェリーに乗っていたはずの俺は、気が
+付いたら森の中に倒れていたのだが・・・
+> CONTEXT: Map009/events/2/pages/1/152/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お前はどうなんだ？
+> CONTEXT: Map009/events/2/pages/1/154/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、うん。　わたしも同じだよ。
+> CONTEXT: Map009/events/2/pages/1/158/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クラスの友達と一緒に甲板で海原を眺めてた
+とこまでは覚えてるんだけど・・・
+> CONTEXT: Map009/events/2/pages/1/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わたしも気が付いた時には、森に突っ伏してた！
+> CONTEXT: Map009/events/2/pages/1/164/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふむ。　状況は変わらず、か。
+> CONTEXT: Map009/events/2/pages/1/167/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、そう言えば・・・まだおじいさんにお礼言って
+ませんでした！
+> CONTEXT: Map009/events/2/pages/1/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+助けてくれてありがとうございます！
+> CONTEXT: Map009/events/2/pages/1/179/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご老体
+「なに、気にするな。　困った時はお互い様
+　じゃ。」
+> CONTEXT: Map009/events/2/pages/1/181/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さて、これからどうしたものか・・・
+> CONTEXT: Map009/events/2/pages/1/185/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この様子だと、他の同級生たちも近くに
+いるかもしれないな。
+> CONTEXT: Map009/events/2/pages/1/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えと・・・早乙女・・・・ナニくんだっけ？
+> CONTEXT: Map009/events/2/pages/1/202/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+俺はB組の早乙女　恋熊（れぐま）だ。
+> CONTEXT: Map009/events/2/pages/1/206/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、そうそう、レグマくんだ！
+> CONTEXT: Map009/events/2/pages/1/210/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんまり聞かない名前だから、すぐ忘れちゃう！
+> CONTEXT: Map009/events/2/pages/1/213/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+で、どうする？　他の人たちも捜してみる？
+> CONTEXT: Map009/events/2/pages/1/217/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+待て。　魔物と呼ばれる化け物がうろついて
+いるような場所だ。　まずは、ここがどこなのか
+把握しておくべきだろう。
+> CONTEXT: Map009/events/2/pages/1/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あそっか。　それもそうだね。
+> CONTEXT: Map009/events/2/pages/1/227/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おじいさん、ここってどこですか？
+もしかして佐渡島ですか？
+> CONTEXT: Map009/events/2/pages/1/235/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご老体
+「サドガシマ・・・？　はて、聞かぬ地名じゃの。」
+> CONTEXT: Map009/events/2/pages/1/238/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご老体
+「ここはドノ村じゃ。　中央大陸の最南端にある
+　小さな田舎村じゃよ」
+> CONTEXT: Map009/events/2/pages/1/240/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+中央大陸の・・・
+> CONTEXT: Map009/events/2/pages/1/245/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+最南端・・・？
+> CONTEXT: Map009/events/2/pages/1/249/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おい老人、それは確かな情報なのか・・・？
+> CONTEXT: Map009/events/2/pages/1/253/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご老体
+「なんじゃ、このドット絵のような顔が、嘘を
+　ついているように見えるかの？」
+> CONTEXT: Map009/events/2/pages/1/255/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（微妙だ・・・）
+> CONTEXT: Map009/events/2/pages/1/260/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご老体
+「とにかく、ここはドノ村と呼ばれる静かな
+　集落じゃ。」
+> CONTEXT: Map009/events/2/pages/1/262/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご老体
+「どこから来たのかは知らんが、こころゆくまで
+　ゆっくり休んで行くとええ。」
+> CONTEXT: Map009/events/2/pages/1/265/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その気づかいはありがたいが。
+> CONTEXT: Map009/events/2/pages/1/270/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どこかも分からないところで、じっとしてるわけ
+にもいかないよね・・・
+> CONTEXT: Map009/events/2/pages/1/274/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+老人、地図は無いのか？
+> CONTEXT: Map009/events/2/pages/1/279/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご老体
+「地図じゃと？　残念じゃがこの村には、そんな
+　大それたモノは無いのう・・・」
+> CONTEXT: Map009/events/2/pages/1/281/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+地図など、別に珍しい物じゃないだろう。
+> CONTEXT: Map009/events/2/pages/1/286/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご老体
+「お前さんたち、町の出身かな？」
+> CONTEXT: Map009/events/2/pages/1/288/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご老体
+「だとしたら分からぬかもしれんが、地図という
+　のは高価なものなんじゃ。」
+> CONTEXT: Map009/events/2/pages/1/290/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご老体
+「そんじょそこらの村に転がっているような
+　シロモノではないのじゃよ。」
+> CONTEXT: Map009/events/2/pages/1/293/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（い、田舎なんだなぁ・・・群馬レベルかも？）
+> CONTEXT: Map009/events/2/pages/1/298/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+って！！　群馬は田舎じゃねえべ！！
+山が多くてビルが少ないだけだんべ！！
+> CONTEXT: Map009/events/2/pages/1/302/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご老体
+「きゅ、急にどうしたんじゃ・・・」
+> CONTEXT: Map009/events/2/pages/1/305/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご老体
+「じゃが・・・そうじゃな。　ベスばあさんならば
+　地図を持っているかもしれんのう。」
+> CONTEXT: Map009/events/2/pages/1/307/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご老体
+「若い頃は冒険家を気取って、あちらこちら
+　旅して回っていたと聞く。」
+> CONTEXT: Map009/events/2/pages/1/310/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そのおばあさんって、どこにいるんですか？
+> CONTEXT: Map009/events/2/pages/1/315/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご老体
+「北の【ジンブー村】に住んでおるはずじゃ。」
+> CONTEXT: Map009/events/2/pages/1/317/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よし。そうと分かれば、さっそく向かうとしよう。
+> CONTEXT: Map009/events/2/pages/1/321/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+北にあるんですね？　ありがとうございます！
+> CONTEXT: Map009/events/2/pages/1/325/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご老体
+「待て待て、ジンブー村へ行くには途中にある
+　森を抜けねばならんぞ。」
+> CONTEXT: Map009/events/2/pages/1/327/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご老体
+「魔物が徘徊する危険な森じゃて、お前さんも
+　分かっておろうに。」
+> CONTEXT: Map009/events/2/pages/1/330/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あー・・・そっか・・・
+> CONTEXT: Map009/events/2/pages/1/334/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おい、はむこ。　あの化け物を何匹か倒したと
+いうのは、確かなんだな？
+> CONTEXT: Map009/events/2/pages/1/339/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うん。　たぶん5、6匹はやっつけたと思う。
+> CONTEXT: Map009/events/2/pages/1/344/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夢中で暴れたから、途中で息切れしちゃって
+負けちゃったみたいだけどね・・・
+> CONTEXT: Map009/events/2/pages/1/347/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よし。　ならば安全に森を抜ける算段はある。
+> CONTEXT: Map009/events/2/pages/1/352/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご老体
+「しかし、やはり危険じゃぞ・・・？」
+> CONTEXT: Map009/events/2/pages/1/355/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+心配には及ばん。　いつまでもここに居るわけ
+にもいかないしな。
+> CONTEXT: Map009/events/2/pages/1/359/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だ、大丈夫かな？
+> CONTEXT: Map009/events/2/pages/1/364/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+任せろ。　俺の指示通りに動けば、問題なく
+突破できる。
+> CONTEXT: Map009/events/2/pages/1/368/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、うん・・・分かった。
+> CONTEXT: Map009/events/2/pages/1/373/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご老体
+「どうしても行くと言うなら止めはせんが・・・」
+> CONTEXT: Map009/events/2/pages/1/375/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご老体
+「くれぐれも無理をしてはいかんぞ。」
+> CONTEXT: Map009/events/2/pages/1/377/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+分かっている。
+> CONTEXT: Map009/events/2/pages/1/381/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おじいさん、お世話になりました！
+> CONTEXT: Map009/events/2/pages/1/385/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご老体
+「うむ、気を付けてな。」
+> CONTEXT: Map009/events/2/pages/1/387/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はむこと行動を共にすることとなった！
+> CONTEXT: Map009/events/2/pages/1/397/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+静かに・・・！　怪我人が寝ているのよ・・・
+> CONTEXT: Map009/events/5/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+くれぐれも気を付けてね。
+> CONTEXT: Map009/events/5/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご老体
+「ジンブー村へ行くには、北の森を抜ける必要が
+　ある。」
+> CONTEXT: Map009/events/8/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご老体
+「たくさんの魔物がおるゆえ、あまり勧められん
+　のじゃが・・・」
+> CONTEXT: Map009/events/8/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご老体
+「おお、今度はザザーブに向かうとな？」
+> CONTEXT: Map009/events/8/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご老体
+「南の森には、植物のような姿をした厄介な
+　魔物がおる。」
+> CONTEXT: Map009/events/8/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご老体
+「せめてもの助力じゃ。　持っていきなされ。」
+> CONTEXT: Map009/events/8/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご老体
+「南の森には、植物のような姿をした厄介な
+　魔物がおる。　気をつけるんじゃぞ。」
+> CONTEXT: Map009/events/8/pages/2/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map009/events/8/pages/3/1/Dialogue < UNTRANSLATED
+
+> END STRING

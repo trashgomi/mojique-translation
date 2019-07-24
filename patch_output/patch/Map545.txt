@@ -1,0 +1,246 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+そ、それで・・・どうする？
+> CONTEXT: Map545/events/80/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うまく拘束を解く方法ないかな・・・？（そわそわ）
+> CONTEXT: Map545/events/80/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+刺激を与えずに、足に絡まったツルを
+引きはがさなくちゃならないんでしょ・・・？
+> CONTEXT: Map545/events/80/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、そんなの・・・ぁ・・・っ、無理だと思う
+けど・・・（くねくねっ）
+> CONTEXT: Map545/events/80/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+コムー、何か名案ないカー？
+> CONTEXT: Map545/events/80/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・ん・・・ぅ・・・あ、あの・・・ええと・・・っ
+> CONTEXT: Map545/events/80/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すみません・・・わたし・・・あの・・・も、もぅ・・・っ
+> CONTEXT: Map545/events/80/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご、ご、ごめんなさいいぃっ！！
+> CONTEXT: Map545/events/80/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じょろろろろろろろろ・・・
+> CONTEXT: Map545/events/80/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+//////
+> CONTEXT: Map545/events/80/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+し、仕方ないよ・・・！　2回も粉浴びちゃったん
+だし・・・
+> CONTEXT: Map545/events/80/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+て言うか、わたしも・・・ちょっともうヤバめ・・・
+> CONTEXT: Map545/events/80/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ！　あっ！！　だめっ！　あたしも、出ちゃう！
+> CONTEXT: Map545/events/80/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+も、もう限界・・・い・・・っ！！
+あああーーー！！！
+> CONTEXT: Map545/events/80/pages/0/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぷしゃあぁぁぁーーーーー・・・・
+> CONTEXT: Map545/events/80/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ううぅ・・・っ　（もじもじ・・・もじもじっ）
+> CONTEXT: Map545/events/80/pages/0/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ああ・・・き、きもちよさそう・・・っ）
+> CONTEXT: Map545/events/80/pages/0/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（どうしよ・・わたしも・・し、しちゃおっかな・・・）
+> CONTEXT: Map545/events/80/pages/0/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・あぅ・・・っ////　（もじもじ・・・そわそわ・・・）
+> CONTEXT: Map545/events/80/pages/0/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご、ごめんなさい・・・
+> CONTEXT: Map545/events/80/pages/0/150/Dialogue < UNTRANSLATED
+> CONTEXT: Map483/events/1/pages/0/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうしても、その・・・我慢できなくて・・・////
+> CONTEXT: Map545/events/80/pages/0/151/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しょ、しょうがないわよ・・・粉のせいなんだから
+・・・
+> CONTEXT: Map545/events/80/pages/0/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+にゃんこもさ・・・無理そうだったら、もう
+仕方ないし、その・・・
+> CONTEXT: Map545/events/80/pages/0/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そのまま・・・いいと思うよ？
+> CONTEXT: Map545/events/80/pages/0/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あとでクリーニングすればいいんだし・・・
+> CONTEXT: Map545/events/80/pages/0/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、それはダメ！　こんな植物に負けるなんて
+やだ！！
+> CONTEXT: Map545/events/80/pages/0/171/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぜ、絶対我慢するから・・・い、いい方法
+いっしょに考えましょう！？　ね！？
+> CONTEXT: Map545/events/80/pages/0/178/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とは言ってもナー。
+> CONTEXT: Map545/events/80/pages/0/183/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんな高い位置の穴におしっこ入れる方法
+なんて、
+> CONTEXT: Map545/events/80/pages/0/201/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+逆立ちして放尿するくらいしか無いと思うヨー？
+> CONTEXT: Map545/events/80/pages/0/203/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はひゃぁうあわわわわわわっ/////////////
+> CONTEXT: Map545/events/80/pages/0/214/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、それはさすがに・・・はずかしすぎるよ////
+> CONTEXT: Map545/events/80/pages/0/220/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたしもちょっとソレは頼めないわ・・・
+> CONTEXT: Map545/events/80/pages/0/225/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やっぱり、あきらめてにゃんちゃんがそこで
+するしかないと思うよ・・・？
+> CONTEXT: Map545/events/80/pages/0/229/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だ、だから！　そんなことしたら負け・・・
+> CONTEXT: Map545/events/80/pages/0/236/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うびゃあぁ！！　さ、3回目、いただきましたっ！
+けほっ！！
+> CONTEXT: Map545/events/80/pages/0/245/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あああ、ごめん！！
+> CONTEXT: Map545/events/80/pages/0/251/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こほこほ・・・っ！
+> CONTEXT: Map545/events/80/pages/0/256/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（こ、このままじゃ・・・私も・・・っ！！）
+> CONTEXT: Map545/events/80/pages/0/257/Dialogue < UNTRANSLATED
+
+> END STRING

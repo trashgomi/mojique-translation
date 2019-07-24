@@ -1,0 +1,127 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ええと・・・ええっと・・・
+> CONTEXT: Map714/events/3/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スペル・エンチャンターの動力を再起動する
+には、おそらく動力炉に蓄積した廃魔粒子と
+熱活性未済の魔粒子を交換しないとならない
+よね・・・
+> CONTEXT: Map714/events/3/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だけど手足を固定されている今、手動での
+交換作業は不可能・・・
+> CONTEXT: Map714/events/3/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+となると、この拘束から逃れるには力ずくで
+脱出するか、第三者が現れて前述の作業を
+やってくれるか・・・だね・・・
+> CONTEXT: Map714/events/3/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どっちも無理じゃん・・・！　どうするのこれ！
+> CONTEXT: Map714/events/3/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ああ・・・マジで余裕無くなってきた・・・っ
+> CONTEXT: Map714/events/3/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+このままじゃ時間の問題じゃんか・・・！
+> CONTEXT: Map714/events/3/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヤバい・・・どうしよ・・・
+> CONTEXT: Map714/events/3/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こんなことなら、さっさと隅っこで済ませちゃえば
+良かったよ・・・
+> CONTEXT: Map714/events/3/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（もじもじもじ・・・もじもじもじ・・・っ）
+> CONTEXT: Map714/events/3/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+八方ふさがりだし、もうこのままやっちゃおっか
+な・・・？
+> CONTEXT: Map714/events/3/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+結果が変わらないなら、無駄な我慢をするだけ
+損だしね。
+> CONTEXT: Map714/events/3/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よし決めた！　出しちゃえ！
+> CONTEXT: Map714/events/3/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・あっ
+> CONTEXT: Map714/events/3/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょっと待てよ・・・
+> CONTEXT: Map714/events/3/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この位置で放尿すると、スペル・エンチャンター
+の脚部を伝ってできる水溜りが、補助
+バッテリーの接続コードに接触する・・・！
+> CONTEXT: Map714/events/3/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バッテリー1台あたりの電力は約1800DJc/秒、
+それが4倍ともなれば・・・
+> CONTEXT: Map714/events/3/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+感電したらタダじゃ済まない・・・っ！！
+> CONTEXT: Map714/events/3/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+漏らしたら命にかかわる！　あたし大ピンチ
+じゃん！！
+> CONTEXT: Map714/events/3/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING

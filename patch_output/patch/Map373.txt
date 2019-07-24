@@ -1,0 +1,14 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+砂漠のところどころに生えてるサボテンって、
+おみやげとして中央部の人たちに人気が
+あるんですよ。
+> CONTEXT: Map373/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うおー！　なにその服！　かっけえ！！
+> CONTEXT: Map373/events/3/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

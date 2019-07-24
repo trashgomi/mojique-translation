@@ -1,0 +1,6 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+目が覚めたら東部に着いてますように・・・
+> CONTEXT: Map253/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

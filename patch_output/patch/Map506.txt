@@ -1,0 +1,171 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+例の危険種族の集落・・・のようだな。
+> CONTEXT: Map506/events/13/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゼリーちゃん、どこだろう？（きょろきょろ）
+> CONTEXT: Map506/events/13/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+確か、かわいすぎて危険・・・なんだっけ？
+> CONTEXT: Map506/events/13/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+立ち入り禁止に指定されるくらいですから、
+心を持って行かれないように注意して
+突っ切りましょう！
+> CONTEXT: Map506/events/13/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いくらなんでも、おおげさじゃないかな・・・
+> CONTEXT: Map506/events/13/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたしだって、かわいさじゃ負けてないもーん！
+なんつって・・・
+> CONTEXT: Map506/events/13/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+危なくなったら、貫通力を高めたイオン弾で
+一撃だヨー！
+> CONTEXT: Map506/events/13/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+進まないことには、いつまで経っても
+バルカド遺跡にたどりつけない。
+> CONTEXT: Map506/events/13/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+行くぞ。
+> CONTEXT: Map506/events/13/pages/0/41/Dialogue < UNTRANSLATED
+> CONTEXT: Map353/events/10/pages/3/62/Dialogue < UNTRANSLATED
+> CONTEXT: Map262/events/1/pages/0/62/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/42/pages/0/174/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+むむ・・・！　あそこに何かいる！
+> CONTEXT: Map506/events/13/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もしかして、あれが・・・！？
+> CONTEXT: Map506/events/13/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+か、くぁあわいいいいぃぃぃぃぃぃぃぃ
+ぃぃぃいいいいいぃぃぃぃいぃいっ！！
+> CONTEXT: Map506/events/13/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あああぁぁ・・・っ、こ、これはっはぁ！！
+> CONTEXT: Map506/events/13/pages/0/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+た、たまらないネーッ！！　ほら、こっち
+おいで！！　おいでヨー！！
+> CONTEXT: Map506/events/13/pages/0/152/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+hoー？
+> CONTEXT: Map506/events/13/pages/0/156/Dialogue < UNTRANSLATED
+> CONTEXT: Map495/events/10/pages/1/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぐはあぁっ！！　もうだめライフ0～～！！
+> CONTEXT: Map506/events/13/pages/0/160/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、あ、あ、あ、あ！！　こっち見てる！！
+> CONTEXT: Map506/events/13/pages/0/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さ、さ、さわってもいいかな！？
+> CONTEXT: Map506/events/13/pages/0/164/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぐうぅ・・・っ！　ま、まさかここまでの破壊力とは
+・・・っ！！
+> CONTEXT: Map506/events/13/pages/0/168/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いけない・・・こ、このままではみんなこの
+魔性の生き物に引き込まれてしまう・・・っ！！
+> CONTEXT: Map506/events/13/pages/0/170/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+耐えなければぁっ！！
+> CONTEXT: Map506/events/13/pages/0/172/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+くっ・・・ぉぉ・・・っ！
+> CONTEXT: Map506/events/13/pages/0/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、そうだわ！　早乙女なら、こういうのに
+耐性が強い・・・
+> CONTEXT: Map506/events/13/pages/0/180/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+即K.Oされてるーーーーーーーーっ！！！！
+> CONTEXT: Map506/events/13/pages/0/188/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ああああぁぁぁっ！！　もうだめ、あたしも
+我慢できないいいいいいっ！！！！
+> CONTEXT: Map506/events/13/pages/0/192/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゼリーちゅわああぁぁぁぁぁぁぁん！！！！！
+> CONTEXT: Map506/events/13/pages/0/197/Dialogue < UNTRANSLATED
+
+> END STRING

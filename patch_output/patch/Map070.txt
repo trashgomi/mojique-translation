@@ -1,0 +1,7 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+さすがに城下町の地価は高かったです。
+手に入れるのに相当苦労しましたよ。
+> CONTEXT: Map070/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

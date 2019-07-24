@@ -1,0 +1,429 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+くかー・・・・・・すぴー・・・・・・
+> CONTEXT: Map217/events/9/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何かいるぞ。
+> CONTEXT: Map217/events/9/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+気を付けて。　煉絶の姫君の手下かも
+しれないわ・・・！
+> CONTEXT: Map217/events/9/pages/0/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物だらけのこの場所に一人でいるんだもの。
+> CONTEXT: Map217/events/9/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+きっとタダ者じゃないよ！
+> CONTEXT: Map217/events/9/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おーーーい、起きてーー！！
+> CONTEXT: Map217/events/9/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すぅ・・・・・・すぅ・・・・・・
+> CONTEXT: Map217/events/9/pages/0/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+起きろーーーーーーっ！！　敵襲だよーーー
+ーーーーーっ！！！！
+> CONTEXT: Map217/events/9/pages/0/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふにゃ・・・・・・くかー・・・・・・
+> CONTEXT: Map217/events/9/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ﾌﾞﾜｱｱｱｧｧｧｧｱｱｱｱｧｧｵｵｵｵｫｫｫｫｫｫｵｫｫｳｳｳｩｩ
+ｩｩｩｩｩｩｳｳｩｩｯｯｯ！！！！！！！！
+> CONTEXT: Map217/events/9/pages/0/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふええぁああ！！？！？　寝てましぇん！！
+な、な、何ページれすかっ！！？！？
+> CONTEXT: Map217/events/9/pages/0/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+起きた。
+> CONTEXT: Map217/events/9/pages/0/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え・・・えっ！？　ちょ、何だお前たちは！？！？
+> CONTEXT: Map217/events/9/pages/0/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我々は、この拠点に潜んでいる煉絶の姫君を
+討伐するために来た。
+> CONTEXT: Map217/events/9/pages/0/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お前こそ何者だ？
+> CONTEXT: Map217/events/9/pages/0/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こ、このあたしを討伐に・・・！？
+> CONTEXT: Map217/events/9/pages/0/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+てことは、騎士団の連中か！！？
+> CONTEXT: Map217/events/9/pages/0/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・いや、そんな感じではないな・・・一般人？
+> CONTEXT: Map217/events/9/pages/0/131/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「このあたし」って・・・
+> CONTEXT: Map217/events/9/pages/0/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この子が・・・煉絶の姫君！？
+> CONTEXT: Map217/events/9/pages/0/143/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたしが魔界最強の力を誇る
+ダジェルバージ家の末裔・・・
+> CONTEXT: Map217/events/9/pages/0/150/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（こんな小さな子が、かつて人間界を滅亡寸前
+　まで追い込んでいたなんて・・・）
+> CONTEXT: Map217/events/9/pages/0/156/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それにしても、魔物がはびこるこの拠点の中を
+よく無事で通過できたな。
+> CONTEXT: Map217/events/9/pages/0/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おおかた、魔物たちの目を盗んでコソコソ
+侵入してきたのだろう。
+> CONTEXT: Map217/events/9/pages/0/164/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+人間にしては、なかなかのスニーキングスキル
+だ。　ほめてやろう！
+> CONTEXT: Map217/events/9/pages/0/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いやいや、ちゃんとやっつけながら来たよ！
+> CONTEXT: Map217/events/9/pages/0/171/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんてったって熾天少女ですからっ！！（ﾄﾞﾔｧ）
+> CONTEXT: Map217/events/9/pages/0/172/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+熾天少女・・・・・・？
+> CONTEXT: Map217/events/9/pages/0/189/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え、うそ、ちょ、え？　熾天少女・・・っ！？！？
+> CONTEXT: Map217/events/9/pages/0/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+世界の平和をおびやかす存在であるお前を
+再び無力化するため、我々は異世界から
+熾天少女として召喚されたのだ。
+> CONTEXT: Map217/events/9/pages/0/197/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+好きにはさせないよ！
+> CONTEXT: Map217/events/9/pages/0/203/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（うそ、うそぉっ！！　こんなの聞いてないぞ！）
+> CONTEXT: Map217/events/9/pages/0/207/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（熾天少女はとっくの昔にいなくなってる
+　はずだろ！？！？）
+> CONTEXT: Map217/events/9/pages/0/208/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（まさか・・・まさか・・・に、二代目！？！？）
+> CONTEXT: Map217/events/9/pages/0/210/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（どうしようっ　ど、どうしようぅ！？！？）
+> CONTEXT: Map217/events/9/pages/0/211/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（はっ、そうだ！　魔物のクリスタル・・・！！）
+> CONTEXT: Map217/events/9/pages/0/217/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いざ勝負！！！
+> CONTEXT: Map217/events/9/pages/0/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ままま、待て！！！　お、お前らごときに
+このあたしが直接手を下すまでもない！！
+> CONTEXT: Map217/events/9/pages/0/227/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+と、とりあえず手頃な魔物と遊ばせてやろう！！
+ほら、危ないから離れて離れて！！
+> CONTEXT: Map217/events/9/pages/0/229/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お約束の取り巻き戦だね！　みんな気を付けて
+！！
+> CONTEXT: Map217/events/9/pages/0/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたしの力をもってすれば、こんな強力な
+魔物さえも意のままに操ることができるん
+だぞ！！
+> CONTEXT: Map217/events/9/pages/0/241/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とくと見るがいい！！
+> CONTEXT: Map217/events/9/pages/0/244/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いでよ！！　え、ええと・・・
+> CONTEXT: Map217/events/9/pages/0/250/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャ、シャイニングドラゴン！！？的な！？
+> CONTEXT: Map217/events/9/pages/0/251/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハァ・・・ハァ・・・な、なんとか勝ったわね・・・っ
+> CONTEXT: Map217/events/9/pages/2/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+めちゃくちゃしんどい相手だったね・・・
+はぁ・・・はぁ・・・
+> CONTEXT: Map217/events/9/pages/2/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+タ・・・タフだし・・・硬いし・・・
+> CONTEXT: Map217/events/9/pages/2/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+強敵だったな。　恐るべき魔物だ。
+> CONTEXT: Map217/events/9/pages/2/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だが本当の戦いは目の前の・・・
+> CONTEXT: Map217/events/9/pages/2/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・ん？
+> CONTEXT: Map217/events/9/pages/2/25/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/8/pages/0/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/0/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/10/pages/0/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/11/pages/0/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/18/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あの子が、いつの間にかいなくなってます
+・・・！
+> CONTEXT: Map217/events/9/pages/2/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どこ行った！？
+> CONTEXT: Map217/events/9/pages/2/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まさか・・・どこかに隠れて奇襲をかける
+つもり・・・！？
+> CONTEXT: Map217/events/9/pages/2/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全方位に注意せよ・・・！
+> CONTEXT: Map217/events/9/pages/2/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+来ないね・・・
+> CONTEXT: Map217/events/9/pages/2/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・ふむ、どうやら逃げられたようだな。
+> CONTEXT: Map217/events/9/pages/2/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だが、これはこちらにとっても良い結果だ。
+> CONTEXT: Map217/events/9/pages/2/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あの強力な魔物の後で魔界のトップと
+連戦となっては、正直キツいだろう。
+> CONTEXT: Map217/events/9/pages/2/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はい・・・ちょっと厳しいです・・・
+> CONTEXT: Map217/events/9/pages/2/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ふう～ん、ちゃんとあたし達のコンディションに
+　気を配ってくれてるじゃない。）
+> CONTEXT: Map217/events/9/pages/2/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それに、まだあのような魔物を多数持っている
+かもしれない。
+> CONTEXT: Map217/events/9/pages/2/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+追撃は危険だ。　まずは態勢を整えるためにも
+一度撤退するとしよう。
+> CONTEXT: Map217/events/9/pages/2/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+了解であります、たいちょー！
+> CONTEXT: Map217/events/9/pages/2/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あわわわわわわ・・・っ
+> CONTEXT: Map217/events/9/pages/2/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、あんなに強い魔物をやっつけちゃうなんて
+やっぱり本物の熾天少女だっ！　しかも4人も
+！！
+> CONTEXT: Map217/events/9/pages/2/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんなのとやりあったら命がいくつあっても
+足りないってのーーーっ！！
+> CONTEXT: Map217/events/9/pages/2/109/Dialogue < UNTRANSLATED
+
+> END STRING

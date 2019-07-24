@@ -1,0 +1,19 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+あー・・・あったけぇー・・・うごきたくねぇー・・・
+> CONTEXT: Map184/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+昨晩は徹夜で麻雀仲間と飲み明かしちゃった
+・・・
+> CONTEXT: Map184/events/3/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+飲みすぎて気持ち悪い・・・
+> CONTEXT: Map184/events/3/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING

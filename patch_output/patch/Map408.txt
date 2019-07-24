@@ -1,0 +1,270 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+電力ジェネレーター室に落ちたのは、
+この岩か・・・
+> CONTEXT: Map408/events/47/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でっかいね！
+> CONTEXT: Map408/events/47/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こんなのが空から降ってきたんだ・・・！
+> CONTEXT: Map408/events/47/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも、この辺りに落石が起きそうな崖は
+ないみたいだけど・・・
+> CONTEXT: Map408/events/47/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+てことは・・・隕石じゃない？
+> CONTEXT: Map408/events/47/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だとしたら、ものすごい奇跡ですね。
+> CONTEXT: Map408/events/47/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さ、さすが熾天少女です・・・
+> CONTEXT: Map408/events/47/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「みなさーーーん！！」
+> CONTEXT: Map408/events/47/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あー～良かったー！！　無事だったんですね！
+> CONTEXT: Map408/events/47/pages/0/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長にビオラさん！
+> CONTEXT: Map408/events/47/pages/0/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「妹が世話をかけた。　礼を言わせてほしい。」
+> CONTEXT: Map408/events/47/pages/0/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほんと、その節は助かりました！！
+> CONTEXT: Map408/events/47/pages/0/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いえいえ～！！
+> CONTEXT: Map408/events/47/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ところで、よくここが分かりましたね。
+> CONTEXT: Map408/events/47/pages/0/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ええ。　実はみなさんに逃がしてもらったあと、
+森の出口が分からなくなって迷っていたんです。
+> CONTEXT: Map408/events/47/pages/0/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そしたら、青い髪の姉弟が気絶したみなさんを
+運び出してるのを見かけたので、これはヤバい
+と思ってこっそり後をつけてきたんですよ。
+> CONTEXT: Map408/events/47/pages/0/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+結果、この館にみなさんが連れ込まれるのを
+目撃したので、急いで兄さんを呼びに戻った
+というわけです！
+> CONTEXT: Map408/events/47/pages/0/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうだったのか。　一人で乗り込まずに
+引き返すことを学んだようだな。
+> CONTEXT: Map408/events/47/pages/0/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お、おかげさまで・・・
+> CONTEXT: Map408/events/47/pages/0/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「ところで、なぜ青カラットたちは、この熾力
+　研究館に君たちを運んだのだろうか。」
+> CONTEXT: Map408/events/47/pages/0/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+実は、ここの館長が・・・
+> CONTEXT: Map408/events/47/pages/0/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「し、信じられん・・・」
+> CONTEXT: Map408/events/47/pages/0/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「あの館長が・・・こともあろうに魔力を研究して
+　いたなどと・・・！」
+> CONTEXT: Map408/events/47/pages/0/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+残念ながら、事実です。
+> CONTEXT: Map408/events/47/pages/0/152/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+実際に、実験薬を使った盗賊団長が瘴魔状態に
+なって襲ってきました。
+> CONTEXT: Map408/events/47/pages/0/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「ぬう・・・」
+> CONTEXT: Map408/events/47/pages/0/156/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「これはゆゆしき事態だ。　私は一足先に
+　城へ戻り、姫に報告する。」
+> CONTEXT: Map408/events/47/pages/0/158/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「君たちもすぐに城へ来てほしい。」
+> CONTEXT: Map408/events/47/pages/0/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えっと、兄さん・・・あたしはどうすれば？
+> CONTEXT: Map408/events/47/pages/0/171/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「お前は研修を切り上げて、すぐに北部の
+　自治警団に戻りなさい。」
+> CONTEXT: Map408/events/47/pages/0/173/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「あとのことは我々に任せておくのだ。」
+> CONTEXT: Map408/events/47/pages/0/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うん、分かった。
+> CONTEXT: Map408/events/47/pages/0/180/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ねえねえ、にゃんこ。
+> CONTEXT: Map408/events/47/pages/0/184/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここでは“兄さん”ではなく“騎士団長”と
+呼びなさい。」っていうベタベタなセリフが
+出てこないけど、どういうこと？
+> CONTEXT: Map408/events/47/pages/0/185/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたしに聞かれても・・・
+> CONTEXT: Map408/events/47/pages/0/190/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「落下した岩石は、土木班に除去作業を委託
+　する。」
+> CONTEXT: Map408/events/47/pages/0/192/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「同時に、この研究館は騎士団が調査に入る
+　必要があるので、封鎖させてもらう。」
+> CONTEXT: Map408/events/47/pages/0/195/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「構わないね？」
+> CONTEXT: Map408/events/47/pages/0/198/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+問題ない。
+> CONTEXT: Map408/events/47/pages/0/202/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+では、我々も城へ向かうとしよう。
+> CONTEXT: Map408/events/47/pages/0/203/Dialogue < UNTRANSLATED
+
+> END STRING

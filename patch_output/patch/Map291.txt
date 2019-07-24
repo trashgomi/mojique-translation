@@ -1,0 +1,78 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+船長
+「何があっても、私はこの船から離れるわけ
+　にはいかない。」
+> CONTEXT: Map291/events/2/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map259/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+船長
+「そう。　何があっても、だ。」
+> CONTEXT: Map291/events/2/pages/1/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map259/events/2/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+船長
+「（フッ・・・決まったぜ！）」
+> CONTEXT: Map291/events/2/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map259/events/2/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+船長
+「おやおや、そんな手持ちでこの先大丈夫
+　かい？」
+> CONTEXT: Map291/events/2/pages/1/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map259/events/2/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+船長
+「ほら、取っときな！（フッ、さらに決まった！）」
+> CONTEXT: Map291/events/2/pages/1/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map259/events/2/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+30レンもらった！
+> CONTEXT: Map291/events/2/pages/1/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map259/events/2/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+船長
+「・・・・・・。」
+> CONTEXT: Map291/events/3/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+船長
+「・・・はっ！？　い、いかん！　居眠りしていた
+　か！」
+> CONTEXT: Map291/events/3/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+船長
+「幸い航路は外れていない・・・か・・・」
+> CONTEXT: Map291/events/3/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+船長
+「ふぅ・・・」
+> CONTEXT: Map291/events/3/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING

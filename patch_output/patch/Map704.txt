@@ -1,0 +1,55 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+この山のふもとに村がありましたけれど、
+そこまで辛抱できそうですの？
+> CONTEXT: Map704/events/2/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う、うん・・・たぶん。
+> CONTEXT: Map704/events/2/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも、その・・・
+> CONTEXT: Map704/events/2/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+実を言うと、牢屋にいたころからちょっと
+催してたんだよね。
+> CONTEXT: Map704/events/2/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それがさっきの利尿粉で・・・急激に・・・
+> CONTEXT: Map704/events/2/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+では立ち止まっている場合ではありませんわ！
+> CONTEXT: Map704/events/2/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さあ、急ぎましょう！
+> CONTEXT: Map704/events/2/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うん・・・
+> CONTEXT: Map704/events/2/pages/0/77/Dialogue < UNTRANSLATED
+> CONTEXT: Map609/events/6/pages/0/112/Dialogue < UNTRANSLATED
+> CONTEXT: Map546/events/80/pages/0/226/Dialogue < UNTRANSLATED
+> CONTEXT: Map524/events/26/pages/0/42/Dialogue < UNTRANSLATED
+> CONTEXT: Map018/events/2/pages/0/56/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/42/pages/0/177/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,13 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+・・・なんですか？　特に話すことはありません。
+> CONTEXT: Map077/events/11/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今度は大陸南部を目指すの？　途中までで
+いいなら送ろうか？
+> CONTEXT: Map077/events/14/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

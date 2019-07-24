@@ -1,0 +1,411 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+・・・・・・うぅ・・・
+> CONTEXT: Map385/events/27/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（なんか、成り行きで精霊王は水を飲まなくて
+　いいって誤解されてるし・・・）
+> CONTEXT: Map385/events/27/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（言い出しづらい・・・）
+> CONTEXT: Map385/events/27/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（トイレに行きたい、とか・・・）
+> CONTEXT: Map385/events/27/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ここへ来る前から、ちょっと催してたけど、）
+> CONTEXT: Map385/events/27/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（そろそろ、が・・・我慢・・・できなくなってきた・・・
+　かも・・・）
+> CONTEXT: Map385/events/27/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ねえねえ、そう言えばさ。　精霊王ちゃんって
+何歳なの？
+> CONTEXT: Map385/events/27/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え、わ、私の歳・・・ですか？
+> CONTEXT: Map385/events/27/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、それはまあ・・・詳しい数字は忘れてしまい
+ましたけど、何百年も前から生きてますよ・・・？
+> CONTEXT: Map385/events/27/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おおおー！！　さすがは精霊王ちゃん！
+> CONTEXT: Map385/events/27/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大センパイだね！！
+> CONTEXT: Map385/events/27/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、そ、そんなことは・・・////
+> CONTEXT: Map385/events/27/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法とかも使えるの？？
+> CONTEXT: Map385/events/27/pages/0/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+い、いえ・・・魔法とか、そういうのは・・・
+> CONTEXT: Map385/events/27/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その代わりに、私はコレを使って援護しますよ。
+> CONTEXT: Map385/events/27/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これは・・・拳銃？
+> CONTEXT: Map385/events/27/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そっか！　あたし達を助けてくれた時も、それで
+百発百中の狙い撃ちだったもんね！！
+> CONTEXT: Map385/events/27/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+かっこいいなー！！
+> CONTEXT: Map385/events/27/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、分かります！？　この銃の機能美と
+洗練されたフォルムの素晴らしさ！！
+> CONTEXT: Map385/events/27/pages/0/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一部のアンチからは、「性能に特筆する点が
+無く、個性の主張が無い」なんて言われて
+ますけど、
+> CONTEXT: Map385/events/27/pages/0/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+私に言わせれば標準的なパフォーマンスこそ
+が安定と確実性を提供する重要なファクター
+であり、あらゆる局面において・・・
+> CONTEXT: Map385/events/27/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・んっ　（ぶるるっ）
+> CONTEXT: Map385/events/27/pages/0/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？
+> CONTEXT: Map385/events/27/pages/0/97/Dialogue < UNTRANSLATED
+> CONTEXT: Map404/events/4/pages/0/528/Dialogue < UNTRANSLATED
+> CONTEXT: Map384/events/22/pages/2/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+急に震えてどしたの？
+> CONTEXT: Map385/events/27/pages/0/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+い、い、いえ・・・ちょっと、その・・・
+> CONTEXT: Map385/events/27/pages/0/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さ、寒くて・・・？　（もじもじ・・・）
+> CONTEXT: Map385/events/27/pages/0/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ねえ、もしかして精霊王ちゃん・・・
+> CONTEXT: Map385/events/27/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オシッコ行きたいの・・・？
+> CONTEXT: Map385/events/27/pages/0/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（・・・っ！！）
+> CONTEXT: Map385/events/27/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あー、やっぱり・・・
+> CONTEXT: Map385/events/27/pages/0/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さっきからもじもじしてるから、もしかしてと
+思ったけど。
+> CONTEXT: Map385/events/27/pages/0/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+す、すみません・・・なんだか、言い出し
+づらくて・・・
+> CONTEXT: Map385/events/27/pages/0/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+私、水を飲まなくても大丈夫、みたいな誤解を
+されてますし・・・
+> CONTEXT: Map385/events/27/pages/0/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご、ごめんね。　水を飲むように勧めたら、
+精霊王ちゃん、「いらない」って言ったから・・・
+> CONTEXT: Map385/events/27/pages/0/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・あ、もしかして・・・
+> CONTEXT: Map385/events/27/pages/0/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あの時から、ずっとガマンしてたの・・・！？
+> CONTEXT: Map385/events/27/pages/0/147/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え、えっと・・・はい。
+> CONTEXT: Map385/events/27/pages/0/152/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+みなさんに合流するあたりから・・・
+> CONTEXT: Map385/events/27/pages/0/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だ、大丈夫？　かなり時間経ってるけど、
+まだガマンできそう・・・？
+> CONTEXT: Map385/events/27/pages/0/158/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いえ・・・もう、その・・・
+> CONTEXT: Map385/events/27/pages/0/164/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょっと・・・駄目かもです・・・っ
+> CONTEXT: Map385/events/27/pages/0/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だったら無理しないで、その辺でやって
+きちゃいなよ。
+> CONTEXT: Map385/events/27/pages/0/168/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その様子じゃ、街に戻るまでなんて絶対
+もたないよ？
+> CONTEXT: Map385/events/27/pages/0/170/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、その辺でなんて・・・っ
+> CONTEXT: Map385/events/27/pages/0/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんな・・・でも・・・
+> CONTEXT: Map385/events/27/pages/0/177/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・うっ、ぁふ・・・っ！
+> CONTEXT: Map385/events/27/pages/0/182/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたしが見張っててあげるから、向こうの
+砂場で、ね？
+> CONTEXT: Map385/events/27/pages/0/186/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（うぅ・・・っ、ど、どうしよう・・・正直言って、もう
+　・・・もれちゃいそう・・・っ！）
+> CONTEXT: Map385/events/27/pages/0/192/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その辺でなんて・・・っ
+> CONTEXT: Map385/events/27/pages/0/197/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もらしちゃうよりは・・・っ
+> CONTEXT: Map385/events/27/pages/0/197/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（でも、さ、さすがに・・・みなさんが近くにいる
+　場所で・・・お、お・・・おしっこなんて・・・っ！）
+> CONTEXT: Map385/events/27/pages/0/204/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あの、ま、まだ・・・私、大丈夫なので・・・
+> CONTEXT: Map385/events/27/pages/0/210/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+たぶん、町に戻るまで、が、我慢できると
+思います・・・っ！
+> CONTEXT: Map385/events/27/pages/0/211/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+で、でも・・・本当にヤバそうだよ・・・？
+> CONTEXT: Map385/events/27/pages/0/217/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+平気なの？
+> CONTEXT: Map385/events/27/pages/0/218/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こ、これでも・・・かつてノア様の補佐を務めた
+精霊王です・・・！
+> CONTEXT: Map385/events/27/pages/0/223/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+最後まで我慢してみせます・・・っ！！
+> CONTEXT: Map385/events/27/pages/0/225/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そこまで言うなら・・・無理にとは言わないけど
+・・・
+> CONTEXT: Map385/events/27/pages/0/228/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（秋空さんの言うとおり・・・このままじゃ、も、
+　もれちゃう・・・っ！）
+> CONTEXT: Map385/events/27/pages/0/244/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（それだけはっ！）
+> CONTEXT: Map385/events/27/pages/0/246/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あの、そ、それじゃ・・・私・・・ちょっと・・・
+> CONTEXT: Map385/events/27/pages/0/251/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+い、行ってきますね・・・っ////
+> CONTEXT: Map385/events/27/pages/0/252/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うん！　誰もそっちに行かないように
+通せんぼしとくから！
+> CONTEXT: Map385/events/27/pages/0/255/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ありがとう・・・ございます・・・っ！
+> CONTEXT: Map385/events/27/pages/0/261/Dialogue < UNTRANSLATED
+
+> END STRING

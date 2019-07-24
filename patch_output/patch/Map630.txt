@@ -1,0 +1,191 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ん・・・ぅ・・・ぁ・・・っ、あ、あっ
+> CONTEXT: Map630/events/3/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+出ちゃう・・・でちゃうぅっ！　でちゃううぅっ！！
+> CONTEXT: Map630/events/3/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「はい、もうちょい速く歩こうね～。」
+> CONTEXT: Map630/events/3/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あぁっ！！　ひ、ひっぱら・・・なぃ・・・で・・・ぇっ
+> CONTEXT: Map630/events/3/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だめぇ・・・っ！！　もれ・・・ちゃぅっ！！
+> CONTEXT: Map630/events/3/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぁぁああっ！！！
+> CONTEXT: Map630/events/3/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「立ち止まったって、ここにはトイレなんか
+　ないよ？」
+> CONTEXT: Map630/events/3/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「ほらほら、歩いて歩いて！」
+> CONTEXT: Map630/events/3/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んんっ、ぁううっ！！
+> CONTEXT: Map630/events/3/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+も、も、もぉ・・・げ、げんかぃ・・・っ
+> CONTEXT: Map630/events/3/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もれちゃ・・・ううぅっ！！！
+> CONTEXT: Map630/events/3/pages/0/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お・・・お、ぉ・・・おしっこ・・・も、もれ・・・
+> CONTEXT: Map630/events/3/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もれちゃ、あぁ、あっ！！　ああああぁぁっ！！
+もぉだめええええぇぇぇぇっ！！！！
+> CONTEXT: Map630/events/3/pages/0/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+い、いやあぁぁっ！　おねがい・・・みないで
+・・・
+> CONTEXT: Map630/events/3/pages/0/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+みないでくださいいぃっ！！/////
+> CONTEXT: Map630/events/3/pages/0/100/Dialogue < UNTRANSLATED
+> CONTEXT: Map629/events/5/pages/0/836/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ううぅぅ・・・っ////
+> CONTEXT: Map630/events/3/pages/0/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひぐっ・・・でちゃった・・・////////
+ぜんぶ・・・もれちゃったぁ・・・っ/////
+> CONTEXT: Map630/events/3/pages/0/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うわああああぁぁーーんっ///////
+> CONTEXT: Map630/events/3/pages/0/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「あらら～！　そんなにた～っぷり溜まってた
+　の！」
+> CONTEXT: Map630/events/3/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「よく我慢してたね～！　やっぱりお嬢ちゃん、
+　特大の膀胱なんだ～！」
+> CONTEXT: Map630/events/3/pages/0/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぐす・・・っ、ちが・・・ちがうもん・・・/////
+> CONTEXT: Map630/events/3/pages/0/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えぐ・・・っ////
+> CONTEXT: Map630/events/3/pages/0/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オイ！！！　人質ひとり連れてくんのに
+どんだけ時間かかってんだよテメェ！！
+> CONTEXT: Map630/events/3/pages/0/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「あっ！　お、お頭！！　す、すみません！！」
+> CONTEXT: Map630/events/3/pages/0/150/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「ええと、その・・・こ、このお嬢ちゃんが小便を
+　ですね・・・」
+> CONTEXT: Map630/events/3/pages/0/156/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・ビクッ
+> CONTEXT: Map630/events/3/pages/0/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んだよ、ったく面倒クセーな・・・！
+> CONTEXT: Map630/events/3/pages/0/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さっさと片付けて来い！！
+> CONTEXT: Map630/events/3/pages/0/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「は、はいっ！」
+> CONTEXT: Map630/events/3/pages/0/186/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,13 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+そもそもこの世に幽霊とか存在するもの
+なのか。
+> CONTEXT: Map251/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+答えはノーさ。　だって見たこと無いもん。
+> CONTEXT: Map251/events/2/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING

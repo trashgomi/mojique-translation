@@ -1,0 +1,417 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+うわあ、なにこれ！　キレイ～！！
+> CONTEXT: Map165/events/2/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ピカピカしてるねー！！
+> CONTEXT: Map165/events/2/pages/0/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何かの偶像か。
+> CONTEXT: Map165/events/2/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これ以上進むところは無いみたいだから、
+このオブジェが熾天宮の最終目標じゃ
+ないかしら。
+> CONTEXT: Map165/events/2/pages/0/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ええと・・・これを持って帰ればいいんで
+しょうか・・・？
+> CONTEXT: Map165/events/2/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え！？　運ぶの！？
+> CONTEXT: Map165/events/2/pages/0/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いやいや。　さすがに無理でしょ・・・
+> CONTEXT: Map165/events/2/pages/0/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃ、あのガラス玉みたいな部分を割って
+みよっか！？
+> CONTEXT: Map165/events/2/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+くす玉じゃないっての・・・
+> CONTEXT: Map165/events/2/pages/0/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+びくっ！　な、な、なんですかこれ・・・！？
+> CONTEXT: Map165/events/2/pages/0/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、あの時と一緒だ！
+> CONTEXT: Map165/events/2/pages/0/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ユーリャ教会で加護の儀式を受けた時の
+やつね。
+> CONTEXT: Map165/events/2/pages/0/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よくぞ試練を乗り越え、ここまでたどり
+着きました。
+> CONTEXT: Map165/events/2/pages/0/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+清純たる心を携えし、熾天少女たちよ。
+> CONTEXT: Map165/events/2/pages/0/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+声が・・・
+> CONTEXT: Map165/events/2/pages/0/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官の話では、これは先代の熾天少女の
+声とのことだ。
+> CONTEXT: Map165/events/2/pages/0/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ということは、も、ものすごくえらい方・・・です
+よね・・・？
+> CONTEXT: Map165/events/2/pages/0/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んと・・・たぶんね。
+> CONTEXT: Map165/events/2/pages/0/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今まさに、煉絶の姫君が動きだしています。
+> CONTEXT: Map165/events/2/pages/0/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あなた方は、ただちにこれに抗う力を身に
+つけなければなりません。
+> CONTEXT: Map165/events/2/pages/0/147/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聞かせてほしい。　現状、我々が持っている
+力だけでは、不足なのだろうか。
+> CONTEXT: Map165/events/2/pages/0/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それは私にも分かりません。
+> CONTEXT: Map165/events/2/pages/0/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし、十分でないことは確かです。
+> CONTEXT: Map165/events/2/pages/0/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それを不足と言うのだ。
+> CONTEXT: Map165/events/2/pages/0/170/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ま、まあそうですね・・・はい。
+> CONTEXT: Map165/events/2/pages/0/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+具体的にどうすればいい。　ここで力を
+授かればいいのか？
+> CONTEXT: Map165/events/2/pages/0/183/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+膝からビームとか出せるようになりますか！？
+> CONTEXT: Map165/events/2/pages/0/188/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、そ、それとも武器ですか！？　伝説の
+すごい系の！！！
+> CONTEXT: Map165/events/2/pages/0/189/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたし、日本刀がいいなーっ！！
+> CONTEXT: Map165/events/2/pages/0/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+す、少し落ち着いてください・・・
+> CONTEXT: Map165/events/2/pages/0/199/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+授けるのは、形ある武器ではありません。
+> CONTEXT: Map165/events/2/pages/0/200/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あなた方は、この世界に呼び込まれた時点で
+すでに天の使いの力を身に宿しています。
+> CONTEXT: Map165/events/2/pages/0/201/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これはあなた方の素質であり、才能です。
+> CONTEXT: Map165/events/2/pages/0/203/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし、煉絶の姫君たちに対抗するためには、
+その力をさらに強く発揮できるようにしなければ
+なりません。
+> CONTEXT: Map165/events/2/pages/0/204/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そこであなた方には、自身に宿る天の使いの
+力を、さらなる戦力として発揮できる能力を
+授けます。
+> CONTEXT: Map165/events/2/pages/0/207/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+力を抜いて、心を静めてください。
+> CONTEXT: Map165/events/2/pages/0/210/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わくわく・・・どきどき・・・
+> CONTEXT: Map165/events/2/pages/0/218/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+い、いよいよね・・・
+> CONTEXT: Map165/events/2/pages/0/222/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すぅー・・・はぁー・・・すぅー・・・はぁー・・・
+> CONTEXT: Map165/events/2/pages/0/227/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何か変化は？
+> CONTEXT: Map165/events/2/pages/0/263/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えーっと・・・そ、そうだね・・・
+> CONTEXT: Map165/events/2/pages/0/268/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+微妙に強くなったような気が・・・しないでも
+ないような・・・？
+> CONTEXT: Map165/events/2/pages/0/269/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたしは・・・なんか実感イマイチね。
+> CONTEXT: Map165/events/2/pages/0/273/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まあ何と言うか・・・
+> CONTEXT: Map165/events/2/pages/0/276/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+みなぎるエネルギー的なモノは感じないよね。
+> CONTEXT: Map165/events/2/pages/0/277/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これはどういうことだ。
+> CONTEXT: Map165/events/2/pages/0/285/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+先ほど言ったとおり、力を授けるのではなく、
+持っている力を発揮できる能力を与えたのです。
+> CONTEXT: Map165/events/2/pages/0/291/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今この場でそれを実感することはできない
+でしょう。
+> CONTEXT: Map165/events/2/pages/0/293/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし、この先で・・・
+> CONTEXT: Map165/events/2/pages/0/295/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わ！　なに！？
+> CONTEXT: Map165/events/2/pages/0/305/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これは・・・ついに煉絶の姫君が目覚めた
+ようです。
+> CONTEXT: Map165/events/2/pages/0/317/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+世界を邪悪な意思が覆い尽くそうと・・・
+> CONTEXT: Map165/events/2/pages/0/319/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・ぐに、あなた方は能・・・
+> CONTEXT: Map165/events/2/pages/0/327/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+私の力も、すでに及ば・・・
+> CONTEXT: Map165/events/2/pages/0/335/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+事態は重いようだな。
+> CONTEXT: Map165/events/2/pages/0/356/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうやらついに煉絶の姫君とやらが動きを
+見せ始めたようだ。
+> CONTEXT: Map165/events/2/pages/0/357/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+先代の熾天少女さん、途中で話が途切れ
+ちゃったけど・・・大丈夫かな？
+> CONTEXT: Map165/events/2/pages/0/362/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おろおろ・・・おろおろ・・・
+> CONTEXT: Map165/events/2/pages/0/368/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうしよう？　お祈りとかで復活するかな？
+> CONTEXT: Map165/events/2/pages/0/373/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とにかく、一度お城へ戻って状況を報告
+しましょう。
+> CONTEXT: Map165/events/2/pages/0/378/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+姫様や騎士団長さんなら、何か知っている
+かも。
+> CONTEXT: Map165/events/2/pages/0/380/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+春風の意見に同意する。
+> CONTEXT: Map165/events/2/pages/0/385/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+現状における的確な情報が不足している今、
+まずは現在の状況にもっとも精通している
+教会の助言を仰ぐべきと判断する。
+> CONTEXT: Map165/events/2/pages/0/386/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+城へ帰還するとしよう。
+> CONTEXT: Map165/events/2/pages/0/389/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ら、らじゃ！
+> CONTEXT: Map165/events/2/pages/0/394/Dialogue < UNTRANSLATED
+
+> END STRING

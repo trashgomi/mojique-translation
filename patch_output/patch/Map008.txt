@@ -1,0 +1,19 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+この辺の家は、みんな一人の大工が建て
+たんだ。
+> CONTEXT: Map008/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+内装がそっくりだろう？
+> CONTEXT: Map008/events/2/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わんっ！！！
+> CONTEXT: Map008/events/3/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

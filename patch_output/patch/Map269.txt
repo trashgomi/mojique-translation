@@ -1,0 +1,188 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ここは・・・食堂・・・かな？
+> CONTEXT: Map269/events/4/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ・・・やばい・・・も、もう・・・オシッコが・・・っ！
+> CONTEXT: Map269/events/4/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+が・・・我慢できなくなってきた・・・っ！
+> CONTEXT: Map269/events/4/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だめ・・・出そう・・・っ　ど、どうしよぉ・・・っ！
+> CONTEXT: Map269/events/4/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もう少し先まで行ってみる
+> CONTEXT: Map269/events/4/pages/0/26/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+隅っこでオシッコしちゃう
+> CONTEXT: Map269/events/4/pages/0/26/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+で、出ちゃいそうだけど・・・っ
+> CONTEXT: Map269/events/4/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+食堂なら、ち、近くにトイレがあるかも・・・っ！
+> CONTEXT: Map269/events/4/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+で・・・出ちゃう・・・っ
+> CONTEXT: Map269/events/4/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オシッコ・・・出ちゃうよぉ・・・っ！
+> CONTEXT: Map269/events/4/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・あ、あったっ！！　トイレぇっ！！
+> CONTEXT: Map269/events/4/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひ、ひやああぁぁぁぁぁぁああああぁぁっ！！！
+> CONTEXT: Map269/events/4/pages/0/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+や・・・いやぁ・・・っ
+> CONTEXT: Map269/events/4/pages/0/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+来ないで・・・っ！
+> CONTEXT: Map269/events/4/pages/0/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やだっ、やだやだあぁぁーーーっ！！！
+> CONTEXT: Map269/events/4/pages/0/137/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もう無理・・・っ！
+> CONTEXT: Map269/events/4/pages/0/170/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+が・・・我慢できないーーっ！
+> CONTEXT: Map269/events/4/pages/0/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・ぁ・・・ん・・・
+> CONTEXT: Map269/events/4/pages/0/196/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（あ、ぁ・・・あ、な・・・なにあれ・・・っ！？）
+> CONTEXT: Map269/events/4/pages/0/225/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ゆ・・・ゆ、幽・・・霊・・・っ！？！？）
+> CONTEXT: Map269/events/4/pages/0/226/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（オ・・・オシッコ止めなきゃ・・・っ！！！）
+> CONTEXT: Map269/events/4/pages/0/230/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（くぅっ！！）
+> CONTEXT: Map269/events/4/pages/0/231/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（お願い・・・こ、こっちに来ないで・・・お願いっ！）
+> CONTEXT: Map269/events/4/pages/0/261/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+い、・・・行った・・・かな・・・？
+> CONTEXT: Map269/events/4/pages/0/284/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぐすん・・・っ、も、もうこんなとこやだよぉ・・・っ！
+> CONTEXT: Map269/events/4/pages/0/289/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今のうちに、に、逃げなきゃ・・・っ！
+> CONTEXT: Map269/events/4/pages/0/293/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひ、ひ・・・っ
+> CONTEXT: Map269/events/4/pages/0/303/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひやああぁぁぁぁぁぁああああぁぁっ！！！
+> CONTEXT: Map269/events/4/pages/0/304/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+来ないでええぇぇぇぇぇええぇぇーーーっ！！！
+> CONTEXT: Map269/events/4/pages/0/305/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あー・・・こ、これは・・・
+> CONTEXT: Map269/events/7/pages/1/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map269/events/10/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+な、何だろうね？　えへへ・・・////
+> CONTEXT: Map269/events/7/pages/1/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map269/events/10/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING

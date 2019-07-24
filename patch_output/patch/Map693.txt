@@ -1,0 +1,93 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+男
+「んじゃ、点火するぜ。」
+> CONTEXT: Map693/events/4/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「これで氷もドロッドロだな！」
+> CONTEXT: Map693/events/4/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お、お願いします～！　えへ・・・
+> CONTEXT: Map693/events/4/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（あうあう～・・・っ！　もうおしっこ出ちゃいそう
+　だよぉ～っ！！）
+> CONTEXT: Map693/events/4/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（そろそろ・・・ほんとに我慢できない・・・かも
+　・・・っ！）
+> CONTEXT: Map693/events/4/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「よし、しばらく待とう。　きっと溶けるはずだ。」
+> CONTEXT: Map693/events/4/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（そわそわ・・・もじもじ・・・もじもじ・・・そわそわ）
+> CONTEXT: Map693/events/4/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「そんなに火を怖がらなくても大丈夫さ。」
+> CONTEXT: Map693/events/4/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「氷が薄くなったところで、俺たちが割って
+　助け出してやるからさ。」
+> CONTEXT: Map693/events/4/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え、えへ・・・！　ありが・・・とう・・・っ　えへ・・・
+> CONTEXT: Map693/events/4/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（あうあうあう・・・っ！　おしっこ・・・おしっこ・・・
+　おしっこしたいよおぉ～っ！！）
+> CONTEXT: Map693/events/4/pages/0/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（出られるまでに出ちゃうよぉっ！！）
+> CONTEXT: Map693/events/4/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（くねくねっ、すりすりすりすりっ）
+> CONTEXT: Map693/events/4/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（も、もれちゃううぅ～～・・・っ！）
+> CONTEXT: Map693/events/4/pages/0/78/Dialogue < UNTRANSLATED
+
+> END STRING

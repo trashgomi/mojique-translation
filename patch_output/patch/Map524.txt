@@ -1,0 +1,57 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+やっと山を降りられたヨー！！
+> CONTEXT: Map524/events/26/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神が追ってくる気配は無いか？
+> CONTEXT: Map524/events/26/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうだね。　今のところ、あの鬼強い魔力が
+迫ってくる感じはしないよ。
+> CONTEXT: Map524/events/26/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（・・・ほっ）
+> CONTEXT: Map524/events/26/pages/0/23/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/409/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+と、とりあえず村に寄って行っていい？
+> CONTEXT: Map524/events/26/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうですね、早く着替えを・・・
+> CONTEXT: Map524/events/26/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+にゃんこは災難だったよね。
+> CONTEXT: Map524/events/26/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わたしだって、あんな風に捕まったら
+やっちゃってたし・・・
+> CONTEXT: Map524/events/26/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+運が悪かったと思って、もう忘れるわ・・・
+> CONTEXT: Map524/events/26/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING

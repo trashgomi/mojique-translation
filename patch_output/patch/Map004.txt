@@ -1,0 +1,74 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+空気がうまいな。
+> CONTEXT: Map004/events/8/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/10/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/11/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/18/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+都会の喧騒とはまるで無縁、まさに対極を成す
+大自然のヒーリングスポット。
+> CONTEXT: Map004/events/8/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/10/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/11/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/18/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+屋久島クラスか、あるいはそれ以上とみた。
+> CONTEXT: Map004/events/8/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/10/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/11/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/18/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+外見から察するに、この世界に住まう通常の
+動物ではないな。
+> CONTEXT: Map004/events/8/pages/0/45/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/0/45/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/10/pages/0/45/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/11/pages/0/45/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/18/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+言うなれば、「モンスター」とでも呼ぶべきか
+・・・
+> CONTEXT: Map004/events/8/pages/0/47/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/0/47/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/10/pages/0/47/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/11/pages/0/47/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/18/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とても信じがたいが、こんな生き物が
+現実にいるとは驚嘆だ・・・
+> CONTEXT: Map004/events/8/pages/0/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/0/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/10/pages/0/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/11/pages/0/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/18/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まあいい、とりあえずここは危険だ。逃げよう。
+> CONTEXT: Map004/events/8/pages/0/51/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/0/51/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/10/pages/0/51/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/11/pages/0/51/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/18/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING

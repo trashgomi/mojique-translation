@@ -1,0 +1,887 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+今はこの土砂の撤去作業中だ。　危ないから
+近づいちゃだめだぜ！
+> CONTEXT: Map055/events/18/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map055/events/19/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map055/events/20/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/22/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/23/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/24/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+止まるネー！！
+> CONTEXT: Map055/events/36/pages/1/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さあ！　命が惜しければ、有り金全部と第1級
+イオンマテルを置いていくんだナー！！
+> CONTEXT: Map055/events/36/pages/1/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ぽかーん・・・）
+> CONTEXT: Map055/events/36/pages/1/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え、えっと・・・あの、これは・・・
+> CONTEXT: Map055/events/36/pages/1/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+言動から察するに・・・
+> CONTEXT: Map055/events/36/pages/1/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+追いはぎの類であると推察する。
+> CONTEXT: Map055/events/36/pages/1/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+てことは、盗賊団の一味！？
+> CONTEXT: Map055/events/36/pages/1/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、そうには見えないけど・・・
+> CONTEXT: Map055/events/36/pages/1/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何をコソコソ話しているんダー？
+> CONTEXT: Map055/events/36/pages/1/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワタシも仲間に入れてほしいヨー！！
+> CONTEXT: Map055/events/36/pages/1/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご用件は？
+> CONTEXT: Map055/events/36/pages/1/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だから、有り金全部と・・・まあこの際、
+有り金は別にいいヨー。
+> CONTEXT: Map055/events/36/pages/1/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今、持ってる第1級イオンマテルを全部
+置いていくんだナー！　そうすれば手荒な
+マネはしないヨー！
+> CONTEXT: Map055/events/36/pages/1/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その“第一級イオンマテル”とは何だ？
+> CONTEXT: Map055/events/36/pages/1/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えええ！？　イオンマテルのこと知らない
+のカー！？
+> CONTEXT: Map055/events/36/pages/1/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これだから、未開惑星人は困るのネー！
+> CONTEXT: Map055/events/36/pages/1/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんか、バカにされてるよ？
+> CONTEXT: Map055/events/36/pages/1/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+い、行きましょう。
+> CONTEXT: Map055/events/36/pages/1/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+関わらないほうがいい気がしてきたわ・・・
+> CONTEXT: Map055/events/36/pages/1/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ま、ま、待つネーーー！！
+> CONTEXT: Map055/events/36/pages/1/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+イオンマテル、それも第1級のやつが無いと
+家へ帰れないヨー！！
+> CONTEXT: Map055/events/36/pages/1/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワタシに協力するヨー！！
+> CONTEXT: Map055/events/36/pages/1/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+協力を求める相手が違うのではないだろうか。
+> CONTEXT: Map055/events/36/pages/1/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我々は“イオンマテル”というものに心当たりが
+ない。
+> CONTEXT: Map055/events/36/pages/1/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+イオンマテルというのは、イオンクラスター
+エネルギーを放出する物体の総称だヨー。
+> CONTEXT: Map055/events/36/pages/1/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+放出するエネルギーの純度によってランク付け
+されてて、第1級から第6級まであるんだナー。
+> CONTEXT: Map055/events/36/pages/1/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワタシが乗ってきたスターシップを動かすには、
+いちばんランクの高い第1級のやつが必要ヨー。
+> CONTEXT: Map055/events/36/pages/1/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ス・・・スターシップ・・・！？
+> CONTEXT: Map055/events/36/pages/1/136/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それってつまり！！
+> CONTEXT: Map055/events/36/pages/1/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+宇宙から来たってこと！？！？
+> CONTEXT: Map055/events/36/pages/1/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さっきからそう言ってるヨー？
+> CONTEXT: Map055/events/36/pages/1/147/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+航行している途中で、スターシップのイオン
+クラスターエネルギーが切れちゃったから
+この星に不時着したんだナー。
+> CONTEXT: Map055/events/36/pages/1/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょっと、にわかには信じられないわね・・・
+> CONTEXT: Map055/events/36/pages/1/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ねえねえ！！　スターシップ見せて！！！
+> CONTEXT: Map055/events/36/pages/1/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どこ！？　それ見たら信じる！！
+> CONTEXT: Map055/events/36/pages/1/158/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここよりちょっと北に不時着したヨー。
+> CONTEXT: Map055/events/36/pages/1/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも、緊急時には岩に擬態してカムフラージュ
+するシステムが働いてるから、探しても無駄ネ。
+> CONTEXT: Map055/events/36/pages/1/168/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、それってもしかして・・・
+> CONTEXT: Map055/events/36/pages/1/174/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+研究館に落ちてきた、あの隕石・・・！
+> CONTEXT: Map055/events/36/pages/1/178/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あれって宇宙船だったんだ！！
+> CONTEXT: Map055/events/36/pages/1/183/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+つまり、研究館が停電し、運よく逃げることが
+できたのは君のおかげだったというわけか。
+> CONTEXT: Map055/events/36/pages/1/188/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そういうことなら、力を貸してやりたい
+ところだが・・・
+> CONTEXT: Map055/events/36/pages/1/190/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いきなりイオンマテルって言われてもね。
+> CONTEXT: Map055/events/36/pages/1/194/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+むー。　未開惑星で油を売ってるヒマは
+ないのダー。
+> CONTEXT: Map055/events/36/pages/1/198/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+早くエネルギーをチャージして、この惑星人の
+記憶を抹消して、目的地に出発しないと
+いけないヨー。
+> CONTEXT: Map055/events/36/pages/1/200/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+“記憶を消す”ってどういうコト！？
+> CONTEXT: Map055/events/36/pages/1/217/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オマエたちには、ワタシの事を知られてしまった
+ネー。
+> CONTEXT: Map055/events/36/pages/1/222/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワレラ銀河総括局加盟の惑星人は、未開の
+惑星人に存在を知られてはならない決まりヨー。
+> CONTEXT: Map055/events/36/pages/1/224/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だから、この惑星全体に記憶抹消パルスを
+発信して、ここ1年間の記憶を全て失ってもらう
+んだナー！
+> CONTEXT: Map055/events/36/pages/1/230/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もしかしたら、墜落途中で擬態完了前の
+スターシップを目撃した連中もいるかもしれない
+ネー！
+> CONTEXT: Map055/events/36/pages/1/233/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょ、ちょっと待ってください！
+> CONTEXT: Map055/events/36/pages/1/240/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+1年間の記憶を全部消すって・・・け、消しすぎ
+じゃないですか！？
+> CONTEXT: Map055/events/36/pages/1/241/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+装置の設定が1年単位だから、仕方ないネー。
+> CONTEXT: Map055/events/36/pages/1/247/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とにかく！　それもこれも、イオンマテルが
+手に入らなければできないことヨー！
+> CONTEXT: Map055/events/36/pages/1/252/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いいから探すの手伝うんだナー！
+> CONTEXT: Map055/events/36/pages/1/254/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+記憶を1年分消されるのは、あまりに支障が
+大きすぎる。
+> CONTEXT: Map055/events/36/pages/1/258/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+君には協力できない。
+> CONTEXT: Map055/events/36/pages/1/260/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+むーーーっ！！　未開惑星人のクセに、拒否
+するのカー！！
+> CONTEXT: Map055/events/36/pages/1/264/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やれやれ。　また人間界の敵が増えちゃった
+感じ？
+> CONTEXT: Map055/events/36/pages/1/269/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうみたいですね・・・
+> CONTEXT: Map055/events/36/pages/1/274/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・はっ！
+> CONTEXT: Map055/events/36/pages/1/279/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ・・・あの・・・
+> CONTEXT: Map055/events/36/pages/1/285/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/2409/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/2965/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まさかとは思うんですけど、その・・・
+> CONTEXT: Map055/events/36/pages/1/286/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あなたの名前は・・・？
+> CONTEXT: Map055/events/36/pages/1/287/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おー！　よくぞ聞いてくれたヨー！
+> CONTEXT: Map055/events/36/pages/1/292/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワタシの名前はカラット！　銀河統括局長の
+娘ネー！！
+> CONTEXT: Map055/events/36/pages/1/297/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、あれ？　この空気は何かナー・・・？
+> CONTEXT: Map055/events/36/pages/1/320/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+残念だが、
+> CONTEXT: Map055/events/36/pages/1/324/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我々は君を“カラット”と認めるわけには
+いかない。
+> CONTEXT: Map055/events/36/pages/1/325/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+去りたまえ。
+> CONTEXT: Map055/events/36/pages/1/327/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+な、なんでヨーーー！？！？
+> CONTEXT: Map055/events/36/pages/1/334/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何でワタシがカラットじゃいけないのサー！？！
+> CONTEXT: Map055/events/36/pages/1/335/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あのですね。
+> CONTEXT: Map055/events/36/pages/1/338/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぶっちゃけ、かぶってるんですよ。　カラット。
+> CONTEXT: Map055/events/36/pages/1/339/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほええ？　そうなのカー？
+> CONTEXT: Map055/events/36/pages/1/345/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃあ、髪の色で区別するといいヨー！
+> CONTEXT: Map055/events/36/pages/1/350/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワタシのことは、白カラットと呼ぶがいいネー！
+> CONTEXT: Map055/events/36/pages/1/351/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白カラットなら、ついさっき登場しました。
+> CONTEXT: Map055/events/36/pages/1/354/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えええええっ！？　うそおおおっ！！？？
+> CONTEXT: Map055/events/36/pages/1/360/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、そ、それなら・・・
+> CONTEXT: Map055/events/36/pages/1/361/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワタシ、髪を赤く染めてくるヨー！！　それなら
+かぶらないネー？
+> CONTEXT: Map055/events/36/pages/1/367/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いえ、赤カラットも既にいます。
+> CONTEXT: Map055/events/36/pages/1/371/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちなみに青カラットもいます。
+> CONTEXT: Map055/events/36/pages/1/372/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ええええぇぇぇぇぇっ！？！？
+> CONTEXT: Map055/events/36/pages/1/376/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+な、な、何でこの星、そんなにいっぱいカラット
+いるのヨーーーーーっ！？！？！？
+> CONTEXT: Map055/events/36/pages/1/377/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こっちが聞きたいです。
+> CONTEXT: Map055/events/36/pages/1/382/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とにかく、我々としてはこれ以上カラットを増やす
+わけにはいかない。
+> CONTEXT: Map055/events/36/pages/1/387/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よって、君はカラットじゃない。
+> CONTEXT: Map055/events/36/pages/1/389/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、そんなこと言われてモ・・・
+> CONTEXT: Map055/events/36/pages/1/392/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+拒否は認めない。　君はカラットとは違う別の
+何かだ。
+> CONTEXT: Map055/events/36/pages/1/396/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いいな？
+> CONTEXT: Map055/events/36/pages/1/398/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う、う・・・ぅ・・・
+> CONTEXT: Map055/events/36/pages/1/402/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うわあああぁぁぁーーーーん！！！！
+ばかーーーーーーーー！！！！！！！
+> CONTEXT: Map055/events/36/pages/1/408/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我々は何も見ていない。
+> CONTEXT: Map055/events/36/pages/1/440/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うん！　何のトラブルも発生しなかったよね！
+> CONTEXT: Map055/events/36/pages/1/443/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうね。　先を急ぎましょうか。
+> CONTEXT: Map055/events/36/pages/1/446/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+で、ですね・・・
+> CONTEXT: Map055/events/36/pages/1/449/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ・・・は・・・ぁ・・・っ、ぅ・・・っ
+> CONTEXT: Map055/events/37/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（だ・・・だ、め・・・もう、動いたら・・・出ちゃい
+　そうだヨォ・・・っ！）
+> CONTEXT: Map055/events/37/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+たこやきちゃん、頑張って！　もう少しだよ！
+> CONTEXT: Map055/events/37/pages/0/41/Dialogue < UNTRANSLATED
+> CONTEXT: Map055/events/37/pages/1/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+仕方ない、背負ってやろうか？
+> CONTEXT: Map055/events/37/pages/0/53/Dialogue < UNTRANSLATED
+> CONTEXT: Map055/events/37/pages/1/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だ、ダメーっ！！
+> CONTEXT: Map055/events/37/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（今、体を触られたりしたら・・・ほんとに、
+　がまんできなくなっちゃうヨォ！）
+> CONTEXT: Map055/events/37/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+へ・・・平気・・・ヨー・・・
+> CONTEXT: Map055/events/37/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+くぁ・・・ぅﾞ・・・っ、は・・・ぁ・・・っ
+> CONTEXT: Map055/events/37/pages/0/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+も・・・もぉ・・・がま、ん・・・で、でき・・・っ
+> CONTEXT: Map055/events/37/pages/0/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+げん・・・かい・・ぃぃっ！！
+> CONTEXT: Map055/events/37/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あぁぁぁあああダメエェーーーっ！！！
+> CONTEXT: Map055/events/37/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・え？　え？？
+> CONTEXT: Map055/events/37/pages/0/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんたもしかして・・・
+> CONTEXT: Map055/events/37/pages/0/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ずっと、おしっこがしたかったの・・・？
+> CONTEXT: Map055/events/37/pages/0/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・（こくん）
+> CONTEXT: Map055/events/37/pages/0/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あれ？　でも、確かスーツの機能で・・・
+> CONTEXT: Map055/events/37/pages/0/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とにかく、今は早く下山して着替えさせて
+あげましょうよ。
+> CONTEXT: Map055/events/37/pages/0/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうだな。　行くとしよう。
+> CONTEXT: Map055/events/37/pages/0/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（おしっこ・・・はやくっ！　おしっこっ！！）
+> CONTEXT: Map055/events/37/pages/1/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ゴールは・・・トイレはまだなのカーっ！？）
+> CONTEXT: Map055/events/37/pages/1/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+歩くのもやっとと言った感じだな。
+> CONTEXT: Map055/events/37/pages/1/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+い、いいヨーっ！！　まだ自分で歩けるネー！！
+> CONTEXT: Map055/events/37/pages/1/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうか。
+> CONTEXT: Map055/events/37/pages/1/65/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/19/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さ、早乙女っ！　なに残念そうにしてんのよ！
+> CONTEXT: Map055/events/37/pages/1/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（したつもりは無いのだが・・・）
+> CONTEXT: Map055/events/37/pages/1/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+へ・・・平気・・・まだ・・・へいき・・・ヨー・・・
+> CONTEXT: Map055/events/37/pages/1/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（もれる・・・もれちゃうぅっ！！）
+> CONTEXT: Map055/events/37/pages/1/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あとは、この草原を渡りきれば山は終わりだ。
+> CONTEXT: Map055/events/37/pages/1/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+たこちゃん、ファイト！
+> CONTEXT: Map055/events/37/pages/1/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほ、ほ、本当に・・・もう少しで・・・山を
+越えられるんだナ・・・？
+> CONTEXT: Map055/events/37/pages/1/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうよ。　頑張って・・・！
+> CONTEXT: Map055/events/37/pages/1/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（あと・・・あとちょっとの我慢・・・っ！）
+> CONTEXT: Map055/events/37/pages/1/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（あとちょっとで・・・おしっこ・・・やっとおしっこ
+　できるヨ・・・っ！！）
+> CONTEXT: Map055/events/37/pages/1/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ・・・ぁ・・・ぅ・・・は・・・っ
+> CONTEXT: Map055/events/37/pages/1/156/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（でちゃう・・・っ！　もう出ちゃうヨォっ！！）
+> CONTEXT: Map055/events/37/pages/1/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（もぉ・・・もぉ限界だヨォっ！！）
+> CONTEXT: Map055/events/37/pages/1/158/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+たこやきさん！　しっかり！
+> CONTEXT: Map055/events/37/pages/1/164/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+このゲートの先に小屋がありますから、
+そこまで頑張ってください！
+> CONTEXT: Map055/events/37/pages/1/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（こ、小屋・・・！　トイレ・・・！！）
+> CONTEXT: Map055/events/37/pages/1/170/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（もうすぐ・・・もうすぐおしっこ・・・っ！！）
+> CONTEXT: Map055/events/37/pages/1/171/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ううぅぅ～！！）
+> CONTEXT: Map055/events/37/pages/1/172/Dialogue < UNTRANSLATED
+
+> END STRING

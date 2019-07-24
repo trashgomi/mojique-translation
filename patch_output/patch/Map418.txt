@@ -1,0 +1,410 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+おかみ
+「“吸割の滝”の滝裏に地下洞窟があるから、
+　その奥にいる魔物の大将を倒しておくれ！」
+> CONTEXT: Map418/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おかみ
+「そうすりゃ、温泉も復活するだろうさ！」
+> CONTEXT: Map418/events/2/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+失礼。　温泉に入りに来たのだが。
+> CONTEXT: Map418/events/7/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おかみ
+「あーら、お客さんかい？」
+> CONTEXT: Map418/events/7/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おかみ
+「ごめんなさいねー、今は休業中なのよー。」
+> CONTEXT: Map418/events/7/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え・・・
+> CONTEXT: Map418/events/7/pages/0/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map405/events/10/pages/0/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、そんな・・・ここまで来たのに・・・
+> CONTEXT: Map418/events/7/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おばちゃん、そこを何とか！！
+> CONTEXT: Map418/events/7/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お願あぁ～い☆
+> CONTEXT: Map418/events/7/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おかみ
+「いやー、ウチも開店したいのは
+　マウンテンマウンテンなんだけどねー。」
+> CONTEXT: Map418/events/7/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（・・・山々って言いたいのかな。）
+> CONTEXT: Map418/events/7/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何か事情があるんですか？
+> CONTEXT: Map418/events/7/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おかみ
+「実はねー、少し前からここの温泉、湧かなく
+　なっちゃったんだよねー。」
+> CONTEXT: Map418/events/7/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おかみ
+「魔物のせいで。」
+> CONTEXT: Map418/events/7/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お！　レグマくん、これは・・・！
+> CONTEXT: Map418/events/7/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+分かりやすい御遣いフラグだな。
+> CONTEXT: Map418/events/7/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物が温泉に悪さしてるんですか？
+> CONTEXT: Map418/events/7/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おかみ
+「そうなんだよー。」
+> CONTEXT: Map418/events/7/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おかみ
+「ほら、港の南にある公道を行った先に、
+　“吸割の滝”があるだろう？」
+> CONTEXT: Map418/events/7/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おかみ
+「あそこの滝裏に地下洞窟があってさー、
+　そこの奥から温泉を引っ張ってきてるん
+　だけどねー。」
+> CONTEXT: Map418/events/7/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おかみ
+「住みついちゃったワケよ、魔物の大将が。
+　その湧き出し口に。」
+> CONTEXT: Map418/events/7/pages/0/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おかみ
+「おかげで、こっちは商売あがったりだよー。」
+> CONTEXT: Map418/events/7/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+早い話、その魔物をやっつけてくれば
+解決ってことだね？
+> CONTEXT: Map418/events/7/pages/0/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おかみ
+「そりゃそうだけどさ。」
+> CONTEXT: Map418/events/7/pages/0/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おかみ
+「そんなこと無理に決まって・・・」
+> CONTEXT: Map418/events/7/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おかみ
+「あ！　もしかしてあんた達、今ウワサの？」
+> CONTEXT: Map418/events/7/pages/0/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+し、熾天少女です・・・
+> CONTEXT: Map418/events/7/pages/0/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おかみ
+「へえー！　あんた達がねー！！」
+> CONTEXT: Map418/events/7/pages/0/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おかみ
+「中央部から来たお客さんに聞いたよ！
+　魔物の大将だろうが盗賊団だろうが、
+　みんなボッコボコにしてるそうじゃない！」
+> CONTEXT: Map418/events/7/pages/0/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うむ、まあ・・・そんなところだ。
+> CONTEXT: Map418/events/7/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おかみ
+「んじゃ、ウチのことも助けてくれるかいー？」
+> CONTEXT: Map418/events/7/pages/0/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おかみ
+「さっき話したとおり、港の南の公道の先にある
+　吸割の滝だよ！　いっちょ頼むねー！」
+> CONTEXT: Map418/events/7/pages/0/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ど、どうしますか早乙女さん。
+> CONTEXT: Map418/events/7/pages/0/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この流れで、行かないわけにはゆくまい。
+> CONTEXT: Map418/events/7/pages/0/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+人助けして温泉にも入れるようになるんだし、
+いいじゃない。
+> CONTEXT: Map418/events/7/pages/0/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よーし！　そんじゃさっそく行きますか！
+> CONTEXT: Map418/events/7/pages/0/131/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おかみ
+「頼んだよー！　ネックロングで待ってるから
+　ねー！」
+> CONTEXT: Map418/events/7/pages/0/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おばちゃーん！　滝裏の魔物やっつけて
+きたよー！！
+> CONTEXT: Map418/events/8/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おかみ
+「あー！　やっぱりね！！　あんがとよアンタ
+　たち！！」
+> CONTEXT: Map418/events/8/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おかみ
+「ついさっき、急にお湯が入ってくるようになって
+　ねー！」
+> CONTEXT: Map418/events/8/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お！　それじゃあ！
+> CONTEXT: Map418/events/8/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おかみ
+「バッチリ復活したよ！　あんた達のおかげさね
+　！！」
+> CONTEXT: Map418/events/8/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おかみ
+「さあさあ、もう入浴準備は整えてあるから、
+　すぐにでも入れるよ！」
+> CONTEXT: Map418/events/8/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、それじゃさっそく・・・
+> CONTEXT: Map418/events/8/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お言葉に甘えたいと思います。
+> CONTEXT: Map418/events/8/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+私は遠慮させていただこうかな・・・と・・・
+> CONTEXT: Map418/events/8/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何か問題があるのか？
+> CONTEXT: Map418/events/8/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+実は私、熱いお湯が苦手でして・・・
+> CONTEXT: Map418/events/8/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+温泉とかって、昔から入れないんですよ。
+> CONTEXT: Map418/events/8/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えー・・・そうなの・・・？
+> CONTEXT: Map418/events/8/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それじゃ仕方ないわね。
+> CONTEXT: Map418/events/8/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+苦手なものを強制するわけにもいかないし。
+> CONTEXT: Map418/events/8/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おかみ
+「確かにウチの湯は、だいぶ熱めだね。」
+> CONTEXT: Map418/events/8/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おかみ
+「でも実は、あんたみたいなお客さんのことを
+　考えて、ぬるめのお湯も用意してあるのさ！」
+> CONTEXT: Map418/events/8/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+本当ですか！？
+> CONTEXT: Map418/events/8/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やったね、こむちゃん！
+> CONTEXT: Map418/events/8/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おかみ
+「当たり前だけど、恩人からお代は頂かない
+　よ！」
+> CONTEXT: Map418/events/8/pages/0/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おかみ
+「のぼせない程度に、好きなだけ楽しんで
+　らっしゃい！」
+> CONTEXT: Map418/events/8/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+では、しばし解散だ。
+> CONTEXT: Map418/events/8/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+適当な頃合いに、またここで落ち合おう。
+> CONTEXT: Map418/events/8/pages/0/75/Dialogue < UNTRANSLATED
+
+> END STRING

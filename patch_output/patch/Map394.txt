@@ -1,0 +1,488 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ジャクラの木だ。　熾天少女のおしっこを
+根元にかければ枯らすことができるだろう。
+> CONTEXT: Map394/events/3/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はむこ
+> CONTEXT: Map394/events/3/pages/0/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/118/812/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/118/837/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/118/858/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/118/874/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/157/3/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/157/46/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/157/85/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/157/107/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/157/126/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/157/141/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/623/13/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/623/118/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/635/16/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/635/55/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/635/89/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/636/14/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/636/53/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/636/87/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/660/29/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/715/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/715/139/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/715/244/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/715/316/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/928/1/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/928/130/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/928/229/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/928/297/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+にゃんこ
+> CONTEXT: Map394/events/3/pages/0/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/118/812/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/118/837/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/118/858/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/157/3/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/157/46/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/157/85/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/157/107/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/157/126/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/623/13/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/623/118/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/635/16/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/635/55/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/635/89/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/636/14/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/636/53/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/636/87/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/660/29/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/715/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/715/139/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/715/244/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/928/1/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/928/130/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/928/229/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ともっち
+> CONTEXT: Map394/events/3/pages/0/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/118/812/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/118/837/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/157/3/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/157/46/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/157/85/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/157/107/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/623/13/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/623/118/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/635/16/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/635/55/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/635/89/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/636/14/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/636/53/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/636/87/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/660/29/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/715/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/715/139/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/928/1/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/928/130/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひめ
+> CONTEXT: Map394/events/3/pages/0/5/Choice/3 < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/5/Choice/3 < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/5/Choice/3 < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/5/Choice/3 < UNTRANSLATED
+> CONTEXT: Commonevents/118/812/Choice/3 < UNTRANSLATED
+> CONTEXT: Commonevents/157/23/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/157/66/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/157/85/Choice/3 < UNTRANSLATED
+> CONTEXT: Commonevents/623/13/Choice/3 < UNTRANSLATED
+> CONTEXT: Commonevents/623/118/Choice/3 < UNTRANSLATED
+> CONTEXT: Commonevents/635/34/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/635/73/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/635/89/Choice/3 < UNTRANSLATED
+> CONTEXT: Commonevents/636/32/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/636/71/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/636/87/Choice/3 < UNTRANSLATED
+> CONTEXT: Commonevents/660/29/Choice/3 < UNTRANSLATED
+> CONTEXT: Commonevents/715/2/Choice/3 < UNTRANSLATED
+> CONTEXT: Commonevents/928/1/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わ、わたしがするの・・・？
+> CONTEXT: Map394/events/3/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map394/events/3/pages/0/23/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/23/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/23/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ・・・う、うん・・・わかった・・・
+> CONTEXT: Map394/events/3/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map394/events/3/pages/0/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃあ、みんな離れててね・・・っ！
+> CONTEXT: Map394/events/3/pages/0/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map394/events/3/pages/0/25/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/25/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/25/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うう・・・わ、わたしじゃなきゃ・・・だめ・・・？
+> CONTEXT: Map394/events/3/pages/0/37/Dialogue < UNTRANSLATED
+> CONTEXT: Map394/events/3/pages/0/47/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/37/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/47/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/37/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/47/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/37/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（どうしよう・・・ちょうどおしっこしたいし・・・）
+> CONTEXT: Map394/events/3/pages/0/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map394/events/3/pages/0/48/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/48/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/48/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（これも世界のため・・・だもんね・・・）
+> CONTEXT: Map394/events/3/pages/0/39/Dialogue < UNTRANSLATED
+> CONTEXT: Map394/events/3/pages/0/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/39/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/39/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/39/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+や・・・やだよ・・・恥ずかしい・・・
+> CONTEXT: Map394/events/3/pages/0/60/Dialogue < UNTRANSLATED
+> CONTEXT: Map394/events/3/pages/0/66/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/60/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/66/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/60/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/66/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/60/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぅう・・・っ、も、もう・・・！
+> CONTEXT: Map394/events/3/pages/0/81/Dialogue < UNTRANSLATED
+> CONTEXT: Map394/events/3/pages/0/91/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/81/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/91/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/81/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/91/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/81/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すればいいんでしょ！？　あ、あ・・・あっち
+行きなさいよっ！！
+> CONTEXT: Map394/events/3/pages/0/82/Dialogue < UNTRANSLATED
+> CONTEXT: Map394/events/3/pages/0/92/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/82/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/92/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/82/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/92/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/82/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+い、いくらなんでも、こ、こんな・・・
+> CONTEXT: Map394/events/3/pages/0/105/Dialogue < UNTRANSLATED
+> CONTEXT: Map394/events/3/pages/0/114/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/105/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/114/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/105/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/114/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/105/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こんな所でするなんて・・・いや・・・！
+> CONTEXT: Map394/events/3/pages/0/106/Dialogue < UNTRANSLATED
+> CONTEXT: Map394/events/3/pages/0/115/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/106/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/115/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/106/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/115/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/106/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+い、いやよ！　絶対イヤ！！
+> CONTEXT: Map394/events/3/pages/0/127/Dialogue < UNTRANSLATED
+> CONTEXT: Map394/events/3/pages/0/134/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/127/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/134/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/127/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/134/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/127/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、ジャ、ジャクラの木だよ！　早く枯らせないと
+ね！！
+> CONTEXT: Map394/events/3/pages/0/149/Dialogue < UNTRANSLATED
+> CONTEXT: Map394/events/3/pages/0/160/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/149/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/160/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/149/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/160/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/149/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/160/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃあ、ここはあたしに任せて！　みんなは
+向こうで待ってて！！　は、早く・・・っ！
+> CONTEXT: Map394/events/3/pages/0/151/Dialogue < UNTRANSLATED
+> CONTEXT: Map394/events/3/pages/0/162/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/151/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/162/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/151/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/162/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/151/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ま、まだぜんぜんガマンできるけど・・・
+> CONTEXT: Map394/events/3/pages/0/175/Dialogue < UNTRANSLATED
+> CONTEXT: Map394/events/3/pages/0/184/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/175/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/184/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/175/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/184/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/175/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/184/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうしてもって言うなら、しょ、しょうがないなぁ・・・
+> CONTEXT: Map394/events/3/pages/0/176/Dialogue < UNTRANSLATED
+> CONTEXT: Map394/events/3/pages/0/185/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/176/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/185/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/176/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/185/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/176/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/185/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+い、いくらあたしでも、そんな見境なく
+どこでもオシッコしちゃうわけじゃないよぉ！
+> CONTEXT: Map394/events/3/pages/0/197/Dialogue < UNTRANSLATED
+> CONTEXT: Map394/events/3/pages/0/205/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/197/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/205/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/197/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/205/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/197/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/205/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、あの・・・そのぉ・・・っ！
+> CONTEXT: Map394/events/3/pages/0/221/Dialogue < UNTRANSLATED
+> CONTEXT: Map394/events/3/pages/0/231/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/221/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/231/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/221/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/231/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/221/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/231/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+遠くへ・・・お願いですから、すごく遠くで
+待っててください・・・っ！！//////
+> CONTEXT: Map394/events/3/pages/0/222/Dialogue < UNTRANSLATED
+> CONTEXT: Map394/events/3/pages/0/232/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/222/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/232/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/222/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/232/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/222/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/232/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+む、無理です・・・！　できませんっ！！
+> CONTEXT: Map394/events/3/pages/0/245/Dialogue < UNTRANSLATED
+> CONTEXT: Map394/events/3/pages/0/254/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/245/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/254/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/245/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/254/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/245/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/254/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+い・・・いやです！　いやです！　いやですうぅ！！
+> CONTEXT: Map394/events/3/pages/0/267/Dialogue < UNTRANSLATED
+> CONTEXT: Map394/events/3/pages/0/274/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/267/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/274/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/267/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/274/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/267/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/274/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瘴魔状態が解除されたジャクラの木だ。
+> CONTEXT: Map394/events/3/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だ、だめぇっ！　わたしのおしっこ見ないでっ！！
+> CONTEXT: Map394/events/5/pages/1/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/32/pages/1/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/12/pages/1/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/16/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ば、ばかっ！！　なに見てんのよっ！！！
+警察呼ぶわよっ！！！！
+> CONTEXT: Map394/events/5/pages/2/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/32/pages/2/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/12/pages/2/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/16/pages/2/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょ、ちょ、ちょ！！　お、乙女のヒミツに
+近づいちゃダメだってば！！！
+> CONTEXT: Map394/events/5/pages/3/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/32/pages/3/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/12/pages/3/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/16/pages/3/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+い、い、いやあぁっ！！　何でもしますから、
+そ、それは見ないでえぇっ！！！
+> CONTEXT: Map394/events/5/pages/4/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/32/pages/4/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/12/pages/4/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/16/pages/4/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+長いイベントシーンに突入します。
+> CONTEXT: Map394/events/38/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map394/events/39/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map394/events/40/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+進みますか？
+> CONTEXT: Map394/events/38/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map394/events/39/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map394/events/40/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+進むよっほおおおおうういい！！
+> CONTEXT: Map394/events/38/pages/0/3/Choice/0 < UNTRANSLATED
+> CONTEXT: Map394/events/39/pages/0/3/Choice/0 < UNTRANSLATED
+> CONTEXT: Map394/events/40/pages/0/3/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まだ心の準備があああうういい！！
+> CONTEXT: Map394/events/38/pages/0/3/Choice/1 < UNTRANSLATED
+> CONTEXT: Map394/events/39/pages/0/3/Choice/1 < UNTRANSLATED
+> CONTEXT: Map394/events/40/pages/0/3/Choice/1 < UNTRANSLATED
+
+> END STRING

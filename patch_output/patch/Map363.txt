@@ -1,0 +1,33 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+（なにやらブツブツ言っている。）
+> CONTEXT: Map363/events/26/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map359/events/26/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map027/events/32/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map027/events/34/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/51/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/53/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自分と戦う女戦士
+「本当の敵は、いつだって自分の中にいる。」
+> CONTEXT: Map363/events/26/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自分と戦う女戦士
+「己に打ち勝つことができなければ、真の戦士
+　とは呼べないのだ。」
+> CONTEXT: Map363/events/26/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自分と戦う女戦士
+「例えそれがささいな欲望であろうとも。」
+> CONTEXT: Map363/events/26/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING

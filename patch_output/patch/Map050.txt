@@ -1,0 +1,96 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ふぃー！　空気がおいしいねー！
+> CONTEXT: Map050/events/26/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここは特に緑が多いからな。
+> CONTEXT: Map050/events/26/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ねえ、たこちゃん。
+> CONTEXT: Map050/events/26/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+たこちゃんが住んでる星って、どんなの？
+> CONTEXT: Map050/events/26/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたしのイメージだと、機械の高層ビルが
+立ち並んでて、木とかぜんぜん生えてない
+感じなんだけど・・・
+> CONTEXT: Map050/events/26/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+木はちゃんとあるヨー。
+> CONTEXT: Map050/events/26/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+というか、ワタシの星では生命力の強い植物が
+いっぱいだから、頂点に立ってるのは、むしろ
+植物の方ネー。
+> CONTEXT: Map050/events/26/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうなの？　ちょっと意外・・・
+> CONTEXT: Map050/events/26/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自然を大切にするのって、いいことですよね。
+> CONTEXT: Map050/events/26/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それって当たり前のことなんじゃないのカー？
+> CONTEXT: Map050/events/26/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワタシが知っている限り、技術が発達している
+惑星ほど、緑がいっぱいあるヨー？
+> CONTEXT: Map050/events/26/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふむ。　確かに、それが人類の正しい発展の
+仕方なのかもしれないな。
+> CONTEXT: Map050/events/26/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+勉強になります！
+> CONTEXT: Map050/events/26/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、そんなことより、早く先を急ぐヨー！
+> CONTEXT: Map050/events/26/pages/0/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+む、そうだな。
+> CONTEXT: Map050/events/26/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING

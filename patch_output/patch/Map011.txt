@@ -1,0 +1,189 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+お、2匹出てきた！
+> CONTEXT: Map011/events/9/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+慎重に1匹ずつ相手しろ。　慌てるほどの
+事態ではない。
+> CONTEXT: Map011/events/9/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手が多いと、やはり不利だな。
+> CONTEXT: Map011/events/9/pages/2/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だが、さばき方は見事だったぞ。
+> CONTEXT: Map011/events/9/pages/2/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ありがと。　慌てなければ、どうってことないね！
+> CONTEXT: Map011/events/9/pages/2/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おお・・・増える増える。
+> CONTEXT: Map011/events/15/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+基本は各個撃破だ。　攻撃を散らさずに
+確実に仕留めていけ。
+> CONTEXT: Map011/events/15/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+了解っ！
+> CONTEXT: Map011/events/15/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご苦労だった。　あれだけの数を相手に
+よくここまで戦えるものだな。
+> CONTEXT: Map011/events/15/pages/2/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まあ、少ないに越したことはないけどね。
+> CONTEXT: Map011/events/15/pages/2/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はふぅ・・・さすがにちょっと疲れてきたかも・・・
+> CONTEXT: Map011/events/19/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+無理は禁物だ。　この辺で小休憩を挟むと
+しよう。
+> CONTEXT: Map011/events/19/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賛成～。
+> CONTEXT: Map011/events/19/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ときに、はむこ。
+> CONTEXT: Map011/events/19/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほいな。
+> CONTEXT: Map011/events/19/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここまで実に見事な立ち回りで敵を退けてきた
+お前だが、何か武術の心得でもあるのか？
+> CONTEXT: Map011/events/19/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんなの無いよ～！
+> CONTEXT: Map011/events/19/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+強いて言えば気合いだね、気合い！
+> CONTEXT: Map011/events/19/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+高らかにファイティング・スピリットを掲げて
+特攻すれば、だいたい勝てる！
+> CONTEXT: Map011/events/19/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その道理はよく分からないが、その無鉄砲さが
+お前の力の秘訣なのかもしれないな。
+> CONTEXT: Map011/events/19/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レグマくんだって、頑張れば勝てると思うけど
+なぁ・・・
+> CONTEXT: Map011/events/19/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フッ、甘く見られたものだな。
+> CONTEXT: Map011/events/19/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+俺は引きこもりのもやし男。　頭脳プレイ以外に
+敵と渡り合う術は１つも無いのだ。
+> CONTEXT: Map011/events/19/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんなこと威張らなくても・・・
+> CONTEXT: Map011/events/19/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・どうした、敵か？
+> CONTEXT: Map011/events/19/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え？　あ、ううん！　何でもないよ！
+> CONTEXT: Map011/events/19/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それより、もう十分休んだから先へ進も？
+> CONTEXT: Map011/events/19/pages/0/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大丈夫なのか？
+> CONTEXT: Map011/events/19/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すっかり元気！　この通り！
+> CONTEXT: Map011/events/19/pages/0/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お前がそう言うのなら、そろそろ進むとしよう。
+> CONTEXT: Map011/events/19/pages/0/93/Dialogue < UNTRANSLATED
+
+> END STRING

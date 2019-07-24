@@ -1,0 +1,15 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+←：作戦会議室
+> CONTEXT: Map105/events/1/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【作戦会議室】
+会議中の私語は禁止。
+破った者は、直後から起算して1日間、口に
+ガムテープを貼ることとする。
+> CONTEXT: Map105/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

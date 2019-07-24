@@ -1,0 +1,12 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+東部はいい所だね。　住んでみたいよ。
+> CONTEXT: Map312/events/7/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちゃっす！　いい天気だな！
+> CONTEXT: Map312/events/8/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

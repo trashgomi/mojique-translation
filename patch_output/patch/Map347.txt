@@ -1,0 +1,230 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+四天王
+「フォッフォッフォッ！！　やっと来よったか
+　ネズミども！」
+> CONTEXT: Map347/events/1/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お前が四天王か。
+> CONTEXT: Map347/events/1/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+四天王
+「いかにも！」
+> CONTEXT: Map347/events/1/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+四天王
+「我が名はDr.FLASH！　四天王随一の技術と
+　頭脳を持っておるぞ！」
+> CONTEXT: Map347/events/1/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これまた、自意識過剰なのが出てきたね。
+> CONTEXT: Map347/events/1/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ノリがとしひこと変わらないって言うか・・・
+四天王ってみんなこうなのかしら？
+> CONTEXT: Map347/events/1/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+四天王Dr.FLASH
+「たわけ！　ヤツなどと一緒にするでないわ！」
+> CONTEXT: Map347/events/1/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+四天王Dr.FLASH
+「確かにとしひこは四天王の中でもトップの
+　戦闘力を誇っておった。」
+> CONTEXT: Map347/events/1/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+四天王Dr.FLASH
+「しかしヤツはしょせん突撃バカじゃ。　何の
+　戦略も無しに特攻することしか知らぬ。」
+> CONTEXT: Map347/events/1/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+四天王Dr.FLASH
+「じゃがワシには、この高度な技術力と
+　ずば抜けた頭脳がある！」
+> CONTEXT: Map347/events/1/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+四天王Dr.FLASH
+「今、貴様らがこの遺跡に侵入してきたことは
+　警備ユニットの監視で察しておるし、」
+> CONTEXT: Map347/events/1/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+四天王Dr.FLASH
+「戦力で劣る部分はワシ特製の配合モンスター
+　で補う算段じゃ！」
+> CONTEXT: Map347/events/1/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+四天王Dr.FLASH
+「さあ、いでよルクス！！」
+> CONTEXT: Map347/events/1/pages/0/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+な、仲間を出してきました・・・！
+> CONTEXT: Map347/events/1/pages/0/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+四天王Dr.FLASH
+「ただの魔物ではないぞ。」
+> CONTEXT: Map347/events/1/pages/0/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+四天王Dr.FLASH
+「ワシがこの遺跡で捕縛した魔物を、この神の
+　ごとき手腕で合成し生み出したハイクラスの
+　魔物じゃ！」
+> CONTEXT: Map347/events/1/pages/0/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+四天王Dr.FLASH
+「さあ、カラット様に逆らう愚かな熾天少女
+　ども！」
+> CONTEXT: Map347/events/1/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+四天王Dr.FLASH
+「その身をもって、己の無知と頭脳の低さを
+　思い知るがいい！！」
+> CONTEXT: Map347/events/1/pages/0/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+みんな行くよ！！
+> CONTEXT: Map347/events/1/pages/0/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+四天王Dr.FLASH
+「ぐあああああっ！！！　ワシがっ！　ワシが
+　敗北を喫するなど・・・っ！！」
+> CONTEXT: Map347/events/1/pages/2/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+四天王Dr.FLASH
+「ありえぬ！！　ありえぬのじゃぁぁーーっ！！」
+> CONTEXT: Map347/events/1/pages/2/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いえーい！！　大勝利！！
+> CONTEXT: Map347/events/1/pages/2/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんか、最後までとしひこだったわね・・・
+> CONTEXT: Map347/events/1/pages/2/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何であろうと結構。　敵は滅するのみ。
+> CONTEXT: Map347/events/1/pages/2/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも、この四天王もかなり強かったですね。
+> CONTEXT: Map347/events/1/pages/2/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うん。　やっぱ、戦力をじわじわ削る作戦で正解
+だったね！
+> CONTEXT: Map347/events/1/pages/2/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+違いない。　これで四天王の戦力は半減した
+はず。
+> CONTEXT: Map347/events/1/pages/2/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+残りの2体も戦力が分散していれば幸いだが・・・
+> CONTEXT: Map347/events/1/pages/2/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さて、ここでの目的は果たした。
+> CONTEXT: Map347/events/1/pages/2/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報告のため城へ戻ろう。
+> CONTEXT: Map347/events/1/pages/2/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だね。
+> CONTEXT: Map347/events/1/pages/2/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もしかしたら次の四天王の情報が入ってるかも
+しれないし、
+> CONTEXT: Map347/events/1/pages/2/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うまくいけば熾力研究館の成果も出てるかも！
+> CONTEXT: Map347/events/1/pages/2/63/Dialogue < UNTRANSLATED
+
+> END STRING

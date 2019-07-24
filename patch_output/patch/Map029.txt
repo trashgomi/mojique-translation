@@ -1,0 +1,42 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+敏捷性こそ最も重要よ！
+> CONTEXT: Map029/events/9/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敏捷性が高ければ行動順がいっぱい回って
+くるし、敵の攻撃を回避する確率も上がるんだ
+もん！
+> CONTEXT: Map029/events/9/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦闘において一番最優先で考えなきゃならない
+のは、敏捷性よ！
+> CONTEXT: Map029/events/9/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+風邪を引かないように頑張るんだぞ。
+> CONTEXT: Map029/events/11/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なあ、例の幽霊船、どうやら中に乗り込んで
+元凶の幽霊をぶっ飛ばして解決した連中が
+いるらしいぜ！
+> CONTEXT: Map029/events/13/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+流行り風邪に備えて、解熱剤でも買って
+おこうかしら。
+> CONTEXT: Map029/events/15/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

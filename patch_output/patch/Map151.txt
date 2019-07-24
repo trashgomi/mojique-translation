@@ -1,0 +1,294 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+あの～・・・進む前にトイレ行ってきても
+いいかな？
+> CONTEXT: Map151/events/1/pages/1/266/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+し・・・熾天少女・・・ですか？
+> CONTEXT: Map151/events/7/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+つまりね。　こっちの世界に召喚されたって
+ことは、ひめも熾天少女なんだよ、きっと！
+> CONTEXT: Map151/events/7/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+辺りを歩いていれば、魔物に出くわしたことも
+あるだろう。
+> CONTEXT: Map151/events/7/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物は熾天少女にしか倒すことができない。
+お前は魔物と戦い、勝利したことはあったか？
+> CONTEXT: Map151/events/7/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ええと・・・何度かあります。
+> CONTEXT: Map151/events/7/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夢中で引っぱたいたり叫んでたりしたら、
+何匹かやっつけたことが・・・
+> CONTEXT: Map151/events/7/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おおおお！！　まさしく天の使いの力の
+持ち主だね！！
+> CONTEXT: Map151/events/7/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それじゃあ、やっぱりひめも熾天少女の一人
+じゃないかしら。
+> CONTEXT: Map151/events/7/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わ・・私なんかが・・・本当に？
+> CONTEXT: Map151/events/7/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+無意味にこちらの世界へ召喚されることは
+考えにくい。
+> CONTEXT: Map151/events/7/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なにより、魔物を倒すことができるのは天の
+使いの力を受けた熾天少女のみ。
+> CONTEXT: Map151/events/7/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+桐生も熾天少女に違いないだろう。
+> CONTEXT: Map151/events/7/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うう・・・ぜんぜん実感が無いです・・・
+> CONTEXT: Map151/events/7/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ということは、私もみなさんと一緒に熾天宮に
+行った方がいいんでしょうか・・・？
+> CONTEXT: Map151/events/7/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うんうん！　一緒に行こ！！
+> CONTEXT: Map151/events/7/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+多い方が楽しいよ～！！
+> CONTEXT: Map151/events/7/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひめはあんまり運動得意じゃないから、ちょっと
+心配だけど・・・
+> CONTEXT: Map151/events/7/pages/0/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+置いて行っちゃうわけにもいかないものね。
+> CONTEXT: Map151/events/7/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ええと・・・じゃあ、とにかく頑張ってみます・・・
+> CONTEXT: Map151/events/7/pages/0/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ところで桐生。　お前はどうして屋根に登って
+いたんだ？
+> CONTEXT: Map151/events/7/pages/0/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうそう！　いきなり落ちてきたからビックリ
+しちゃったよー。
+> CONTEXT: Map151/events/7/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あれが動画サイトの映像だったら、
+グギッ！っていう骨折音が再生されてた
+とこだよ！
+> CONTEXT: Map151/events/7/pages/0/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、あれは・・・その・・・
+> CONTEXT: Map151/events/7/pages/0/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+老人
+「この娘に、屋根の修理をしてもらって
+　いたんじゃよ。
+> CONTEXT: Map151/events/7/pages/0/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひめ、そんなことできるの！？
+> CONTEXT: Map151/events/7/pages/0/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そう言えば噂を聞いたことがあるわ。
+> CONTEXT: Map151/events/7/pages/0/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひめって、すっごく手先が器用なんだってね？
+> CONTEXT: Map151/events/7/pages/0/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、そ、そんなこと・・・ないです・・・
+> CONTEXT: Map151/events/7/pages/0/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+私はただ、一宿一飯の恩返しがしたくて・・・
+> CONTEXT: Map151/events/7/pages/0/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+老人
+「この娘はすごいぞ。　ちょっと手順を教えた
+　だけで、すぐに飲みこんで技術を自分の
+　ものにしおる。
+> CONTEXT: Map151/events/7/pages/0/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+老人
+「まあ、確かに運動は不得手のようじゃがの。
+> CONTEXT: Map151/events/7/pages/0/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+へえ～！　ひめちゃんすごい！！
+> CONTEXT: Map151/events/7/pages/0/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+才能だな。　尊敬に値する。
+> CONTEXT: Map151/events/7/pages/0/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・///////っ
+> CONTEXT: Map151/events/7/pages/0/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひめちゃんかわいい～！！
+> CONTEXT: Map151/events/7/pages/0/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さて。　ではそろそろ出発するか。
+> CONTEXT: Map151/events/7/pages/0/136/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+熾天宮では何が待ち受けているか分からない。
+準備は万全にして進むとしよう。
+> CONTEXT: Map151/events/7/pages/0/137/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+きっとみんなで行けば大丈夫だよ！
+> CONTEXT: Map151/events/7/pages/0/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも油断はしちゃ駄目よ。
+> CONTEXT: Map151/events/7/pages/0/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いったい何があるんだろうねー？　わくわく！
+> CONTEXT: Map151/events/7/pages/0/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+が、頑張ってついて行きます・・・！
+> CONTEXT: Map151/events/7/pages/0/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひめと行動を共にすることとなった！
+> CONTEXT: Map151/events/7/pages/0/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トイレ使用時に【全員すっきり】が選択可能に
+なりました。
+> CONTEXT: Map151/events/7/pages/0/168/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+演出を省略して全員をトイレに促します。
+忙しいあなたはぜひご利用を！
+> CONTEXT: Map151/events/7/pages/0/170/Dialogue < UNTRANSLATED
+
+> END STRING

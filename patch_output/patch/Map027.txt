@@ -1,0 +1,85 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+自分と戦う女戦士
+「く・・・ぅ・・・っ」
+> CONTEXT: Map027/events/32/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自分と戦う女戦士
+「た、戦いは・・・今始まったばかり・・・」
+> CONTEXT: Map027/events/32/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自分と戦う女戦士
+「来た道を引き返すなど・・・愚の骨頂・・・っ」
+> CONTEXT: Map027/events/32/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自分と戦う女戦士
+「試練を・・・乗り越えよ・・・っ！（ぷるぷるぷる）」
+> CONTEXT: Map027/events/32/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自分と戦う女戦士
+「た、耐えなければ・・・この・・・卑劣な罠に・・・」
+> CONTEXT: Map027/events/34/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自分と戦う女戦士
+「真の・・せ、せんし・・ぁ、ぅ・・・っ」
+> CONTEXT: Map027/events/34/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自分と戦う女戦士
+「試練を・・・くっ、ぅう・・っ！」
+> CONTEXT: Map027/events/34/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自分と戦う女戦士
+「ぁ、あ！　・・・だ、だめぇ・・・っ！」
+> CONTEXT: Map027/events/34/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自分と戦う女戦士
+「・・・わ、私としたことが・・・っ」
+> CONTEXT: Map027/events/34/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自分と戦う女戦士
+「この程度の試練に敗れるなど・・・ぅぅ・・・っ」
+> CONTEXT: Map027/events/34/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自分と戦う女戦士
+「ぐすん・・・っ」
+> CONTEXT: Map027/events/34/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+熱々のおしっこだ。　森を抜けるまで耐える
+つもりだったのだろうが、我慢できなかった
+ようだ。
+> CONTEXT: Map027/events/34/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,392 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ここまで来れば、とりあえず安心だよね？
+> CONTEXT: Map543/events/80/pages/0/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ともっち、ナイスフラグ！
+> CONTEXT: Map543/events/80/pages/0/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やめいっ！
+> CONTEXT: Map543/events/80/pages/0/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こむ、そろそろ教えてほしい。
+> CONTEXT: Map543/events/80/pages/0/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あの4つ子はいったい何者なんだ？
+> CONTEXT: Map543/events/80/pages/0/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+実を言うと、私もあまり詳しいことは
+分からないのですが・・・
+> CONTEXT: Map543/events/80/pages/0/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+彼女は、魔界で最も恐れられている種族
+“死神”だと思われます。
+> CONTEXT: Map543/events/80/pages/0/131/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+名前からして何かヤバそうだね。
+> CONTEXT: Map543/events/80/pages/0/136/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まったく、冗談じゃありませんわ！
+> CONTEXT: Map543/events/80/pages/0/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔界において、死神は魔族の間でさえも忌み
+嫌われてきた禁断の種族・・・！
+> CONTEXT: Map543/events/80/pages/0/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大昔には傭兵として多く利用されていた
+らしいのですが、そのタガの外れた凶暴性と
+戦闘力から、やがて関わりを持つことを禁忌と
+されてきた、いわくつきの種族ですのよ。
+> CONTEXT: Map543/events/80/pages/0/143/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わたくしの宿敵とは言え、ダジェルバージ家は
+魔界で有数の名門ですのに、まさか死神を
+雇うなどという最大のタブーに触れようとは・・・！
+> CONTEXT: Map543/events/80/pages/0/147/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あれはちょっと引くよね。
+> CONTEXT: Map543/events/80/pages/0/154/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、それじゃあ・・・
+> CONTEXT: Map543/events/80/pages/0/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔族でさえ恐れるという死神を、赤カラットは
+4人も雇ったってことですか・・・！？
+> CONTEXT: Map543/events/80/pages/0/160/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+厄介だナー。
+> CONTEXT: Map543/events/80/pages/0/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いいえ、あれは4人ではなく、“1人”なんです。
+> CONTEXT: Map543/events/80/pages/0/171/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほぇ？　なんで？
+> CONTEXT: Map543/events/80/pages/0/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+確かに4人いたと思うけど・・・
+> CONTEXT: Map543/events/80/pages/0/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神という種族は、『1つの人格が複数の体を
+有する』という、とても特殊な人種ですの。
+> CONTEXT: Map543/events/80/pages/0/181/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+確かに肉体は4つ存在するのですが、人物と
+しては、あれで1人ですのよ。
+> CONTEXT: Map543/events/80/pages/0/183/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何それ？　ぜんぜんピンと来ないんだけど・・・
+> CONTEXT: Map543/events/80/pages/0/188/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+要するに、多重人格の逆だよ。
+> CONTEXT: Map543/events/80/pages/0/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+1つの体に複数の人格が宿ってるんじゃなくて、
+複数の体を1つの人格が支配してるってこと。
+> CONTEXT: Map543/events/80/pages/0/194/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そういう生き物なんだよ、死神って。
+> CONTEXT: Map543/events/80/pages/0/196/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どおりで、動きが完璧に統率されてると
+思ったわ・・・
+> CONTEXT: Map543/events/80/pages/0/201/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我々にしてみれば、自分の4本の指を
+思いどおりに動かすようなものか。
+> CONTEXT: Map543/events/80/pages/0/206/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただ・・・私の記憶違いでしょうか・・・
+> CONTEXT: Map543/events/80/pages/0/213/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神って確か、体は2つだけだったと思うん
+ですけど・・・
+> CONTEXT: Map543/events/80/pages/0/214/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ええ、通常は2体ですわね。
+> CONTEXT: Map543/events/80/pages/0/218/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかしごく稀に、3つの体を持って生まれてくる
+特殊な死神もいるんですのよ。
+> CONTEXT: Map543/events/80/pages/0/219/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+“3体持ち”と呼ばれ、2体持ちよりも優れた
+戦闘力を持っているゆえ、死神の間でさえ
+恐れられると聞いたことがありますわ。
+> CONTEXT: Map543/events/80/pages/0/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そしてさっきのアレは、希少な3体持ちさえも
+凌駕する“4体持ち”ってわけさ。
+> CONTEXT: Map543/events/80/pages/0/228/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんなのが生まれてくるなんて、奇跡中の奇跡
+なんじゃないかな。
+> CONTEXT: Map543/events/80/pages/0/230/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+本気を出した時の戦闘力なんて、もう想像も
+つかないよ・・・
+> CONTEXT: Map543/events/80/pages/0/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃ、弱点とか・・・無いの？
+> CONTEXT: Map543/events/80/pages/0/239/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こっちが聞きたいですわ・・・
+> CONTEXT: Map543/events/80/pages/0/244/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんな怖い種族が、いったいどうやって
+魔界から人間界へ来たのでしょうか・・・？
+> CONTEXT: Map543/events/80/pages/0/249/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はあ？　どうやってって・・・
+> CONTEXT: Map543/events/80/pages/0/255/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんなの、“魔界門”を通って来たに
+決まってますわ。
+> CONTEXT: Map543/events/80/pages/0/256/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔界門・・・だと？
+> CONTEXT: Map543/events/80/pages/0/261/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ね、姉さん！　そんな重要な事、熾天少女に
+バラしちゃ・・・！
+> CONTEXT: Map543/events/80/pages/0/267/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・はっ！！　な、な、なんでもあああありま
+せんわ！！！！
+> CONTEXT: Map543/events/80/pages/0/274/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんな、ま、魔界門なんて、ぜんぜんそんな物
+どこにもありませんわよ！！？？
+> CONTEXT: Map543/events/80/pages/0/276/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どこにあるんダー？
+> CONTEXT: Map543/events/80/pages/0/282/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だ、だから、知りませんわ！！　わたくし！
+魔界門がどこにあるかなど・・・
+> CONTEXT: Map543/events/80/pages/0/288/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あっ！　そう！　大陸南部！！！　大陸の
+南部にありますのよ、魔界門は！！！
+分かりまして！？！？　南部にありますの！！
+> CONTEXT: Map543/events/80/pages/0/290/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（北部ね。）
+> CONTEXT: Map543/events/80/pages/0/296/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（北部だな。）
+> CONTEXT: Map543/events/80/pages/0/300/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（北部ですね。）
+> CONTEXT: Map543/events/80/pages/0/304/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とにかく、その魔界門ってのを厳重に
+閉じちゃえば、これ以上魔界から魔族が
+やってくることは無くなるんだね？
+> CONTEXT: Map543/events/80/pages/0/312/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よーし！　じゃあ、元凶を断っちゃおう！
+> CONTEXT: Map543/events/80/pages/0/317/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔界門をぶっ壊せーー！！
+> CONTEXT: Map543/events/80/pages/0/318/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょ！！　そんなことしたら、わたくし達が
+向こうへ帰れなくなってしまいますわ！！！
+> CONTEXT: Map543/events/80/pages/0/324/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なら、壊す前にさっさと魔界へ帰るんだな。
+> CONTEXT: Map543/events/80/pages/0/329/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うぐぐ・・・っ！
+> CONTEXT: Map543/events/80/pages/0/335/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+て、敵襲・・・！？
+> CONTEXT: Map543/events/80/pages/0/349/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+みんな、気を付けて！！
+> CONTEXT: Map543/events/80/pages/0/354/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うわわわわっ！！！　な、なにこれ！！？
+> CONTEXT: Map543/events/80/pages/0/390/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+足が！！！
+> CONTEXT: Map543/events/80/pages/0/391/Dialogue < UNTRANSLATED
+
+> END STRING

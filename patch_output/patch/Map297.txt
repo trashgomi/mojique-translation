@@ -1,0 +1,378 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+女の子
+「ど、どうしよう・・・はしごが壊れて降りられなく
+　なっちゃった・・・」
+> CONTEXT: Map297/events/6/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女の子
+「うぅ・・・こんなことなら、登る前に霊峰の水を
+　がぶ飲みするんじゃなかったよぉ・・・」
+> CONTEXT: Map297/events/6/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女の子
+「あ！　すみません！　助けてください！！」
+> CONTEXT: Map297/events/6/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女の子
+「伐採する木を見定めようとして登ってたら
+　はしごが壊れて降りられなくなっちゃったん
+　です！！」
+> CONTEXT: Map297/events/6/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女の子
+「えっと、とりあえず村にいる“ヨサク”っていう
+　男の人を呼んできてもらえませんか？」
+> CONTEXT: Map297/events/6/pages/0/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map297/events/6/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女の子
+「茶髪で緑のジャケットを着ている人です！
+　で、できれば急いでいただけると・・・！」
+> CONTEXT: Map297/events/6/pages/0/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map297/events/6/pages/1/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+次に切る木はこれが手頃かな。
+> CONTEXT: Map297/events/7/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここは伐採場さ。　その名の通り、木材のために
+木を切るところだよ。
+> CONTEXT: Map297/events/8/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヨサク
+「だめだ、これはすぐに直せる壊れ方じゃ
+　ないね。」
+> CONTEXT: Map297/events/36/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヨサク
+「代わりのはしごも無いし、時間がかかるけど
+　丁寧に直していくしかないよ。」
+> CONTEXT: Map297/events/36/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女の子
+「ええ！？　そ、そんな・・・！」
+> CONTEXT: Map297/events/36/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヨサク
+「だからいつも道具のメンテナンスはしっかり
+　やっておくように言ってたじゃないか。」
+> CONTEXT: Map297/events/36/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヨサク
+「自業自得だよ。　反省も兼ねて、しばらくそこで
+　修理の様子でも見ていなさい。」
+> CONTEXT: Map297/events/36/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女の子
+「でも・・・わ、わたし・・・あの・・・」
+> CONTEXT: Map297/events/36/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女の子
+「ちょっと急いでるんだけど・・・（そわそわ）」
+> CONTEXT: Map297/events/36/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヨサク
+「何をそわそわしているんだ。」
+> CONTEXT: Map297/events/36/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヨサク
+「ま、まさか・・・」
+> CONTEXT: Map297/events/36/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女の子
+「うぅー・・・だ、だって！」
+> CONTEXT: Map297/events/36/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女の子
+「作業の前にはしっかり水分補給するようにって
+　いつも言うからぁ・・・////」
+> CONTEXT: Map297/events/36/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヨサク
+「まったく仕方ないな・・・」
+> CONTEXT: Map297/events/36/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヨサク
+「なるべく速く修理するから、我慢しなさい。」
+> CONTEXT: Map297/events/36/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女の子
+「う・・・うん・・・」
+> CONTEXT: Map297/events/36/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヨサク
+「あ、ひとつお願いしてもいいかな？」
+> CONTEXT: Map297/events/36/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヨサク
+「俺の家のタルの中にワイヤーがあるから
+　持ってきてくれるとありがたいんだ。」
+> CONTEXT: Map297/events/36/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヨサク
+「すまないね。」
+> CONTEXT: Map297/events/36/pages/0/62/Dialogue < UNTRANSLATED
+> CONTEXT: Map297/events/36/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヨサク
+「俺の家のタルにワイヤーがあるから持ってきて
+　くれるとありがたいんだ。」
+> CONTEXT: Map297/events/36/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワイヤーを手渡した。
+> CONTEXT: Map297/events/36/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヨサク
+「ありがとう、助かるよ。」
+> CONTEXT: Map297/events/36/pages/2/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女の子
+「ね、ねえ・・・っ、どのくらいで直せそう・・・？」
+> CONTEXT: Map297/events/36/pages/2/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヨサク
+「そうだな・・・とりあえず安全に降りるためには
+　20分くらい必要かな。」
+> CONTEXT: Map297/events/36/pages/2/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女の子
+「む、む、むりむりっ！！　も、もうけっこう
+　やばいよぉっ！！」
+> CONTEXT: Map297/events/36/pages/2/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女の子
+「さ、さ、3分くらいで直してっ！！　はやくっ！」
+> CONTEXT: Map297/events/36/pages/2/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヨサク
+「無茶を言うな。　どんな達人でもそれは
+　無理だ。」
+> CONTEXT: Map297/events/36/pages/2/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女の子
+「でも、わたし・・・っ　あ、もぅ・・・やばぃ・・・っ！」
+> CONTEXT: Map297/events/36/pages/2/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女の子
+「ねぇ・・・で、でちゃぅ・・・////」
+> CONTEXT: Map297/events/36/pages/2/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女の子
+「だめぇ・・・っ！！」
+> CONTEXT: Map297/events/36/pages/2/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヨサク
+「ま、待ちなさい。　できるだけ急ぐから我慢
+　するんだ・・・」
+> CONTEXT: Map297/events/36/pages/2/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女の子
+「そんな・・・こと・・・い、言われて・・・も・・・っ！」
+> CONTEXT: Map297/events/36/pages/2/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女の子
+「もぅ・・・ぁ・・・が、がま・・・ん・・・でき・・・っ！！」
+> CONTEXT: Map297/events/36/pages/2/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女の子
+「・・・ぁぁっ！！」
+> CONTEXT: Map297/events/36/pages/2/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女の子
+「はあぁ・・・っ////」
+> CONTEXT: Map297/events/36/pages/2/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヨサク
+「おいおい・・・」
+> CONTEXT: Map297/events/36/pages/2/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヨサク
+「いったいどれだけ水分補給したんだ・・・」
+> CONTEXT: Map297/events/36/pages/2/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女の子
+「ふえぇっ////　だってぇ・・・////」
+> CONTEXT: Map297/events/36/pages/2/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヨサク
+「まあ、とりあえずこの事は内密に頼むよ。」
+> CONTEXT: Map297/events/36/pages/2/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヨサク
+「それと、手伝ってくれてありがとうね。　あとは
+　俺が何とかするよ。」
+> CONTEXT: Map297/events/36/pages/2/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【珠欠片】×1
+をもらったが、持ち物がいっぱいだ！
+> CONTEXT: Map297/events/36/pages/2/91/Dialogue < UNTRANSLATED
+> CONTEXT: Map146/events/3/pages/0/56/Dialogue < UNTRANSLATED
+> CONTEXT: Map058/events/9/pages/0/39/Dialogue < UNTRANSLATED
+> CONTEXT: Map060/events/18/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヨサク
+「やれやれ・・・」
+> CONTEXT: Map297/events/36/pages/3/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女の子
+「は、早く降りたいよぉ・・・っ////」
+> CONTEXT: Map297/events/36/pages/3/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+熱々のおしっこだ・・・
+> CONTEXT: Map297/events/40/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女の子
+「いやぁんっ////」
+> CONTEXT: Map297/events/40/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING

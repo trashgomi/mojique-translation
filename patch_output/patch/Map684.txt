@@ -1,0 +1,103 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+・・・ヒマじゃね？
+> CONTEXT: Map684/events/4/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヒマなら鍛錬の1つも実行してはいかがかと。
+> CONTEXT: Map684/events/4/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今のカラット様は、お世辞にも魔界名家の当主
+とは思えないほど貧弱です。
+> CONTEXT: Map684/events/4/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う、うるさいなっ！！　またその話かよ！！
+> CONTEXT: Map684/events/4/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+誰にだって苦手なモノの1つや2つあるだろ！！
+> CONTEXT: Map684/events/4/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+私には特にありません。
+> CONTEXT: Map684/events/4/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+い、言ったな！？　ぜったいそんなワケない
+もん！！
+> CONTEXT: Map684/events/4/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたしの方が勝るモノがぜったいあるもん！
+> CONTEXT: Map684/events/4/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+申し上げにくいのですが、同じ条件での
+勝負事において、私がカラット様に負ける
+要素は何1つ無いかと。
+> CONTEXT: Map684/events/4/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+くっそー！！　じゃあやってやる！！
+> CONTEXT: Map684/events/4/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたしが指定する勝負で、もしあたしが勝ったら
+土下座だからな！　土下座！！
+> CONTEXT: Map684/events/4/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+構いません。
+> CONTEXT: Map684/events/4/pages/0/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（よーーーし、ぜったいこいつのプライドを
+　ボロボロにしてやるからなー！！）
+> CONTEXT: Map684/events/4/pages/0/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（・・・とは言え、同じ条件での勝負であたしが
+　こいつに勝てるモノなんて・・・あったかな？）
+> CONTEXT: Map684/events/4/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（うーーーん・・・）
+> CONTEXT: Map684/events/4/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（あっ！！　アレだ！！！）
+> CONTEXT: Map684/events/4/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING

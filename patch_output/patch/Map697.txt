@@ -1,0 +1,100 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+それで、改めてお聞きしますが・・・
+> CONTEXT: Map697/events/10/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あなたは魔力研究の対象としてわたくし達の
+協力を得たい。
+> CONTEXT: Map697/events/10/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そして、その研究成果の報酬として魔力
+増強薬をわたくし達に提供していただける。
+> CONTEXT: Map697/events/10/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そういう理解でよろしかったかしら？
+> CONTEXT: Map697/events/10/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だね！
+> CONTEXT: Map697/events/10/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map404/events/4/pages/0/185/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ていうか、薬自体の精製はほとんど完結
+してるから、
+> CONTEXT: Map697/events/10/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あとは生身の魔族の体で調整を重ねれば
+完成する段階まで来てるよん！
+> CONTEXT: Map697/events/10/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+へえ。　人間にしては有能じゃん。
+> CONTEXT: Map697/events/10/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んじゃ、取引は成立ってことでいいかな？
+> CONTEXT: Map697/events/10/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（もし魔力増強薬の効果が本物だとしたら、
+　これはダジェルバージ家をおとしめる切り札に
+　なりえますわ。）
+> CONTEXT: Map697/events/10/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（そして万が一、薬がおニセモノであれば
+　さっさとこの研究館ごと潰してしまえば
+　いいだけのこと。）
+> CONTEXT: Map697/events/10/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+良いでしょう。　そのお話、乗りましたわ！
+> CONTEXT: Map697/events/10/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ま、やるだけやってみようか。
+> CONTEXT: Map697/events/10/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はーい全会一致！　ありがとね～！
+> CONTEXT: Map697/events/10/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んじゃ早速だけど、実験室に移動するよ！
+ついてきてね～！
+> CONTEXT: Map697/events/10/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING

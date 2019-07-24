@@ -1,0 +1,126 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+あ、あ、ぁ・・・あの・・・っ！！
+> CONTEXT: Map675/events/1/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えへ！　どうしたの～？　見られてると
+恥ずかしいのかな？　えへへ！
+> CONTEXT: Map675/events/1/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でもでも、見張ってなくちゃならないから、
+我慢してね～！　えへ！
+> CONTEXT: Map675/events/1/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、そうではなくて、その・・・
+> CONTEXT: Map675/events/1/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+両手が使えないので、つ、つまり・・・あ、あの
+・・・//////
+> CONTEXT: Map675/events/1/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ！　そっか！　脱がせてあげなくちゃね！
+えへへ！
+> CONTEXT: Map675/events/1/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぁあああっ！！　で、でるっ！！　も、もう
+だめぇぇっ！！
+> CONTEXT: Map675/events/1/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わわわ！　ちょっとまって～！！　がまんして
+～！！
+> CONTEXT: Map675/events/1/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はふううぅぅ～～～/////
+> CONTEXT: Map675/events/1/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+や・・・やっと・・・おしっこできたぁ～・・・////
+はああぁ////
+> CONTEXT: Map675/events/1/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あああぁぁ～・・・////　すっきりしましたぁ////
+> CONTEXT: Map675/events/1/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えへ！　終わったかな～？
+> CONTEXT: Map675/events/1/pages/0/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、はい・・・なんとか無事に・・・
+> CONTEXT: Map675/events/1/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃあ最後に、ふきふきしなくちゃね！　えへ！
+> CONTEXT: Map675/events/1/pages/0/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふきふき・・・？
+> CONTEXT: Map675/events/1/pages/0/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハッ！！　い、いや、それはさすがに自分で！
+あ・・・できない！？　あ、あ、でも・・・ちょっと
+それはっ！！
+> CONTEXT: Map675/events/1/pages/0/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いいからお姉さんに任せて～！　えへへへ！
+えへ！
+> CONTEXT: Map675/events/1/pages/0/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あわわわわわ！！　あわわ！　ちょ、ちょ、
+ちょ・・・ま、あ！あ！！
+> CONTEXT: Map675/events/1/pages/0/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ビオラ
+「ああああぁぁぁぁーーーー～～～っ/////」
+> CONTEXT: Map675/events/1/pages/0/118/Dialogue < UNTRANSLATED
+
+> END STRING

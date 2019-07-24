@@ -1,0 +1,186 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+これが姫の言っていた“エント村”だな。
+> CONTEXT: Map142/events/14/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さっそくここで準備を整えるとしよう。
+> CONTEXT: Map142/events/14/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここはエント村。　自然に囲まれた緑の村よ。
+> CONTEXT: Map142/events/15/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夏になるとね、虫がいっぱい飛んでくるんだよ。
+> CONTEXT: Map142/events/23/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聞いたかい？　各地方で暴れ回っていた
+盗賊団が壊滅したんだって！！
+> CONTEXT: Map142/events/24/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今日もいいお天気ね。　明日も晴れるかしら？
+> CONTEXT: Map142/events/25/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この村、のどかでいいなぁ～。
+> CONTEXT: Map142/events/26/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どこかお散歩に行きたいわね。　どこにしよう
+かしら・・・
+> CONTEXT: Map142/events/27/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ボクにも力があれば、魔物をやっつけられる
+のに・・・
+> CONTEXT: Map142/events/28/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、あっ！　きゃああーーーーーー！！
+> CONTEXT: Map142/events/36/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+な、なに？　すごい音がしたけど！
+> CONTEXT: Map142/events/36/pages/1/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うぅ・・・いたた・・・
+> CONTEXT: Map142/events/36/pages/1/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ・・・っ！　ひめ！？
+> CONTEXT: Map142/events/36/pages/1/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひめちゃんだぁー！！
+> CONTEXT: Map142/events/36/pages/1/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+み・・・みなさん・・・？
+> CONTEXT: Map142/events/36/pages/1/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+桐生織姫。　お前もこちらへ来ていたのか。
+> CONTEXT: Map142/events/36/pages/1/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひめ！　わたし達と一緒に行こうよ！
+> CONTEXT: Map142/events/36/pages/1/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+屋根から落ちたみたいだけど、大丈夫！？
+> CONTEXT: Map142/events/36/pages/1/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひめちゃん、こんなところで何やってたのー？
+> CONTEXT: Map142/events/36/pages/1/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え、えと・・・そんな・・・一気に言われても・・・
+> CONTEXT: Map142/events/36/pages/1/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とりあえず立ち話もなんだな。
+> CONTEXT: Map142/events/36/pages/1/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+場所を借りてゆっくり話をすることを提案する。
+> CONTEXT: Map142/events/36/pages/1/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、それもそうね・・・
+> CONTEXT: Map142/events/36/pages/1/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男の子
+「おねえちゃん、ズボンが落ちそうだよー？」
+> CONTEXT: Map142/events/54/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふえ！？　え、あ・・・こ、これはね・・・その・・・
+> CONTEXT: Map142/events/54/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男の子
+「あ、パンツ見えてるー！」
+> CONTEXT: Map142/events/54/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ！　ちょ、そ、そんな大きな声っ！！///
+> CONTEXT: Map142/events/54/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+い、今から家に帰って直すとこなの！！！
+じゃあねっ！！！
+> CONTEXT: Map142/events/54/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あー！　ズボンが！
+> CONTEXT: Map142/events/55/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんか、もじもじしてたねー。
+> CONTEXT: Map142/events/55/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,97 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+村長
+「よもや、炭鉱のがしゃこうべだけでなく、敵の
+　四天王をも倒してしまうとは・・・」
+> CONTEXT: Map338/events/8/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+村長
+「おぬしらには驚かされっぱなしじゃ・・・」
+> CONTEXT: Map338/events/8/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたしも自分でビックリしちゃった♪
+> CONTEXT: Map338/events/8/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大した怪我人もいなくて、よかったです。
+> CONTEXT: Map338/events/8/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+がしゃこうべの討伐によって、炭鉱の脅威は
+去った。
+> CONTEXT: Map338/events/8/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あとは、残った魔物を少しずつ追い出して
+いけば、ゆくゆくは採掘の再開も可能になる
+だろう。
+> CONTEXT: Map338/events/8/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よかったですね！
+> CONTEXT: Map338/events/8/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+村長
+「本当にありがとう。　おぬしらには、どんなに
+　礼を言っても言い切れぬわい。」
+> CONTEXT: Map338/events/8/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+村長
+「富に乏しい村ゆえ、豪勢な礼もできぬが、
+　せめてもの気持ちをかき集めて品を用意
+　した。」
+> CONTEXT: Map338/events/8/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+村長
+「玄関先に並べておいたので、どうか持って
+　いってほしい。」
+> CONTEXT: Map338/events/8/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、ありがとうございます！
+> CONTEXT: Map338/events/8/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さて、我々は熾力研究館に帰還するとしよう。
+> CONTEXT: Map338/events/8/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+がしゃこうべの牙を館長に届けねば。
+> CONTEXT: Map338/events/8/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だね。　きっと首を長くして待ってるよ。
+> CONTEXT: Map338/events/8/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING

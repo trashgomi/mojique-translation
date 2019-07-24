@@ -1,0 +1,201 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+では、各地の制圧よりも、まずは熾天少女の
+打破を最優先目標とすることでよろしいですね、
+カラット様。
+> CONTEXT: Map671/events/3/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うむ。　異存はないぞ！
+> CONTEXT: Map671/events/3/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やっぱり安心してから人間界征服に臨みたいよ
+ね～！！　えへへ！！
+> CONTEXT: Map671/events/3/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ならば、まずは何より敵を知る必要があります。
+> CONTEXT: Map671/events/3/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+私は再び各地を回り、やつらに関する情報を
+集めてきましょう。
+> CONTEXT: Map671/events/3/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えへ！　よろしくね～！！
+> CONTEXT: Map671/events/3/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ついでに今夜のハンバーグの材料の調達も
+頼むぞ！
+> CONTEXT: Map671/events/3/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+分かりました。　では、行って参ります。
+> CONTEXT: Map671/events/3/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+も、も、もうお話は終わりましたか！？
+> CONTEXT: Map671/events/3/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お願いです、トイレに、い、行かせてください！！
+本当に限界なんですぅっ！！！
+> CONTEXT: Map671/events/3/pages/0/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+限界？　見え透いたウソを言うな！
+> CONTEXT: Map671/events/3/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お前を監禁してから、まだ1時間半くらいしか
+経ってないぞ？
+> CONTEXT: Map671/events/3/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+来た時はあんなに余裕そうだったのに、そんな
+急に限界になるわけないだろう！
+> CONTEXT: Map671/events/3/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+来る前からしたかったんです！　あ、あと、
+水を大量に飲んでしまって・・・っ！！
+> CONTEXT: Map671/events/3/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だから、ほんとに、も、もぅ・・・っ！！
+（くねくね、すりすりっ）
+> CONTEXT: Map671/events/3/pages/0/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そう言われたって、お前、捕虜なんだぞ？
+> CONTEXT: Map671/events/3/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自由にさせるわけにはいかないもん・・・
+> CONTEXT: Map671/events/3/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、そんなぁ・・・っ！！
+> CONTEXT: Map671/events/3/pages/0/104/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/627/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（このままじゃ、確実にお漏らししちゃうっ！！）
+> CONTEXT: Map671/events/3/pages/0/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（いったいどうすれば・・・っ！！）
+> CONTEXT: Map671/events/3/pages/0/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひたすら耐える
+> CONTEXT: Map671/events/3/pages/0/110/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わめく
+> CONTEXT: Map671/events/3/pages/0/110/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（だ、だめだ・・・何も浮かばないっ！！）
+> CONTEXT: Map671/events/3/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（とにかく、誰か助けが来るまで、ひたすら
+　我慢・・・っ！！）
+> CONTEXT: Map671/events/3/pages/0/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（だ、だめ・・・考えてる余裕なんて
+　もう無い・・・っ）
+> CONTEXT: Map671/events/3/pages/0/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+と、と、と、とにかく限界なんです！　漏れちゃい
+そうなんですっ！！
+> CONTEXT: Map671/events/3/pages/0/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お願いですから、ト、トイレに・・・おしっこに
+行かせてくださいぃっ！！
+> CONTEXT: Map671/events/3/pages/0/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う、うるさい！　ダメなものはダメ！
+> CONTEXT: Map671/events/3/pages/0/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それ以上騒ぐと、服脱がせちゃうぞ！！
+> CONTEXT: Map671/events/3/pages/0/143/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あううぅ・・・っ
+> CONTEXT: Map671/events/3/pages/0/147/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（だ、誰か早く助けに来てぇ・・・！！）
+> CONTEXT: Map671/events/3/pages/0/148/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,14 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+熾力・・・
+> CONTEXT: Map236/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+年甲斐もなく、その魅力に引かれて研究を
+続けていますが、いまだに未知の域でござい
+ます。
+> CONTEXT: Map236/events/2/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING

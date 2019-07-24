@@ -1,0 +1,40 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ん～～、やっぱ捻出点と癒着点との落差が
+大きすぎるんかな～？
+> CONTEXT: Map711/events/2/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この程度の安定性じゃ、ぜんっぜん実用レベル
+じゃないわ・・・
+> CONTEXT: Map711/events/2/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+行き詰まったね、こりゃ。
+> CONTEXT: Map711/events/2/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+せめて魔力解析用の被検体でも手に入れば
+構造理解が及ぶのになぁ・・・
+> CONTEXT: Map711/events/2/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いくらコーヒーでカフェイン摂っても、
+出てくるのは成果じゃなくて尿ばっかだし。
+> CONTEXT: Map711/events/2/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふう、トイレ行こ。
+> CONTEXT: Map711/events/2/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING

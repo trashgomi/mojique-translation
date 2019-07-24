@@ -1,0 +1,1019 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+・・・ひぐっ
+> CONTEXT: Map629/events/5/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+誰か・・・助けて・・・
+> CONTEXT: Map629/events/5/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「あららー、泣いちゃってかわいいね～！」
+> CONTEXT: Map629/events/5/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「まあ安心しなよ。　非常に残念だけど、お頭の
+　命令で人質には手を出すなって言われてる
+　からさ。」
+> CONTEXT: Map629/events/5/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「とりあえず、要求が飲まれて海路封鎖が
+　解ければキミも解放されるんじゃない？」
+> CONTEXT: Map629/events/5/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぐすん・・・
+> CONTEXT: Map629/events/5/pages/0/25/Dialogue < UNTRANSLATED
+> CONTEXT: Map293/events/25/pages/1/207/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほ、本当ですか・・・？
+> CONTEXT: Map629/events/5/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もし・・・要求が受け入れられなかったら・・・？
+> CONTEXT: Map629/events/5/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「さあね？　どうなっちゃうんだろうね～？」
+> CONTEXT: Map629/events/5/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ううぅ・・・やだ・・・助けてください・・・！
+> CONTEXT: Map629/events/5/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・（ぴくんっ）
+> CONTEXT: Map629/events/5/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（・・・そ、そういえば・・・）
+> CONTEXT: Map629/events/5/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（お洗濯の水汲みの前に、余った紅茶・・・
+　たくさん飲んじゃったんだ・・・）
+> CONTEXT: Map629/events/5/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（・・・ト、トイレ・・・行きたくなってきちゃった・・・）
+> CONTEXT: Map629/events/5/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ど、どうしよう・・・）
+> CONTEXT: Map629/events/5/pages/0/68/Dialogue < UNTRANSLATED
+> CONTEXT: Map385/events/27/pages/0/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map098/events/5/pages/0/403/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（この中、トイレなんて無いし・・・）
+> CONTEXT: Map629/events/5/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（が・・・我慢するしか・・・ないの・・・？）
+> CONTEXT: Map629/events/5/pages/0/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「ん？　きょろきょろしてどうしたの？」
+> CONTEXT: Map629/events/5/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「脱走とか考えてるなら、やめときな。」
+> CONTEXT: Map629/events/5/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ！　い、いえ・・・その・・・
+> CONTEXT: Map629/events/5/pages/0/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何でもないです！　き、気にしないでください！
+> CONTEXT: Map629/events/5/pages/0/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（・・・もじもじ・・・もじもじ・・・）
+> CONTEXT: Map629/events/5/pages/0/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（こ、紅茶・・・）
+> CONTEXT: Map629/events/5/pages/0/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（確か・・サオトメさんたちと一緒に2杯飲んで、）
+> CONTEXT: Map629/events/5/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（そのあと、ポットに余ったのを・・・4杯も
+　飲んじゃったんだ・・・）
+> CONTEXT: Map629/events/5/pages/0/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（あんなにたくさん・・・無理して飲まなければ
+　よかった・・・っ）
+> CONTEXT: Map629/events/5/pages/0/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（トイレ・・・トイレ・・・っ）
+> CONTEXT: Map629/events/5/pages/0/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ああぁ・・・トイレ行きたい・・・っ！）
+> CONTEXT: Map629/events/5/pages/0/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（そわそわ・・・もじもじっ）
+> CONTEXT: Map629/events/5/pages/0/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（・・・。）
+> CONTEXT: Map629/events/5/pages/0/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（・・・・・・・・・。）
+> CONTEXT: Map629/events/5/pages/0/167/Dialogue < UNTRANSLATED
+> CONTEXT: Map629/events/5/pages/0/177/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（やだ・・・わ、私ったら、何を考えて・・・////）
+> CONTEXT: Map629/events/5/pages/0/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（で、でも・・・このままじゃ・・・）
+> CONTEXT: Map629/events/5/pages/0/178/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（トイレ・・・っ、うぅ・・・っ）
+> CONTEXT: Map629/events/5/pages/0/179/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（トイレ・・・っ、トイレ・・・っ、トイレ・・・っ！）
+> CONTEXT: Map629/events/5/pages/0/192/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（あぁ・・・トイレ行きたいっ、ほんとに・・・トイレ、
+　すごく行きたい・・・・っ！！）
+> CONTEXT: Map629/events/5/pages/0/207/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ど、どうしよう・・・っ、このままじゃ・・・私・・・）
+> CONTEXT: Map629/events/5/pages/0/209/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ううぅ・・・っ////）
+> CONTEXT: Map629/events/5/pages/0/210/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「お嬢ちゃん、落ち着きないねぇ。」
+> CONTEXT: Map629/events/5/pages/0/216/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「おしっこかい？」
+> CONTEXT: Map629/events/5/pages/0/218/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふえぇっ！　ち、ち、ち、違いますっ！！！
+> CONTEXT: Map629/events/5/pages/0/226/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんなんじゃ、あ、ありませんっ！！！
+> CONTEXT: Map629/events/5/pages/0/227/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「ハハハ！！　真っ赤になっちゃって！　ほんと
+　かわいいねぇ！！」
+> CONTEXT: Map629/events/5/pages/0/229/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「おしっこじゃないの？　違うの？」
+> CONTEXT: Map629/events/5/pages/0/237/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+違いますっ！！
+> CONTEXT: Map629/events/5/pages/0/241/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「本当にぃ？　本当におしっこじゃないの～？」
+> CONTEXT: Map629/events/5/pages/0/243/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だ、だから・・・ちがい・・・ます・・・っ！！
+> CONTEXT: Map629/events/5/pages/0/247/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「あ、そ。」
+> CONTEXT: Map629/events/5/pages/0/249/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うぅぅ・・・っ
+> CONTEXT: Map629/events/5/pages/0/260/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（み、見られてる・・・どうしよう・・・っ、み、身動き
+　できないよぉ・・・っ！！）
+> CONTEXT: Map629/events/5/pages/0/261/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（トイレに行きたいよぉっ！　も、もう・・・我慢
+　できない・・・っ！！）
+> CONTEXT: Map629/events/5/pages/0/267/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（誰か・・・誰かぁ・・・っ！！）
+> CONTEXT: Map629/events/5/pages/0/269/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「フフフ！　お嬢ちゃん、もしもの話ね？」
+> CONTEXT: Map629/events/5/pages/0/271/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「もし、どうしてもおしっこが我慢できなく
+　なったら、そこのツボがお嬢ちゃんのトイレ
+　だから。」
+> CONTEXT: Map629/events/5/pages/0/277/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「遠慮なく、しゃーーーってしちゃっていいから
+　ね。　分かったかい？」
+> CONTEXT: Map629/events/5/pages/0/281/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+へ、へ、変なこと言わないでくださいっ！！
+> CONTEXT: Map629/events/5/pages/0/287/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こんなとこで、私・・・し、しませんっ！！/////
+> CONTEXT: Map629/events/5/pages/0/288/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「えー、そんなこと言っちゃっていいのかな？」
+> CONTEXT: Map629/events/5/pages/0/290/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「お嬢ちゃん、まだ我慢できるの～？」
+> CONTEXT: Map629/events/5/pages/0/292/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+で、でき・・・ます・・・っ////
+> CONTEXT: Map629/events/5/pages/0/297/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トイレ・・・くらい、が、我慢・・・でき・・・
+> CONTEXT: Map629/events/5/pages/0/298/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひううぅっ！！！（ぷるるるっ）
+> CONTEXT: Map629/events/5/pages/0/304/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぁ・・・ん・・・ぅ・・・っ（ぎゅううぅぅ～っ）
+> CONTEXT: Map629/events/5/pages/0/311/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「ハハハ！　幼児みたいな格好して！」
+> CONTEXT: Map629/events/5/pages/0/313/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「もう押さえてないと出ちゃうの？　そんなに
+　おしっこしたいの？？」
+> CONTEXT: Map629/events/5/pages/0/315/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+い、いや・・・そんな・・・ふうに・・・言わないで
+・・・っ//////
+> CONTEXT: Map629/events/5/pages/0/321/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「もうあきらめて、そこにしちゃいなよ。」
+> CONTEXT: Map629/events/5/pages/0/324/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「お兄さんが見ててあげるから。　フフ！」
+> CONTEXT: Map629/events/5/pages/0/326/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（できない・・・、ぜったい・・・できないぃっ！！）
+> CONTEXT: Map629/events/5/pages/0/331/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（我慢・・・がまん・・・っ、がま・・・んぅっ！！）
+> CONTEXT: Map629/events/5/pages/0/332/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（出ちゃう・・・出ちゃう・・・出ちゃう・・・っ！！）
+> CONTEXT: Map629/events/5/pages/0/343/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（漏れちゃう・・・っ、トイレ・・・っ、あ、ぁ・・・っ）
+> CONTEXT: Map629/events/5/pages/0/357/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（おしっこしたいぃっ！！！）
+> CONTEXT: Map629/events/5/pages/0/371/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（もうだめっ！！　おしっこ、おねがい・・・もう
+　おしっこ出ちゃうっ！！）
+> CONTEXT: Map629/events/5/pages/0/372/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（漏れちゃう！！漏れちゃうよぉっ！！）
+> CONTEXT: Map629/events/5/pages/0/374/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「がんばるね～！　見かけによらず、膀胱が
+　大きいんだね～！」
+> CONTEXT: Map629/events/5/pages/0/376/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「お兄さん、感動しちゃったな～！」
+> CONTEXT: Map629/events/5/pages/0/383/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（・・・・・・っ）
+> CONTEXT: Map629/events/5/pages/0/388/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あの・・・あの・・・っ
+> CONTEXT: Map629/events/5/pages/0/399/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お、お願いです・・・っ、少し・・・少しの間だけ
+ここから離れてくださいっ！！
+> CONTEXT: Map629/events/5/pages/0/400/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「ん～？　なんで～？」
+> CONTEXT: Map629/events/5/pages/0/403/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、その・・・あの・・・っ/////
+> CONTEXT: Map629/events/5/pages/0/408/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+私、も、もう・・・だから・・・っ////
+> CONTEXT: Map629/events/5/pages/0/409/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「ちゃんと口で言ってごらん？　伝えたいことは
+　言葉で相手に伝えなきゃ。」
+> CONTEXT: Map629/events/5/pages/0/411/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ううぅ・・・っ////
+> CONTEXT: Map629/events/5/pages/0/417/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おねがい・・・いじわるしないでくださいっ！！
+> CONTEXT: Map629/events/5/pages/0/418/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はやく・・・はやくぅ・・・っ！！！
+> CONTEXT: Map629/events/5/pages/0/419/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「はやくって？　お嬢ちゃんはお兄さんの目を
+　盗んで、いったいナニをするつも・・・」
+> CONTEXT: Map629/events/5/pages/0/445/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+慌てた盗賊
+「お、おい！　手を貸せ！！」
+> CONTEXT: Map629/events/5/pages/0/449/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「びっくりした！！　そんなに慌ててどうしたん
+　だよ・・・」
+> CONTEXT: Map629/events/5/pages/0/455/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+慌てた盗賊
+「もう一人の人質のガキが脱走しやがった！」
+> CONTEXT: Map629/events/5/pages/0/458/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+慌てた盗賊
+「しかも俺たちの包囲網を力ずくで跳ね飛ばして
+　逃走してやがる！」
+> CONTEXT: Map629/events/5/pages/0/460/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「おいおいウソだろ？　あの変な服を着た
+　子供が？」
+> CONTEXT: Map629/events/5/pages/0/463/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+慌てた盗賊
+「とにかく来い！　逃がしたらお頭の雷が
+　落ちるぞ！！」
+> CONTEXT: Map629/events/5/pages/0/466/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「ったく、いい所だったのに・・・」
+> CONTEXT: Map629/events/5/pages/0/469/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+い、い、今なら・・・っ！！
+> CONTEXT: Map629/events/5/pages/0/524/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・っ
+> CONTEXT: Map629/events/5/pages/0/558/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・っ/////
+> CONTEXT: Map629/events/5/pages/0/559/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/3484/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/3508/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うぅぅ・・・やっぱり・・・は、は、恥ずかしい・・・っ
+> CONTEXT: Map629/events/5/pages/0/560/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どう・・・しよう・・・っ/////
+> CONTEXT: Map629/events/5/pages/0/561/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しない
+> CONTEXT: Map629/events/5/pages/0/565/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+する
+> CONTEXT: Map629/events/5/pages/0/565/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ううぅ・・・っ、で、できないぃっ////
+> CONTEXT: Map629/events/5/pages/0/571/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+も、もし・・・してる最中に戻って来たら・・・
+見られちゃう・・・っ！！
+> CONTEXT: Map629/events/5/pages/0/572/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ・・・ぁ・・・んっ！
+> CONTEXT: Map629/events/5/pages/0/574/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+がまん・・・がまん・・・が、がまんんんっ！！
+> CONTEXT: Map629/events/5/pages/0/575/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んん・・・んぅっ、う・・・は・・・ふぅ・・・っ！！
+> CONTEXT: Map629/events/5/pages/0/593/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ぎゅうううぅぅっ、ぷるぷるぷるぷるっ）
+> CONTEXT: Map629/events/5/pages/0/594/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（くねくねっ　もじもじっ　くねくねくねっ）
+> CONTEXT: Map629/events/5/pages/0/595/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おしっこ・・・ぉしっこ・・・おしっこ・・・ぉしっこっ！
+> CONTEXT: Map629/events/5/pages/0/609/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+がまん・・・っ、おしっこ・・・っ、が、がまん・・・っ！
+> CONTEXT: Map629/events/5/pages/0/610/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トイレ・・・がまん・・・っ！　がまん！　ぁあっ！
+> CONTEXT: Map629/events/5/pages/0/624/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おしっこ、が、がま・・・っ、ん、ぁ、あ、ぁ・・・っ！
+> CONTEXT: Map629/events/5/pages/0/625/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だ、だめ・・・おしっこ・・・したい・・・したい・・・っ！
+> CONTEXT: Map629/events/5/pages/0/630/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もう、したいっ！　おしっこ・・・ぁ、むり・・・っ！
+でちゃぅっ！！
+> CONTEXT: Map629/events/5/pages/0/631/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だめ・・・やっぱり、も、もぉ・・・がまん・・・で、
+でき・・・ないいぃっ！！
+> CONTEXT: Map629/events/5/pages/0/633/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んんんっ/////
+> CONTEXT: Map629/events/5/pages/0/673/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「おっとっと！！　お嬢ちゃん！」
+> CONTEXT: Map629/events/5/pages/0/675/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひゃあああんっ！！！
+> CONTEXT: Map629/events/5/pages/0/684/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「なんだ、まだしてなかったの？」
+> CONTEXT: Map629/events/5/pages/0/686/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぁ、あ・・・あ、あの・・・な、なな何ですかっ！？
+> CONTEXT: Map629/events/5/pages/0/715/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「いや～、もう一人の人質に逃げられちゃって
+　さぁ。」
+> CONTEXT: Map629/events/5/pages/0/717/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「そしたらお頭が『お前らに見張りなんて
+　任せられねえ！　牢屋の女をオレの部屋へ
+　連れてきな！』って。」
+> CONTEXT: Map629/events/5/pages/0/720/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「一緒に来てもらうよ。　ほら。」
+> CONTEXT: Map629/events/5/pages/0/724/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いやぁ！！　ま、まって・・・おねがい、待って
+くださいっ！！
+> CONTEXT: Map629/events/5/pages/0/729/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わた、私・・・もう・・・だめっ、が、我慢がっ！！
+> CONTEXT: Map629/events/5/pages/0/731/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お願いですから、さ、させてくださいぃっ！！
+> CONTEXT: Map629/events/5/pages/0/732/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「万が一、それでキミにまで逃げられたら
+　俺がどうなるか分からないからね。」
+> CONTEXT: Map629/events/5/pages/0/734/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「悪いけど、おしっこならお頭の部屋まで
+　我慢して。」
+> CONTEXT: Map629/events/5/pages/0/737/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そん・・・な・・・ぁ・・・っ
+> CONTEXT: Map629/events/5/pages/0/743/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+するなら、い・・・今しか・・・ない・・・けど・・・っ
+> CONTEXT: Map629/events/5/pages/0/755/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも・・・でも・・・は、はずか・・・
+> CONTEXT: Map629/events/5/pages/0/760/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぷしゅうぅっ！
+> CONTEXT: Map629/events/5/pages/0/764/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんっ、ぅ・・・だ、だめ・・・ああっ！！
+> CONTEXT: Map629/events/5/pages/0/768/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でちゃうっ！　でちゃううぅっ！！
+も、もうダメええっ！！
+> CONTEXT: Map629/events/5/pages/0/769/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぶしゅううううううううぅぅぅぅううううっ！！！！
+> CONTEXT: Map629/events/5/pages/0/785/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んんん・・・っ
+> CONTEXT: Map629/events/5/pages/0/789/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ・・・あああぁぁぁぁ・・・・っ//////////
+> CONTEXT: Map629/events/5/pages/0/793/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「おっ！！　やってるね～お嬢ちゃん！」
+> CONTEXT: Map629/events/5/pages/0/822/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は・・・、はひええぇぇぇええええっ！？！？！
+> CONTEXT: Map629/events/5/pages/0/827/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+い、いやあぁぁっ！　だめえっ！！みないで
+・・・っ！！！//////////
+> CONTEXT: Map629/events/5/pages/0/834/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「すいぶんたくさん我慢してたね～！」
+> CONTEXT: Map629/events/5/pages/0/843/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「そんなにお腹に溜まってたんだ！　よく
+　漏らさずにいられたよ！　すごいすごい！」
+> CONTEXT: Map629/events/5/pages/0/845/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（いやあああぁぁぁんっ！！　は、はやく・・・
+　はやく終わってよおぉぉっ！！！//////）
+> CONTEXT: Map629/events/5/pages/0/851/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「・・・・・・。」
+> CONTEXT: Map629/events/5/pages/0/855/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「・・・・・・・・・・・・。」
+> CONTEXT: Map629/events/5/pages/0/857/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「いや・・・お嬢ちゃん・・・まだ出てるの・・・？」
+> CONTEXT: Map629/events/5/pages/0/859/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「え、ちょっと本当にすごいね・・・」
+> CONTEXT: Map629/events/5/pages/0/861/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「マジでどんだけ我慢してたの・・・！？」
+> CONTEXT: Map629/events/5/pages/0/863/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だ・・・だって・・・だってぇっ！！/////
+> CONTEXT: Map629/events/5/pages/0/868/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「あの・・・お頭からさ、人質を団長部屋に
+　連れてくるよう言われてるんだ。」
+> CONTEXT: Map629/events/5/pages/0/870/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見張り
+「はやく終わらせてくれる・・・？」
+> CONTEXT: Map629/events/5/pages/0/873/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんなこと・・・言われても・・・っ！！
+> CONTEXT: Map629/events/5/pages/0/878/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我慢しすぎて、止まらないんですううぅっ！！！
+///////
+> CONTEXT: Map629/events/5/pages/0/879/Dialogue < UNTRANSLATED
+
+> END STRING

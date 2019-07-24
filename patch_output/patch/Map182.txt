@@ -1,0 +1,13 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+北部は年間を通して気温の変化が激しいから、
+調律が難しいのよ・・・
+> CONTEXT: Map182/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やっべ、虫食いだ・・・
+> CONTEXT: Map182/events/3/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

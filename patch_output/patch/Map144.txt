@@ -1,0 +1,108 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+あーあ・・・何か甘いもの食べたいなぁ・・・
+> CONTEXT: Map144/events/2/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map144/events/2/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・あ！　そのドーナッツ・・・おいしそう・・・
+> CONTEXT: Map144/events/2/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えへへ・・・ちょうだい？
+> CONTEXT: Map144/events/2/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え！？　ホントにくれるの？　やったー！！
+> CONTEXT: Map144/events/2/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いただきまーす！！　もぐもぐもぐ・・・
+> CONTEXT: Map144/events/2/pages/1/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もぐもぐｍ・・・んッ！？
+> CONTEXT: Map144/events/2/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふひゃぅっ、か、からいいぃっ！！！
+> CONTEXT: Map144/events/2/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はふっ、ふぅーっ！！　ワサビっ！！
+> CONTEXT: Map144/events/2/pages/1/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふぇえ、からひぃ・・・からい・・・けど・・・！！
+> CONTEXT: Map144/events/2/pages/1/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おいしいいぃーー！！　なにこれ、からうま！！
+> CONTEXT: Map144/events/2/pages/1/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハマるわー！！　最高！！
+> CONTEXT: Map144/events/2/pages/1/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今まで甘いものが大好きだったけど、おかげで
+新境地を発見できたわ！　ありがとね！
+> CONTEXT: Map144/events/2/pages/1/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お礼になるかわからないけど、アタシの口紅を
+あげるわ！
+> CONTEXT: Map144/events/2/pages/1/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どう使うかは・・・アナタの自由よ☆
+うふふ！
+> CONTEXT: Map144/events/2/pages/1/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【口紅】×1
+を手に入れた！
+> CONTEXT: Map144/events/2/pages/1/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すっかり辛いものにハマっちゃった☆
+> CONTEXT: Map144/events/2/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+人の少ない村ですが、まあ南部に比べれば
+マシでしょうね。
+> CONTEXT: Map144/events/3/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

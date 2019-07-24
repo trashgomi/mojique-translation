@@ -1,0 +1,7 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+文字が刻まれている・・・
+『試練を越えよ。　されば道は開かれん。』
+> CONTEXT: Map154/events/8/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

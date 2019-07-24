@@ -1,0 +1,129 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+それっぽい岩石があるぞ。
+> CONTEXT: Map554/events/10/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほんとだ！
+> CONTEXT: Map554/events/10/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃあさっそくたこやきちゃんのバイザーで
+確認だね！
+> CONTEXT: Map554/events/10/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おおーー！　任せるネー！！
+> CONTEXT: Map554/events/10/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・どう？
+> CONTEXT: Map554/events/10/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あったヨーー！！！
+> CONTEXT: Map554/events/10/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この3つのうち、1つからイオンマテルを
+検出したネー！！
+> CONTEXT: Map554/events/10/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いええーーい！！　幸先いいじゃん！！！
+> CONTEXT: Map554/events/10/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、でも、他の2つは危ない岩石だネー。
+> CONTEXT: Map554/events/10/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すぐ下にものすごい熱を感知したから、衝撃を
+与えると、きっとマグマが噴き出すヨー。
+> CONTEXT: Map554/events/10/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひええ・・・！　そ、それじゃ間違えないように
+しないと・・・
+> CONTEXT: Map554/events/10/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+たこやきさんのバイザーが頼りですね。
+> CONTEXT: Map554/events/10/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ところで、いったいどのくらい集めれば
+いいのでしょう？
+> CONTEXT: Map554/events/10/pages/0/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ンー、そうだナー・・・
+> CONTEXT: Map554/events/10/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+時空玉の作成とワタシのスターシップの
+エネルギーの両方に使うとなると・・・
+> CONTEXT: Map554/events/10/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+6個あれば十分かナー？
+> CONTEXT: Map554/events/10/pages/0/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よし。
+> CONTEXT: Map554/events/10/pages/0/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+洞窟内を探し、イオンマテル6個を集めると
+しよう。
+> CONTEXT: Map554/events/10/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おおー！
+> CONTEXT: Map554/events/10/pages/0/76/Dialogue < UNTRANSLATED
+> CONTEXT: Map057/events/16/pages/0/97/Dialogue < UNTRANSLATED
+> CONTEXT: Map057/events/16/pages/2/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ・・・暑いからサクッと終わらせようね・・・！
+> CONTEXT: Map554/events/10/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,120 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ふう。　もうヤツは追ってこないようだな。
+> CONTEXT: Map005/events/1/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+人の話し声が聞こえる。　集落だろうか。
+> CONTEXT: Map005/events/1/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょうどいい。　ここがどこなのか尋ねると共に、
+助けを呼ぶとしよう。
+> CONTEXT: Map005/events/1/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+赤いポストを調べることによってセーブできます。
+\\C[2]セーブファイルは32個まで作成可能。
+\\C[0]レッツこまめにセーブ！
+> CONTEXT: Map005/events/1/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やあ、ここはドノ村だよ。
+> CONTEXT: Map005/events/9/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見ない顔だね。　どこか遠くの町から来たの
+かい？
+> CONTEXT: Map005/events/10/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんた、背高いのに貧弱な体つきねえ・・・
+ちゃんと体動かしてる？
+> CONTEXT: Map005/events/11/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この村の安全も、いつまで続くやら・・・
+> CONTEXT: Map005/events/12/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+最近の魔物騒ぎに便乗して、タチの悪い
+盗賊が火事場ドロボウに入るってウワサ
+だぜ。
+> CONTEXT: Map005/events/13/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さっきの女の子、変わった服装してたなあ。
+> CONTEXT: Map005/events/14/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キミたち、変わった服装してるなあ。
+> CONTEXT: Map005/events/14/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わー！　いけめんだー！
+> CONTEXT: Map005/events/15/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兄さん、どこから来たんだい？　その服
+ずいぶん質のいい布でできてるね。
+> CONTEXT: Map005/events/16/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここはキュウリ畑さ。　いや、ナスだったかな？
+あ、違う、スイカだ！　ん？　・・・あれ？
+・・・なんだっけ。
+> CONTEXT: Map005/events/17/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うまい水をくれ！　今のうちに買い溜めだ！
+> CONTEXT: Map005/events/21/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女の子が森で倒れてたらしいわよ。
+今、家のベッドで休ませてるわ。
+> CONTEXT: Map005/events/30/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大した怪我も無いみたいでよかったね。
+> CONTEXT: Map005/events/31/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あら、行商人の方！　ちょうどよかったわ。
+夕飯のお惣菜を頂こうかしら。
+> CONTEXT: Map005/events/33/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

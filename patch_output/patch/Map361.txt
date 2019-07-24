@@ -1,0 +1,7 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+いつか、魚の骨だけで造った“フィッシュボーン
+メイル”を着るのが夢だぜ！
+> CONTEXT: Map361/events/10/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

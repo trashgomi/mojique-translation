@@ -1,0 +1,122 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+さっきも説明したとおり、魔族の体で直接実験を
+するから、まあサクッと耐えてね。
+> CONTEXT: Map699/events/4/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょっと！！　耐えるって何ですの！？
+> CONTEXT: Map699/events/4/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もっとちゃんと説明しなさいな！！
+> CONTEXT: Map699/events/4/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まあそう慌てないで！　別に魔力弾ぶつけたり
+するわけじゃないから、ビビんなくても大丈夫
+だよ。
+> CONTEXT: Map699/events/4/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なっ！　ビ、ビビッてなんかいませんわよ！！
+> CONTEXT: Map699/events/4/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんな魔力弾なんておっしゃらずに、魔力砲
+でも魔力ミサイルでも、どんと来いですわ！！
+> CONTEXT: Map699/events/4/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+姉さん、とりあえず話を聞こうよ。
+> CONTEXT: Map699/events/4/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やることは簡単。　あたしが調合した数種類の
+試薬を飲んでくれるだけでいいよ。
+> CONTEXT: Map699/events/4/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただし、体内での魔粒子変異をできるだけ
+長時間観察したいから、しばらく排泄を我慢
+してもらう必要があるけどね。
+> CONTEXT: Map699/events/4/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あら、耐えるってそういうことですの。　驚かせ
+ないでくださいな・・・
+> CONTEXT: Map699/events/4/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まあ、女の子にはちょっとキツいかな～？
+できそう？
+> CONTEXT: Map699/events/4/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まあ！　おバカにしないでくださる！？
+> CONTEXT: Map699/events/4/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こう見えてもわたくしは、魔界随一の名家
+パンギーニの令嬢ですのよ！　お手洗いを
+こらえることくらい朝ビュッフェ前ですわ！
+> CONTEXT: Map699/events/4/pages/0/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自分で令嬢って言っちゃったよ・・・
+> CONTEXT: Map699/events/4/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃ、試薬観察実験の被検体はキミに
+任せるね。
+> CONTEXT: Map699/events/4/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さっそくだけど、一度トイレを済ませてから
+そこの部屋に入ってくれる？
+> CONTEXT: Map699/events/4/pages/0/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よろしくてよ！　わたくしの美しく尊い活躍を
+目に焼き付けるがいいですわ！
+> CONTEXT: Map699/events/4/pages/0/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+薬飲むだけなんだけどね。
+> CONTEXT: Map699/events/4/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING

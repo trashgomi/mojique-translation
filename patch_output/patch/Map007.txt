@@ -1,0 +1,14 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+村の外には魔物がいっぱいいるから危ないって
+お母さんが言ってた。
+> CONTEXT: Map007/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+本当は子供にも、元気に森で遊んでほしいん
+だけど・・・
+> CONTEXT: Map007/events/3/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

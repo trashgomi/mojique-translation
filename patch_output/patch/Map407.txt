@@ -1,0 +1,188 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+店員
+「なぜ行商人はどこにでも現れるのか？
+　そこに客がいるからだ！！」
+> CONTEXT: Map407/events/2/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map407/events/21/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う～・・・いつつ・・・
+> CONTEXT: Map407/events/30/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この事態も想定外だったな～・・・
+> CONTEXT: Map407/events/30/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぐ・・・ぎ・・・グ・・・ッ
+> CONTEXT: Map407/events/30/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊団長・・・！！
+> CONTEXT: Map407/events/30/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+またわたし達を追っかけてきたの！？
+> CONTEXT: Map407/events/30/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なかなか執念深いね・・・
+> CONTEXT: Map407/events/30/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+で、でも・・・何か様子が・・・
+> CONTEXT: Map407/events/30/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これは・・・間違いありません・・・！
+> CONTEXT: Map407/events/30/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瘴魔状態です！！
+> CONTEXT: Map407/events/30/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マジで！？　なんかかなりヤバそうだよ！
+> CONTEXT: Map407/events/30/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうやら、保管庫から開発途中の魔力増強薬を
+持ち出して使ったみたいだよ。
+> CONTEXT: Map407/events/30/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+実験段階だから手を触れちゃいけないって
+念を押したのに、よっぽど君たちに復讐したい
+らしいね～。
+> CONTEXT: Map407/events/30/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シ・・・シテんしょうジョ・・・シてン・・・シょう
+じょ・・・！！
+> CONTEXT: Map407/events/30/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぎギ・・・ッ　してん、しょウじょ・・・ッ！！
+> CONTEXT: Map407/events/30/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いけません、完全に我を失って暴走しています！
+> CONTEXT: Map407/events/30/pages/0/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+彼女を止めるにはどうすればいい？
+> CONTEXT: Map407/events/30/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔力を抑制できるのは熾力だけです！
+> CONTEXT: Map407/events/30/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今は全力で迎え撃って、落ち着かせるしか
+ありません・・・！
+> CONTEXT: Map407/events/30/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聞いたとおりだ。　やるぞ。
+> CONTEXT: Map407/events/30/pages/0/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+りょ、了解！
+> CONTEXT: Map407/events/30/pages/0/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・なんとか黙らせたな。
+> CONTEXT: Map407/events/30/pages/2/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+みなさん、さすがです！！
+> CONTEXT: Map407/events/30/pages/2/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふぃー～・・・瘴魔って怖いね・・・
+> CONTEXT: Map407/events/30/pages/2/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+完全に我を失ってたよ。
+> CONTEXT: Map407/events/30/pages/2/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ああはなりたくないよね・・・
+> CONTEXT: Map407/events/30/pages/2/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+館長がいなくなってます・・・
+> CONTEXT: Map407/events/30/pages/2/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+本当だ！
+> CONTEXT: Map407/events/30/pages/2/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どさくさに紛れて逃げたわね・・・
+> CONTEXT: Map407/events/30/pages/2/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とにかく、我々も外へ急ごう。
+> CONTEXT: Map407/events/30/pages/2/36/Dialogue < UNTRANSLATED
+
+> END STRING

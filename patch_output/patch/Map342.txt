@@ -1,0 +1,25 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+閉まっている。　カギ穴らしきものは無い・・・
+> CONTEXT: Map342/events/2/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map341/events/3/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【活力玉】×1
+を手に入れた！
+> CONTEXT: Map342/events/46/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/11/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map042/events/22/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【活力玉】×1
+を見つけたが、持ち物がいっぱいだ！
+> CONTEXT: Map342/events/46/pages/0/19/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/11/pages/0/19/Dialogue < UNTRANSLATED
+> CONTEXT: Map042/events/22/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING

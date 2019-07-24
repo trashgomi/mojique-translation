@@ -1,0 +1,153 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+すー・・・くぴー・・・
+> CONTEXT: Map670/events/3/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（もじもじっ、もじもじっ）
+> CONTEXT: Map670/events/3/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（こ、こんなことなら・・・あんなに泉の水
+　なんて飲むんじゃなかった・・・！）
+> CONTEXT: Map670/events/3/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（あぁ・・・おしっこがしたい・・・っ！）
+> CONTEXT: Map670/events/3/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、あの・・・ちょっと、そこの人・・・っ！
+> CONTEXT: Map670/events/3/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えへ！　わたし？　呼んだ呼んだ～？？
+> CONTEXT: Map670/events/3/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+後生です！　ど、どうか・・・トイレに・・・！！
+> CONTEXT: Map670/events/3/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もう本当に我慢できなくて・・・っ！！
+> CONTEXT: Map670/events/3/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そう言われてもね～、さっきも言ったけど
+カラットさまのお許しが無ければ、そういうわけ
+にもいかないんだよね～！　えへへ！
+> CONTEXT: Map670/events/3/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+で、でしたら、なんとか取り合ってもらえないで
+しょうか！？
+> CONTEXT: Map670/events/3/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+このままじゃ、も、も・・・漏れちゃいそうなん
+ですっ！！
+> CONTEXT: Map670/events/3/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う～ん、でもカラットさま、おやすみ中だし～
+> CONTEXT: Map670/events/3/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お、お願いしますよぉ！　トイレ・・・行かせて
+くださいぃっ！！
+> CONTEXT: Map670/events/3/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブロンシュ、良くない知らせだ。
+> CONTEXT: Map670/events/3/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ～！　おかえり～！！　どしたの？　えへ！
+> CONTEXT: Map670/events/3/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+としひこに続き、四天王Dr.FLASHが熾天少女に
+やられた。
+> CONTEXT: Map670/events/3/pages/0/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えええ～！？　ほんとう～！！？
+> CONTEXT: Map670/events/3/pages/0/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルージー遺跡にて、やつの残骸を確認した。
+> CONTEXT: Map670/events/3/pages/0/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やはり熾天少女ども、今回も侮れない
+相手のようだ・・・
+> CONTEXT: Map670/events/3/pages/0/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えへ！　油断できないね～！えへへ！
+> CONTEXT: Map670/events/3/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、あ、あの・・・お、お取り込み中のところ
+恐縮なんですけど・・・
+> CONTEXT: Map670/events/3/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、あたしのトイレの件は・・・
+> CONTEXT: Map670/events/3/pages/0/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えへへ！　今忙しいから後でね～！
+> CONTEXT: Map670/events/3/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+で、ですよね～・・・
+> CONTEXT: Map670/events/3/pages/0/109/Dialogue < UNTRANSLATED
+
+> END STRING

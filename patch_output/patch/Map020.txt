@@ -1,0 +1,40 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+この森にも敵がいるようだ。
+> CONTEXT: Map020/events/25/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ある程度戦って経験を積むのも良し、
+できるだけ戦闘を回避して体力を温存するのも
+良し。
+> CONTEXT: Map020/events/25/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+状況に応じて対応しよう。
+> CONTEXT: Map020/events/25/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【エンカウント回避】が使えるようになりました。
+> CONTEXT: Map020/events/25/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵が出現するエリアでも、【S】キーを
+押しながら歩くことで敵がエンカウントしなく
+なります。
+> CONTEXT: Map020/events/25/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+探索や謎解きに集中したい時に利用しましょう。
+> CONTEXT: Map020/events/25/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING

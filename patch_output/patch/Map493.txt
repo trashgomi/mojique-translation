@@ -1,0 +1,834 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+送っていただいてありがとうございます。
+> CONTEXT: Map493/events/9/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これだけ資材が揃っていれば、すぐにでも
+開発を開始できるでしょう。
+> CONTEXT: Map493/events/9/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よろしく頼む。
+> CONTEXT: Map493/events/9/pages/0/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map151/events/7/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+干渉剤が完成したら、どうやって知らせて
+くれるんダー？
+> CONTEXT: Map493/events/9/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+伝令兵の方にお願いして、届けさせて
+いただきます。
+> CONTEXT: Map493/events/9/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃあ、薬ができるまでの間、わたし達は
+どうしよっか？
+> CONTEXT: Map493/events/9/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もともとお城で行動方針の相談をする
+予定だったんだから、また騎士団長さんの
+所に戻るべきじゃないかしら？
+> CONTEXT: Map493/events/9/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今頃、ルミィさんがいなくなってる事に
+敵も気付いているでしょうから、また
+何か仕掛けてくるかもしれませんし。
+> CONTEXT: Map493/events/9/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んじゃ、またお城に戻るってことで・・・
+> CONTEXT: Map493/events/9/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+伝令兵
+「た、大変です！　すぐに来てください！！」
+> CONTEXT: Map493/events/9/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんなに慌てて、どうしたんですか・・・！？
+> CONTEXT: Map493/events/9/pages/0/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+伝令兵
+「熾天宮が、熾天宮が白カラットの襲撃を
+　受けているんです！！」
+> CONTEXT: Map493/events/9/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんだと・・・
+> CONTEXT: Map493/events/9/pages/0/78/Dialogue < UNTRANSLATED
+> CONTEXT: Map185/events/2/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ど、どうして白カラットが熾天宮を・・・！？
+> CONTEXT: Map493/events/9/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+伝令兵
+「詳しいことは分かりませんが、とにかく
+　ものすごい戦闘力で衛兵たちを10メートル
+　くらい吹っ飛ばしたとか・・・」
+> CONTEXT: Map493/events/9/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+手がつけられない状態ってことだね・・・
+> CONTEXT: Map493/events/9/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+伝令兵
+「それと情報によれば、彼女は禍々しい青い
+　オーラをまとって暴れまくっているそうです！
+　その恐ろしい力で、衛兵を30メートルも・・・！」
+> CONTEXT: Map493/events/9/pages/0/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+恐らく瘴魔状態ですね・・・
+> CONTEXT: Map493/events/9/pages/0/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それも、スペルエンチャンターによって
+完全に自分の力として操っている・・・
+> CONTEXT: Map493/events/9/pages/0/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんて恐ろしいことを・・・！
+> CONTEXT: Map493/events/9/pages/0/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+熾天宮は熾力の起源とされている場所だ。
+> CONTEXT: Map493/events/9/pages/0/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そこが襲撃されているとなれば、止めない
+わけにいくまい。
+> CONTEXT: Map493/events/9/pages/0/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ええ、すぐに向かいましょう！
+> CONTEXT: Map493/events/9/pages/0/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、あの・・・当然だと思いますけど、
+干渉剤の作成は間に合わない・・・ですよね？
+> CONTEXT: Map493/events/9/pages/0/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精製方法は確立していますが、さすがに
+今この段階でお渡しすることは不可能です。
+> CONTEXT: Map493/events/9/pages/0/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただ、事態が事態ですので、取り急ぎ試薬を
+作成してお届けします。
+> CONTEXT: Map493/events/9/pages/0/131/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我々は先行して現場に向かう。　行こう。
+> CONTEXT: Map493/events/9/pages/0/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白カラットがどういう理由で熾天宮を襲撃して
+いるのかは分かりませんが、彼女を
+止めなくてはならないことは間違いありません。
+> CONTEXT: Map493/events/9/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スペルエンチャンターの干渉剤の試薬が
+完成次第、届けに行きますので、みなさんは
+熾天宮に先行して時間を稼いでください。
+> CONTEXT: Map493/events/9/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大陸西部にあるダスプ沼とバルカド遺跡で
+“榴鉱石”及び“レリグ・イアスの鱗粉”を
+採取してきてください。
+> CONTEXT: Map493/events/9/pages/2/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+強力な魔力が発生している地点を探知できる
+装置を作ります。
+> CONTEXT: Map493/events/9/pages/2/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+みなさん、おかえりなさい。
+> CONTEXT: Map493/events/9/pages/3/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+たっだいまーーー！！
+> CONTEXT: Map493/events/9/pages/3/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+要望のあった2つの材料を持ってきた。
+> CONTEXT: Map493/events/9/pages/3/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+榴鉱石と鱗粉です。　どうぞ。
+> CONTEXT: Map493/events/9/pages/3/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ありがとうございます。　これで魔力探知装置の
+材料がそろいました。
+> CONTEXT: Map493/events/9/pages/3/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ところで、あの・・・大丈夫でしたか？
+危険種族は・・・
+> CONTEXT: Map493/events/9/pages/3/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うん！　危険だけど最高だった！！
+> CONTEXT: Map493/events/9/pages/3/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+また・・・会いたいです。
+> CONTEXT: Map493/events/9/pages/3/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+次に会う時は、何かおみやげ持っていくヨー！
+> CONTEXT: Map493/events/9/pages/3/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・？？　は、はあ・・・
+> CONTEXT: Map493/events/9/pages/3/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それは・・・良かった？　ですね・・・
+> CONTEXT: Map493/events/9/pages/3/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルミィ、話は後だ。
+> CONTEXT: Map493/events/9/pages/3/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+取り急ぎ魔力探知装置の製作を頼む。
+> CONTEXT: Map493/events/9/pages/3/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+みなさんが出かけた後、装置作成のための
+準備は整えておきましたので、完成までには
+そう時間はかからないと思います。
+> CONTEXT: Map493/events/9/pages/3/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+では、お願いします。
+> CONTEXT: Map493/events/9/pages/3/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どのくらいかかりそうですか？
+> CONTEXT: Map493/events/9/pages/3/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全工程が滞りなく進めば、3時間25分で
+完成する見込みです。
+> CONTEXT: Map493/events/9/pages/3/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さすがスペシャリスト・・・
+> CONTEXT: Map493/events/9/pages/3/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+研究員は分刻みのスケジュールで動くって
+本当だったんだね。
+> CONTEXT: Map493/events/9/pages/3/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+事によってはナノ秒刻みです。
+> CONTEXT: Map493/events/9/pages/3/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・完成までの間、適当に休憩するなどして、
+暇を潰してください。
+> CONTEXT: Map493/events/9/pages/3/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふむ。　来たる決戦に備えて体力を養って
+おくのも重要だな。
+> CONTEXT: Map493/events/9/pages/3/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+では、装置が完成するまで自由行動に
+しましょうか。
+> CONTEXT: Map493/events/9/pages/3/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わーーい！！　あそぶヨー！！
+> CONTEXT: Map493/events/9/pages/3/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一緒に教会内を探検しよー！！
+> CONTEXT: Map493/events/9/pages/3/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何してもいいけど、せめて邪魔にならないように
+ね・・・
+> CONTEXT: Map493/events/9/pages/3/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お渡しした干渉剤は注射器に入っています。
+> CONTEXT: Map493/events/9/pages/5/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白カラットの体内に注入すれば、永久に
+瘴魔状態を解除できます。
+> CONTEXT: Map493/events/9/pages/5/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+熾天宮の手前にあるエント村に移動する？
+> CONTEXT: Map493/events/10/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大陸東部に出航する船に乗るため、港町
+ザザーブに移動する？
+> CONTEXT: Map493/events/10/pages/3/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「敵の居場所を探る装置が完成したと聞いて
+　駆けつけたが・・・」
+> CONTEXT: Map493/events/13/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「この金色の球体がそうかな？」
+> CONTEXT: Map493/events/13/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はい。　魔力探知装置です。
+> CONTEXT: Map493/events/13/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+たった今完成したところです。
+> CONTEXT: Map493/events/13/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これでやっと、攻めの姿勢に持っていくことが
+できるね！
+> CONTEXT: Map493/events/13/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さっそくだが、起動してもらいたい。
+> CONTEXT: Map493/events/13/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+では・・・
+> CONTEXT: Map493/events/13/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+きれい・・・プラネタリウムみたい・・・
+> CONTEXT: Map493/events/13/pages/0/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+光ってるナー！
+> CONTEXT: Map493/events/13/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この光を読み取れば、敵の位置が分かるん
+ですか？
+> CONTEXT: Map493/events/13/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+展開する光が、この世界の座標と位置関係を
+共有するように設計されています。
+> CONTEXT: Map493/events/13/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+強い光を発している地点の座標を世界地図と
+相関させれば、そのポイントを特定することが
+可能です。
+> CONTEXT: Map493/events/13/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナ、ナルホドネー！！
+> CONTEXT: Map493/events/13/pages/0/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+私も秋空さんと同じく、さっぱり分かりません・・・
+> CONTEXT: Map493/events/13/pages/0/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「と、とにかく・・・」
+> CONTEXT: Map493/events/13/pages/0/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「実際のところ、敵の位置は判明したのかな？」
+> CONTEXT: Map493/events/13/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今、確認してみます。
+> CONTEXT: Map493/events/13/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+強い魔力反応が発生しているポイントが
+いくつかありますね・・・
+> CONTEXT: Map493/events/13/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その中でも、特に強力な反応を示している
+地点があります。
+> CONTEXT: Map493/events/13/pages/0/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それは？
+> CONTEXT: Map493/events/13/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大陸東部にある霊峰“天土（あまつち）”の
+頂上付近です。
+> CONTEXT: Map493/events/13/pages/0/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+他の数か所とは明らかにレベルの違う
+魔力反応です。
+> CONTEXT: Map493/events/13/pages/0/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それが3カラットのどれかなんだね？
+> CONTEXT: Map493/events/13/pages/0/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だろうな。
+> CONTEXT: Map493/events/13/pages/0/131/Dialogue < UNTRANSLATED
+> CONTEXT: Map293/events/25/pages/1/201/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だが、現状で考えて一番可能性が高いのは・・・
+> CONTEXT: Map493/events/13/pages/0/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白カラットでしょう。
+> CONTEXT: Map493/events/13/pages/0/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+干渉剤による一時的な魔力抑制効果が既に
+消滅していれば、赤カラットと青カラットを
+大きくしのぐ魔力を持っているはずですから。
+> CONTEXT: Map493/events/13/pages/0/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白カラットが、東部の霊峰の頂上に・・・！
+> CONTEXT: Map493/events/13/pages/0/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ど、どうする？
+> CONTEXT: Map493/events/13/pages/0/150/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手は暫定トップの超強敵だけど・・・
+行くの？
+> CONTEXT: Map493/events/13/pages/0/151/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルミィさんの干渉剤が完成しているかどうかに
+よりますよね・・・
+> CONTEXT: Map493/events/13/pages/0/156/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご心配なく。
+> CONTEXT: Map493/events/13/pages/0/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白カラットの瘴魔状態を永久に解除する
+干渉剤“スペル・デストラクター”がすでに
+完成しています。
+> CONTEXT: Map493/events/13/pages/0/167/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お！！　さすが天才科学者！！
+> CONTEXT: Map493/events/13/pages/0/173/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+では、それを使えば今度こそ白カラットを
+完全に無力化できるということだな？
+> CONTEXT: Map493/events/13/pages/0/177/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+効果は保証します。
+> CONTEXT: Map493/events/13/pages/0/183/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ならば選択肢は1つしかない。
+> CONTEXT: Map493/events/13/pages/0/187/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+強敵の居場所が判明し、それを無力化する
+手段を我々は持っている。
+> CONTEXT: Map493/events/13/pages/0/188/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+奇襲だナー！！？
+> CONTEXT: Map493/events/13/pages/0/194/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+このチャンスを逃す手は無いわね。
+> CONTEXT: Map493/events/13/pages/0/198/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+では、これを。
+> CONTEXT: Map493/events/13/pages/0/205/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【干渉剤S.D】×1
+を手に入れた！
+> CONTEXT: Map493/events/13/pages/0/220/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さっそく現場に向かおう。
+> CONTEXT: Map493/events/13/pages/0/225/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+場所は、大陸東部の霊峰“天土”でしたね。
+> CONTEXT: Map493/events/13/pages/0/230/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+霊峰にレッツホウ！！
+> CONTEXT: Map493/events/13/pages/0/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は？
+> CONTEXT: Map493/events/13/pages/0/238/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「最強クラスの敵を無力化できるチャンスだ。」
+> CONTEXT: Map493/events/21/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「至急、霊峰“天土”の白カラットを強襲し、彼女
+　を撃破してくれ。」
+> CONTEXT: Map493/events/21/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+霊峰天土には、特に魔力の反応は無いね・・・
+> CONTEXT: Map493/events/22/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さすがにアジトを移したんだろう。
+> CONTEXT: Map493/events/22/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔界最強の死神を雇ったとは言え、やはり
+やつらにとって熾天少女は脅威だからな。
+> CONTEXT: Map493/events/22/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んじゃ、次はどこを探す？
+> CONTEXT: Map493/events/22/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今の段階で、一番敵がいる可能性が高いのは、
+大陸北部だと思います。
+> CONTEXT: Map493/events/22/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+特に青カラットは、私たちに魔界門のことを
+教えてしまいましたし、門を破壊されまいとして
+北部で守りを固めているのではないでしょうか。
+> CONTEXT: Map493/events/22/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さすがひめ、鋭い洞察ね。
+> CONTEXT: Map493/events/22/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+では、大陸北部を探ってみましょう。
+> CONTEXT: Map493/events/22/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ！　強い反応があるみたいだヨー！
+> CONTEXT: Map493/events/22/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔力反応は1つか。
+> CONTEXT: Map493/events/22/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+単独で行動している、強力な魔力の持ち主と
+言えば・・・
+> CONTEXT: Map493/events/22/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白カラットかしらね。
+> CONTEXT: Map493/events/22/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今度は魔界門を研究して力を得ようと
+してるのかも！
+> CONTEXT: Map493/events/22/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃあ急いで止めに行かないとね。
+> CONTEXT: Map493/events/22/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こちらには干渉剤S.Dという切り札がある。
+> CONTEXT: Map493/events/22/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手が白カラットだからと言って臆することは
+ない。
+> CONTEXT: Map493/events/22/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+時空玉が完成次第、北部の魔界門へ急行
+しよう。
+> CONTEXT: Map493/events/22/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING

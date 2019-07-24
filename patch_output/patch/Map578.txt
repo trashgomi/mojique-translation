@@ -1,0 +1,20 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+鉄格子を開けるレバーのようだが、凍りついて
+動かない。
+> CONTEXT: Map578/events/8/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+重いものをぶつけて衝撃を与えれば
+作動するかもしれない。
+> CONTEXT: Map578/events/8/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+青の輝きを見つけた！
+> CONTEXT: Map578/events/10/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

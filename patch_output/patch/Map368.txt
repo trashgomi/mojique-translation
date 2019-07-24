@@ -1,0 +1,167 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ルミィさんの呪いを解かなくては！
+> CONTEXT: Map368/events/45/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map368/events/46/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map368/events/47/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+デニ砂漠の先にある“蜃気楼の谷”へ
+行こうぞ！
+> CONTEXT: Map368/events/45/pages/1/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map368/events/46/pages/1/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map368/events/47/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+砂の町！！　ジャハマドへ！！！
+> CONTEXT: Map368/events/65/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ようこそおおおおおおおっほおおおおおおう
+ううういいいいいい！！！！！
+> CONTEXT: Map368/events/65/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+日差しが強くて乾燥してるから、干物なんか
+一晩でできるよ。
+> CONTEXT: Map368/events/66/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+砂嵐が来たら、みんな一目散に家に
+閉じこもって過ぎるのを待つのよ。
+> CONTEXT: Map368/events/67/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+北部と南部の気温差は、ほんと慣れないわ・・・
+> CONTEXT: Map368/events/68/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+砂漠へ行くなら、かなり多めに水を持って
+行った方がいいわよ。
+> CONTEXT: Map368/events/69/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+と言っても、この辺じゃ行商人から買う以外に
+水を調達する方法がほとんどないのが問題
+だけど。
+> CONTEXT: Map368/events/69/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+南部は過酷な環境が多いから、砂漠の奥地や
+火山地帯なんかは、あんまり調査の手が
+回らないんだ。
+> CONTEXT: Map368/events/70/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+昼間はこんなに暑いのに、夜になると
+すっごい寒くなるんだよー！
+> CONTEXT: Map368/events/71/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんだかんだで、私は南部が好きですよ。
+> CONTEXT: Map368/events/72/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+特に香辛料の利いたスパイシーな食べ物
+なんか、他ではなかなか食べられませんし。
+> CONTEXT: Map368/events/72/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+町か。
+> CONTEXT: Map368/events/73/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここなら“蜃気楼の谷”について知っている
+者がいるかもしれない。
+> CONTEXT: Map368/events/73/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聞いて回るとしよう。
+> CONTEXT: Map368/events/73/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+蜃気楼の谷、どうやら砂漠のどこかにある
+可能性が高いな。
+> CONTEXT: Map368/events/73/pages/2/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+砂漠かぁ・・・
+> CONTEXT: Map368/events/73/pages/2/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すっごい暑そうだね・・・
+> CONTEXT: Map368/events/73/pages/2/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+暑いでしょうね・・・間違いなく。
+> CONTEXT: Map368/events/73/pages/2/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+暑すぎて自然発火しちゃうくらいじゃない？
+> CONTEXT: Map368/events/73/pages/2/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とにかく、水は多めに持った方がよさそうです。
+> CONTEXT: Map368/events/73/pages/2/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうだな。　態勢を万全にして臨むとしよう。
+> CONTEXT: Map368/events/73/pages/2/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+地図によれば、町の南に砂漠があるようだ。
+> CONTEXT: Map368/events/73/pages/2/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+準備が整い次第、出発する。
+> CONTEXT: Map368/events/73/pages/2/28/Dialogue < UNTRANSLATED
+
+> END STRING

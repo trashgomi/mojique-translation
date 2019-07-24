@@ -1,0 +1,206 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ふむふむ・・・言いたいことは分かったぞ、
+ヴィスティ。
+> CONTEXT: Map616/events/9/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+人間界征服を効率よく進めるために、忠実な
+駒である“魔物四天王”が必要だと。
+> CONTEXT: Map616/events/9/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そして、四天王にふさわしい魔物をスカウト
+するために、ヴィスティとブロンシュの2人で
+これから大陸中を探しに行くと。
+> CONTEXT: Map616/events/9/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ええ。　ご理解いただけましたか、カラット様。
+> CONTEXT: Map616/events/9/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご理解いただけないよっ！！！
+> CONTEXT: Map616/events/9/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+つまりアレだろ！？
+> CONTEXT: Map616/events/9/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたしをこの拠点に1人残して、2人がしばらく
+出て行っちゃうってことじゃないかっ！！
+> CONTEXT: Map616/events/9/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まったくそのとおりですが、何か？
+> CONTEXT: Map616/events/9/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたしを守ってくれる人がいなくなるだろ！！
+> CONTEXT: Map616/events/9/pages/0/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+城の兵士とかが攻めてきたらどうするんだ！？
+> CONTEXT: Map616/events/9/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やだよ！！　怖いよぉ！！
+> CONTEXT: Map616/events/9/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えへ！　えへ！　カラットさまは臆病で
+かわいいなぁ！！　えへへへ！　えへ！
+> CONTEXT: Map616/events/9/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+心配には及びませんよ、カラット様。
+> CONTEXT: Map616/events/9/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+万が一そのようなことがあった場合は、
+これをお使いください。
+> CONTEXT: Map616/events/9/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・ん？　なんだこれは。
+> CONTEXT: Map616/events/9/pages/0/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただの水晶ではないか。
+> CONTEXT: Map616/events/9/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カラット様・・・以前それについては教えて
+差し上げたはずですが・・・
+> CONTEXT: Map616/events/9/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それはねー！　“魔物のクリスタル”っていう
+魔導具だよー！　えへ！！
+> CONTEXT: Map616/events/9/pages/0/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そのクリスタルの中には、時空層の
+向こう側から召喚した、強力な魔物が
+封じ込められています。
+> CONTEXT: Map616/events/9/pages/0/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+地面に叩きつけて砕けば、たちまち姿を
+現し、あなたを守ってくれるでしょう。
+> CONTEXT: Map616/events/9/pages/0/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おおお！　そんな便利なものがあったのか！
+> CONTEXT: Map616/events/9/pages/0/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そういうことは先に言うがいいぞ、ヴィスティ！
+> CONTEXT: Map616/events/9/pages/0/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これで満足していただけましたか？
+> CONTEXT: Map616/events/9/pages/0/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+四天王探してきても、いいよね！？　ね～！？
+> CONTEXT: Map616/events/9/pages/0/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うむ！　超強力なやつを連れてくるがいい！
+> CONTEXT: Map616/events/9/pages/0/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+期待しているからな！
+> CONTEXT: Map616/events/9/pages/0/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お任せください。
+> CONTEXT: Map616/events/9/pages/0/131/Dialogue < UNTRANSLATED
+> CONTEXT: Map550/events/11/pages/1/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、でも夕飯までには帰ってくるんだぞ？
+> CONTEXT: Map616/events/9/pages/0/136/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今日はカレーを所望する！
+> CONTEXT: Map616/events/9/pages/0/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+分かりました。　では、食材も調達して
+きましょう。
+> CONTEXT: Map616/events/9/pages/0/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+行きますよ、ブロンシュ。
+> CONTEXT: Map616/events/9/pages/0/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は～い！　えへ！！　えへへへへへ！！
+> CONTEXT: Map616/events/9/pages/0/151/Dialogue < UNTRANSLATED
+
+> END STRING

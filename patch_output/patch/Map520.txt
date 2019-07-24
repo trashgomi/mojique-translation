@@ -1,0 +1,235 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+もぉーーーーーっ！！　いつになったら
+追いつけるんだヨーーーー！！！
+> CONTEXT: Map520/events/2/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+警戒心が高いって言うか、普通にチキンだよね。
+> CONTEXT: Map520/events/2/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここまで逃げ回られるなんて・・・
+> CONTEXT: Map520/events/2/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふむ・・・相手もこれ以上逃げ場は無いようだが、
+我々もあそこまで移動するのは無理だな。
+> CONTEXT: Map520/events/2/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうするの？　このまま持久戦？
+> CONTEXT: Map520/events/2/pages/0/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ええ～？　あたし、待つのキライー・・・
+> CONTEXT: Map520/events/2/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何か、エサとかでおびき寄せることが
+できれば・・・
+> CONTEXT: Map520/events/2/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アレって、何を食べるの？
+> CONTEXT: Map520/events/2/pages/0/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すみません、そこまでは・・・
+> CONTEXT: Map520/events/2/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エサ、か・・・
+> CONTEXT: Map520/events/2/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+食べ物ではないが、見せれば誰もが飛びついて
+くるであろうモノなら、心当たりがある。
+> CONTEXT: Map520/events/2/pages/0/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え？　なになに！？
+> CONTEXT: Map520/events/2/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あー、その手があったわね。
+> CONTEXT: Map520/events/2/pages/0/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ついさっき、ワタシ達もハマって悶絶してた
+アレだナー？
+> CONTEXT: Map520/events/2/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゼリーちゃんかぁ・・・
+> CONTEXT: Map520/events/2/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物相手でも効果あるかな？
+> CONTEXT: Map520/events/2/pages/0/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんなにかわいいんですから、きっと効くと
+思います。
+> CONTEXT: Map520/events/2/pages/0/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ものは試しだ。　一人連れて来てみよう。
+> CONTEXT: Map520/events/2/pages/0/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レリグ・イアス
+「キイイィィィィ！！」
+> CONTEXT: Map520/events/3/pages/1/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さて、相手もうんざりしていることだろうし、
+そろそろ決着をつけてやるとしよう。
+> CONTEXT: Map520/events/3/pages/1/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゼリーちゃん、召喚！！
+> CONTEXT: Map520/events/3/pages/1/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+hoーー！
+> CONTEXT: Map520/events/3/pages/1/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map495/events/10/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map495/events/10/pages/1/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map495/events/10/pages/3/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map495/events/10/pages/4/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レリグ・イアス
+「キキィィィーーーキュワアァァァン！！！！」
+> CONTEXT: Map520/events/3/pages/1/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+釣れたヨーーー！！！
+> CONTEXT: Map520/events/3/pages/1/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+グッジョブ！！　みんないくわよ！！
+> CONTEXT: Map520/events/3/pages/1/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いえーい！！　完全勝利！！
+> CONTEXT: Map520/events/3/pages/3/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゼリーちゃんのおかげで、やっと倒せたわ。
+> CONTEXT: Map520/events/3/pages/3/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+hoー！
+> CONTEXT: Map520/events/3/pages/3/19/Dialogue < UNTRANSLATED
+> CONTEXT: Map507/events/13/pages/0/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map495/events/10/pages/1/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ありがとうね。
+> CONTEXT: Map520/events/3/pages/3/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さて、目的の物は・・・これだな。
+> CONTEXT: Map520/events/3/pages/3/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【レリグ・イアスの鱗粉】×1
+を手に入れた！
+> CONTEXT: Map520/events/3/pages/3/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やったね！！
+> CONTEXT: Map520/events/3/pages/3/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これで2つの材料がそろいました。
+> CONTEXT: Map520/events/3/pages/3/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃあ、これをルミィのとこに届ければ
+いいんだナー？
+> CONTEXT: Map520/events/3/pages/3/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あとはルミィが魔力探知装置を作ってくれる
+ことだろう。
+> CONTEXT: Map520/events/3/pages/3/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よーし！　急いでユーリャ教会の臨時研究室へ
+戻ろ！
+> CONTEXT: Map520/events/3/pages/3/58/Dialogue < UNTRANSLATED
+
+> END STRING

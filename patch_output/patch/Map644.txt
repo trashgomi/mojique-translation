@@ -1,0 +1,51 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+騎士団長ガウラ
+「それにしても、姫。」
+> CONTEXT: Map644/events/16/pages/0/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「なぜ突然、熾天宮に行きたいなどと
+　おっしゃったのでしょう。」
+> CONTEXT: Map644/events/16/pages/0/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+理由はいくつかあるが・・・
+> CONTEXT: Map644/events/16/pages/0/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まあそれについては道中で話そう。
+> CONTEXT: Map644/events/16/pages/0/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さあ、乗るぞガウラ。
+> CONTEXT: Map644/events/16/pages/0/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「は。」
+> CONTEXT: Map644/events/16/pages/0/105/Dialogue < UNTRANSLATED
+> CONTEXT: Map127/events/16/pages/1/203/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+門番
+「ささ、どうぞお通りください！」
+> CONTEXT: Map644/events/23/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map119/events/21/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map119/events/23/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map119/events/23/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING

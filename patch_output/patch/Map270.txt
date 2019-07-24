@@ -1,0 +1,117 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+シスター
+「みな様ご無事でしたか。」
+> CONTEXT: Map270/events/4/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うむ。　はぐれた仲間とも合流できた。
+> CONTEXT: Map270/events/4/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こちらは変わりないか？
+> CONTEXT: Map270/events/4/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シスター
+「おかげさまで、私たちは大丈夫です。」
+> CONTEXT: Map270/events/4/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シスター
+「ただ・・」
+> CONTEXT: Map270/events/4/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただ・・・？
+> CONTEXT: Map270/events/4/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シスター
+「この船と私たちの乗って来た船をつなぐ
+　橋が、いつの間にか・・・」
+> CONTEXT: Map270/events/4/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+な、無くなってます・・・！！
+> CONTEXT: Map270/events/4/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うそ・・・っ！　なんで！？
+> CONTEXT: Map270/events/4/pages/0/59/Dialogue < UNTRANSLATED
+> CONTEXT: Map270/events/4/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シスター
+「私たちにも分かりません。　気がついたら
+　こつぜんと消えていたのです・・・」
+> CONTEXT: Map270/events/4/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+退路を断たれたか・・・
+> CONTEXT: Map270/events/4/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょっと、どうすんのよ・・・！
+> CONTEXT: Map270/events/4/pages/0/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+決まっている。
+> CONTEXT: Map270/events/4/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我々に残された活路は、この船の攻略以外に
+ない。
+> CONTEXT: Map270/events/4/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+内部を探索し、元凶を叩く。
+> CONTEXT: Map270/events/4/pages/0/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+で・・・ですよねー・・・
+> CONTEXT: Map270/events/4/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵は得体が知れない相手だ。
+> CONTEXT: Map270/events/4/pages/0/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+気を引き締めてかかるぞ。
+> CONTEXT: Map270/events/4/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,173 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ここが大陸北部か。
+> CONTEXT: Map175/events/1/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+気温が低いな。
+> CONTEXT: Map175/events/1/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ねー、寒いねー！
+> CONTEXT: Map175/events/1/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まあ、雪原があるくらいだし。
+> CONTEXT: Map175/events/1/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見て見て！　息が白いよ！！
+> CONTEXT: Map175/events/1/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ひめ、もう元気出しなよ。）
+> CONTEXT: Map175/events/1/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（あれは完全に事故なんだから。）
+> CONTEXT: Map175/events/1/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（は、はい・・・ごめんなさい。）
+> CONTEXT: Map175/events/1/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（気持ちを切り替えていきましょ。）
+> CONTEXT: Map175/events/1/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（おろおろ）
+> CONTEXT: Map175/events/1/pages/0/42/Dialogue < UNTRANSLATED
+> CONTEXT: Map174/events/2/pages/1/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ひめ、みんな部屋でおしっこしたことは、
+　レグマくんにはバレてないみたいだから
+　大丈夫だよ。）
+> CONTEXT: Map175/events/1/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ほ、本当ですか・・・？）
+> CONTEXT: Map175/events/1/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（うん。　だからもう忘れましょ。）
+> CONTEXT: Map175/events/1/pages/0/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よし、まずは雪原に向かう順路を確認し、
+準備が整い次第出発するとしよう。
+> CONTEXT: Map175/events/1/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+船員
+「船ですか？　すみません、ちょっと
+　メンテナンス中で、しばらく出航を見合わせて
+　います・・・」
+> CONTEXT: Map175/events/1/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+船員
+「船の出航は・・・へえっくしょん！！！」
+> CONTEXT: Map175/events/1/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+船員
+「失礼・・・出航の時間はまだ先ですよ。」
+> CONTEXT: Map175/events/1/pages/2/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+船員
+「中央部の港町ザザーブ行きの船です。
+　乗りますか？」
+> CONTEXT: Map175/events/1/pages/3/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+船員
+「間もなく出港です。　お急ぎください。」
+> CONTEXT: Map175/events/1/pages/3/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map175/events/1/pages/4/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map175/events/1/pages/4/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+船員
+「着きましたぜ、熾天少女ご一行さまぁ！」
+> CONTEXT: Map175/events/1/pages/3/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+船員
+「では、またのご利用を。」
+> CONTEXT: Map175/events/1/pages/3/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+船員「どちら行きの船に乗りますか？」
+> CONTEXT: Map175/events/1/pages/4/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+東部行き
+> CONTEXT: Map175/events/1/pages/4/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map028/events/22/pages/10/2/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ううううううう寒みいいいいいいい！！！！
+> CONTEXT: Map175/events/6/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、あんたらそんな格好で大丈夫なのか！？
+> CONTEXT: Map175/events/6/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こりゃ例年以上の大寒波じゃのう・・・
+> CONTEXT: Map175/events/8/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,6 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+この上は国王様がたの寝室です。
+> CONTEXT: Map129/events/13/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,511 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+うぅぅ・・・み、みんな・・・どこぉ・・・？
+> CONTEXT: Map504/events/3/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だれかぁ・・・ぐすっ・・・
+> CONTEXT: Map504/events/3/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひ・・・っ！　な、な、なに・・・！？
+> CONTEXT: Map504/events/3/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おおおおおお！！　ひめちゃんみっけ！！！
+> CONTEXT: Map504/events/3/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、あ、あ、
+> CONTEXT: Map504/events/3/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+秋空さ～～～～～～ん！！！
+> CONTEXT: Map504/events/3/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よかったぁー！　ひとりぼっちで心細かった
+よー！！
+> CONTEXT: Map504/events/3/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ということは、秋空さんも迷子ですか？
+> CONTEXT: Map504/events/3/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うん！　迷子検定準一級は軽く合格できる
+自信あるよ！！
+> CONTEXT: Map504/events/3/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+くすっ　じゃあ今度、私も受けてみますね。
+> CONTEXT: Map504/events/3/pages/0/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おーー！　目指せ一級！！
+> CONTEXT: Map504/events/3/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ところで、ひめちゃんお腹すいてない？
+> CONTEXT: Map504/events/3/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・え？　急にどうしたんですか？
+> CONTEXT: Map504/events/3/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さっき向こうの木の根元で、ものすっごく
+おいしいキノコ見つけちゃったんだ！
+> CONTEXT: Map504/events/3/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほら、コレ！！
+> CONTEXT: Map504/events/3/pages/0/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わぁ・・・ずいぶんいっぱい採ってきましたね・・・
+> CONTEXT: Map504/events/3/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だ、大丈夫なキノコなんですか？
+> CONTEXT: Map504/events/3/pages/0/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+というか、生で食べたんですか・・・！？
+> CONTEXT: Map504/events/3/pages/0/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うん！　最初はドキドキだったけど、食べて
+みたら最高においしいの！
+> CONTEXT: Map504/events/3/pages/0/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひめちゃんも食べてみて！！
+> CONTEXT: Map504/events/3/pages/0/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+で、でも・・・
+> CONTEXT: Map504/events/3/pages/0/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やっぱり生のままっていうのは・・・
+> CONTEXT: Map504/events/3/pages/0/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+平気だって！　むしろこれは生のままの方が
+おいしいパターンじゃないかな？
+> CONTEXT: Map504/events/3/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もぐもぐ・・・あ～うまうま！
+> CONTEXT: Map504/events/3/pages/0/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ごくり・・・）
+> CONTEXT: Map504/events/3/pages/0/104/Dialogue < UNTRANSLATED
+> CONTEXT: Map303/events/8/pages/2/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（た・・・たしかにおいしそう・・・）
+> CONTEXT: Map504/events/3/pages/0/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃ、じゃあ・・・少し・・・ほんの少しだけ
+食べてみようかな・・・？
+> CONTEXT: Map504/events/3/pages/0/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうこなくっちゃ！　はい！
+> CONTEXT: Map504/events/3/pages/0/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ぱくっ）
+> CONTEXT: Map504/events/3/pages/0/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どう？　どう？
+> CONTEXT: Map504/events/3/pages/0/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おいしいです・・・！　生のはずなのに、
+アルミホイル焼きみたいな香ばしさが・・・！
+> CONTEXT: Map504/events/3/pages/0/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でしょー！？
+> CONTEXT: Map504/events/3/pages/0/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まだいっぱいあるから、霧が晴れて視界が
+良くなるまで、これ食べて休憩しよ！
+> CONTEXT: Map504/events/3/pages/0/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃあ、もう少し頂きます。
+> CONTEXT: Map504/events/3/pages/0/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レッツ、2人だけのキノコパーリィ！！
+> CONTEXT: Map504/events/3/pages/0/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんか・・・頭がぼーっとしてきちゃった・・・
+> CONTEXT: Map504/events/3/pages/0/158/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だ・・・大丈夫ですか！？
+> CONTEXT: Map504/events/3/pages/0/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょっと顔が赤いみたいですけど・・・
+> CONTEXT: Map504/events/3/pages/0/164/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う～ん、へいきへいき・・・
+> CONTEXT: Map504/events/3/pages/0/168/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんだか気持ちいい感じ・・・
+> CONTEXT: Map504/events/3/pages/0/169/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そういうひめちゃんこそ、顔赤いぞ～？
+> CONTEXT: Map504/events/3/pages/0/170/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え！？　そ、そうですか・・・？
+> CONTEXT: Map504/events/3/pages/0/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そう言えば、私もなんだか・・・ふらふらして・・・
+> CONTEXT: Map504/events/3/pages/0/179/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やっぱり、さっきのキノコ・・・ど、毒だったんじゃ
+・・・
+> CONTEXT: Map504/events/3/pages/0/180/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うへへ♪　だいじょぶだいじょぶ！　なせば
+なる！　なしゃねぶぁにゃらんぬぅ・・・ひっく！
+> CONTEXT: Map504/events/3/pages/0/185/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、あきそらさ～～～ん・・・っ！
+> CONTEXT: Map504/events/3/pages/0/190/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひっく！
+> CONTEXT: Map504/events/3/pages/0/191/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぐぅ～・・・すぴ～・・・
+> CONTEXT: Map504/events/3/pages/0/205/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あきしょらしゃん！　あきしょらしゃぁ～ん！
+> CONTEXT: Map504/events/3/pages/0/209/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おきれくらさい！　きりがはれてきまひたよぉ！
+> CONTEXT: Map504/events/3/pages/0/210/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+みなしゃんをしゃがしにいきまひょおぅ！
+> CONTEXT: Map504/events/3/pages/0/211/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふあ・・・ぁ・・・ほんとだ・・・
+> CONTEXT: Map504/events/3/pages/0/215/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これなら道が見つかるかもね！
+> CONTEXT: Map504/events/3/pages/0/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+出発しよおぉ～！
+> CONTEXT: Map504/events/3/pages/0/222/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わかれみち・・・ろっちいけばいいんれすかねぇ
+・・・？
+> CONTEXT: Map504/events/3/pages/0/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う～ん、どっちでも適当にすすんじゃおう！
+> CONTEXT: Map504/events/3/pages/0/239/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すべての道は早乙女くんに続くナリ～！
+> CONTEXT: Map504/events/3/pages/0/240/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ぶるっ）
+> CONTEXT: Map504/events/3/pages/0/244/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・あ、ちょっとタイムぅ～
+> CONTEXT: Map504/events/3/pages/0/245/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オシッコ～・・・
+> CONTEXT: Map504/events/3/pages/0/253/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こら～！！　あきしょらしゃん！！
+> CONTEXT: Map504/events/3/pages/0/265/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふえっ！？
+> CONTEXT: Map504/events/3/pages/0/273/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おんなのこがおそとでおしっこひちゃらめれす！
+> CONTEXT: Map504/events/3/pages/0/282/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おてあらいまれ、がまんしてくらさい！！
+> CONTEXT: Map504/events/3/pages/0/283/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・あ、ぅ、ぅん・・・
+> CONTEXT: Map504/events/3/pages/0/288/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ～・・・残念！　また行き止まりぃ～・・・
+> CONTEXT: Map504/events/3/pages/0/300/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+らいじょぶれす！　つぎいきまひょぉう！
+> CONTEXT: Map504/events/3/pages/0/304/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひめちゃ～ん、あたしはちょっとそっちの
+道を見てくるからぁ～、
+> CONTEXT: Map504/events/3/pages/0/313/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひめちゃんはあっちの道を見てきてほしい
+なぁ～・・・
+> CONTEXT: Map504/events/3/pages/0/315/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひょんなこといって、しげみでおしっこしちゃう
+きれしょ！！
+> CONTEXT: Map504/events/3/pages/0/320/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おろめとして、はじゅかひくないんれすか！
+> CONTEXT: Map504/events/3/pages/0/322/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だってだって～・・・したいんだも～ん！
+> CONTEXT: Map504/events/3/pages/0/326/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もうガマンできなぁ～い！
+> CONTEXT: Map504/events/3/pages/0/327/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+むぅ～！
+> CONTEXT: Map504/events/3/pages/0/331/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うそれすね！　まらまらよゆうれひょ！
+> CONTEXT: Map504/events/3/pages/0/332/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うへえぇ・・・ひめちゃんがいつになく
+厳しいよぉ～・・・！！
+> CONTEXT: Map504/events/3/pages/0/336/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ねえひめちゃん・・・おねがい、オシッコ・・・
+> CONTEXT: Map504/events/3/pages/0/352/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そろそろ限界なのぉ・・・ガマンは体によく
+ないでしょ～？
+> CONTEXT: Map504/events/3/pages/0/353/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そりぇはしょうれすけろ・・・
+> CONTEXT: Map504/events/3/pages/0/362/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あきしょらしゃんからは、まだおしっこおーらが
+れてまひぇん！
+> CONTEXT: Map504/events/3/pages/0/363/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちゅまり、まらまらよゆーのはずれす！！
+> CONTEXT: Map504/events/3/pages/0/368/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よ、よもやひめちゃんの口から“おしっこオーラ”
+なるワードが聞けるとは・・・
+> CONTEXT: Map504/events/3/pages/0/373/Dialogue < UNTRANSLATED
+
+> END STRING

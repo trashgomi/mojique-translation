@@ -1,0 +1,154 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+騎士団長ガウラ
+「着きました。　これが熾天宮です。」
+> CONTEXT: Map649/events/8/pages/0/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほう、実に見事な建造物じゃのう・・・
+> CONTEXT: Map649/events/8/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+かつて熾天少女に天の使いの力を授けたと
+される神殿・・・
+> CONTEXT: Map649/events/8/pages/0/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+尊い場所じゃ・・・
+> CONTEXT: Map649/events/8/pages/0/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「外観もさることながら、内装も荘厳です。」
+> CONTEXT: Map649/events/8/pages/0/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「ただし、ガーディアンの妨害によって最深部
+　にたどり着いた者はおりません。」
+> CONTEXT: Map649/events/8/pages/0/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうか・・・
+> CONTEXT: Map649/events/8/pages/0/117/Dialogue < UNTRANSLATED
+> CONTEXT: Map597/events/1/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+では、慎重に立ち入るとしよう。
+> CONTEXT: Map649/events/8/pages/0/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「え？　中に入るおつもりですか・・・！？」
+> CONTEXT: Map649/events/8/pages/0/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「先ほど申し上げたとおり、神殿内部には
+　多くのガーディアンが・・・」
+> CONTEXT: Map649/events/8/pages/0/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここまで来ておいて、中をのぞかずに帰れと
+申すのか？
+> CONTEXT: Map649/events/8/pages/0/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+馬車の中で話したであろう。　第三者の目で
+新たな発見があるやもしれぬので視察に
+来たのじゃぞ。
+> CONTEXT: Map649/events/8/pages/0/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワラワは観光のためにここまで足を
+運んだのではない。
+> CONTEXT: Map649/events/8/pages/0/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「むう・・・」
+> CONTEXT: Map649/events/8/pages/0/136/Dialogue < UNTRANSLATED
+> CONTEXT: Map127/events/16/pages/1/382/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「・・・分かりました。　では、少しだけですぞ。」
+> CONTEXT: Map649/events/8/pages/0/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「装飾や仕掛けにはくれぐれもお手を触れない
+　よう、お願いします。」
+> CONTEXT: Map649/events/8/pages/0/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワ、ワラワはいたずらっ子か！
+> CONTEXT: Map649/events/8/pages/0/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「それと、念のためです。　退魔水をお飲み
+　ください。」
+> CONTEXT: Map649/events/8/pages/0/147/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・え？　ま、また飲むのか・・・？
+> CONTEXT: Map649/events/8/pages/0/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「姫の身の安全が最優先ですから。　さあ。」
+> CONTEXT: Map649/events/8/pages/0/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う、うむ・・・
+> CONTEXT: Map649/events/8/pages/0/160/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（致し方ない・・・これ以上水分は摂りたく
+　ないのじゃが・・・）
+> CONTEXT: Map649/events/8/pages/0/161/Dialogue < UNTRANSLATED
+
+> END STRING

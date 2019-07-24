@@ -1,0 +1,190 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+さ、先におトイレ行きたい・・・かも・・・。
+> CONTEXT: Map226/events/3/pages/0/82/Dialogue < UNTRANSLATED
+> CONTEXT: Map151/events/1/pages/1/82/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/3/pages/1/82/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/4/pages/1/82/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/10/pages/1/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その前に・・・トイレ行きたいんだけど・・・。
+> CONTEXT: Map226/events/3/pages/0/172/Dialogue < UNTRANSLATED
+> CONTEXT: Map151/events/1/pages/1/172/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/3/pages/1/173/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/4/pages/1/173/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/10/pages/1/173/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【不思議なペン】は、どこでもセーブできる
+スグレ物だよ。
+> CONTEXT: Map226/events/8/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map048/events/8/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただし、パーティが疲弊してる時にダンジョンの
+奥でセーブしちゃうと、戻れなくなっちゃうかも
+しれないから気を付けてね。
+> CONTEXT: Map226/events/8/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map048/events/8/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え・・・っ！？　うそ・・・こ、こっちも行列・・・っ！？
+> CONTEXT: Map226/events/9/pages/0/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map226/events/9/pages/1/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ・・・そんな・・・っ！！
+> CONTEXT: Map226/events/9/pages/0/25/Dialogue < UNTRANSLATED
+> CONTEXT: Map226/events/9/pages/1/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+春風か。
+> CONTEXT: Map226/events/9/pages/0/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map226/events/9/pages/1/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+予想以上にトロッコ渋滞は深刻なようだ。
+> CONTEXT: Map226/events/9/pages/0/34/Dialogue < UNTRANSLATED
+> CONTEXT: Map226/events/9/pages/1/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+外まで列が続きそうな勢いだぞ。
+> CONTEXT: Map226/events/9/pages/0/35/Dialogue < UNTRANSLATED
+> CONTEXT: Map226/events/9/pages/1/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うぅぅ・・・っ、なん・・・で・・・
+> CONTEXT: Map226/events/9/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こんな・・・も、・・・もぅ・・・だ、だ・・・め・・・っ！
+> CONTEXT: Map226/events/9/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もぅ・・・っ、だめ・・・ぇ・・・っ！　はぁうぅっ！！！
+> CONTEXT: Map226/events/9/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はぁあぁ・・・
+> CONTEXT: Map226/events/9/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あわわ・・・あわわわわ・・・っ////
+> CONTEXT: Map226/events/9/pages/0/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こちらも深刻な事態だな。
+> CONTEXT: Map226/events/9/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+桐生、タオルを取って来てくれ。　俺は
+水を汲んで来る。
+> CONTEXT: Map226/events/9/pages/0/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、は、はい！！
+> CONTEXT: Map226/events/9/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ううぅ・・・ぐす・・・っ　うわぁぁん・・・っ！
+> CONTEXT: Map226/events/9/pages/0/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その後、ぐずる春風をなだめつつ、トロッコで
+山を越えて中央部にたどり着いた。
+> CONTEXT: Map226/events/9/pages/0/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何はともあれ、これでやっと城に行けるね！
+> CONTEXT: Map226/events/9/pages/0/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（春風さん・・・元気出して・・・）
+> CONTEXT: Map226/events/9/pages/0/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（常夏さんと秋空さんには、絶対内緒にします
+　から・・・）
+> CONTEXT: Map226/events/9/pages/0/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（うん・・・ありがとう。）
+> CONTEXT: Map226/events/9/pages/0/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（こ、こんなに並んでたら、絶対間に合わない
+　よぉっ！！）
+> CONTEXT: Map226/events/9/pages/1/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、あ、あたし・・・ちょっと・・・
+> CONTEXT: Map226/events/9/pages/1/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+港町のトイレまで行って来るっ！！
+> CONTEXT: Map226/events/9/pages/1/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だいぶ遠いぞ。
+> CONTEXT: Map226/events/9/pages/1/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だ・・・大丈夫よっ！　すぐ行って来るからっ！！
+> CONTEXT: Map226/events/9/pages/1/58/Dialogue < UNTRANSLATED
+
+> END STRING

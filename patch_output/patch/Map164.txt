@@ -1,0 +1,51 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ここが正面通路か。
+> CONTEXT: Map164/events/4/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何かが待ち受けている気がしてならない。
+> CONTEXT: Map164/events/4/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もー！　そういうこと言うと、ホントに何か
+出てきちゃうよ～？
+> CONTEXT: Map164/events/4/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+“何か”って・・・？
+> CONTEXT: Map164/events/4/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んーと、ガーディアンの上級なやつとか！
+> CONTEXT: Map164/events/4/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それって、今こっちに向かってきてるアレの
+こと？
+> CONTEXT: Map164/events/4/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+み、みなさん気を付けて！　大きいのが
+来てますよ！
+> CONTEXT: Map164/events/4/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見事な手際だった。　この調子で進むとしよう。
+> CONTEXT: Map164/events/4/pages/2/8/Dialogue < UNTRANSLATED
+
+> END STRING

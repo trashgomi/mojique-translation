@@ -1,0 +1,75 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+・・・あ・・・っ
+> CONTEXT: Map608/events/10/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+済んだのか？
+> CONTEXT: Map608/events/10/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ・・・その・・・ぁ、あの・・・わたし・・・
+> CONTEXT: Map608/events/10/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だめ・・・限・・・界・・・っ
+> CONTEXT: Map608/events/10/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・ぅぅ・・・っ
+> CONTEXT: Map608/events/10/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぜんぶ・・・でちゃった・・・
+> CONTEXT: Map608/events/10/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ううぅ・・・っ、どうしよぉ・・・/////
+> CONTEXT: Map608/events/10/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「あら～・・・」
+> CONTEXT: Map608/events/10/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+店員、着替えの手伝いを頼む。
+> CONTEXT: Map608/events/10/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「了解ですー！」
+> CONTEXT: Map608/events/10/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「さあ、とりあえず中に入りましょー！」
+> CONTEXT: Map608/events/10/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふええううぅ・・・ご、ごめんなさいぃ・・・
+> CONTEXT: Map608/events/10/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING

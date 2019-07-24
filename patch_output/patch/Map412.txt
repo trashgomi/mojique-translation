@@ -1,0 +1,23 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+母から聞いた話なんですけど、西の秘湯って
+男湯より女湯の方が広いんですって。
+> CONTEXT: Map412/events/1/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+つ、つまり、男湯にいっぱい客が入った場合、
+生まれたままの姿の男たちは狭い浴槽の中で
+必然的に体が触れ合い、
+> CONTEXT: Map412/events/1/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+体内にうずく初めての感情に戸惑いながらも、
+お互いの肉体に抱く禁断の劣情をををををお
+おおおああぁぁぁっ！！！！
+> CONTEXT: Map412/events/1/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING

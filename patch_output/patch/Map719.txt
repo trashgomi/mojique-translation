@@ -1,0 +1,131 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+しかし、いくら待っても救助は来ず・・・
+> CONTEXT: Map719/events/31/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+研究員
+「おかしいですね、あれだけ大きな音が立てば
+　一人くらい様子を見に来ても不思議では
+　ないのに・・・」
+> CONTEXT: Map719/events/31/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふむ・・・
+> CONTEXT: Map719/events/31/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map315/events/10/pages/0/293/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/47/pages/0/217/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/35/pages/0/31/Dialogue < UNTRANSLATED
+> CONTEXT: Map127/events/4/pages/12/315/Dialogue < UNTRANSLATED
+> CONTEXT: Map127/events/4/pages/12/603/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これらのジェネレーターから出る騒音を
+抑えるため、この部屋から廊下にかけて
+防音構造になっています。
+> CONTEXT: Map719/events/31/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もしかしたら、研究室までは音が届いていない
+か、届いていたとしても実験装置の機械音と
+間違われたのかもしれません。
+> CONTEXT: Map719/events/31/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+研究員
+「だとしたら、いよいよまずいですよ・・・」
+> CONTEXT: Map719/events/31/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+研究員
+「このままでは誰にも気付かれない恐れが・・・」
+> CONTEXT: Map719/events/31/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何とかして、誰かをこの部屋へ来るように
+仕向けることができれば・・・
+> CONTEXT: Map719/events/31/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+研究員
+「だ、大丈夫ですか？　このままではルミィさん
+　が熱中症に・・・」
+> CONTEXT: Map719/events/31/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+研究員
+「あ！　そうだ、この際ジェネレーターを停止
+　させてしまいましょう！」
+> CONTEXT: Map719/events/31/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・！
+> CONTEXT: Map719/events/31/pages/0/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map549/events/33/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map541/events/8/pages/0/85/Dialogue < UNTRANSLATED
+> CONTEXT: Map431/events/23/pages/0/201/Dialogue < UNTRANSLATED
+> CONTEXT: Map242/events/2/pages/0/250/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なるほど、そうすれば室温も下がりますし、
+同時に全館への電力供給が断たれることに
+なります。
+> CONTEXT: Map719/events/31/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+研究員
+「そうすれば、ジェネレーターの異常を確認
+　するために誰かが来るはずですよ！」
+> CONTEXT: Map719/events/31/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ええ。　さっそくお願いします。
+> CONTEXT: Map719/events/31/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+研究員
+「はい！」
+> CONTEXT: Map719/events/31/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+研究員
+「これできっと助かります。」
+> CONTEXT: Map719/events/31/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうですね。　人が来るのを待ちましょう。
+> CONTEXT: Map719/events/31/pages/0/110/Dialogue < UNTRANSLATED
+
+> END STRING

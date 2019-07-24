@@ -1,0 +1,16 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+中に薄黄色い液体がたっぷり入っている。
+> CONTEXT: Map102/events/10/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+壺の中はからっぽだ。
+> CONTEXT: Map102/events/11/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map102/events/12/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map102/events/13/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map098/events/15/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map098/events/16/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

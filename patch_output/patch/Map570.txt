@@ -1,0 +1,1490 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+こ・・・これが・・・
+> CONTEXT: Map570/events/4/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔界門・・・！
+> CONTEXT: Map570/events/4/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+奥から魔力があふれ出してきているのが
+分かるわ・・・
+> CONTEXT: Map570/events/4/pages/0/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+間違いなさそうだな。
+> CONTEXT: Map570/events/4/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この先が魔界へとつながっているんですね。
+> CONTEXT: Map570/events/4/pages/0/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+このまま放置しておけば、また魔族の
+増援が人間界へ来てしまいます。
+> CONTEXT: Map570/events/4/pages/0/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃ、とっとと時空玉使って、ひずみを
+安定させちゃおうヨー！
+> CONTEXT: Map570/events/4/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賛成～！！
+> CONTEXT: Map570/events/4/pages/0/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あれ？
+> CONTEXT: Map570/events/4/pages/0/105/Dialogue < UNTRANSLATED
+> CONTEXT: Map242/events/2/pages/0/186/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/147/2189/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうかしたのか？
+> CONTEXT: Map570/events/4/pages/0/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そう言えば、魔力探知装置で確認した
+白カラットはどこにいるんだろう？
+> CONTEXT: Map570/events/4/pages/0/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+確か、それっぽいのが映ってたよね？
+> CONTEXT: Map570/events/4/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そう言えばそうね。
+> CONTEXT: Map570/events/4/pages/0/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+姿は見えないけど、どこかに潜んでいるの
+かしら・・・？
+> CONTEXT: Map570/events/4/pages/0/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もしくは、まさかとは思うんですけど・・・
+> CONTEXT: Map570/events/4/pages/0/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この門を通って、魔界に行った、とか・・・？
+> CONTEXT: Map570/events/4/pages/0/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何のために？
+> CONTEXT: Map570/events/4/pages/0/131/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白カラットなら、やりかねないかも。
+> CONTEXT: Map570/events/4/pages/0/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『魔界に行けば、もっと強力な魔力が身に
+　つけられるに違いない！』とか言ってさ。
+> CONTEXT: Map570/events/4/pages/0/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ありうるな。
+> CONTEXT: Map570/events/4/pages/0/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とにかく、いないなら好都合です・・・！
+> CONTEXT: Map570/events/4/pages/0/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+早く時空玉を・・・
+> CONTEXT: Map570/events/4/pages/0/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「まあまあ、そんなにせかせかしないで、
+　いったん落ち着こうじゃない？」
+> CONTEXT: Map570/events/4/pages/0/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白カラットの声！？！？　どこ！？！？
+> CONTEXT: Map570/events/4/pages/0/154/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やっほー、みんな久しぶり～！
+> CONTEXT: Map570/events/4/pages/0/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やはり来ていたのか。
+> CONTEXT: Map570/events/4/pages/0/179/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相変わらずノリ軽いわね・・・
+> CONTEXT: Map570/events/4/pages/0/183/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そして、相変わらず、すごい魔力・・・
+> CONTEXT: Map570/events/4/pages/0/187/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でしょ～？
+> CONTEXT: Map570/events/4/pages/0/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+熾天宮でルミィから喰らった干渉剤、もう
+とっくに効果切れてるんだよね～！
+> CONTEXT: Map570/events/4/pages/0/194/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+同じ手は二度も喰わないから、今のキミたちに
+勝ち目なんて無いぞ～？
+> CONTEXT: Map570/events/4/pages/0/199/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんなの、やってみなきゃ分かんないヨー！！
+> CONTEXT: Map570/events/4/pages/0/205/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんてったって、こっちにはアレがあるん
+だからナー！！
+> CONTEXT: Map570/events/4/pages/0/206/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（た、たこやきさん！　あの切り札のことは
+　内緒ですよっ！）
+> CONTEXT: Map570/events/4/pages/0/212/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あー、ンー、あ・・・そ、そっカー・・・！
+> CONTEXT: Map570/events/4/pages/0/219/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アレ・・・、アレなんて無いゾー！
+なあ、ハムコー？
+> CONTEXT: Map570/events/4/pages/0/220/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え、うん・・・？　アレ？　“アレ”って・・・なに？
+> CONTEXT: Map570/events/4/pages/0/225/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ほ・・・本気で分かってない顔だっ！）
+> CONTEXT: Map570/events/4/pages/0/230/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そもそも白カラット、お前はこの門に何の
+用があるんだ。
+> CONTEXT: Map570/events/4/pages/0/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+第一に、この門が何なのか分かっているん
+ですか・・・！？
+> CONTEXT: Map570/events/4/pages/0/240/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そりゃあもちろん！
+> CONTEXT: Map570/events/4/pages/0/247/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この“魔界門”に用があって来たんだよ。
+> CONTEXT: Map570/events/4/pages/0/253/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+や、やっぱり・・・これが魔界へとつながっている
+ことを知っているんですね・・・
+> CONTEXT: Map570/events/4/pages/0/258/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+となると、目的は当然、魔界門の研究かしら。
+> CONTEXT: Map570/events/4/pages/0/263/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ピンポーン！　おおむね正解！
+> CONTEXT: Map570/events/4/pages/0/267/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+正確には、“魔界門に存在する時空の複製と
+自由化”かな？
+> CONTEXT: Map570/events/4/pages/0/271/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたしが開発したスペル・エンチャンターで
+魔力を制御しつつ、魔界門の応用によって
+任意の場所に自在に魔界とのリンクを作り出す
+ことによって、さらに強力な魔力を取りこむ！
+> CONTEXT: Map570/events/4/pages/0/278/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+イイと思わない～？
+> CONTEXT: Map570/events/4/pages/0/285/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+噛み砕いて言えば、魔界の魔力を自由に召喚
+できるようにしたい、ということか。
+> CONTEXT: Map570/events/4/pages/0/289/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、そんなの危険すぎます！！　絶対
+許されないことですよ！！！
+> CONTEXT: Map570/events/4/pages/0/296/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔力の召喚・・・
+> CONTEXT: Map570/events/4/pages/0/301/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+かっこいいけど、それを白カラットが実現
+しちゃったら大変なことになりそう！
+> CONTEXT: Map570/events/4/pages/0/302/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+や、やめさせなきゃ・・・！
+> CONTEXT: Map570/events/4/pages/0/308/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やめさせる？
+> CONTEXT: Map570/events/4/pages/0/312/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+無駄無駄～！　さっきも言ったけど、もう
+干渉剤なんて持ち出しても意味ないから！
+そんなの喰らわないし！
+> CONTEXT: Map570/events/4/pages/0/313/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それとも、力ずくで押さえつけて、無理やり
+注射してみる？
+> CONTEXT: Map570/events/4/pages/0/319/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ！　そんなことができたら、そもそも干渉剤
+なんて使う必要ないか！　あははははははは！
+> CONTEXT: Map570/events/4/pages/0/321/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何がおかしいのか分からんが、お前に干渉剤を
+打ち込むのに、力に訴える必要などない。
+> CONTEXT: Map570/events/4/pages/0/326/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ～・・・
+> CONTEXT: Map570/events/4/pages/0/359/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+慢心したな。
+> CONTEXT: Map570/events/4/pages/0/366/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『強力な魔力を身につけた自分と戦えるのは、
+熾天少女以外にいない』と油断していたよう
+だが、
+> CONTEXT: Map570/events/4/pages/0/368/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おかげで、俺の突然の接近に反応できなかった
+わけだ。
+> CONTEXT: Map570/events/4/pages/0/371/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おおおおおおおお！！！　レグマくんすごい！！
+> CONTEXT: Map570/events/4/pages/0/376/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やるじゃない！　見直したわ！
+> CONTEXT: Map570/events/4/pages/0/380/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ありゃ～・・・・これは一本取られたわ～・・・
+> CONTEXT: Map570/events/4/pages/0/384/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でもさ、この程度の一時しのぎであたしに
+勝ったつもりになるには、まだ早いんじゃない
+かな～？
+> CONTEXT: Map570/events/4/pages/0/385/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+30分もすれば効果が切れて、また元の
+強力な・・・
+> CONTEXT: Map570/events/4/pages/0/390/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふっふっふー！　ところがそうはいかないんだ
+ナー！！
+> CONTEXT: Map570/events/4/pages/0/396/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これはあの時の未完成品じゃなくて、完成した
+スペル・デストラクター！　つまり、
+> CONTEXT: Map570/events/4/pages/0/398/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オマエの魔力は永久に失われたのサー！！
+> CONTEXT: Map570/events/4/pages/0/400/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・・・・マジ？
+> CONTEXT: Map570/events/4/pages/0/403/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マジです。
+> CONTEXT: Map570/events/4/pages/0/407/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さて、これでもうあなたは、ただの一般人ね。
+> CONTEXT: Map570/events/4/pages/0/410/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さっきのセリフ、そのまま返しちゃう！
+> CONTEXT: Map570/events/4/pages/0/413/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もうあたし達に勝ち目なんてないから、
+おとなしく観念しろ～！
+> CONTEXT: Map570/events/4/pages/0/414/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とりあえず、一発撃っておくカー？
+> CONTEXT: Map570/events/4/pages/0/420/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょちょちょ！　慌てなさんなって！
+> CONTEXT: Map570/events/4/pages/0/424/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+丸腰の人間を囲んで乱暴する気～？
+冗談キツいな～もう！
+> CONTEXT: Map570/events/4/pages/0/425/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+荒事を避けたいなら、抵抗しないことだ。
+> CONTEXT: Map570/events/4/pages/0/430/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え？　なんで？
+> CONTEXT: Map570/events/4/pages/0/433/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんでって・・・
+> CONTEXT: Map570/events/4/pages/0/438/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あなたが開発したスペル・エンチャンターの
+瘴魔効果は完全に無力化されているん
+ですよ？
+> CONTEXT: Map570/events/4/pages/0/439/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今のあなたに抵抗する手段なんて無いはず・・・
+> CONTEXT: Map570/events/4/pages/0/442/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あれー？　おっかしいな～？
+> CONTEXT: Map570/events/4/pages/0/447/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+言った覚えの無いセリフが2つも聞こえた
+ぞ～？
+> CONTEXT: Map570/events/4/pages/0/448/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・どういうことだ。
+> CONTEXT: Map570/events/4/pages/0/453/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+確かにあたしゃ、熾力研究館の裏でひそかに
+スペル・エンチャンターの研究・開発をしていた
+けどさ。
+> CONTEXT: Map570/events/4/pages/0/458/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でもそれが、瘴魔状態をコントロールする薬
+だなんて一言も言って無いよね？
+> CONTEXT: Map570/events/4/pages/0/461/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それってただの、ルミィの勘違いなんだよね、
+ぶっちゃけ。
+> CONTEXT: Map570/events/4/pages/0/463/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え・・・！？
+> CONTEXT: Map570/events/4/pages/0/469/Dialogue < UNTRANSLATED
+> CONTEXT: Map270/events/4/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+つ、つまり、あなたが開発していたスペル・
+エンチャンターというのは、あの薬のことじゃ
+ないってことですか・・・！？
+> CONTEXT: Map570/events/4/pages/0/470/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だとしたら、いったい何を・・・
+> CONTEXT: Map570/events/4/pages/0/476/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふふふふ・・・
+> CONTEXT: Map570/events/4/pages/0/479/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それはね～・・・
+> CONTEXT: Map570/events/4/pages/0/480/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+コイツのことさ！！
+> CONTEXT: Map570/events/4/pages/0/520/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+な、なによそれ！？
+> CONTEXT: Map570/events/4/pages/0/525/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それが・・・本当のスペル・エンチャンターだと
+言うのか。
+> CONTEXT: Map570/events/4/pages/0/529/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そそ！
+> CONTEXT: Map570/events/4/pages/0/535/Dialogue < UNTRANSLATED
+> CONTEXT: Map151/events/7/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瘴魔状態を制御する薬は、メインでやってきた
+研究の副産物でしかないのさ。
+> CONTEXT: Map570/events/4/pages/0/536/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたしがメインで研究してきたのは、魔力を宿す
+媒体を、生体から機械へと移行させること！
+> CONTEXT: Map570/events/4/pages/0/538/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+生体が持つ耐久力の限界を超えた鋼の
+ボディなら、本来発揮しえない程の膨大な
+魔力にも耐えられる！
+> CONTEXT: Map570/events/4/pages/0/540/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いや～、研究は困難の連続だったよ～。
+> CONTEXT: Map570/events/4/pages/0/545/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なにせ、通常なら当然、魔力を機械に保持
+させることなんて不可能だからね。
+> CONTEXT: Map570/events/4/pages/0/546/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも、あなたは完成させてしまったのですね・・・
+> CONTEXT: Map570/events/4/pages/0/553/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんな恐ろしい兵器を・・・！
+> CONTEXT: Map570/events/4/pages/0/554/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キミたちが色々手伝ってくれたおかげでね～！
+> CONTEXT: Map570/events/4/pages/0/557/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔導機械は根本的に瘴魔状態にならないもの
+だから、ルミィが開発したスペル・デストラクター
+っていうヤツも効果ないよ！
+> CONTEXT: Map570/events/4/pages/0/560/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ね？　分かったでしょ？　言った覚えのない
+セリフが2つあるって。
+> CONTEXT: Map570/events/4/pages/0/563/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スペル・エンチャンターは封じられてなんか
+ないし、あたしにはまだ、メインとなる反撃の
+手段がある！
+> CONTEXT: Map570/events/4/pages/0/565/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さあて、それじゃあ・・・
+> CONTEXT: Map570/events/4/pages/0/570/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+試運転に熾天少女狩りでもしちゃおっかな！
+> CONTEXT: Map570/events/4/pages/0/572/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はあ・・・っ、はあ・・・っ
+も、もう・・・体力が・・・
+> CONTEXT: Map570/events/4/pages/2/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+くぅ・・・っ、ほんと馬鹿力ね・・・
+> CONTEXT: Map570/events/4/pages/2/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+で、でも・・・なんとか退けました・・・っ！
+はぁ・・・はぁ・・・っ
+> CONTEXT: Map570/events/4/pages/2/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まさか・・・スペル・エンチャンターが
+敗れるなんて・・・
+> CONTEXT: Map570/events/4/pages/2/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キ、キミたち、マジで強すぎじゃない・・・？
+> CONTEXT: Map570/events/4/pages/2/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カラオケで鍛えてますからっ！
+> CONTEXT: Map570/events/4/pages/2/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぜえ・・・ぜえ・・・
+> CONTEXT: Map570/events/4/pages/2/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぐ・・・はぅ・・・っ！！
+> CONTEXT: Map570/events/4/pages/2/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う・・・ぅ・・・
+> CONTEXT: Map570/events/4/pages/2/60/Dialogue < UNTRANSLATED
+> CONTEXT: Map546/events/80/pages/0/190/Dialogue < UNTRANSLATED
+> CONTEXT: Map174/events/2/pages/0/378/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その様子では、しばらく立つこともできない
+だろう。
+> CONTEXT: Map570/events/4/pages/2/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+門を破壊し終わるまで、そこでおとなしく
+していろ。
+> CONTEXT: Map570/events/4/pages/2/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さあ、今のうちに時空玉をセットしちゃおう！
+> CONTEXT: Map570/events/4/pages/2/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+確か、門の近くに置くだけで、自動的に
+ひずみを抑えた後に自爆するんですよね。
+> CONTEXT: Map570/events/4/pages/2/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+作動したことを確認したら、すぐに離れよう。
+> CONTEXT: Map570/events/4/pages/2/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+時空玉
+「時空のひずみを感知しました。　抑制波を
+　放出しています。」
+> CONTEXT: Map570/events/4/pages/2/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+時空玉
+「安定までには、　約4分55秒　かかります。」
+> CONTEXT: Map570/events/4/pages/2/136/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おおー！　ちゃんと働いてるナー！
+> CONTEXT: Map570/events/4/pages/2/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これ、再生されてるの神官さんの声だよね。
+> CONTEXT: Map570/events/4/pages/2/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルミィさんの声の方が、成功率上がる気が
+しない？
+> CONTEXT: Map570/events/4/pages/2/151/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官さんに失礼な・・・
+> CONTEXT: Map570/events/4/pages/2/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とにかく、あとは時空玉に任せよう。
+この後は自爆して門を破壊してくれるだろう。
+> CONTEXT: Map570/events/4/pages/2/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白カラットを連れて、ここを離れるぞ。
+> CONTEXT: Map570/events/4/pages/2/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「おおーーーーっほっほっほっほっほ！！」
+> CONTEXT: Map570/events/4/pages/2/166/Dialogue < UNTRANSLATED
+> CONTEXT: Map570/events/4/pages/2/170/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「そうは行かなくってよ、熾天少女たち！！！」
+> CONTEXT: Map570/events/4/pages/2/168/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「おおおおおおおおおーーーーーーーーーー
+　ーーーーーーっほっほっほっほっ！！」
+> CONTEXT: Map570/events/4/pages/2/172/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「おおおおおおおおおおおおおおおおおおおお
+　おおおおおーーーーーーーーーーーーー
+　ーーーっほっほっほっほっほっほっ！！」
+> CONTEXT: Map570/events/4/pages/2/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「姉さん、高笑いは1回でいいよ・・・」
+> CONTEXT: Map570/events/4/pages/2/179/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こ、この姉弟漫才はっ！！！！
+> CONTEXT: Map570/events/4/pages/2/214/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+みなさまごきげんいかがかしら？
+蒼麗の歌姫カラットが、満を持しての登場
+ですわよ！！！
+> CONTEXT: Map570/events/4/pages/2/240/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うう・・・こ、このタイミングで・・・！？
+> CONTEXT: Map570/events/4/pages/2/248/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ま、まさか・・・あたし達と白カラットが
+戦い終わるのを待っていたの・・・！？
+> CONTEXT: Map570/events/4/pages/2/252/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そのとおり！！
+> CONTEXT: Map570/events/4/pages/2/258/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とんでもない力を得た白カラットと、驚異の
+成長を遂げてきた熾天少女たち！
+> CONTEXT: Map570/events/4/pages/2/259/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その双璧が互いに潰し合った直後こそ、
+確実に双方を葬る最大のおチャンス！！
+> CONTEXT: Map570/events/4/pages/2/261/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今後はわたくしのことを、策士の歌姫カラットと
+呼んでもいいんですのよ？
+> CONTEXT: Map570/events/4/pages/2/265/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+本当は、魔界門をふさがれる前に魔界へ
+帰ろうとして来てみたら、たまたま一戦が
+終わった直後だっただけなんだけどね。
+> CONTEXT: Map570/events/4/pages/2/271/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんだよ、タナボタかよ。
+> CONTEXT: Map570/events/4/pages/2/277/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どっちでも一緒ですわ！！
+> CONTEXT: Map570/events/4/pages/2/282/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大事なのは、この場においてわたくし達が
+絶対的優位にあるということ！！
+> CONTEXT: Map570/events/4/pages/2/283/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+へろへろのあなた方に、わたくし達を相手に
+する力が残っていまして？
+> CONTEXT: Map570/events/4/pages/2/285/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+降参、降参・・・
+> CONTEXT: Map570/events/4/pages/2/290/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今はもうキミたちに勝つことなんてできないし、
+仮に勝ったとしても、あたしに利は無いから
+ね・・・
+> CONTEXT: Map570/events/4/pages/2/291/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おーーーーーーっほっほっほっほ！！！
+当然！！！！
+> CONTEXT: Map570/events/4/pages/2/296/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さあ、熾天少女たち！！　あなた方も最高に
+悔しい顔をひっさげながら、わたくし達に白旗を
+振るがいいですわ！！　さあさあ！！
+> CONTEXT: Map570/events/4/pages/2/298/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+姉さん、そんなことより、まずはあの
+“時空玉”でしょ。
+> CONTEXT: Map570/events/4/pages/2/303/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あいつらが言ってたじゃん。
+『最後に自爆して門を破壊する』って。
+> CONTEXT: Map570/events/4/pages/2/305/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はっ！！　そうでしたわね！
+> CONTEXT: Map570/events/4/pages/2/311/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔界へ帰る唯一の手段が破壊されては
+一大事ですわ！！
+> CONTEXT: Map570/events/4/pages/2/312/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さあ、あなた方！！　早くその物騒な玉を
+停止させなさい！！！
+> CONTEXT: Map570/events/4/pages/2/318/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（止め方が分からん。）
+> CONTEXT: Map570/events/4/pages/2/324/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+指示に従う気はないようですわね。
+> CONTEXT: Map570/events/4/pages/2/329/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ならば、この場で全員を凍りつかせて
+差し上げるのみ！！　お覚悟を！！！
+> CONTEXT: Map570/events/4/pages/2/330/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全員凍っちゃったら、余計に停止できなく
+なっちゃうヨー？
+> CONTEXT: Map570/events/4/pages/2/336/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・あ、
+> CONTEXT: Map570/events/4/pages/2/343/Dialogue < UNTRANSLATED
+> CONTEXT: Map475/events/10/pages/0/169/Dialogue < UNTRANSLATED
+> CONTEXT: Map265/events/7/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぜ、全員なんて言ってませんわ！！
+その・・・
+> CONTEXT: Map570/events/4/pages/2/349/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+せ、戦力にならない男を除いて、その他は
+みんな凍らせて差し上げると言ったのです！
+> CONTEXT: Map570/events/4/pages/2/351/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さあ、勝者の絶対零度を喰らうが
+いいですわ！！
+> CONTEXT: Map570/events/4/pages/2/355/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひい・・・っ！
+> CONTEXT: Map570/events/4/pages/2/361/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しょ、正直、もう戦う力なんて残ってないけど
+・・・
+> CONTEXT: Map570/events/4/pages/2/365/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やるっきゃなさそう・・・だね・・・
+はぁ・・・
+> CONTEXT: Map570/events/4/pages/2/370/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（まずいな、この最悪のコンディションでは
+　間違いなく勝てない・・・）
+> CONTEXT: Map570/events/4/pages/2/375/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ここまでか・・・）
+> CONTEXT: Map570/events/4/pages/2/377/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+受けなさい！！　新必殺技、スーパー
+アルティメットブリザアアアァァ・・・
+> CONTEXT: Map570/events/4/pages/2/380/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ァァァアアぎゃあああああああっ！！！！！！
+> CONTEXT: Map570/events/4/pages/2/413/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ね、姉さん！？
+> CONTEXT: Map570/events/4/pages/2/422/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+し・・・死神ちゃん・・・！
+> CONTEXT: Map570/events/4/pages/2/471/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんな・・・この状況で死神まで加わるなんて
+・・・！
+> CONTEXT: Map570/events/4/pages/2/483/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これ、マジで万事休すじゃない・・・？
+> CONTEXT: Map570/events/4/pages/2/488/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ねえ、死神の人。
+> CONTEXT: Map570/events/4/pages/2/504/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この場は一旦、休戦を申し入れるよ。
+> CONTEXT: Map570/events/4/pages/2/515/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほら、魔界門の上を見てごらん。
+> CONTEXT: Map570/events/4/pages/2/516/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうやらあの赤い玉は、このあと自爆して
+魔界門を壊すらしいんだ。
+> CONTEXT: Map570/events/4/pages/2/546/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうしたら、僕たちも、君も魔界へ帰れなくなる。
+> CONTEXT: Map570/events/4/pages/2/548/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・・・・魔界門が・・・・・・壊れる・・・
+> CONTEXT: Map570/events/4/pages/2/553/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうさ。　困るだろう？
+> CONTEXT: Map570/events/4/pages/2/559/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だから、この場は僕たちとは一時休戦だ。
+> CONTEXT: Map570/events/4/pages/2/560/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+邪魔している熾天少女を一緒に倒して、
+あの赤い玉を停止させよう。
+> CONTEXT: Map570/events/4/pages/2/561/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いいね？
+> CONTEXT: Map570/events/4/pages/2/563/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さ、早乙女！　ものすごくヤバいことになって
+きたわよ・・・！
+> CONTEXT: Map570/events/4/pages/2/573/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ど、どうするの！？
+> CONTEXT: Map570/events/4/pages/2/575/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レグマー！！　逃げようヨー！！
+> CONTEXT: Map570/events/4/pages/2/579/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・私には・・・・・・・・・
+> CONTEXT: Map570/events/4/pages/2/585/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・欲しいものが・・・ある・・・・・・・・・
+> CONTEXT: Map570/events/4/pages/2/586/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・死神としてじゃ・・・・・・なくて・・・・・・・・・
+私として・・・・・・
+> CONTEXT: Map570/events/4/pages/2/588/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも・・・・・・どうすれば・・・手に入るか・・・・・・
+> CONTEXT: Map570/events/4/pages/2/590/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・ずっと・・・・・・・・・・・・わからなかった・・・
+> CONTEXT: Map570/events/4/pages/2/591/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・今でも・・・よく・・・・・・わからない・・・
+> CONTEXT: Map570/events/4/pages/2/600/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・あなたは・・・・・・・・・・・・・・・言った・・・
+> CONTEXT: Map570/events/4/pages/2/601/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・・・・望んだものを・・・失うかも・・・・・・
+・・・しれない・・・って・・・・・・・・・・・・
+> CONTEXT: Map570/events/4/pages/2/602/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・教えて・・・・・・・・・・・・ほしい・・・
+・・・どうすれば・・・いいのか・・・・・・・・・
+> CONTEXT: Map570/events/4/pages/2/605/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・考えれば・・・・・・いいの・・・・・・・・・？
+> CONTEXT: Map570/events/4/pages/2/607/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・・・・選んで・・・いいの・・・・・・？
+> CONTEXT: Map570/events/4/pages/2/608/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・・・・それとも・・・・・・
+> CONTEXT: Map570/events/4/pages/2/609/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・あきらめれば・・・・・・・・・・・・いいの・・・？
+> CONTEXT: Map570/events/4/pages/2/610/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あきらめなくていい。
+> CONTEXT: Map570/events/4/pages/2/614/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+失わない方法を考え、望むものを得る手段を
+選べ。
+> CONTEXT: Map570/events/4/pages/2/616/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+悩んでもいいんだ。　重要なのは、まず考える
+ことだ。
+> CONTEXT: Map570/events/4/pages/2/618/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あきらめなくていい。　考えろ。
+> CONTEXT: Map570/events/4/pages/2/620/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・・・・・・・・・・わかった・・・・・・
+> CONTEXT: Map570/events/4/pages/2/629/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひいいやああぁぁぁぁっ！！！！
+> CONTEXT: Map570/events/4/pages/2/822/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あぁっ、・・・ぅ・・・っ！！
+> CONTEXT: Map570/events/4/pages/2/827/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・っく、ど、どうして・・・
+> CONTEXT: Map570/events/4/pages/2/831/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・え？　何が起きた・・・の？
+> CONTEXT: Map570/events/4/pages/2/836/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+時空玉
+「ひずみの安定が完了しました。」
+> CONTEXT: Map570/events/4/pages/2/838/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+時空玉
+「自爆モードを起動します。　すみやかに
+　退避してください。」
+> CONTEXT: Map570/events/4/pages/2/841/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・・・・考えて・・・・・・・・・選ぶ・・・
+> CONTEXT: Map570/events/4/pages/2/847/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・私が・・・・・・・・・・・・
+> CONTEXT: Map570/events/4/pages/2/848/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょっと、死神・・・キミ・・・・・・何を・・・！
+> CONTEXT: Map570/events/4/pages/2/852/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+門に・・・
+> CONTEXT: Map570/events/4/pages/2/858/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+す、吸い込まれる・・・！
+> CONTEXT: Map570/events/4/pages/2/864/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・望んできたものを・・・・・・・・・
+> CONTEXT: Map570/events/4/pages/2/869/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・・・・得るために・・・・・・
+> CONTEXT: Map570/events/4/pages/2/870/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まっ、ちょっと！！　待って！！　研究資料が
+まだこっちに！！！　ストップ！！！！
+> CONTEXT: Map570/events/4/pages/2/875/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・・・ありがとう・・・・・・・・・・・・・・・・・
+> CONTEXT: Map570/events/4/pages/2/967/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・・・・・・・・・・・・・さような
+> CONTEXT: Map570/events/4/pages/2/968/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+時空玉
+「爆破します。」
+> CONTEXT: Map570/events/4/pages/2/1032/Dialogue < UNTRANSLATED
+
+> END STRING

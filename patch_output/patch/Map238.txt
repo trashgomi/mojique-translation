@@ -1,0 +1,29 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+熾力の研究は数年前からほとんど進展して
+いない。
+> CONTEXT: Map238/events/6/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+研究員も辞退していくばかり・・・
+大丈夫かな、ここ・・・
+> CONTEXT: Map238/events/6/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+地下は実験エリアですが、館長や助手さんなど
+ごく限られた人しか立ち入りできません。
+> CONTEXT: Map238/events/7/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+私もいつか認められて、実験エリアへの
+立ち入りを許可してもらえる日が来るのでしょう
+か・・・
+> CONTEXT: Map238/events/7/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING

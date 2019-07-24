@@ -1,0 +1,448 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+で、その3人がお金を出し合って、自販機で
+売ってるジュースを全種類買ってね！
+> CONTEXT: Map258/events/1/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ！　あー！　その話知ってる知ってる！！
+> CONTEXT: Map258/events/1/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それ全部混ぜてインスタントコーヒーの粉も
+入れたんでしょ！？
+> CONTEXT: Map258/events/1/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そーそー！！
+> CONTEXT: Map258/events/1/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それで最後に電子レンジで温めたら、なぞの
+ゲル状のモノが沈澱してるの！！！
+> CONTEXT: Map258/events/1/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わたしも見たーっ！！　すごいにおいだった！
+> CONTEXT: Map258/events/1/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何だっけ名前！　何か叫んでたよね！！
+> CONTEXT: Map258/events/1/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あー何だっけー！？　なんか竹内くんが命名
+してたやつ！！
+> CONTEXT: Map258/events/1/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何だっけなー・・・！
+> CONTEXT: Map258/events/1/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+確か・・・メソポタミア汁じゃなかったでしたっけ？
+> CONTEXT: Map258/events/1/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それだぁ！！！
+> CONTEXT: Map258/events/1/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんた達・・・ほんとに元気ね。
+> CONTEXT: Map258/events/1/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えー！？　にゃんこだっていつも一緒に
+わいわいお話ししてるじゃんかー！
+> CONTEXT: Map258/events/1/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+て言うかにゃんこ、こっちの世界に来てから
+ヘンにクールキャラを装ってない？
+> CONTEXT: Map258/events/1/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+べ・・・別にそんなことないわよ。
+> CONTEXT: Map258/events/1/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いつもはもっと騒いでるのか？
+> CONTEXT: Map258/events/1/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+けっこう騒いでるよー！　騒いでるって
+言うか、もっとノリがいい感じ？
+> CONTEXT: Map258/events/1/pages/0/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カラオケ行った時とか、プリチュア歌っちゃうし！
+> CONTEXT: Map258/events/1/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ば、ばかっ！！　ああああああれはあんたが
+無理やり歌わせたんでしょっ！！！
+> CONTEXT: Map258/events/1/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えー？　にゃんこが真っ先に入れてたんだよ？
+> CONTEXT: Map258/events/1/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+くすくす・・・っ
+> CONTEXT: Map258/events/1/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はむちゃ～ん、察してあげなきゃダメだよ～！
+> CONTEXT: Map258/events/1/pages/0/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+にゃんちゃんはね、ある人物の前では
+カッコつけたくなっちゃうお年頃なんだから～！
+> CONTEXT: Map258/events/1/pages/0/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+へ？　誰？　何で？
+> CONTEXT: Map258/events/1/pages/0/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はーーーーーーい！　この話はおしまいっ！！
+> CONTEXT: Map258/events/1/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+み、み、みんなで船の中探検しない！？
+するでしょ！！？
+> CONTEXT: Map258/events/1/pages/0/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何で急に？
+> CONTEXT: Map258/events/1/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうだな、ちょうど退屈していた所だ。
+少し出歩くのも悪くない。
+> CONTEXT: Map258/events/1/pages/0/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それに乗客に話を聞けば、東部について
+何か有益な情報を得られるかもしれない。
+> CONTEXT: Map258/events/1/pages/0/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だね！　あたしも動きたくてうずうずしてたし！
+> CONTEXT: Map258/events/1/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はい決まり！　部屋の外へレッツゴー！
+> CONTEXT: Map258/events/1/pages/0/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃ、じゃあ行こっか・・・
+> CONTEXT: Map258/events/1/pages/0/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うむ。
+> CONTEXT: Map258/events/1/pages/0/120/Dialogue < UNTRANSLATED
+> CONTEXT: Map203/events/2/pages/1/571/Dialogue < UNTRANSLATED
+> CONTEXT: Map203/events/2/pages/1/845/Dialogue < UNTRANSLATED
+> CONTEXT: Map127/events/4/pages/3/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゆ・・・幽霊船・・・
+> CONTEXT: Map258/events/1/pages/2/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もう通り過ぎたかな・・・？
+> CONTEXT: Map258/events/1/pages/2/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いやいやいや！　べつにあれが幽霊船と
+決まったわけじゃないし！
+> CONTEXT: Map258/events/1/pages/2/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、そうよ・・・
+> CONTEXT: Map258/events/1/pages/2/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただの・・・えっと・・・
+> CONTEXT: Map258/events/1/pages/2/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何とか船かもしれないし・・・ね？
+> CONTEXT: Map258/events/1/pages/2/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも、なんだかすごくボロボロの船みたい
+でした・・・
+> CONTEXT: Map258/events/1/pages/2/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+俺もギリギリ見ることができた。　かなり
+傷んだ古い船だったな。
+> CONTEXT: Map258/events/1/pages/2/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まっすぐこちらへ向かっていたぞ。
+> CONTEXT: Map258/events/1/pages/2/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+や、やめてよぉーっ！　ほんとに怖いんだから
+ーー！！
+> CONTEXT: Map258/events/1/pages/2/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うわっ！！　な、なに！？！？
+> CONTEXT: Map258/events/1/pages/2/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひいいっ！！！！
+> CONTEXT: Map258/events/1/pages/2/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何かがこの船にぶつかってきた音だ・・・！
+> CONTEXT: Map258/events/1/pages/2/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+かなりでかいぞ・・・
+> CONTEXT: Map258/events/1/pages/2/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+な・・・何かって・・・
+> CONTEXT: Map258/events/1/pages/2/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なに・・・？
+> CONTEXT: Map258/events/1/pages/2/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あまり考えたくはありませんが・・・
+> CONTEXT: Map258/events/1/pages/2/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+様子を見に行こう。
+> CONTEXT: Map258/events/1/pages/2/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これは一大事だ。　隠れていても意味がない。
+> CONTEXT: Map258/events/1/pages/2/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふえええ！！　お、置いてかないでえぇっ！！
+> CONTEXT: Map258/events/1/pages/2/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おかしい。
+> CONTEXT: Map258/events/1/pages/2/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+人の気配が無いぞ。
+> CONTEXT: Map258/events/1/pages/2/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+み、みんな隠れてるだけじゃないかな？
+> CONTEXT: Map258/events/1/pages/2/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+部屋を確認してくる。　ここで待っていてくれ。
+> CONTEXT: Map258/events/1/pages/2/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+き・・・気を付けてね・・・？
+> CONTEXT: Map258/events/1/pages/2/158/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうでしたか・・・？
+> CONTEXT: Map258/events/1/pages/2/172/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+誰もいない。
+> CONTEXT: Map258/events/1/pages/2/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+客室も、食堂も、荷物置き場にもだ。
+> CONTEXT: Map258/events/1/pages/2/177/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+俺たち以外の人間が、すべて消えている。
+> CONTEXT: Map258/events/1/pages/2/178/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う・・・うそ・・でしょ・・・
+> CONTEXT: Map258/events/1/pages/2/183/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やだ・・・やだよぉ！　怖いよおぉっ！！
+> CONTEXT: Map258/events/1/pages/2/188/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これはやはり、船内に留まっていても
+危険に変わりはないということだ。
+> CONTEXT: Map258/events/1/pages/2/192/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+甲板へ出よう。　何が起こっているのか
+確認しなければ。
+> CONTEXT: Map258/events/1/pages/2/194/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+も・・・戻れたわ・・・！！
+> CONTEXT: Map258/events/7/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+や・・・やったぁーーーー！！！！
+> CONTEXT: Map258/events/7/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたし達、助かったよーーーーっ！！！
+> CONTEXT: Map258/events/7/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+脱出に成功したようだな。
+> CONTEXT: Map258/events/7/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こちらの船も無事のようだが、一応乗客たちの
+安全を確認しに行こう。
+> CONTEXT: Map258/events/7/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING

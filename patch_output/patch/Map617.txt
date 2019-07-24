@@ -1,0 +1,483 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+こ・・・ここ・・・どこぉ・・・？
+> CONTEXT: Map617/events/1/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+熾天少女からはうまく逃げられたみたいだけど
+・・・迷子に・・・なっちゃったよぉ・・・
+> CONTEXT: Map617/events/1/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ううぅぅ・・・さ、さぶぃ・・・
+> CONTEXT: Map617/events/1/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団員1
+「おっw　おっw　ヒト発見したったったったww」
+> CONTEXT: Map617/events/1/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団員2
+「なんと、こんな雪原に女の子一人・・・？」
+> CONTEXT: Map617/events/1/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひっ！！　だ、誰っ！？！？
+> CONTEXT: Map617/events/1/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団員2
+「心配いらないよ、お嬢ちゃん。」
+> CONTEXT: Map617/events/1/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団員2
+「僕たちはバルギーンの町から見回りに来た
+　自治警団の者さ。」
+> CONTEXT: Map617/events/1/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団員1
+「このあたりは煉絶の姫君への警戒で
+　立ち入り禁止やからwwww」
+> CONTEXT: Map617/events/1/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団員1
+「サーセンww　とりあえず町へ同行してちょww」
+> CONTEXT: Map617/events/1/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え、いや、その・・・お、お構いなく・・・！
+> CONTEXT: Map617/events/1/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団員1
+「アカンww　ここは危険やからワガママ
+　禁止やでwwww」
+> CONTEXT: Map617/events/1/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひ、一人で帰れるから！！　いいよ！！
+> CONTEXT: Map617/events/1/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団員1
+「嫌がるところがかわええww　ｐｒｐｒしたろかw」
+> CONTEXT: Map617/events/1/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団員2
+「・・・かたくなに同行を拒否するなんて、
+　ちょっと怪しいな。」
+> CONTEXT: Map617/events/1/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団員2
+「キミ、名前は？」
+> CONTEXT: Map617/events/1/pages/0/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+な、な、名前・・・？　えと、ええと・・・あの・・・っ
+> CONTEXT: Map617/events/1/pages/0/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その・・・なんていうか、名乗るほどの者では・・・
+> CONTEXT: Map617/events/1/pages/0/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団員2
+「とりあえず、事情は署で聞こうか。」
+> CONTEXT: Map617/events/1/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団員2
+「さあ、おいで。」
+> CONTEXT: Map617/events/1/pages/0/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あわわわわわわ・・・た、たす・・・たしゅけて・・・
+> CONTEXT: Map617/events/1/pages/0/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団員1
+「あ、熱ッww　ぎゃああああーーwwwwwww」
+> CONTEXT: Map617/events/1/pages/0/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団員2
+「な、なんだ！？　魔物か！？」
+> CONTEXT: Map617/events/1/pages/0/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+！？！？
+> CONTEXT: Map617/events/1/pages/0/135/Dialogue < UNTRANSLATED
+> CONTEXT: Map487/events/6/pages/2/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map261/events/1/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+灼天狂鬼
+「怒ッ！　我が主君たるカラット様への狼藉は、
+　この吾輩が断じて許さんッ！！」
+> CONTEXT: Map617/events/1/pages/0/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団員1
+「ぐはあああっww　凍る！！マジサーセンww」
+> CONTEXT: Map617/events/1/pages/0/156/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ディープブルー
+「きもぃぉとこゎぜったぃれぃどでこぉりづけに
+　してきりきざんじゃぅょ！！」
+> CONTEXT: Map617/events/1/pages/0/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団員1
+「ちょwww　さっきからオレばっかwww
+　どういうこと？ww　ねえwどういうこと？www」
+> CONTEXT: Map617/events/1/pages/0/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Dr.FLASH
+「フォッフォッフォッ！　小汚いネズミごときが
+　カラット様に触れようなど、片腹痛いわい！」
+> CONTEXT: Map617/events/1/pages/0/185/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団員1
+「　＿人人人人人人人人人人人人＿
+　 ＞　　オーバーキル待った無し　 ＜
+　 ￣Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^￣　　　」
+> CONTEXT: Map617/events/1/pages/0/197/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+としひこ
+「ケッ！　最初の獲物が、弱っちい人間かよ。
+　はやく騎士団の連中とやらせろや！！」
+> CONTEXT: Map617/events/1/pages/0/207/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団員2
+「ひ、ひえええええ！！」
+> CONTEXT: Map617/events/1/pages/0/216/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大変遅くなりました、カラット様。
+> CONTEXT: Map617/events/1/pages/0/275/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+四天王たちを見つけてきたよー！　えへ！
+えへへへ！　えへ！　えへ！！
+> CONTEXT: Map617/events/1/pages/0/278/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お、お前たちだったのか！！
+> CONTEXT: Map617/events/1/pages/0/285/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ばか！　もっと早く来い！！　泣くところだった
+ぞっ！！
+> CONTEXT: Map617/events/1/pages/0/291/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これでも、かなり急いで集めてきたのですが・・・
+> CONTEXT: Map617/events/1/pages/0/295/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あやうく、人間たちに拉致されるところだったん
+だからな！
+> CONTEXT: Map617/events/1/pages/0/299/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まあいい！　さっそくコイツらを紹介しろ！
+> CONTEXT: Map617/events/1/pages/0/305/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お前たち、カラット様に自己紹介しなさい。
+> CONTEXT: Map617/events/1/pages/0/324/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+灼天狂鬼
+「炎ッ！　吾輩の名は灼天狂鬼であるッ！！」
+> CONTEXT: Map617/events/1/pages/0/326/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+灼天狂鬼
+「猛き両腕より繰り出される爆炎は、すべてを
+　焼き尽くし灰に変えるであろうッ！！」
+> CONTEXT: Map617/events/1/pages/0/328/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ディープブルー
+「でぃーぷぶるーだょ！　まばたきしたらさぃご、
+　ぃてっくゃぃばでずたずたにしちゃぅからね！」
+> CONTEXT: Map617/events/1/pages/0/331/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ディープブルー
+「ざこでもきょぅてきでもぃぃからはゃくたたかゎ
+　せてほしぃなぁ！」
+> CONTEXT: Map617/events/1/pages/0/334/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Dr.FLASH
+「ワシはDr.FLASHですじゃ。　我が頭脳は天才
+　などという言葉では到底言い表せぬ。」
+> CONTEXT: Map617/events/1/pages/0/337/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Dr.FLASH
+「もちろん、頭脳だけではなく戦闘もお手の物
+　ですじゃ。　大いに期待してくだされ。」
+> CONTEXT: Map617/events/1/pages/0/340/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+としひこ
+「おう、カラット様！　オレ様はとしひこだ！
+　闇の二刀使いだぜ！！」
+> CONTEXT: Map617/events/1/pages/0/343/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+としひこ
+「言っとくが、この連中の中では最強だ。
+　人間界征服？　全部オレ様に任せときな！」
+> CONTEXT: Map617/events/1/pages/0/346/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+以上、四天王です。
+> CONTEXT: Map617/events/1/pages/0/361/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんか、ビジュアル以外は統一感ゼロだな・・・
+> CONTEXT: Map617/events/1/pages/0/365/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+最後の“としひこ”って何だよ・・・
+> CONTEXT: Map617/events/1/pages/0/366/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし、実力はいずれもトップクラスです。
+> CONTEXT: Map617/events/1/pages/0/371/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+人間界の制圧に、大きく貢献することでしょう。
+> CONTEXT: Map617/events/1/pages/0/372/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えへへ！　ところでカラットさまー？
+> CONTEXT: Map617/events/1/pages/0/375/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうしてこんな雪原にいたの？　えへ！
+寒かったでしょー？　えへへへ！！
+> CONTEXT: Map617/events/1/pages/0/376/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、そうだった！
+> CONTEXT: Map617/events/1/pages/0/383/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+攻めてきたんだよ、拠点にアイツらが！！
+> CONTEXT: Map617/events/1/pages/0/384/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+二代目の熾天少女どもが！！
+> CONTEXT: Map617/events/1/pages/0/385/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+な・・・なんですって・・・！？
+> CONTEXT: Map617/events/1/pages/0/389/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うっそーーーー！！　えへ！　えへ！！
+じゃあまたピンチだねー！！　えへへ！　えへ！
+> CONTEXT: Map617/events/1/pages/0/392/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それが本当なら、早急に対策を講じなければ
+なりません・・・
+> CONTEXT: Map617/events/1/pages/0/397/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうやら、さっそく四天王たちの出番のよう
+ですね。
+> CONTEXT: Map617/events/1/pages/0/399/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+指令を言い渡します。
+> CONTEXT: Map617/events/1/pages/0/414/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ディープブルー、としひこ。　お前たち2人は
+地方へ飛び、熾天少女どもを捜し出しなさい。
+> CONTEXT: Map617/events/1/pages/0/415/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+灼天狂鬼とＤｒ.FLASHは、我々に同行し、
+新たな隠れ家を建設する。
+ロッジで構いません。
+> CONTEXT: Map617/events/1/pages/0/417/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+四天王たち
+「ハッ！」
+> CONTEXT: Map617/events/1/pages/0/421/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いい返事だよねー！　気に入っちゃった！
+えへ！　えへ！　えへ！
+> CONTEXT: Map617/events/1/pages/0/424/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふええぇぇっくしょうぃっ！！！
+> CONTEXT: Map617/events/1/pages/0/429/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うﾞぃすちぃ、・・・ティ、ティッシュぅ・・・
+> CONTEXT: Map617/events/1/pages/0/433/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・とりあえず、ここを離れましょうか。
+> CONTEXT: Map617/events/1/pages/0/440/Dialogue < UNTRANSLATED
+
+> END STRING

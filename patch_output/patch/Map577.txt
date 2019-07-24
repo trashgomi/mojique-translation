@@ -1,0 +1,39 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ハイテンションで取り除く
+> CONTEXT: Map577/events/5/pages/0/4/Choice/2 < UNTRANSLATED
+> CONTEXT: Map577/events/6/pages/0/4/Choice/2 < UNTRANSLATED
+> CONTEXT: Map577/events/7/pages/0/4/Choice/2 < UNTRANSLATED
+> CONTEXT: Map577/events/8/pages/0/4/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いよっしゃああああぁぁぁぁああああ！！！！
+この石め！！　お前ごときがいつまでも
+穴をふさいでいられると思ったら大間違い
+だぜええええぇぇぇぇぇえええいいい！！！
+> CONTEXT: Map577/events/5/pages/0/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map577/events/6/pages/0/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map577/events/7/pages/0/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map577/events/8/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+喰らえええっ！！！　我が右腕に宿りし
+グラップル龍の魂を解き放つぜええええぇぇ
+いいいいいっやっはああああおおおおおううう
+いいいいぃぃぃぃっ！！！！！！！！
+> CONTEXT: Map577/events/5/pages/0/25/Dialogue < UNTRANSLATED
+> CONTEXT: Map577/events/6/pages/0/25/Dialogue < UNTRANSLATED
+> CONTEXT: Map577/events/7/pages/0/25/Dialogue < UNTRANSLATED
+> CONTEXT: Map577/events/8/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+赤の輝きを見つけた！
+> CONTEXT: Map577/events/21/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

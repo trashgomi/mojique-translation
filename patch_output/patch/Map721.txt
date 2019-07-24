@@ -1,0 +1,285 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+（部屋の外で金属を動かす音が続いている・・・）
+> CONTEXT: Map721/events/31/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・。
+> CONTEXT: Map721/events/31/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map686/events/4/pages/0/62/Dialogue < UNTRANSLATED
+> CONTEXT: Map686/events/4/pages/0/84/Dialogue < UNTRANSLATED
+> CONTEXT: Map619/events/1/pages/1/89/Dialogue < UNTRANSLATED
+> CONTEXT: Map571/events/13/pages/0/259/Dialogue < UNTRANSLATED
+> CONTEXT: Map571/events/13/pages/0/264/Dialogue < UNTRANSLATED
+> CONTEXT: Map571/events/13/pages/0/268/Dialogue < UNTRANSLATED
+> CONTEXT: Map571/events/13/pages/0/272/Dialogue < UNTRANSLATED
+> CONTEXT: Map549/events/33/pages/0/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map570/events/4/pages/2/627/Dialogue < UNTRANSLATED
+> CONTEXT: Map526/events/2/pages/0/67/Dialogue < UNTRANSLATED
+> CONTEXT: Map526/events/2/pages/0/82/Dialogue < UNTRANSLATED
+> CONTEXT: Map505/events/3/pages/0/65/Dialogue < UNTRANSLATED
+> CONTEXT: Map541/events/8/pages/3/443/Dialogue < UNTRANSLATED
+> CONTEXT: Map475/events/10/pages/0/217/Dialogue < UNTRANSLATED
+> CONTEXT: Map405/events/10/pages/0/19/Dialogue < UNTRANSLATED
+> CONTEXT: Map402/events/2/pages/0/76/Dialogue < UNTRANSLATED
+> CONTEXT: Map293/events/25/pages/1/188/Dialogue < UNTRANSLATED
+> CONTEXT: Map219/events/30/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map195/events/2/pages/0/241/Dialogue < UNTRANSLATED
+> CONTEXT: Map078/events/50/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map048/events/18/pages/0/166/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/148/4912/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/845/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/893/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/898/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/963/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+研究員
+「・・・・・・。」
+> CONTEXT: Map721/events/31/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+研究員
+「なんだか難航しているようですね。」
+> CONTEXT: Map721/events/31/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あれだけの本数の鉄骨ですから。
+> CONTEXT: Map721/events/31/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+細いものはともかく、一番太い鉄骨は
+人の手では簡単に動かせないと思います。
+> CONTEXT: Map721/events/31/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+外の研究員
+「だめだ～、一番太い鉄骨は人の手じゃ
+　ビクともしない・・・」
+> CONTEXT: Map721/events/31/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+外の研究員
+「しかも、ちょうど通路の壁にぴったりハマって
+　るから、何か重機でも使わないと動かせそうに
+　ないぞ、これ・・・」
+> CONTEXT: Map721/events/31/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+研究員
+「嫌な会話が聞こえてきましたね・・・」
+> CONTEXT: Map721/events/31/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+最悪です。
+> CONTEXT: Map721/events/31/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もともと今日はシフトに入っている研究員が
+少ない上、重機を持ち込むとなるとさらに
+困難です。
+> CONTEXT: Map721/events/31/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+研究員
+「ええ、この研究館の存在は外部に知られる
+　わけにはいきません。」
+> CONTEXT: Map721/events/31/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+研究員
+「手配は簡単にはいきませんでしょうね・・・」
+> CONTEXT: Map721/events/31/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（困ったわ・・・）
+> CONTEXT: Map721/events/31/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ここから出られるまで、まだまだかかりそう
+　なのに・・・）
+> CONTEXT: Map721/events/31/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（どんどん尿意がきつくなってきてる・・・）
+> CONTEXT: Map721/events/31/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（でも、ここじゃ我慢するしかないわ・・・）
+> CONTEXT: Map721/events/31/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルミィたちが閉じ込められてから2時間が
+経過・・・
+> CONTEXT: Map721/events/31/pages/0/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（うぅぅ・・・）
+> CONTEXT: Map721/events/31/pages/0/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（す・・・すごくおしっこがしたい・・・っ）
+> CONTEXT: Map721/events/31/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（トイレに・・・行きたい・・・////）
+> CONTEXT: Map721/events/31/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（あぅあぅ・・・っ）
+> CONTEXT: Map721/events/31/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+研究員
+「あ、あの・・・ルミィさん・・・？」
+> CONTEXT: Map721/events/31/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はいっ！？
+> CONTEXT: Map721/events/31/pages/0/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+研究員
+「ええと、僕・・・何か失礼なことを言って
+　しまいましたでしょうか？」
+> CONTEXT: Map721/events/31/pages/0/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え・・・？
+> CONTEXT: Map721/events/31/pages/0/98/Dialogue < UNTRANSLATED
+> CONTEXT: Map242/events/2/pages/0/331/Dialogue < UNTRANSLATED
+> CONTEXT: Map217/events/9/pages/0/183/Dialogue < UNTRANSLATED
+> CONTEXT: Map045/events/7/pages/1/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map045/events/7/pages/1/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+研究員
+「なんだかルミィさん、さっきから急に機嫌が
+　悪くなったように感じまして・・・」
+> CONTEXT: Map721/events/31/pages/0/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+研究員
+「僕が何か、無神経な事を言ってしまったの
+　かと・・・」
+> CONTEXT: Map721/events/31/pages/0/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、いえ・・・別に不機嫌というわけでは・・・
+> CONTEXT: Map721/events/31/pages/0/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あなたの言動とは何の関係もありませんので、
+気にしないでください。
+> CONTEXT: Map721/events/31/pages/0/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+研究員
+「それなら良かったです。」
+> CONTEXT: Map721/events/31/pages/0/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+研究員
+「まあ、こんな状況ですから表情のひとつも
+　険しくなりますよね。」
+> CONTEXT: Map721/events/31/pages/0/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え、ええ・・・
+> CONTEXT: Map721/events/31/pages/0/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（もじもじ・・・）
+> CONTEXT: Map721/events/31/pages/0/124/Dialogue < UNTRANSLATED
+> CONTEXT: Map668/events/3/pages/0/67/Dialogue < UNTRANSLATED
+> CONTEXT: Map610/events/4/pages/1/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map609/events/4/pages/1/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map607/events/4/pages/1/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map504/events/3/pages/0/312/Dialogue < UNTRANSLATED
+> CONTEXT: Map167/events/21/pages/0/22/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/4/pages/1/3/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/148/4040/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/148/4050/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+研究員
+「（あれ・・・？　やっぱりなんか避けられてる
+　・・・かな・・・）」
+> CONTEXT: Map721/events/31/pages/0/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+研究員
+「（あんまり構わない方がいいのかも・・・）」
+> CONTEXT: Map721/events/31/pages/0/129/Dialogue < UNTRANSLATED
+
+> END STRING

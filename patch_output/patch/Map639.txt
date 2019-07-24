@@ -1,0 +1,77 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+つーわけで、この酒場はオレたち盗賊団が
+占拠するぜ！
+> CONTEXT: Map639/events/23/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+客は全員、ロープに巻かれておとなしく
+してな！！
+> CONTEXT: Map639/events/23/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+受付
+「ひ、ひいいっ！！」
+> CONTEXT: Map639/events/23/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（よし、あとは警備の騎士団がこっちに集まって
+　来るだろうから、ガラ空きになった民家を
+　強襲すりゃあ作戦成功だぜ・・・）
+> CONTEXT: Map639/events/23/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊
+「（あの、お頭・・・）」
+> CONTEXT: Map639/events/23/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊
+「（俺たちは、どうやって騎士団の連中から
+　逃げればいいんですかい・・・？）」
+> CONTEXT: Map639/events/23/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（んなもん、正面突破だろ。）
+> CONTEXT: Map639/events/23/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（どうせ魔物鎮圧とかで兵は出払ってるんだろう
+　から、こっちに回ってくる数なんざ、たかが
+　知れてるぜ。）
+> CONTEXT: Map639/events/23/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊
+「（了解っす！）」
+> CONTEXT: Map639/events/23/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（あー・・・すげー小便してえ・・・）
+> CONTEXT: Map639/events/23/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（さっさと終わらせて便所行きてえな・・・）
+> CONTEXT: Map639/events/23/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING

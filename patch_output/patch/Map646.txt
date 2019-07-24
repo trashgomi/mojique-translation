@@ -1,0 +1,253 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+騎士団長ガウラ
+「現在、先行部隊が魔物を排除し、安全確保を
+　行っています。」
+> CONTEXT: Map646/events/4/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「完全に魔物の気配が無くなったところで
+　伝令兵が伝えに来ますので、それまで
+　お待ちください。」
+> CONTEXT: Map646/events/4/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うむ。　働きに感謝するぞ。
+> CONTEXT: Map646/events/4/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ずいぶんと時間がかかっておるのう・・・
+> CONTEXT: Map646/events/4/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まさか、何か事故があったのではなかろうな
+・・・？
+> CONTEXT: Map646/events/4/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「いえ、どうやらこの洞窟でも魔物の活発化が
+　認められているようでして、」
+> CONTEXT: Map646/events/4/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「排除に時間を要しているとのことです。」
+> CONTEXT: Map646/events/4/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「先行部隊は精鋭ぞろいです。　おそらく、
+　もう少しで完了するかと。」
+> CONTEXT: Map646/events/4/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうか。　ならばよいのじゃが・・・
+> CONTEXT: Map646/events/4/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（少し冷えてきたのう・・・）
+> CONTEXT: Map646/events/4/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+-さらに30分経過-
+> CONTEXT: Map646/events/4/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（いかんな・・・）
+> CONTEXT: Map646/events/4/pages/0/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（だんだん・・・催してきてしまったぞ・・・）
+> CONTEXT: Map646/events/4/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（先行部隊の帰還はまだなのか・・・？）
+> CONTEXT: Map646/events/4/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+先行部隊
+「大変遅くなり、申し訳ありません！」
+> CONTEXT: Map646/events/4/pages/0/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+先行部隊
+「進行ルートの魔物の排除が完了しました！」
+> CONTEXT: Map646/events/4/pages/0/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おお、待っておったぞ！
+> CONTEXT: Map646/events/4/pages/0/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「だいぶ苦慮したようだな。」
+> CONTEXT: Map646/events/4/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+先行部隊
+「は。　なにぶん、数が多い上に普段より
+　凶暴化しているようでして・・・」
+> CONTEXT: Map646/events/4/pages/0/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃが、退けたのじゃろう？　立派じゃぞ。
+> CONTEXT: Map646/events/4/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+先行部隊
+「もったいなき御言葉！」
+> CONTEXT: Map646/events/4/pages/0/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「さて、それでは進行しよう。」
+> CONTEXT: Map646/events/4/pages/0/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「もたもたしていると、せっかく追い払った
+　魔物がまた集まってきてしまう。」
+> CONTEXT: Map646/events/4/pages/0/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うむ、ゆくとしよう。
+> CONTEXT: Map646/events/4/pages/0/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「そうだ、姫。　進む前にこれをお飲みください。」
+> CONTEXT: Map646/events/4/pages/0/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんじゃ、これは水か？
+> CONTEXT: Map646/events/4/pages/0/136/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+別に喉は渇いておらぬぞ。
+> CONTEXT: Map646/events/4/pages/0/137/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「ただの水ではありませぬ。」
+> CONTEXT: Map646/events/4/pages/0/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「これは例の研究館で開発された、“退魔水”
+　です。」
+> CONTEXT: Map646/events/4/pages/0/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おお！　これがか！
+> CONTEXT: Map646/events/4/pages/0/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+完成しておったのじゃな！
+> CONTEXT: Map646/events/4/pages/0/147/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「はい。　飲めばしばらくの間、魔物から
+　気配を隠すことができるでしょう。」
+> CONTEXT: Map646/events/4/pages/0/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「ただし、見つかってしまっては効果は
+　ありませぬが・・・」
+> CONTEXT: Map646/events/4/pages/0/152/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その時のための、ヌシらであろう？
+> CONTEXT: Map646/events/4/pages/0/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「ええ、戦力にぬかりはありませぬが・・・」
+> CONTEXT: Map646/events/4/pages/0/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「一応、リスクが減るに越したことはないで
+　しょう。」
+> CONTEXT: Map646/events/4/pages/0/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うむ、分かった。　ありがたく頂戴するぞ。
+> CONTEXT: Map646/events/4/pages/0/166/Dialogue < UNTRANSLATED
+
+> END STRING

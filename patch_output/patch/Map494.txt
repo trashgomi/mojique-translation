@@ -1,0 +1,1128 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+そこまでだ。　熾天宮から離れてもらおう。
+> CONTEXT: Map494/events/6/pages/1/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やっと来たね～！　待ってたよ～！
+> CONTEXT: Map494/events/6/pages/1/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瘴魔状態・・・！　それも、かなり高位の・・・
+> CONTEXT: Map494/events/6/pages/1/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+熾天宮を攻撃して、いったい何をするつもり！？
+> CONTEXT: Map494/events/6/pages/1/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+攻撃？
+> CONTEXT: Map494/events/6/pages/1/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんであたしが熾天宮を攻撃しなきゃ
+ならないの？
+> CONTEXT: Map494/events/6/pages/1/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あれ？　なんかそんな情報だったんだけど・・・
+> CONTEXT: Map494/events/6/pages/1/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「白カラットの前にある門は、魔を身に宿した
+　者の進入を拒む力がある。」
+> CONTEXT: Map494/events/6/pages/1/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「彼女は、それを破壊して熾天宮内に入ろうと
+　しているのだ。」
+> CONTEXT: Map494/events/6/pages/1/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そそ！　さっきから門はぶっ叩いてるけど、
+別に熾天宮そのものを壊そうなんて
+思ってないよ～！
+> CONTEXT: Map494/events/6/pages/1/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+で、けっきょく熾天宮に何の用なの？
+> CONTEXT: Map494/events/6/pages/1/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いや～、ホラ、あたしってばもう魔力関係の
+研究はだいたい目標達成しちゃったからさ。
+> CONTEXT: Map494/events/6/pages/1/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そろそろ次のステップに進もうかなって。
+> CONTEXT: Map494/events/6/pages/1/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔力関係の・・・次のステップ・・・？
+> CONTEXT: Map494/events/6/pages/1/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+熾天宮を狙う理由・・・まさか・・・
+> CONTEXT: Map494/events/6/pages/1/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そりゃもう、『熾力』しかないよね～！
+> CONTEXT: Map494/events/6/pages/1/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ま、魔力だけでなく、熾力も身につけようと
+言うんですか！？
+> CONTEXT: Map494/events/6/pages/1/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+欲張りさんだネー。
+> CONTEXT: Map494/events/6/pages/1/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんなこと・・・させるわけにはいかないわ！
+> CONTEXT: Map494/events/6/pages/1/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そもそも、魔力と熾力を一つの身に併せ持つ
+ことなど可能なのか・・・？
+> CONTEXT: Map494/events/6/pages/1/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さあね～？
+> CONTEXT: Map494/events/6/pages/1/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔と熾は相対するベクトルの力だから、まあ
+普通に考えれば無理さね。
+> CONTEXT: Map494/events/6/pages/1/147/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でもさ、それを可能にする方法を見つけるのが
+研究者ってもんでしょ？
+> CONTEXT: Map494/events/6/pages/1/154/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+言ってることは良いことだけど、やろうとしてる
+ことはぜんぜん良くないよ！
+> CONTEXT: Map494/events/6/pages/1/158/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「とにかく、この門が破壊されたら熾天宮への
+　侵攻を許してしまう。」
+> CONTEXT: Map494/events/6/pages/1/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「何としてでも食い止めなければ・・・！」
+> CONTEXT: Map494/events/6/pages/1/164/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+確かに強そうだけど、相手は一人なんだから
+勝てるんじゃないカー？
+> CONTEXT: Map494/events/6/pages/1/169/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いや、まだ相手が一人だとは限らない。
+> CONTEXT: Map494/events/6/pages/1/174/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やつは青カラットと協力している。　どこかに
+青カラット達を潜ませているかもしれないぞ。
+> CONTEXT: Map494/events/6/pages/1/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+青カラット？　ああ、それは無い無い。
+> CONTEXT: Map494/events/6/pages/1/182/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔力研究が完成した今、もうあの娘たちの
+力を借りる必要なんてないからね。
+> CONTEXT: Map494/events/6/pages/1/183/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょっとかわいそうだけど、あの2人ならさっき
+ねじ伏せて来ちゃったよ～。
+> CONTEXT: Map494/events/6/pages/1/188/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+な、なんですって！？
+> CONTEXT: Map494/events/6/pages/1/194/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+2人を相手にして、楽勝だったの・・・！？
+> CONTEXT: Map494/events/6/pages/1/199/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんなの・・・つ・・・強すぎます・・・！
+> CONTEXT: Map494/events/6/pages/1/203/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうかな～？　魔界にはもっと厄介な種族とか
+いるって聞いたけどね。
+> CONTEXT: Map494/events/6/pages/1/209/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ま、そんなわけでさ！　あたしに抗っても
+無駄だから！
+> CONTEXT: Map494/events/6/pages/1/214/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「く・・・っ、なんということだ・・・！」
+> CONTEXT: Map494/events/6/pages/1/217/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+か、干渉剤はまだなんでしょうか・・・？
+> CONTEXT: Map494/events/6/pages/1/224/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今となっては、こむの言うとおり干渉剤の
+到着が頼りだ。
+> CONTEXT: Map494/events/6/pages/1/228/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もっと会話をつないで時間稼ぎをするんだ・・・！
+> CONTEXT: Map494/events/6/pages/1/230/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ええと・・・話題、話題・・・！
+> CONTEXT: Map494/events/6/pages/1/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あー、その・・・白カラットさん・・・
+> CONTEXT: Map494/events/6/pages/1/239/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+きょ、今日は実にいい天気ですね？
+> CONTEXT: Map494/events/6/pages/1/240/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+天気の話なんかしてたっけ？
+> CONTEXT: Map494/events/6/pages/1/247/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あー、えっと・・・
+> CONTEXT: Map494/events/6/pages/1/252/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お、おいしいごはんは好きですか！？
+> CONTEXT: Map494/events/6/pages/1/253/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なになに？　急に天気やごはんの話なんか
+し出して！
+> CONTEXT: Map494/events/6/pages/1/257/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+農業にでも誘ってるの？？
+> CONTEXT: Map494/events/6/pages/1/259/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の、農業・・・うん、まあ、あの・・・
+> CONTEXT: Map494/events/6/pages/1/264/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+農業って一種の科学だよね！？　そ、そんな
+話！
+> CONTEXT: Map494/events/6/pages/1/265/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お！　キミなかなか見どころあるね！
+> CONTEXT: Map494/events/6/pages/1/272/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたしが最近、大陸東部に視察に行った時
+まさに思ったことなんだよね～、それ！
+> CONTEXT: Map494/events/6/pages/1/273/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（なぜかつながった・・・）
+> CONTEXT: Map494/events/6/pages/1/278/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+種や苗を植えるための土壌は、科学で言う
+ところの・・・
+> CONTEXT: Map494/events/6/pages/1/282/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はむこ、ともっちナイス・・・！
+> CONTEXT: Map494/events/6/pages/1/288/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ﾄﾞﾔｧ！！）
+> CONTEXT: Map494/events/6/pages/1/292/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、後はこの話題をできるだけ引き伸ばして・・・
+> CONTEXT: Map494/events/6/pages/1/296/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おっと、脱線しちゃったね。
+> CONTEXT: Map494/events/6/pages/1/302/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まあそんなわけで、キミたちについても
+もう手伝ってもらうこともないだろうから、
+> CONTEXT: Map494/events/6/pages/1/306/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+悪いんだけど、ちゃっちゃとやられちゃって
+くれるかな～？
+> CONTEXT: Map494/events/6/pages/1/308/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+会話って難しいナー。
+> CONTEXT: Map494/events/6/pages/1/314/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+く・・・っ、こうなったら、もう応戦するしか
+なさそうね・・・！
+> CONTEXT: Map494/events/6/pages/1/319/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やれるだけやってみよう！
+> CONTEXT: Map494/events/6/pages/1/325/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何を考えてるのか知らないけどさ、
+> CONTEXT: Map494/events/6/pages/1/332/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今さらどんなことしたって無駄だよ？
+> CONTEXT: Map494/events/6/pages/1/398/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぐええ・・・つよい・・・っ！
+> CONTEXT: Map494/events/6/pages/1/402/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こ、こんなに力の差があるなんて・・・
+> CONTEXT: Map494/events/6/pages/1/406/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+痛いヨー！！　援護ポジションなのに
+ダメージ来るなんて聞いてないネー！！
+> CONTEXT: Map494/events/6/pages/1/410/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「なんてことだ・・・！」
+> CONTEXT: Map494/events/6/pages/1/413/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うんうん！　これで分かってくれたかな～？
+> CONTEXT: Map494/events/6/pages/1/417/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もうここには、あたしの研究を邪魔できる
+人間なんていないんだよ～！
+> CONTEXT: Map494/events/6/pages/1/418/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ・・・甘く見てた・・・
+> CONTEXT: Map494/events/6/pages/1/423/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここは、仕切り直さないと危険すぎます・・・！
+> CONTEXT: Map494/events/6/pages/1/427/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そのようだな・・・
+> CONTEXT: Map494/events/6/pages/1/430/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全員、一時退避・・・
+> CONTEXT: Map494/events/6/pages/1/431/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え～？
+> CONTEXT: Map494/events/6/pages/1/435/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょっと逃がすわけにはいかないな～！
+> CONTEXT: Map494/events/6/pages/1/463/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キミたちは熾力を持つ者として、唯一あたしに
+抗う恐れを秘めているからね。
+> CONTEXT: Map494/events/6/pages/1/464/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうしてもこの場で叩きのめしておかないと
+後が怖いんだよね～！
+> CONTEXT: Map494/events/6/pages/1/466/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あうう・・・万事休す・・・
+> CONTEXT: Map494/events/6/pages/1/472/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なにこれ・・・注射針？
+> CONTEXT: Map494/events/6/pages/1/512/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・っ！！
+> CONTEXT: Map494/events/6/pages/1/519/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あれ・・・？
+> CONTEXT: Map494/events/6/pages/1/524/Dialogue < UNTRANSLATED
+> CONTEXT: Map433/events/6/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+みなさん、お待たせしてすみません。
+> CONTEXT: Map494/events/6/pages/1/544/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルミィさん！！
+> CONTEXT: Map494/events/6/pages/1/551/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルミィ・・・この注射は・・・
+> CONTEXT: Map494/events/6/pages/1/556/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あなたが瘴魔状態をコントロールして魔力を
+手に入れるための研究、
+> CONTEXT: Map494/events/6/pages/1/561/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すなわち“スペルエンチャンター”を極秘で
+開発していることは知っていました。
+> CONTEXT: Map494/events/6/pages/1/563/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これは、私がその対策として開発した薬品です。
+> CONTEXT: Map494/events/6/pages/1/565/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よかった、間に合ったのね！
+> CONTEXT: Map494/events/6/pages/1/579/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これで形勢逆転だ！！
+> CONTEXT: Map494/events/6/pages/1/592/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あらら～、これは誤算だったわ～・・・
+> CONTEXT: Map494/events/6/pages/1/598/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ねえルミィ、その素晴らしい能力をあたしに
+貸す気は無い？
+> CONTEXT: Map494/events/6/pages/1/602/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お断りします。
+> CONTEXT: Map494/events/6/pages/1/606/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あなたの科学は、私利私欲の延長上にしか
+存在していませんので。
+> CONTEXT: Map494/events/6/pages/1/607/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相変わらずお堅いね～。　ま、そう言うと
+思ったけど。
+> CONTEXT: Map494/events/6/pages/1/612/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今の白カラットは、ただの人なのよね？
+> CONTEXT: Map494/events/6/pages/1/617/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+捕まえるならチャンスよ！
+> CONTEXT: Map494/events/6/pages/1/618/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+総攻撃ネー！！
+> CONTEXT: Map494/events/6/pages/1/623/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まあまあ、そう慌てなさんな。
+> CONTEXT: Map494/events/6/pages/1/631/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+力を失ったのは不測の事態だけど、いざと
+言う時のために、あたしには色々備えが
+あるんだよ。
+> CONTEXT: Map494/events/6/pages/1/632/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+例えば、月並みだけど・・・
+> CONTEXT: Map494/events/6/pages/1/635/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+出、出～～～っ！！
+敵逃時約束、目眩道具使奴～～～っ！！
+> CONTEXT: Map494/events/6/pages/1/643/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白カラット
+「今回はあきらめるけど、次の襲撃を
+　お楽しみに～！」
+> CONTEXT: Map494/events/6/pages/1/646/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白カラット
+「ばいば～い！」
+> CONTEXT: Map494/events/6/pages/1/649/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ～あ、残念・・・
+> CONTEXT: Map494/events/6/pages/1/659/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まだ遠くへは行ってないはずです！
+追いかけましょう！
+> CONTEXT: Map494/events/6/pages/1/665/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それはやめた方がいいでしょう。
+> CONTEXT: Map494/events/6/pages/1/678/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なにゆえ？　チャンスなのに。
+> CONTEXT: Map494/events/6/pages/1/682/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+彼女に注入した干渉剤は、間に合わせで
+作った未完成品です。
+> CONTEXT: Map494/events/6/pages/1/694/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+効果は30分程度で切れるでしょう。
+> CONTEXT: Map494/events/6/pages/1/696/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もし、彼女を捕まえて拘束できたとしても、
+すぐに力を取り戻してしまうので、大変危険
+です。
+> CONTEXT: Map494/events/6/pages/1/697/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そういうことなら仕方ないわね。
+> CONTEXT: Map494/events/6/pages/1/703/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも、ルミィさんのおかげで助かりました！
+> CONTEXT: Map494/events/6/pages/1/707/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いや～、マジで危ないとこだったね！
+> CONTEXT: Map494/events/6/pages/1/710/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+未完成とは言え、あの干渉剤が無ければ
+ここで敗れていた。
+> CONTEXT: Map494/events/6/pages/1/714/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ありがとう。
+> CONTEXT: Map494/events/6/pages/1/716/Dialogue < UNTRANSLATED
+> CONTEXT: Map315/events/10/pages/0/272/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+私にできることをしたまでです。
+> CONTEXT: Map494/events/6/pages/1/721/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さて、白カラットを完全に無力化するためにも
+引き続き干渉剤の製作に戻ります。
+> CONTEXT: Map494/events/6/pages/1/722/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「今後の白カラット対策は君の腕にかかって
+　いる。」
+> CONTEXT: Map494/events/6/pages/1/725/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「どうか、よろしく頼む。」
+> CONTEXT: Map494/events/6/pages/1/728/Dialogue < UNTRANSLATED
+> CONTEXT: Map127/events/4/pages/1/177/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「とりあえず急場はしのげたので、私は城へ
+　戻り姫に報告しようと思う。」
+> CONTEXT: Map494/events/6/pages/1/735/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「君たちはどうする？」
+> CONTEXT: Map494/events/6/pages/1/738/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さて、どうすべきか。
+> CONTEXT: Map494/events/6/pages/1/742/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひとつよろしいでしょうか？
+> CONTEXT: Map494/events/6/pages/1/747/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+実は、干渉剤に併せてもう一つ、製作を
+考えている物があるのです。
+> CONTEXT: Map494/events/6/pages/1/748/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+干渉剤の他に？　いったい何ですか・・・？
+> CONTEXT: Map494/events/6/pages/1/753/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+簡単に言えば、魔力探知装置です。
+> CONTEXT: Map494/events/6/pages/1/758/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今回の白カラットの襲撃を含め、これまで
+私たちは敵の動向に対して常に受け身でした。
+> CONTEXT: Map494/events/6/pages/1/759/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし、赤・青・白カラットが発している強力な
+魔力の発生地点を特定することができれば、
+敵の動きを察知することができるでしょう。
+> CONTEXT: Map494/events/6/pages/1/761/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+つまり、こっちから敵を探して奇襲できるように
+なるんだナー？
+> CONTEXT: Map494/events/6/pages/1/768/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そのとおりです。
+> CONTEXT: Map494/events/6/pages/1/774/Dialogue < UNTRANSLATED
+> CONTEXT: Map127/events/4/pages/9/223/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵の位置や動きがつかめるなら、かなり
+有意義な装置だと言えるな。
+> CONTEXT: Map494/events/6/pages/1/778/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それが可能になる装置を作れると言うのか？
+> CONTEXT: Map494/events/6/pages/1/780/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+理論上は。
+> CONTEXT: Map494/events/6/pages/1/785/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただし、ここであなた方にお願いしなければ
+ならないことがあります。
+> CONTEXT: Map494/events/6/pages/1/786/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、なんとなく察しました。
+> CONTEXT: Map494/events/6/pages/1/791/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+材料集めだね。
+> CONTEXT: Map494/events/6/pages/1/795/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+必要な物は2つ。
+ひとつは、魔力に強い反応を示す特殊な鉱物
+“榴鉱石”。
+> CONTEXT: Map494/events/6/pages/1/801/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もうひとつは、その鉱物の組織を安定させる
+“レリグ・イアスの鱗粉”。
+> CONTEXT: Map494/events/6/pages/1/804/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どちらも入手が困難な代物です。
+> CONTEXT: Map494/events/6/pages/1/806/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どっちもぜんぜん入手法に心当たり無いわね。
+> CONTEXT: Map494/events/6/pages/1/810/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大丈夫です。　確かに入手は困難ですが、
+入手できる場所なら判明しています。
+どちらも、この西部にあります。
+> CONTEXT: Map494/events/6/pages/1/815/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+榴鉱石は“ダスプ沼”に、レリグ・イアスの鱗粉
+は“バルカド遺跡”に住む魔物から手に入る
+でしょう。
+> CONTEXT: Map494/events/6/pages/1/818/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふむ。　場所が分かっているなら話は早い。
+> CONTEXT: Map494/events/6/pages/1/824/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さっそく集めに行きましょう！
+> CONTEXT: Map494/events/6/pages/1/829/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まだ話の途中です。
+> CONTEXT: Map494/events/6/pages/1/832/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダスプ沼にある榴鉱石については、熾天少女
+であるあなた方なら魔物を排除しながら
+たどり着くことができると思います。
+> CONTEXT: Map494/events/6/pages/1/837/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし、問題はバルカド遺跡のレリグ・イアス
+という魔物です。
+> CONTEXT: Map494/events/6/pages/1/840/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これは非常に警戒心が高く、人前に姿を現す
+ことは稀だと聞きます。
+> CONTEXT: Map494/events/6/pages/1/842/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しらみつぶしに遺跡中を探せば、きっと
+見つかるヨー！
+> CONTEXT: Map494/events/6/pages/1/848/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+問題はそれだけではありません。
+> CONTEXT: Map494/events/6/pages/1/854/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そのバルカド遺跡に入るためには、
+とある種族の集落を通らなければ
+ならないのです。
+> CONTEXT: Map494/events/6/pages/1/855/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それが何か問題なの？
+> CONTEXT: Map494/events/6/pages/1/861/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+実のところ、私もその種族について詳しく
+知らないのですが、
+> CONTEXT: Map494/events/6/pages/1/866/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+“非常に危険”な種族なのだとか・・・
+> CONTEXT: Map494/events/6/pages/1/870/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+人間ではないのか？
+> CONTEXT: Map494/events/6/pages/1/874/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+人の姿をしているとか、していないとか・・・
+> CONTEXT: Map494/events/6/pages/1/879/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すみません、よく分からないのです。
+> CONTEXT: Map494/events/6/pages/1/880/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とにかく、その非常に危険な種族の集落を
+抜けないことには、バルカド遺跡に入ることは
+できないのです。
+> CONTEXT: Map494/events/6/pages/1/881/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どこまで危険なのか分からないけど・・・
+> CONTEXT: Map494/events/6/pages/1/887/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とりあえず行ってみるしかないんじゃないカー？
+> CONTEXT: Map494/events/6/pages/1/892/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だね！　きっとなんとかなるって！
+> CONTEXT: Map494/events/6/pages/1/896/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よし。　それでは、魔力探知装置の製作に
+必要な材料である、
+> CONTEXT: Map494/events/6/pages/1/900/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+“榴鉱石”と“レリグ・イアスの鱗粉”を入手しに
+向かうとしよう。
+> CONTEXT: Map494/events/6/pages/1/902/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「ダスプ沼とバルカド遺跡は、ルージー遺跡へ
+　続く公道を北へ進めば着くだろう。」
+> CONTEXT: Map494/events/6/pages/1/905/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「ただし、バルカド遺跡は森の奥深くにある。
+　その途中に例の危険種族の集落がある
+　とのことだ。」
+> CONTEXT: Map494/events/6/pages/1/908/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「十分に注意して進んでほしい。」
+> CONTEXT: Map494/events/6/pages/1/912/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んじゃ、準備が整ったら行こう！
+> CONTEXT: Map494/events/6/pages/1/920/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+吹っ飛ばされた衛兵だ。　その距離は
+2000メートルを軽く超えている。
+> CONTEXT: Map494/events/7/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+衛兵が500メートルほど吹っ飛ばされている。
+> CONTEXT: Map494/events/8/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

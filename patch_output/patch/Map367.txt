@@ -1,0 +1,12 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+暑い・・・マント脱ぎたい・・・
+> CONTEXT: Map367/events/12/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そこの水って海水だから飲めないのよね・・・
+> CONTEXT: Map367/events/13/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

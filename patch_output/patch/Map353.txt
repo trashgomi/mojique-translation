@@ -1,0 +1,278 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+よう、待ってたぜ。
+> CONTEXT: Map353/events/10/pages/1/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お前は・・・盗賊団長か・・・！
+> CONTEXT: Map353/events/10/pages/1/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え！？
+> CONTEXT: Map353/events/10/pages/1/43/Dialogue < UNTRANSLATED
+> CONTEXT: Map055/events/36/pages/1/213/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それじゃあ、この罠はカラットじゃなくて・・・
+> CONTEXT: Map353/events/10/pages/1/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ああ？　何を勘違いしてんのか知らねえけどよ、
+> CONTEXT: Map353/events/10/pages/1/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+テメェらには貸しがあるからな！　ここで
+たっぷり礼をさせてもらうぜ・・・！
+> CONTEXT: Map353/events/10/pages/1/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+復讐に来たってわけね。　そっちが望むなら
+受けて立とうじゃない。
+> CONTEXT: Map353/events/10/pages/1/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ええと・・・て、敵なんですね？
+> CONTEXT: Map353/events/10/pages/1/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+以前、秋空やシャルシャルを誘拐した盗賊団の
+ヘッドだ。
+> CONTEXT: Map353/events/10/pages/1/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アジトを攻略された腹いせに我々を罠に陥れ、
+ここで叩くつもりなのだろう。
+> CONTEXT: Map353/events/10/pages/1/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んじゃ、もう1回ぼこぼこにしちゃおう！
+> CONTEXT: Map353/events/10/pages/1/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おっと！　まだ自分たちの立場が分かって
+ねえみてえだな！
+> CONTEXT: Map353/events/10/pages/1/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+後ろを見てみな！
+> CONTEXT: Map353/events/10/pages/1/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・うげっ！！
+> CONTEXT: Map353/events/10/pages/1/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大量の伏兵で挟み討ちとはな・・・
+> CONTEXT: Map353/events/10/pages/1/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こ、この数は・・・さすがに・・・
+> CONTEXT: Map353/events/10/pages/1/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+早乙女、これ・・・どうするのよ・・・！
+> CONTEXT: Map353/events/10/pages/1/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オレはこう見えて念には念を入れるタイプでね。
+> CONTEXT: Map353/events/10/pages/1/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全力でツブさせてもらうぜ・・・！！
+> CONTEXT: Map353/events/10/pages/1/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まずいな。　この人数差では、勝率は限りなく
+ゼロに等しい。
+> CONTEXT: Map353/events/10/pages/1/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だ、誰か・・・助け・・・
+> CONTEXT: Map353/events/10/pages/1/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+天井の岩を崩れさせて通路を・・・っ！
+> CONTEXT: Map353/events/10/pages/1/223/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+誰だッ！！？
+> CONTEXT: Map353/events/10/pages/1/224/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あのガキがやったのか！　あとでとっ捕まえて
+ツブしてやる！！
+> CONTEXT: Map353/events/10/pages/1/259/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今の、誰・・・？
+> CONTEXT: Map353/events/10/pages/1/264/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何者かは分からないが、銃撃で我々を
+救ってくれた。
+> CONTEXT: Map353/events/10/pages/1/268/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大陸北部の凍った洞窟内で、頭上に落ちてきた
+つららを銃弾で粉砕し、助けてくれた者と同一
+人物である可能性が高い。
+> CONTEXT: Map353/events/10/pages/1/270/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とにかく、これで形勢逆転ってことだね！
+> CONTEXT: Map353/events/10/pages/1/276/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちくしょう・・・！
+> CONTEXT: Map353/events/10/pages/1/286/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こうなりゃ、実力で捻りツブすだけだぜ！！
+> CONTEXT: Map353/events/10/pages/1/287/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いくぞオラァ！！！
+> CONTEXT: Map353/events/10/pages/1/288/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ち・・・ちくしょうっ！　また負けた・・・！！
+> CONTEXT: Map353/events/10/pages/3/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんでテメェらごときに勝てねえんだよっ！！
+> CONTEXT: Map353/events/10/pages/3/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お前がどれほどの執念を燃やしているのかは
+知らないが、
+> CONTEXT: Map353/events/10/pages/3/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我々もまた、常に成長しているということだ。
+> CONTEXT: Map353/events/10/pages/3/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ﾄﾞﾔｧ!!
+> CONTEXT: Map353/events/10/pages/3/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さすがあたし！！
+> CONTEXT: Map353/events/10/pages/3/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+テメェら・・・絶対に許さねえ！！！
+> CONTEXT: Map353/events/10/pages/3/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+絶対ツブすからなっ！！！！　いつか
+必ず！！！
+> CONTEXT: Map353/events/10/pages/3/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ・・・また逃げられた・・・
+> CONTEXT: Map353/events/10/pages/3/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相変わらずの逃げ足だな・・・
+> CONTEXT: Map353/events/10/pages/3/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お、追いかけますか？
+> CONTEXT: Map353/events/10/pages/3/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いや、まだどこに伏兵を潜ませているか
+分からない。
+> CONTEXT: Map353/events/10/pages/3/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まずは早急にここを脱出するのが先決だ。
+> CONTEXT: Map353/events/10/pages/3/61/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,932 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ただいま帰還した。
+> CONTEXT: Map205/events/2/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団長
+「おお、よくぞ戻りました。」
+> CONTEXT: Map205/events/2/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団長
+「怪我はありませんか？」
+> CONTEXT: Map205/events/2/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+このとおりの元気っ娘だよー！
+> CONTEXT: Map205/events/2/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一度遭難しかけたでしょ・・・
+> CONTEXT: Map205/events/2/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+猛吹雪の時は、救助ありがとうございました。
+> CONTEXT: Map205/events/2/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おかげ様で無事に調査完了できました。
+> CONTEXT: Map205/events/2/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団長
+「それは何よりです。」
+> CONTEXT: Map205/events/2/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あー、神官さんだ！
+> CONTEXT: Map205/events/2/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうしてここへ？　加護の儀式は大丈夫
+なんですか？
+> CONTEXT: Map205/events/2/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「ええ。　皆様が北部の雪原調査へ向かった後、
+　城から煉絶の姫君に関する情報提供の命を
+　受けたのです。」
+> CONTEXT: Map205/events/2/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうか。　そう言えば旅立ち際に、姫がそんな
+ことを言っていたな。
+> CONTEXT: Map205/events/2/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「それで、我々教会が煉絶の姫君に関する資料
+　をあたっていたところ、急きょ皆様にお伝え
+　したい事が見つかりまして・・・」
+> CONTEXT: Map205/events/2/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団長
+「私もちょうど、その話を聞くところでした。」
+> CONTEXT: Map205/events/2/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団長
+「どうぞ、席におかけください。」
+> CONTEXT: Map205/events/2/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うむ。　調査結果報告の前に、まずは神官の
+話を聞こう。
+> CONTEXT: Map205/events/2/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「では改めてお話しします。」
+> CONTEXT: Map205/events/2/pages/0/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「かつて先代の熾天少女は、煉絶の姫君の
+　拠点へ進攻し、彼女を撃破することに成功
+　しました。」
+> CONTEXT: Map205/events/2/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「ですが、具体的にどの地域で煉絶の姫君と
+　交戦したのかは分かっていませんでした。」
+> CONTEXT: Map205/events/2/pages/0/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「しかし、今回の命で古い文献をあたっていた
+　ところ、かつて煉絶の姫君が拠点を構えていた
+　場所が、」
+> CONTEXT: Map205/events/2/pages/0/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「この大陸北部であることが判明したのです。」
+> CONTEXT: Map205/events/2/pages/0/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なるほど。
+> CONTEXT: Map205/events/2/pages/0/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、もしかして、その拠点って雪原の林
+じゃないかな？
+> CONTEXT: Map205/events/2/pages/0/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「いいえ、拠点の場所はこの町の北東にある
+　絶壁の中です。」
+> CONTEXT: Map205/events/2/pages/0/137/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あら、そうなの・・・
+> CONTEXT: Map205/events/2/pages/0/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「ですが、実際に熾天少女が煉絶の姫君を
+　討伐した場所は、今回皆様が調査に
+　向かっていた雪原の林でした。」
+> CONTEXT: Map205/events/2/pages/0/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「拠点で交戦した結果、煉絶の姫君とその側近
+　は拠点を放棄して逃走を図り、雪原の奥に
+　ある林に身を隠しました。」
+> CONTEXT: Map205/events/2/pages/0/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「そこへ熾天少女が追撃に向かい、その場で
+　煉絶の姫君と側近を撃破することに成功。」
+> CONTEXT: Map205/events/2/pages/0/152/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「そして封印を施し、世に平和をもたらしたの
+　です。」
+> CONTEXT: Map205/events/2/pages/0/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃあ、実際に煉絶さんを倒した現場は
+雪原の林だったんだね？
+> CONTEXT: Map205/events/2/pages/0/160/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ということは・・・やっぱり私たちが林で見た
+建物の残骸は・・・
+> CONTEXT: Map205/events/2/pages/0/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+煉絶の姫君が封印を破った跡なのだろう。
+> CONTEXT: Map205/events/2/pages/0/170/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「そうですか・・・やはり封印が破られ、復活
+　を果たしてしまったのですね。」
+> CONTEXT: Map205/events/2/pages/0/172/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+団長。　雪原には煉絶の姫君が潜んでいる
+可能性が高い。
+> CONTEXT: Map205/events/2/pages/0/177/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+警戒を強めたほうがいいだろう。
+> CONTEXT: Map205/events/2/pages/0/179/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団長
+「分かりました。　住民に周知を図りましょう。」
+> CONTEXT: Map205/events/2/pages/0/181/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「注意することに越したことはないのですが、
+　私が思うに、煉絶の姫君はもう別のところに
+　いると思われます。」
+> CONTEXT: Map205/events/2/pages/0/183/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふえ？　どういうこと？
+> CONTEXT: Map205/events/2/pages/0/189/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「魔族である彼女の目的は、この人間界の
+　制圧・支配です。」
+> CONTEXT: Map205/events/2/pages/0/191/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「よほどの理由がない限り、雪原に身を置く
+　利点はありません。」
+> CONTEXT: Map205/events/2/pages/0/194/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それじゃ、いったいどこに・・・？
+> CONTEXT: Map205/events/2/pages/0/199/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「現段階で一番可能性が高いのは、やはり
+　拠点でしょう。」
+> CONTEXT: Map205/events/2/pages/0/201/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「理由は定かではありませんが、彼女にとって
+　人間界の侵略を行うために、最も効率的な
+　場所であるはずです。」
+> CONTEXT: Map205/events/2/pages/0/204/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その推測には同意する。
+> CONTEXT: Map205/events/2/pages/0/210/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+距離的にも近く、速やかに行動に移すことが
+可能だ。
+> CONTEXT: Map205/events/2/pages/0/211/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ま、フツーに考えれば、あんな寒いとこに
+いつまでもいるわけないもんねー。
+> CONTEXT: Map205/events/2/pages/0/215/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そういえば拠点って暖かいのかな？
+> CONTEXT: Map205/events/2/pages/0/220/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団長
+「北東の絶壁は吹雪を遮り、かつ太陽の光を
+　垂直に受ける場所です。」
+> CONTEXT: Map205/events/2/pages/0/222/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団長
+「北部の中では比較的温暖な気候と言える
+　でしょうな。」
+> CONTEXT: Map205/events/2/pages/0/225/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いよいよ拠点にやつが移動した線が濃厚だな。
+> CONTEXT: Map205/events/2/pages/0/230/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃ、拠点へレッツ猛攻だね！
+> CONTEXT: Map205/events/2/pages/0/233/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さっそく出発しよ！
+> CONTEXT: Map205/events/2/pages/0/237/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だ、大丈夫なの？　作戦とか立てなくて・・・
+> CONTEXT: Map205/events/2/pages/0/241/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵はまだ封印から復活して間もない。
+> CONTEXT: Map205/events/2/pages/0/245/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おそらく、現段階では満足に態勢が整って
+いない状態だと推測できる。
+> CONTEXT: Map205/events/2/pages/0/246/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+攻め入るなら、今が好機だろう。
+> CONTEXT: Map205/events/2/pages/0/248/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうですね。　時間を与えてしまうと、戦力を
+揃えてしまうかもしれませんし・・・
+> CONTEXT: Map205/events/2/pages/0/252/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団長
+「皆さんに頼りきりで心苦しいのですが、ここは
+　ひとつお願いします。」
+> CONTEXT: Map205/events/2/pages/0/255/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「私からもお願いします。　煉絶の姫君を、
+　どうか止めてください。」
+> CONTEXT: Map205/events/2/pages/0/258/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+早急に装備を整え、北東の絶壁にある拠点へ
+向かう。
+> CONTEXT: Map205/events/2/pages/0/264/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「感謝いたします。」
+> CONTEXT: Map205/events/2/pages/0/267/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+絶壁の横穴の奥だね！　インプット完了！
+> CONTEXT: Map205/events/2/pages/0/277/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官、情報提供に感謝する。
+> CONTEXT: Map205/events/2/pages/0/281/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この場で待機し、我々の帰還を待ってほしい。
+> CONTEXT: Map205/events/2/pages/0/282/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「分かりました。　どうかご武運を。」
+> CONTEXT: Map205/events/2/pages/0/284/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「皆様に神の加護があらんことを・・・」
+> CONTEXT: Map205/events/2/pages/0/286/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただいまー。
+> CONTEXT: Map205/events/2/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団長
+「帰還をお待ちしていました。」
+> CONTEXT: Map205/events/2/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おかえりなさい！　ど、どうでした！？
+煉絶の姫君はいましたか！？　倒しました！？
+> CONTEXT: Map205/events/2/pages/1/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団長
+「こらビオラ、まず席についてもらいなさい。」
+> CONTEXT: Map205/events/2/pages/1/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+す、すみません、つい・・・
+> CONTEXT: Map205/events/2/pages/1/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうぞ、おかけください！
+> CONTEXT: Map205/events/2/pages/1/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うむ。　失礼する。
+> CONTEXT: Map205/events/2/pages/1/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団長
+「さて、早速ですが拠点についてお話を
+　聞かせていただきたい。」
+> CONTEXT: Map205/events/2/pages/1/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「私からも、お願いします。」
+> CONTEXT: Map205/events/2/pages/1/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+了解だ。　順を追って説明しよう。
+> CONTEXT: Map205/events/2/pages/1/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まず我々は、北東の絶壁の中でかつて煉絶の
+姫君が使用していた拠点を発見した。
+> CONTEXT: Map205/events/2/pages/1/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+や、やはりあったのですか！
+> CONTEXT: Map205/events/2/pages/1/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あった。
+> CONTEXT: Map205/events/2/pages/1/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そしてその奥地で、煉絶の姫君を名乗る少女を
+発見した。
+> CONTEXT: Map205/events/2/pages/1/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちっちゃくてかわいい女の子だったよ！
+> CONTEXT: Map205/events/2/pages/1/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団長
+「なんと・・・やはり復活していたのですか。」
+> CONTEXT: Map205/events/2/pages/1/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はい。　とても強力な魔物を召喚し、襲って
+きました。
+> CONTEXT: Map205/events/2/pages/1/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すごく強くて・・・怖かったです・・・
+> CONTEXT: Map205/events/2/pages/1/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんとか倒すことに成功したが、戦闘中に
+煉絶の姫君は姿を消してしまい、彼女本人と
+交戦するには至らなかった。
+> CONTEXT: Map205/events/2/pages/1/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まあ正直、魔物との戦いでヘトヘトだったから
+こっちは助かったけどね・・・
+> CONTEXT: Map205/events/2/pages/1/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団長
+「そうでしたか。　とにかく無事でよかった。」
+> CONTEXT: Map205/events/2/pages/1/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それで、煉絶の姫君はどこへ行ったのでしょう
+か・・・！？
+> CONTEXT: Map205/events/2/pages/1/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+分からん。　もしかしたら、まだ拠点のどこかに
+隠れているかもしれない。
+> CONTEXT: Map205/events/2/pages/1/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+絶壁の周囲は警戒しておいた方がいいだろう。
+> CONTEXT: Map205/events/2/pages/1/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団長
+「分かりました。　警備を固めることに
+　致しましょう。」
+> CONTEXT: Map205/events/2/pages/1/143/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「私からも質問、よろしいですか？」
+> CONTEXT: Map205/events/2/pages/1/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「あなた方の目から見て、煉絶の姫君は討伐
+　可能の見込みはありましたでしょうか？」
+> CONTEXT: Map205/events/2/pages/1/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+実際に戦っていないので何とも言えないが・・・
+> CONTEXT: Map205/events/2/pages/1/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+単純に考えて、あんな強い魔物を自由に
+操れてる時点で、今のわたし達には厳しい
+相手かもしれないです・・・
+> CONTEXT: Map205/events/2/pages/1/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もしあんな魔物を他にも持っているとしたら、
+勝ち目は薄いと思います。
+> CONTEXT: Map205/events/2/pages/1/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「そうですか。　やはり相手は強大ですね・・・」
+> CONTEXT: Map205/events/2/pages/1/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「ところで、伝承によれば、煉絶の姫君には常に
+　付き従っている側近が2人いるはずですが、
+> CONTEXT: Map205/events/2/pages/1/167/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「それらとは会いませんでしたか？」
+> CONTEXT: Map205/events/2/pages/1/170/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、そう言えばいなかったね。
+> CONTEXT: Map205/events/2/pages/1/174/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+私たちは見ていません。
+> CONTEXT: Map205/events/2/pages/1/178/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「ならば幸いでした。」
+> CONTEXT: Map205/events/2/pages/1/180/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「それらの側近たちもまた、煉絶の姫君に並ぶ
+　強力な魔族であると伝えられています。」
+> CONTEXT: Map205/events/2/pages/1/182/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「もし揃って戦闘になっていれば、どうなって
+　いたことか・・・」
+> CONTEXT: Map205/events/2/pages/1/185/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+想像したくもないな・・・
+> CONTEXT: Map205/events/2/pages/1/189/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とにかく、今のあたし達じゃ力不足だわ。
+> CONTEXT: Map205/events/2/pages/1/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+世界を滅亡に追い込むような恐ろしい相手に、
+戦いの心得が無いあたし達がいきなり戦いを
+挑んで、勝てるはずがないもの・・・
+> CONTEXT: Map205/events/2/pages/1/196/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんなぁ！　熾天少女であるみなさんだけが
+頼りなんですよ！？
+> CONTEXT: Map205/events/2/pages/1/203/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団長
+「仕方のない話だ。」
+> CONTEXT: Map205/events/2/pages/1/206/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団長
+「いくら熾天少女と言えども、相手は魔族の
+　長。」
+> CONTEXT: Map205/events/2/pages/1/208/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団長
+「そう簡単に討伐できる輩ではないだろう。」
+> CONTEXT: Map205/events/2/pages/1/211/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「そうです。　気を落とさないでください。」
+> CONTEXT: Map205/events/2/pages/1/213/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「それに、先代の熾天少女も、苦難の旅の末
+　にやっとの思いで煉絶の姫君を下したと
+　聞きます。」
+> CONTEXT: Map205/events/2/pages/1/215/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「まだ戦いは始まったばかり。　少しずつ力を
+　蓄えながら、地道にでも前へ進めばいいの
+　です。」
+> CONTEXT: Map205/events/2/pages/1/219/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うむ。　神官の意見に賛成だ。
+> CONTEXT: Map205/events/2/pages/1/225/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+努力を怠っては真の力は付いてこない。
+> CONTEXT: Map205/events/2/pages/1/226/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だが、常に前進する気持ちを忘れなければ、
+人は成長し続けることができる。
+> CONTEXT: Map205/events/2/pages/1/227/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そう・・・だよね！
+> CONTEXT: Map205/events/2/pages/1/232/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いっぱい頑張って、ムキムキになればいいん
+だよ！！
+> CONTEXT: Map205/events/2/pages/1/233/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ムキムキはいやですぅ・・・っ！
+> CONTEXT: Map205/events/2/pages/1/237/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「ともあれ、みなさまは一度城へお戻りになり、
+　姫への報告と共に今後の作戦を講じた方が
+　よろしいかと思われます。」
+> CONTEXT: Map205/events/2/pages/1/239/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団長
+「そうですね。　このまま相手の出方を待って
+　いても後手後手に回ってしまいます。」
+> CONTEXT: Map205/events/2/pages/1/243/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団長
+「この地域は我々自治警団にお任せになり、
+　中央部へお戻りください。」
+> CONTEXT: Map205/events/2/pages/1/246/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そだね。　お姫さまも雪原調査の結果報告を
+待ってることだろうし！
+> CONTEXT: Map205/events/2/pages/1/251/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我々は姫より依頼された雪原調査の報告を
+兼ねて、今後の作戦会議のため中央部の城へ
+向かう。
+> CONTEXT: Map205/events/2/pages/1/257/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+異論はないな？
+> CONTEXT: Map205/events/2/pages/1/260/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それでいいわ。
+> CONTEXT: Map205/events/2/pages/1/264/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+異議なし！
+> CONTEXT: Map205/events/2/pages/1/268/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+団長、神官、世話になった。
+> CONTEXT: Map205/events/2/pages/1/272/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手に何か動きがあれば、すぐに知らせて
+くれ。
+> CONTEXT: Map205/events/2/pages/1/273/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団長
+「承知しました。」
+> CONTEXT: Map205/events/2/pages/1/277/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+健闘を祈ります！！
+> CONTEXT: Map205/events/2/pages/1/281/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「どうかお気を付けて。　みなさまに神のご加護
+　があらんことを。」
+> CONTEXT: Map205/events/2/pages/1/283/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,28 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+↑：ユーリャ教会
+←：城下町
+↓：ライフォン川ほとり
+> CONTEXT: Map071/events/1/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ユーリャ教会なら、すぐ北にあります。
+> CONTEXT: Map071/events/8/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここは何度足を運んでも惜しくないくらい
+心が安らぐ場所ですね。
+> CONTEXT: Map071/events/8/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+俺も昔は、教会の神官になるのを夢見て
+勉強しまくったんだけどなあ。
+> CONTEXT: Map071/events/9/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,544 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+熾天少女たちが攻めて来ているようだぞ・・・
+> CONTEXT: Map597/events/1/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大丈夫なんだろうな？
+> CONTEXT: Map597/events/1/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+問題ありません。
+> CONTEXT: Map597/events/1/pages/0/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map127/events/15/pages/9/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+狭間からあふれ出る魔力によって、今の
+我々の力は、魔界に居た時とほとんど
+相違ない程に引き出されています。
+> CONTEXT: Map597/events/1/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なつかしいよね、この感じ！　えへっ！
+> CONTEXT: Map597/events/1/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも、あたし自身はぜんぜん強くなっている気が
+しないんだけど？
+> CONTEXT: Map597/events/1/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+元が弱すぎるからでしょう。
+> CONTEXT: Map597/events/1/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゼロを100倍してもゼロです。
+> CONTEXT: Map597/events/1/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハッキリ言いすぎだぞ・・・
+> CONTEXT: Map597/events/1/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見つけたゾー！　覚悟するネー！！
+> CONTEXT: Map597/events/1/pages/0/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここで会ったが百年目！
+> CONTEXT: Map597/events/1/pages/0/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+尋常に勝負！！
+> CONTEXT: Map597/events/1/pages/0/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さすがは熾天少女。
+> CONTEXT: Map597/events/1/pages/0/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よくここまでたどり着けましたね。
+> CONTEXT: Map597/events/1/pages/0/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ねーっ！　強～い魔物をいっぱい放って
+おいたのにね！！　えへへへ！！
+> CONTEXT: Map597/events/1/pages/0/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ＪＫはザコちゃんになんて負けないよ！！
+> CONTEXT: Map597/events/1/pages/0/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これ以上、好き勝手にはさせないわ。
+> CONTEXT: Map597/events/1/pages/0/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここで決着をつけましょう。
+> CONTEXT: Map597/events/1/pages/0/158/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+威勢がいいのは評価しましょう。
+> CONTEXT: Map597/events/1/pages/0/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし、我々は魔界最強と謳われた近衛家臣。
+> CONTEXT: Map597/events/1/pages/0/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いかに熾天少女と言えども、易々と下せると
+思ったら間違いです。
+> CONTEXT: Map597/events/1/pages/0/167/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えへ！　えへ！　最強だなんて照れちゃうな～！
+えへへへへ！！！
+> CONTEXT: Map597/events/1/pages/0/171/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あなた達は、先代の熾天少女であるノア様に
+敗れ、永い間封印されていました。
+> CONTEXT: Map597/events/1/pages/0/177/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そして復活した今も、まだ人間界の征服を
+諦めていないんですか？
+> CONTEXT: Map597/events/1/pages/0/179/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+愚問だな、精霊王！
+> CONTEXT: Map597/events/1/pages/0/185/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我らダジェルバージ家は、魔界で最も力のある
+家系として継承していかなければならないのだ！
+> CONTEXT: Map597/events/1/pages/0/186/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そのために、力の誇示は必至！
+> CONTEXT: Map597/events/1/pages/0/188/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔族より明らかに下等である人間どもの
+世界の征服に失敗したとあっては、その名は
+地に堕ちる！！
+> CONTEXT: Map597/events/1/pages/0/189/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうあっても、引く気は無いようだな。
+> CONTEXT: Map597/events/1/pages/0/195/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+知れたことです。
+> CONTEXT: Map597/events/1/pages/0/198/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+元より、この戦いの勝利を我々が収めることは
+明白。
+> CONTEXT: Map597/events/1/pages/0/203/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+引くなど選択肢としてあり得ません。
+> CONTEXT: Map597/events/1/pages/0/205/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それはこっちも同じだよ！
+> CONTEXT: Map597/events/1/pages/0/209/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここまでみんなと頑張ってきたんだから、
+絶対に勝つもんね！
+> CONTEXT: Map597/events/1/pages/0/210/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フッ、そのセリフ・・・一瞬で後悔させて
+あげましょう・・・
+> CONTEXT: Map597/events/1/pages/0/216/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+覚悟ッ！！
+> CONTEXT: Map597/events/1/pages/0/222/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まあ待て、ヴィスティ。
+> CONTEXT: Map597/events/1/pages/0/227/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたしは名家の力だけでなく、器の大きさも
+示さなければならない。
+> CONTEXT: Map597/events/1/pages/0/228/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この哀れな人間どもに、一回だけチャンスを
+与えてやろうではないか。
+> CONTEXT: Map597/events/1/pages/0/230/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おお～～！！　さすがカラットさま！
+慈悲深ぁい！！　えへ！　えへ！
+> CONTEXT: Map597/events/1/pages/0/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+チャンス・・・？
+> CONTEXT: Map597/events/1/pages/0/239/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+むっきーー！！　勝ち誇ってくれちゃって！！
+> CONTEXT: Map597/events/1/pages/0/243/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+熾天少女の持つ力は、対魔族の大きな
+武器となる。
+> CONTEXT: Map597/events/1/pages/0/248/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうだ？　その力をあたし達ダジェルバージ家に
+ささげてみないか？
+> CONTEXT: Map597/events/1/pages/0/250/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もし力をささげることを誓うなら、褒美として
+人間界の半分をお前たちにやろう。
+> CONTEXT: Map597/events/1/pages/0/252/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+に、人間界の半分を・・・っ！？
+> CONTEXT: Map597/events/1/pages/0/257/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カラット様！　その話、詳しく聞かせて
+いただけますか！！？
+> CONTEXT: Map597/events/1/pages/0/258/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ええええーーーっ！？！？　食い付くのーー
+ーーーーーっ！？！？
+> CONTEXT: Map597/events/1/pages/0/265/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+くっ、なんと卑しい連中だ・・・！
+> CONTEXT: Map597/events/1/pages/0/269/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もうビックリだよね！！　えへへへ！　えへ！！
+> CONTEXT: Map597/events/1/pages/0/272/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はむこ！！　あんたのせいであたし達が
+下衆みたいになっちゃったじゃないの！！！
+> CONTEXT: Map597/events/1/pages/0/275/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すまない、同志よ・・・
+> CONTEXT: Map597/events/1/pages/0/281/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ええと・・・は、話を先に進めましょうか・・・
+> CONTEXT: Map597/events/1/pages/0/287/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とにかく、互いに譲れない戦いだ。
+> CONTEXT: Map597/events/1/pages/0/291/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+決着をつけよう。
+> CONTEXT: Map597/events/1/pages/0/292/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どちらにしても、もうあたし達は魔界へ戻れない。
+> CONTEXT: Map597/events/1/pages/0/298/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ならばせめて、この人間界を我がものとし、
+ダジェルバージ家の名を未来永劫のものと
+してくれよう・・・！
+> CONTEXT: Map597/events/1/pages/0/303/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+私とブロンシュは、その忠実な駒。
+> CONTEXT: Map597/events/1/pages/0/311/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+必ずこの手で熾天少女を葬り、その願いを
+現実のものとして差し上げましょう。
+> CONTEXT: Map597/events/1/pages/0/312/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はいはーい！！　わたしもわたしもー！！
+えへへ！　えへ！　えへへへへへ！！
+> CONTEXT: Map597/events/1/pages/0/316/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もう前置きは十分だ。
+> CONTEXT: Map597/events/1/pages/0/321/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここで終わらせるぞ。
+> CONTEXT: Map597/events/1/pages/0/322/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+望むところだ！！
+> CONTEXT: Map597/events/1/pages/0/329/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今ここでかつての雪辱を晴らし、我らの
+圧倒的な力を世に見せつけてくれよう！！
+> CONTEXT: Map597/events/1/pages/0/330/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やれ！！　ヴィスティ！　ブロンシュ！
+> CONTEXT: Map597/events/1/pages/0/332/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+参るッ！！
+> CONTEXT: Map597/events/1/pages/0/337/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えへっ！！
+> CONTEXT: Map597/events/1/pages/0/340/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はぁ・・・はぁ・・・カ、カラット様・・・ッ！
+> CONTEXT: Map597/events/1/pages/3/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えへ・・・ま、また負けちゃった～・・・
+えへへへ・・・っ
+> CONTEXT: Map597/events/1/pages/3/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はわわわわわわ・・・たす・・・助けてぇ・・・っ！
+> CONTEXT: Map597/events/1/pages/3/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぐすん・・・ひぐ・・・っ
+> CONTEXT: Map597/events/1/pages/3/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+勝負あったね！！　熾天少女強し！！
+> CONTEXT: Map597/events/1/pages/3/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これ以上は無駄な抵抗だ。
+> CONTEXT: Map597/events/1/pages/3/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お前たちは敗れた。　認めるんだ。
+> CONTEXT: Map597/events/1/pages/3/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぐっ・・・お、おのれ・・・！
+> CONTEXT: Map597/events/1/pages/3/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+で、倒したのはいいけど、どうするの？
+> CONTEXT: Map597/events/1/pages/3/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+先代の時は、封印したらしいけど・・・
+> CONTEXT: Map597/events/1/pages/3/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+熾力を集結させた神柱で囲み、そこに形成
+された異空間に封じ込めていました。
+> CONTEXT: Map597/events/1/pages/3/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今回はそういうの用意してないよね・・・
+> CONTEXT: Map597/events/1/pages/3/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+す、すみません・・・打倒することばかりに
+気が行ってて、完全に封印のことを忘れて
+いました。
+> CONTEXT: Map597/events/1/pages/3/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃあ、このまま見逃しちゃうんですか・・・？
+> CONTEXT: Map597/events/1/pages/3/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えー？　そうしたら、きっとまた悪さするヨー？
+> CONTEXT: Map597/events/1/pages/3/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+野放しだけは避けたい。
+> CONTEXT: Map597/events/1/pages/3/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何か手は無いのか・・・
+> CONTEXT: Map597/events/1/pages/3/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひとつだけ方法があるとすれば、アレを利用
+することですね。
+> CONTEXT: Map597/events/1/pages/3/72/Dialogue < UNTRANSLATED
+
+> END STRING

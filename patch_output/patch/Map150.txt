@@ -1,0 +1,28 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ふお？　お前さんたち、あの娘の知り合いかな？
+> CONTEXT: Map150/events/5/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、いや。　服装が似てたもんでな。
+> CONTEXT: Map150/events/5/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+本当にそっくりじゃから、表へ出て屋根を
+見上げてみるとええ。　今、その娘に屋根を
+修理してもらっておるところじゃ。
+> CONTEXT: Map150/events/5/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+若いうちは無茶をしがちじゃ。　たまには
+立ち止まって気持ちの整理をすることも
+必要じゃぞ。
+> CONTEXT: Map150/events/5/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING

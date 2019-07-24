@@ -1,0 +1,133 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ふひゅー・・・
+> CONTEXT: Map691/events/4/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+木にひっかかって、なんとか助かったっぽい！
+えへ！　えへ！
+> CONTEXT: Map691/events/4/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+山のふもとまで滑ってきちゃったのかな～？
+> CONTEXT: Map691/events/4/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうやって降りよっかー・・・？　えへ・・・
+> CONTEXT: Map691/events/4/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+このまま氷が溶けるのを待つしかないのか
+な～・・・
+> CONTEXT: Map691/events/4/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぶるるっ！　うひ～、この中寒いよぉー～！
+> CONTEXT: Map691/events/4/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えへ！　早く溶けてー！　太陽さん頑張れー！
+えへへ！！
+> CONTEXT: Map691/events/4/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うう～～！　さ、寒くておトイレ行きたくなって
+きちゃったよぉ～！
+> CONTEXT: Map691/events/4/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でもまだぜんぜん氷薄くなってない～！
+> CONTEXT: Map691/events/4/pages/0/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ていうか、溶け始めてすらいないよぉ！　えへ！
+> CONTEXT: Map691/events/4/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブロンシュちゃんピンチー～・・・！！
+> CONTEXT: Map691/events/4/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兄さん
+「おわ！！　な、なんだあれ！？　氷の塊が
+　木の上に！！？」
+> CONTEXT: Map691/events/4/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ！　誰かいる！！　おーーい！！　えへへ！
+> CONTEXT: Map691/events/4/pages/0/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兄さん
+「氷の中に人が！？　な、なんなんだアレは！」
+> CONTEXT: Map691/events/4/pages/0/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+中に閉じ込められて、出られなくなっちゃったん
+だよー～！！　降ろしてー！！
+> CONTEXT: Map691/events/4/pages/0/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兄さん
+「驚いたな・・・」
+> CONTEXT: Map691/events/4/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兄さん
+「とにかく、俺一人じゃどうしようもないから、人を
+　呼んでくるぜ！」
+> CONTEXT: Map691/events/4/pages/0/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兄さん
+「待ってなよ、嬢ちゃん！」
+> CONTEXT: Map691/events/4/pages/0/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えへへ！　ありがとー！！　よろしくねーー！！
+えへ！　えへ！
+> CONTEXT: Map691/events/4/pages/0/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふう！　これで助かるかも！　えへ！
+> CONTEXT: Map691/events/4/pages/0/135/Dialogue < UNTRANSLATED
+
+> END STRING

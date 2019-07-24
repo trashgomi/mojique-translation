@@ -1,0 +1,21 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+分かってる！　言うな！！　言いたいことは
+分かってるんだ！！
+> CONTEXT: Map370/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+このクソ暑い地域で黒い服とか、頭おかしいって
+思ったろ！？　な！？
+> CONTEXT: Map370/events/2/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そろそろ水が切れそうだから、行商人さんから
+買ってこなくちゃ。
+> CONTEXT: Map370/events/4/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

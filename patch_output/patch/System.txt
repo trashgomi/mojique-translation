@@ -1,0 +1,48 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+003-System03
+> CONTEXT: System/cancel_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+002-System02
+> CONTEXT: System/decision_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+001-System01
+> CONTEXT: System/cursor_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+008-System08
+> CONTEXT: System/load_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+01
+> CONTEXT: System/title_bgm/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+004-System04
+> CONTEXT: System/buzzer_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+006-Defeat02
+> CONTEXT: System/gameover_me/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+007-System07
+> CONTEXT: System/save_se/name/ < UNTRANSLATED
+
+> END STRING

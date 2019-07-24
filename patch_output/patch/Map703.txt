@@ -1,0 +1,269 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+あー、“ユリネクス”だね。　魔界の植物だよ。
+> CONTEXT: Map703/events/80/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え！？　魔界の！？
+> CONTEXT: Map703/events/80/pages/0/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうして魔界の植物が、こんなところに・・・？
+> CONTEXT: Map703/events/80/pages/0/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この山、ダジェルバージの連中が出入りしてる
+から、きっと種が服にくっついて運ばれて来た
+とかじゃないかな。
+> CONTEXT: Map703/events/80/pages/0/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+種あるあるだね。
+> CONTEXT: Map703/events/80/pages/0/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何でもいいけど、毒とか持ってないなら
+力ずくで引きちぎって大丈夫？
+> CONTEXT: Map703/events/80/pages/0/31/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+毒、ね・・・
+> CONTEXT: Map703/events/80/pages/0/37/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あると言えばあるけど、無いと言えば無い
+・・・かな。
+> CONTEXT: Map703/events/80/pages/0/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ンー？　難しいゾー？　どっちなんダー？？
+> CONTEXT: Map703/events/80/pages/0/44/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+適当にごまかして、このまま拘束させておく
+つもりね！？
+> CONTEXT: Map703/events/80/pages/0/48/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうせ毒なんて無いんでしょ！　だったら
+こんなツル・・・！
+> CONTEXT: Map703/events/80/pages/0/50/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・あ！　刺激を与えるとやばい・・・って！
+> CONTEXT: Map703/events/80/pages/0/62/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・！！
+> CONTEXT: Map703/events/80/pages/0/73/Dialogue < UNTRANSLATED
+> CONTEXT: Map545/events/80/pages/0/66/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/139/Dialogue < UNTRANSLATED
+> CONTEXT: Map541/events/8/pages/3/434/Dialogue < UNTRANSLATED
+> CONTEXT: Map405/events/10/pages/0/101/Dialogue < UNTRANSLATED
+> CONTEXT: Map395/events/11/pages/0/398/Dialogue < UNTRANSLATED
+> CONTEXT: Map356/events/21/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map326/events/3/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+げほっ！　けほけほ！！
+> CONTEXT: Map703/events/80/pages/0/83/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+な、なに！？　花粉！？
+> CONTEXT: Map703/events/80/pages/0/84/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/150/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ごほっ！　うええ、思いっきり吸いこんじゃった！
+> CONTEXT: Map703/events/80/pages/0/89/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う・・・けほ・・・っ、だ、だから刺激を与えちゃ
+駄目だって言ったのに・・・
+> CONTEXT: Map703/events/80/pages/0/93/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうしてくれるんだよ・・・僕も吸っちゃったよ・・・
+> CONTEXT: Map703/events/80/pages/0/95/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あー・・・マズいですわね、これは・・・
+> CONTEXT: Map703/events/80/pages/0/101/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/167/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え！？　何ですか！？　この花粉、そんなに
+有害なんですか・・・！？
+> CONTEXT: Map703/events/80/pages/0/106/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/172/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+このユリネクスはね、アンモニアを主な栄養分
+として成長する植物なんだよ。
+> CONTEXT: Map703/events/80/pages/0/111/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/177/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うわぁ、もうだいたい嫌な予感100％・・・
+> CONTEXT: Map703/events/80/pages/0/116/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/182/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お察しの通り。　近くを通りかかった動物を
+捕えて、即効性の利尿粉を吸わせて尿を
+出させるわけ・・・
+> CONTEXT: Map703/events/80/pages/0/120/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/186/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、そ、そういうのは早く言ってよっ！！！
+> CONTEXT: Map703/events/80/pages/0/127/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大量に吸いこんじゃったじゃない！！！
+あ、あたしどうしたらいいの！？
+> CONTEXT: Map703/events/80/pages/0/131/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/197/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+別にダメージを受ける類の毒とかじゃないから、
+慌てなくていいんじゃない？
+> CONTEXT: Map703/events/80/pages/0/136/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/202/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そのまま粗相して、ユリネクスを満足させれば
+解放されますわよ！　んふ！　んふふふ！！
+> CONTEXT: Map703/events/80/pages/0/140/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/206/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自分だけ危険回避したヤツが、何か言ってる
+ナー。
+> CONTEXT: Map703/events/80/pages/0/146/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/212/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もう青カラット改め、逃げカラットって呼ぼうか？
+> CONTEXT: Map703/events/80/pages/0/151/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/217/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+に、逃げたんじゃありませんわ！！！
+反射神経が優れてるだけですのよ！！
+> CONTEXT: Map703/events/80/pages/0/155/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんなら、ここでリベンジマッチといきます！？
+> CONTEXT: Map703/events/80/pages/0/162/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/228/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ね、姉さん・・・その・・・僕、下山したいんだけど
+・・・
+> CONTEXT: Map703/events/80/pages/0/171/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/237/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ・・・そう、ですわね。　分かりましたわ。
+> CONTEXT: Map703/events/80/pages/0/178/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/244/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+では熾天少女のみなさま、せいぜい死神の
+餌食にならぬよう、お気を付けあそばせ！
+> CONTEXT: Map703/events/80/pages/0/193/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/259/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ごぎけんよう！！
+> CONTEXT: Map703/events/80/pages/0/197/Dialogue < UNTRANSLATED
+> CONTEXT: Map544/events/80/pages/0/263/Dialogue < UNTRANSLATED
+
+> END STRING

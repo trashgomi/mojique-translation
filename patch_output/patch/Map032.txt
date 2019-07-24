@@ -1,0 +1,6 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ちっ、酒が切れてやがる・・・
+> CONTEXT: Map032/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

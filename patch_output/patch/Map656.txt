@@ -1,0 +1,205 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+騎士団長ガウラ
+「再び先行部隊が安全確認を行っています。」
+> CONTEXT: Map656/events/7/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「帰還するまで、しばらくお待ちください。」
+> CONTEXT: Map656/events/7/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こ、この地下道ならば、来るときに魔物を
+排除したのじゃろう？
+> CONTEXT: Map656/events/7/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ま、また確認などせずとも・・・
+> CONTEXT: Map656/events/7/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「そうはいきませぬ。」
+> CONTEXT: Map656/events/7/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「近頃の魔物の活動は異常です。　最初に
+　ここへ来た時も、我々の想定を超える活動を
+　見せていたのをお忘れですか？」
+> CONTEXT: Map656/events/7/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+くうぅ・・・
+> CONTEXT: Map656/events/7/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（た、頼む・・・急いでくれ・・・っ！）
+> CONTEXT: Map656/events/7/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（いい加減、我慢の限界じゃ・・・っ！）
+> CONTEXT: Map656/events/7/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（早くしないと・・・も、漏れてしまう・・・っ！！）
+> CONTEXT: Map656/events/7/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+-30分経過-
+> CONTEXT: Map656/events/7/pages/0/31/Dialogue < UNTRANSLATED
+> CONTEXT: Map646/events/4/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（はううぅ・・・急いでくれ・・・急いでくれ・・・っ！）
+> CONTEXT: Map656/events/7/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（早く・・・トイレ・・・トイレに・・・っ！！）
+> CONTEXT: Map656/events/7/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+先行部隊
+「騎士団長殿、ただいま戻りました！」
+> CONTEXT: Map656/events/7/pages/0/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+先行部隊
+「数体の魔物と遭遇し、排除しました！　今なら
+　安全に通行できます！」
+> CONTEXT: Map656/events/7/pages/0/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「うむ、ご苦労。」
+> CONTEXT: Map656/events/7/pages/0/98/Dialogue < UNTRANSLATED
+> CONTEXT: Map127/events/4/pages/12/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よ、よし！　よくやったぞ！
+> CONTEXT: Map656/events/7/pages/0/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さあ、早く進むとしよう・・・！！（もじもじっ）
+> CONTEXT: Map656/events/7/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「姫、その前に・・・」
+> CONTEXT: Map656/events/7/pages/0/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+な、何じゃ？
+> CONTEXT: Map656/events/7/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ま、ま、まさか・・・また退魔水か！？
+> CONTEXT: Map656/events/7/pages/0/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「ええ。　ちょうど最後の1杯です。」
+> CONTEXT: Map656/events/7/pages/0/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+イヤじゃ！　その水は・・・そ、その・・・
+> CONTEXT: Map656/events/7/pages/0/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おいしくないのじゃ！！
+> CONTEXT: Map656/events/7/pages/0/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「味はほとんど普通の水と同じでしょう。」
+> CONTEXT: Map656/events/7/pages/0/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「好き嫌いを言っている場合ではありませぬ。
+　城を出る時、姫の安全が最優先である旨の
+　約束をしたのをお忘れですか？」
+> CONTEXT: Map656/events/7/pages/0/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+むうぅ・・・っ　むううぅっ！！
+> CONTEXT: Map656/events/7/pages/0/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ごく！　ごく！　ごくっ！！
+> CONTEXT: Map656/events/7/pages/0/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぷは！　さ、さあ早くゆくぞ！！
+> CONTEXT: Map656/events/7/pages/0/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（も、もはや一刻の猶予もないっ！！）
+> CONTEXT: Map656/events/7/pages/0/150/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（頼む、もってくれ・・・ワラワの膀胱・・・っ！！）
+> CONTEXT: Map656/events/7/pages/0/151/Dialogue < UNTRANSLATED
+
+> END STRING

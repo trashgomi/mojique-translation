@@ -1,0 +1,630 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+実は君に、トロッコの親方から金銭物を
+預かっている。
+> CONTEXT: Map066/events/3/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これだ。　受け取ってくれ。
+> CONTEXT: Map066/events/3/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【お届物の小包】×1
+を渡しました。
+> CONTEXT: Map066/events/3/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わ・・・こ、こんなに沢山！
+> CONTEXT: Map066/events/3/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いつも道具の掃除を手伝ってくれてるお礼
+ですって。
+> CONTEXT: Map066/events/3/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+気にしないでっていつも言ってるのに・・・
+> CONTEXT: Map066/events/3/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今度お礼言いにいかなきゃ。
+> CONTEXT: Map066/events/3/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+届けてもらってありがとうございました。
+> CONTEXT: Map066/events/3/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いいえ、どういたしまして。
+> CONTEXT: Map066/events/3/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えっと、なにかお礼になるものは・・・
+> CONTEXT: Map066/events/3/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+礼には及ばない。　我々が勝手に引き受けて
+勝手に運んだものだからな。
+> CONTEXT: Map066/events/3/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも、このままお帰しするのは悪いですし・・・
+> CONTEXT: Map066/events/3/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ！　そうだ！
+> CONTEXT: Map066/events/3/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とってもおいしい紅茶があるんですよ。
+よかったら飲んでいきませんか？
+> CONTEXT: Map066/events/3/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、いいですね紅茶！　ぜひ！
+> CONTEXT: Map066/events/3/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+せっかくだから、ご馳走になって行きたい
+わね。
+> CONTEXT: Map066/events/3/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふむ。　では頂こう。
+> CONTEXT: Map066/events/3/pages/0/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はい、すぐ用意しますね。
+> CONTEXT: Map066/events/3/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほんとだ・・・すごくおいしい・・・！
+> CONTEXT: Map066/events/3/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それにとってもいい香り・・・
+> CONTEXT: Map066/events/3/pages/0/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+普通の紅茶と何が違うのか、いまいち
+分からんな。
+> CONTEXT: Map066/events/3/pages/0/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レグマくんって、あんまり紅茶飲まない人？
+> CONTEXT: Map066/events/3/pages/0/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんた、ほんと失礼なやつね。
+> CONTEXT: Map066/events/3/pages/0/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+紅茶ってのは、茶葉が違えばガラリと味が
+変わるものなのよ？
+> CONTEXT: Map066/events/3/pages/0/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャルシャルさん、これってどこの茶葉で
+入れた紅茶ですか？
+> CONTEXT: Map066/events/3/pages/0/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えっとですね、これは・・・
+> CONTEXT: Map066/events/3/pages/0/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ごご、ご、ごめんなさい！　これ、徳用で買った
+普通の紅茶でした！
+> CONTEXT: Map066/events/3/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すすす、すぐ煎れ直しますっ！！
+> CONTEXT: Map066/events/3/pages/0/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さて2人とも。　何か言う事は？
+> CONTEXT: Map066/events/3/pages/0/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こ・・・このたびは大変、
+> CONTEXT: Map066/events/3/pages/0/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+申し訳ありませんでした・・・
+> CONTEXT: Map066/events/3/pages/0/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これは・・・確かにうまいな。
+> CONTEXT: Map066/events/3/pages/0/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+紅茶を口に入れた瞬間は品のある渋みが
+楽しめ、飲んだ後は口内に残る茶葉独特の
+香りが心地よい余韻を残す。
+> CONTEXT: Map066/events/3/pages/0/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サオトメさん、分かるかたですね！
+> CONTEXT: Map066/events/3/pages/0/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この茶葉、10年に一度だけ採取できるっていう
+すごく貴重なものなんですよ！
+> CONTEXT: Map066/events/3/pages/0/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゅ、10年に一度だけ！？
+> CONTEXT: Map066/events/3/pages/0/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひえー・・・
+> CONTEXT: Map066/events/3/pages/0/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんなにいい品を頂けるなんて・・・なんか、
+すみません・・・！
+> CONTEXT: Map066/events/3/pages/0/170/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いえ！　もらいものですし、まだいっぱい
+ありますから気にしないでください！
+> CONTEXT: Map066/events/3/pages/0/174/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さて、長居をしてしまったが、我々はそろそろ
+出発しなければならない。
+> CONTEXT: Map066/events/3/pages/0/184/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これで失礼する。
+> CONTEXT: Map066/events/3/pages/0/186/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうですか・・・お忙しいんですね。
+> CONTEXT: Map066/events/3/pages/0/190/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いやいやー、別に急ぎの用があるわけじゃ
+ないんですけど・・・
+> CONTEXT: Map066/events/3/pages/0/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたしたち、これからユーリャ教会で
+加護の儀式っていうのを受けに行くんです。
+> CONTEXT: Map066/events/3/pages/0/198/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え？　あの加護の儀式をですか・・・！？
+> CONTEXT: Map066/events/3/pages/0/203/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+みなさん、すごい方たちだったんですね・・・！
+> CONTEXT: Map066/events/3/pages/0/204/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、そんなに特別な儀式なんですか？
+> CONTEXT: Map066/events/3/pages/0/208/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そう・・・ですね。
+> CONTEXT: Map066/events/3/pages/0/212/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+私の知ってる限りでは、例えば砂漠で
+行き倒れた旅人を救い続けている
+デザートレンジャーだったり、
+> CONTEXT: Map066/events/3/pages/0/213/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+捨てられそうなペットを何匹も引き取って
+育てているボランティアのおじいさんだったり
+・・・
+> CONTEXT: Map066/events/3/pages/0/216/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そういった人たちを讃えて、神様の加護のもとに
+一層の善行に励みなさいという意味を込めて
+行う儀式なんですよ。
+> CONTEXT: Map066/events/3/pages/0/222/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（け・・・結構ハードル高いんだね・・・）
+> CONTEXT: Map066/events/3/pages/0/228/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（あたしなんかが受けて大丈夫かしら、その
+儀式・・・）
+> CONTEXT: Map066/events/3/pages/0/231/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+逆に考えるんだ。
+> CONTEXT: Map066/events/3/pages/0/236/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+俺たちはその儀式を受けることにより、加護に
+値するだけの生き方をこれからの人生の中で
+模索しながら日々を過ごせばいい。
+> CONTEXT: Map066/events/3/pages/0/237/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+人として、自身をより高めるために加護の
+儀式を受けるのだと。
+> CONTEXT: Map066/events/3/pages/0/240/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+にゃんこ、レグマくんがまぶしすぎるよ・・・っ！
+> CONTEXT: Map066/events/3/pages/0/244/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+い、言う時は言うじゃないの・・・
+> CONTEXT: Map066/events/3/pages/0/248/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャルシャル、すまないが道を尋ねたい。
+> CONTEXT: Map066/events/3/pages/0/252/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここからユーリャ教会までは、どう行けばいい？
+> CONTEXT: Map066/events/3/pages/0/253/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+町の東に出口がありますから、そこから東の
+公道に出ればすぐに着きますよ。
+> CONTEXT: Map066/events/3/pages/0/257/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうか。　近くて助かる。　さっそく出発すると
+しよう。
+> CONTEXT: Map066/events/3/pages/0/262/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うまい紅茶だった。　感謝する。
+> CONTEXT: Map066/events/3/pages/0/264/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こちらこそ、お届物ありがとうございました。
+> CONTEXT: Map066/events/3/pages/0/267/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+また来てくださいね。
+> CONTEXT: Map066/events/3/pages/0/268/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さてと、オシル湖までお洗濯用の水を汲みに
+行かなくちゃ・・・
+> CONTEXT: Map066/events/3/pages/0/308/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、紅茶・・・作りすぎちゃったな・・・
+> CONTEXT: Map066/events/3/pages/0/313/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+冷めるともったいないし、水汲みに行く前に
+全部飲んじゃおっと。
+> CONTEXT: Map066/events/3/pages/0/317/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+本当にありがとうございました。
+> CONTEXT: Map066/events/9/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+みなさんには、何とお礼を言っていいか・・・
+> CONTEXT: Map066/events/9/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+困った時はお互い様ですよ～。
+> CONTEXT: Map066/events/9/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャルシャルさんが無事で何よりです。
+> CONTEXT: Map066/events/9/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも、ちょっと楽しかったよね♪
+> CONTEXT: Map066/events/9/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+君は日常生活に戻り、平穏な日々を過ごせば
+それでいい。
+> CONTEXT: Map066/events/9/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+君にはその権利がある。
+> CONTEXT: Map066/events/9/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サオトメさん・・・
+> CONTEXT: Map066/events/9/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+分かりました。　でも、もう一度だけ言わせて
+ください。
+> CONTEXT: Map066/events/9/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+みなさん本当に・・・
+本当にありがとうございました！
+> CONTEXT: Map066/events/9/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さあさあ！　それではお城へレッツゴー！！！
+> CONTEXT: Map066/events/9/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょっと、まだ行くって決まってないでしょ？
+> CONTEXT: Map066/events/9/pages/0/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えーー！？　行こうよ行こうよーー！！
+> CONTEXT: Map066/events/9/pages/0/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+絶対楽しいよーーー！！！
+> CONTEXT: Map066/events/9/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうだよにゃんこ！　お城って、あのスゴイ
+お城だよ！？
+> CONTEXT: Map066/events/9/pages/0/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+王女様とか、お姫様とか、あとシンデレラや
+プリンセスもいるよ！？
+> CONTEXT: Map066/events/9/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それ全部王女じゃないの！
+> CONTEXT: Map066/events/9/pages/0/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+観光目的で行きたいのなら、その考えは
+浅はかであると言わざるを得ない。
+> CONTEXT: Map066/events/9/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+城は一国の最重要拠点だ。　安易な考えで
+踏み込もうものなら、たちまち不敬罪に問われ
+永遠の監獄生活を余儀なくされるだろう。
+> CONTEXT: Map066/events/9/pages/0/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えー？　あたしたちって、熾天少女でしょ？
+> CONTEXT: Map066/events/9/pages/0/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんな扱い受けるわけないじゃん！
+> CONTEXT: Map066/events/9/pages/0/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大丈夫だよレグマくん。
+> CONTEXT: Map066/events/9/pages/0/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長の人もいい人だし、きっと大丈夫！
+なんかもう、いろいろ大丈夫！
+> CONTEXT: Map066/events/9/pages/0/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・どうする？　早乙女。
+> CONTEXT: Map066/events/9/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・そこまで熱望するのであれば、致し方ない。
+> CONTEXT: Map066/events/9/pages/0/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+行くだけ行ってみるとしよう。
+> CONTEXT: Map066/events/9/pages/0/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やったぁー！！
+> CONTEXT: Map066/events/9/pages/0/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+早乙女くん、愛してるぅ！！
+> CONTEXT: Map066/events/9/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょちょ、ちょっと！　か、軽々しくそういうこと
+言わないのっ！！
+> CONTEXT: Map066/events/9/pages/0/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よっし！！　それじゃあさっそくお城へ行こ！！
+> CONTEXT: Map066/events/9/pages/0/123/Dialogue < UNTRANSLATED
+
+> END STRING

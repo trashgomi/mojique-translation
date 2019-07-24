@@ -1,0 +1,78 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+（狭い通路で、あの2人組を避けて通るのは
+　無理かな・・・）
+> CONTEXT: Map469/events/4/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ルミィさんどこにいるのか分からないし、今は
+　行けるところから行ってみよう・・・）
+> CONTEXT: Map469/events/4/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（び、びっくりした・・・）
+> CONTEXT: Map469/events/4/pages/1/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（なんとかバレずに済んだみたいだけど・・・）
+> CONTEXT: Map469/events/4/pages/1/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（さ・・・さ、さ・・・触られちゃった・・・お、男の
+　人に・・・っ///////）
+> CONTEXT: Map469/events/4/pages/1/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ううう・・・/////）
+> CONTEXT: Map469/events/4/pages/1/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（でも、今は・・・救出することに集中しなきゃ・・・）
+> CONTEXT: Map469/events/4/pages/1/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（あの2人組もいなくなってるし、今のうちに
+　進まないと・・・！）
+> CONTEXT: Map469/events/4/pages/1/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（びくぅっ！！！）
+> CONTEXT: Map469/events/4/pages/1/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊
+「さーて、メシも食ったことだし、剣でも研いで
+　おくかな～・・・」
+> CONTEXT: Map469/events/4/pages/1/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（どきどきどきどき・・・）
+> CONTEXT: Map469/events/4/pages/1/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ふー・・・）
+> CONTEXT: Map469/events/4/pages/1/112/Dialogue < UNTRANSLATED
+
+> END STRING

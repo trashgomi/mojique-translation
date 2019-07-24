@@ -1,0 +1,31 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+空はこんなに青いのに、心は灰色、暗い色。
+> CONTEXT: Map085/events/23/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お金でも落ちてないかな～っと。
+> CONTEXT: Map085/events/25/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+北に広がる森は、“迷いの森”と呼ばれている。
+> CONTEXT: Map085/events/26/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+理由は・・・聞かなくても分かるだろう？
+> CONTEXT: Map085/events/26/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+素早い魔物って、攻撃を当てるのが大変で
+嫌いよ。
+> CONTEXT: Map085/events/27/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

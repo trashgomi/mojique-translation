@@ -1,0 +1,13 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+今日みたいな天気のいい日は、オシル湖に
+釣りにでも行きたいものですね・・・
+> CONTEXT: Map231/events/16/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一階は機材とジェネレーターしかありませんよ。
+> CONTEXT: Map231/events/17/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

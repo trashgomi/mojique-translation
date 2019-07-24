@@ -1,0 +1,448 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+危険種族はどこダー！？
+> CONTEXT: Map502/events/4/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ば、ばか！　大声出すんじゃないの！！
+> CONTEXT: Map502/events/4/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+たこやきちゃん、危険種族は危険な種族だから
+むやみに呼び出しちゃダメなんだよ。
+> CONTEXT: Map502/events/4/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ンー？　危険なら退治しちゃえばいいんじゃ
+ないカー？
+> CONTEXT: Map502/events/4/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ええとですね・・・危険種族と言っても、何か
+危害を加えてくるわけではないんですよ。
+> CONTEXT: Map502/events/4/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何か知っているようだな。
+> CONTEXT: Map502/events/4/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+教えてこむちゃん！！
+> CONTEXT: Map502/events/4/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その危険種族の正体ってなんなの！？
+> CONTEXT: Map502/events/4/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+私も直接見たことがあるわけではないので、
+あまり詳しくは言えないのですが、
+> CONTEXT: Map502/events/4/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その種族の名は・・・
+> CONTEXT: Map502/events/4/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+名は・・・？
+> CONTEXT: Map502/events/4/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『ゼリーちゃん』と言います。
+> CONTEXT: Map502/events/4/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う・・・うーん・・・
+> CONTEXT: Map502/events/4/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・うん？　あ、うん・・・
+> CONTEXT: Map502/events/4/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゼリーちゃん・・・
+> CONTEXT: Map502/events/4/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+危険種族・・・なんだよね？
+> CONTEXT: Map502/events/4/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+説明を求める。
+> CONTEXT: Map502/events/4/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聞くところによれば、その姿はこの世のものとは
+思えないほどカワイイそうです。
+> CONTEXT: Map502/events/4/pages/0/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一度見たら最後、とりこになって地面を転げ
+まわって萌えもだえることになり、非常に危険
+だと・・・
+> CONTEXT: Map502/events/4/pages/0/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ええーー！？　危険ってそういうコトーーー！？
+> CONTEXT: Map502/events/4/pages/0/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（む、むしろ見てみたい・・・っ！）
+> CONTEXT: Map502/events/4/pages/0/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+拍子抜けだな。
+> CONTEXT: Map502/events/4/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いくら愛らしいとは言え、そこまで身を構える
+ほどのものでもないだろう。
+> CONTEXT: Map502/events/4/pages/0/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そのへんは、見たことがないので何とも・・・
+> CONTEXT: Map502/events/4/pages/0/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ま、まあ・・・実害が無いならいいんじゃない
+かしら。
+> CONTEXT: Map502/events/4/pages/0/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょっとホッとしたよね。
+> CONTEXT: Map502/events/4/pages/0/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃあ、安心して進もう！
+> CONTEXT: Map502/events/4/pages/0/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+目標は、その種族の集落を抜けた先にある
+バルカド遺跡だ。
+> CONTEXT: Map502/events/4/pages/0/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+出発しよう。
+> CONTEXT: Map502/events/4/pages/0/129/Dialogue < UNTRANSLATED
+> CONTEXT: Map447/events/25/pages/0/230/Dialogue < UNTRANSLATED
+> CONTEXT: Map226/events/9/pages/0/148/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/25/pages/0/230/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+つまんないナー・・・
+> CONTEXT: Map502/events/4/pages/0/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+霧が濃くなってきたね・・・
+> CONTEXT: Map502/events/4/pages/0/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この辺りは気候の影響で、時々深い霧が
+発生するんです。
+> CONTEXT: Map502/events/4/pages/0/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この様子だと、さらに濃くなっていきますね・・・
+> CONTEXT: Map502/events/4/pages/0/168/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+みんな、はぐれないように気をつけて進みま
+しょう。
+> CONTEXT: Map502/events/4/pages/0/172/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+秋空と桐生がいない・・・
+> CONTEXT: Map502/events/4/pages/1/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さっきまで一緒だったのに・・・どこ行っちゃった
+のかしら・・・
+> CONTEXT: Map502/events/4/pages/1/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+きっと向こうも、わたし達のこと探してるんじゃ
+ないかな？
+> CONTEXT: Map502/events/4/pages/1/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あまりヘタに動き回らないほうがいいかも
+しれませんね。
+> CONTEXT: Map502/events/4/pages/1/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも、あの2人も同じように考えて、動かずに
+じっとしてたら、永遠に合流できないヨー？
+> CONTEXT: Map502/events/4/pages/1/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+確かにそれが問題だな。
+> CONTEXT: Map502/events/4/pages/1/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何か、自分の位置を知らせる手段があれば
+いいのだが。
+> CONTEXT: Map502/events/4/pages/1/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ねえ、たこやきちゃんのナントカバイザーで
+2人を探せないかな？
+> CONTEXT: Map502/events/4/pages/1/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ディテクションバイザーだヨー。　いい加減
+覚えるネー。
+> CONTEXT: Map502/events/4/pages/1/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これは視界が届く範囲のモノを解析する
+バイザーだから、離れたものを探したりは
+できないんだナー・・・
+> CONTEXT: Map502/events/4/pages/1/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+仕方がないな。
+> CONTEXT: Map502/events/4/pages/1/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+霧が晴れるまでここで待機するしかなさそうだ。
+> CONTEXT: Map502/events/4/pages/1/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうですね。　1、2時間もすれば、風の影響で
+視界が開けてくると思います。
+> CONTEXT: Map502/events/4/pages/1/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+2人とも無事だといいけど・・・
+> CONTEXT: Map502/events/4/pages/1/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+2人とも無事でよかったわ・・・！
+> CONTEXT: Map502/events/4/pages/2/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大丈夫？　魔物に襲われなかった？
+> CONTEXT: Map502/events/4/pages/2/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う、うん！　特に何も・・・
+> CONTEXT: Map502/events/4/pages/2/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（急いで泉で洗って、まだナマ乾きだけど、
+　バ、バレてなさそう・・・）
+> CONTEXT: Map502/events/4/pages/2/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（なんか、記憶があいまいでよく思い出せない
+　・・・）
+> CONTEXT: Map502/events/4/pages/2/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（迷子になったあと秋空さんと会って、ええと
+　・・・）
+> CONTEXT: Map502/events/4/pages/2/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何事もなくて安心しました。
+> CONTEXT: Map502/events/4/pages/2/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この森には、人間が口にすると体調や精神に
+影響する山菜がいくつかあるんです。
+> CONTEXT: Map502/events/4/pages/2/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+へ、へえ～・・・
+> CONTEXT: Map502/events/4/pages/2/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+例えば、キノコ・・・とか？
+> CONTEXT: Map502/events/4/pages/2/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はい。　鮮やかなオレンジ色のカサが特徴の
+“アルコタケ”が代表格ですね。
+> CONTEXT: Map502/events/4/pages/2/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+食べると理性や判断力がマヒして、酔っぱらった
+かのような状態になってしまいます。
+> CONTEXT: Map502/events/4/pages/2/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、そうなんだ・・・
+> CONTEXT: Map502/events/4/pages/2/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+後遺症とか、そういうの無いよね？　ね？
+> CONTEXT: Map502/events/4/pages/2/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+毒素は時間の経過で完全に分解されますから、
+よほど大量に食べていなければ大丈夫だと
+思いますけど・・・
+> CONTEXT: Map502/events/4/pages/2/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わ、分かった！　勉強になったよこむちゃん！
+> CONTEXT: Map502/events/4/pages/2/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さて、霧が晴れている今のうちに先へ進もう。
+> CONTEXT: Map502/events/4/pages/2/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうだヨー！　油を売ってる場合じゃないネー！
+> CONTEXT: Map502/events/4/pages/2/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フフ！　知ってる？
+> CONTEXT: Map502/events/4/pages/2/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「油を売る」って慣用句、イギリスでも
+「オイルセール」って言うらしいよ！
+> CONTEXT: Map502/events/4/pages/2/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウソ教えんな！
+> CONTEXT: Map502/events/4/pages/2/80/Dialogue < UNTRANSLATED
+
+> END STRING

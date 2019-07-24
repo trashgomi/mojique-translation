@@ -1,0 +1,64 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+教会は初めてですか？
+> CONTEXT: Map075/events/16/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+儀式の間へ行くには、東の通路を進んで
+いただき、2階へどうぞ。
+> CONTEXT: Map075/events/16/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お手洗いでしたら、西の休憩室にある階段を
+降りれば、すぐですよ。
+> CONTEXT: Map075/events/16/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Zzz・・・
+> CONTEXT: Map075/events/17/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうか家内安全、無病息災、大願成就に
+七転び八起き・・・ﾌﾞﾂﾌﾞﾂ
+> CONTEXT: Map075/events/18/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+将来、安産できますように・・・
+> CONTEXT: Map075/events/19/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+下の階にどえらい数の本が格納されてるのよ。
+> CONTEXT: Map075/events/20/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+勉強熱心な人は、毎日通ってるらしいわ。
+> CONTEXT: Map075/events/20/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+祈るのです。　そして感謝しましょう。
+> CONTEXT: Map075/events/21/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+調理中にヤケドした時は、ここでお祈りを
+すると早く治る気がするんですよ。
+> CONTEXT: Map075/events/22/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

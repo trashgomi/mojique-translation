@@ -1,0 +1,128 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+食堂のおばちゃん
+「それじゃ、手順を説明しますので聞いて
+　ください。」
+> CONTEXT: Map327/events/10/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（う～・・・緊張してきた・・・）
+> CONTEXT: Map327/events/10/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+食堂のおばちゃん
+「基本的には、桐生さんにはお客さんの注文を
+　取っていただく仕事をお願いします。」
+> CONTEXT: Map327/events/10/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+食堂のおばちゃん
+「メニュー数はそれほど多くないので、すぐに
+　覚えられると思います。　そこは心配しないで
+　ください。」
+> CONTEXT: Map327/events/10/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ケーキ屋とは違って、ここは暑いなぁ・・・）
+> CONTEXT: Map327/events/10/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+食堂のおばちゃん
+「ラッシュが始まると2時間は動きっぱなしに
+　なりますので、事前に必ずトイレを済ませて
+　おいてください。」
+> CONTEXT: Map327/events/10/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（そういえば、新商品のボトルケーキの
+　デザインを私が担当したこともあったっけ
+　・・・）
+> CONTEXT: Map327/events/10/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+食堂のおばちゃん
+「それと、厨房はとっても暑くなりますので、棚に
+　あるお水をコップ一杯飲んでください。　水分を
+　摂っておかないと熱中症になります。」
+> CONTEXT: Map327/events/10/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+食堂のおばちゃん
+「ええと・・・き、聞いてます？」
+> CONTEXT: Map327/events/10/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、は、はい！　すみません！
+> CONTEXT: Map327/events/10/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+た、棚のお水を飲んでおくんですよね！
+大丈夫です！
+> CONTEXT: Map327/events/10/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+食堂のおばちゃん
+「それじゃ、私は厨房に入りますので、何か
+　分からないことがあったら呼んでくださいね。」
+> CONTEXT: Map327/events/10/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+分かりました、よろしくお願いします！
+> CONTEXT: Map327/events/10/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えっと・・・始まる前に棚のお水・・・
+> CONTEXT: Map327/events/10/pages/0/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+確か、ボトルを一本・・・だったかな・・・
+> CONTEXT: Map327/events/10/pages/0/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うわ・・・けっこう量があるけど、決まりだもんね
+・・・がんばって飲まなきゃ・・・
+> CONTEXT: Map327/events/10/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・ぷはぁっ！
+> CONTEXT: Map327/events/10/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こ、これでよし・・・
+> CONTEXT: Map327/events/10/pages/0/95/Dialogue < UNTRANSLATED
+
+> END STRING

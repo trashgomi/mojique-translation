@@ -1,0 +1,116 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ここがバルカド遺跡で間違いないな？
+> CONTEXT: Map514/events/26/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここのどこかに、目的の魔物がいるはずです。
+> CONTEXT: Map514/events/26/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ええと・・・何だっけ？
+> CONTEXT: Map514/events/26/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+確か・・・ロング・・・いや、違うな。
+> CONTEXT: Map514/events/26/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ローグ・・・レーグ？　レグアイス？　あれ？
+> CONTEXT: Map514/events/26/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+“レリグ・イアス”と記憶している。
+> CONTEXT: Map514/events/26/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あーー！！　今言おうと思ってたのにーーっ！！
+> CONTEXT: Map514/events/26/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そいつの鱗粉が必要なのよね。
+> CONTEXT: Map514/events/26/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃあ、ガンガン進んで強奪するヨー！！
+> CONTEXT: Map514/events/26/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騒ぎすぎると魔物が寄ってきちゃいますよ・・・！
+> CONTEXT: Map514/events/26/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ンー、ごめんナー・・・
+> CONTEXT: Map514/events/26/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+問題は、レリグ・イアスが非常に警戒心が
+強い魔物だということです。
+> CONTEXT: Map514/events/26/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+簡単には見つからないかもしれません。
+> CONTEXT: Map514/events/26/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃ、見つかるまで探すまでだよ！
+> CONTEXT: Map514/events/26/pages/0/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうだな。　まずは片っぱしから探索すると
+しよう。　行くぞ。
+> CONTEXT: Map514/events/26/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+い・・・いたーーーー！！
+> CONTEXT: Map514/events/26/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え！？　あのでっかい蛾みたいなのが！？
+> CONTEXT: Map514/events/26/pages/0/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+逃げられちゃったわね・・・
+> CONTEXT: Map514/events/26/pages/0/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+追いましょう！
+> CONTEXT: Map514/events/26/pages/0/132/Dialogue < UNTRANSLATED
+
+> END STRING

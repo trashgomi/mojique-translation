@@ -1,0 +1,331 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+し、し、四天王が・・・全員やられちゃったぞ・・・
+> CONTEXT: Map619/events/1/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうすればいいの・・・っ！？
+> CONTEXT: Map619/events/1/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+熾天少女・・・
+> CONTEXT: Map619/events/1/pages/1/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やはり今回も、一筋縄ではいかない相手の
+ようですね・・・
+> CONTEXT: Map619/events/1/pages/1/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えへ！　えへ！　困ったねー！　えへへへ！！
+> CONTEXT: Map619/events/1/pages/1/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この状況で高飛車女や熾天少女に
+攻め込まれたら・・・
+> CONTEXT: Map619/events/1/pages/1/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+や、やばいんじゃないかっ！？
+> CONTEXT: Map619/events/1/pages/1/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+私もブロンシュも、だいぶ回復してきましたが、
+まだ本調子ではありません。
+> CONTEXT: Map619/events/1/pages/1/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦いになれば、不利であることは明白でしょう。
+> CONTEXT: Map619/events/1/pages/1/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それに、どうやらまた新たな敵が登場した
+ようですよ。
+> CONTEXT: Map619/events/1/pages/1/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えっ！？　誰っ！？　どこっ！？
+> CONTEXT: Map619/events/1/pages/1/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あの白い髪の人でしょー？　えへ！　あの人も
+カラットっていう名前なんだって！　えへへへ！
+> CONTEXT: Map619/events/1/pages/1/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+怪しげな薬によって、通常の人間では
+操りえない膨大な魔力を身につけたとの
+ことです。
+> CONTEXT: Map619/events/1/pages/1/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+また、青カラット一味も彼女の研究に協力し、
+その対価として魔力増幅薬を手に入れていた
+ようですね。
+> CONTEXT: Map619/events/1/pages/1/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あわわわわ・・・
+> CONTEXT: Map619/events/1/pages/1/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃ、じゃあ・・・青カラットと白カラットのタッグが
+攻めてくる可能性は・・・
+> CONTEXT: Map619/events/1/pages/1/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+十分ありえます。
+> CONTEXT: Map619/events/1/pages/1/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひいいいいっ！！　も、もうおしまいだあぁっ！
+> CONTEXT: Map619/events/1/pages/1/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えへへ！　とっても厳しい状況だね！　えへ！
+> CONTEXT: Map619/events/1/pages/1/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴィ、ヴィスティ・・・？
+> CONTEXT: Map619/events/1/pages/1/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうしたのだ、急に黙り込んで・・・
+> CONTEXT: Map619/events/1/pages/1/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+致し方ありません。　状況が状況です。
+> CONTEXT: Map619/events/1/pages/1/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+“禁忌”を・・・使いましょう。
+> CONTEXT: Map619/events/1/pages/1/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えへ・・・！　禁忌って・・・アレのこと？
+> CONTEXT: Map619/events/1/pages/1/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・！！！！
+> CONTEXT: Map619/events/1/pages/1/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お、おい、ヴィスティ！　まさか・・・まさか・・・！！
+> CONTEXT: Map619/events/1/pages/1/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+“禁忌の種族”・・・死神を雇うのです。
+> CONTEXT: Map619/events/1/pages/1/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴィスティ！！　ほ、本気で言ってるのか！？
+> CONTEXT: Map619/events/1/pages/1/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+“禁忌”は、禁忌だから禁忌なんだよ？
+> CONTEXT: Map619/events/1/pages/1/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えへ！　わたしはお勧めしないなー！　えへ！
+> CONTEXT: Map619/events/1/pages/1/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+彼らにまつわる嗜虐性、世間からの誹謗、
+そして危険性・・・
+> CONTEXT: Map619/events/1/pages/1/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すべて分かっています。
+> CONTEXT: Map619/events/1/pages/1/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし、現状を打破するには・・・
+> CONTEXT: Map619/events/1/pages/1/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いいえ。　カラット様をお護りするためには、
+もはやそれ以外に手段はありません。
+> CONTEXT: Map619/events/1/pages/1/136/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+で、でも・・・だって・・・
+> CONTEXT: Map619/events/1/pages/1/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神だぞ・・・？
+> CONTEXT: Map619/events/1/pages/1/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+連れて来て、言うことを聞かせられるのか・・・？
+> CONTEXT: Map619/events/1/pages/1/143/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それは分かりませんが・・・
+> CONTEXT: Map619/events/1/pages/1/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+できない、とも言い切れません。
+> CONTEXT: Map619/events/1/pages/1/147/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご安心ください、カラット様。　手配はすべて
+私がやります。
+> CONTEXT: Map619/events/1/pages/1/152/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そして万が一失敗した場合、すみやかに手を
+引くことを誓います。
+> CONTEXT: Map619/events/1/pages/1/154/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+私にやらせていただけませんか・・・？
+> CONTEXT: Map619/events/1/pages/1/156/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えへへ！　いくらヴィスティちゃんでも、相手が
+死神じゃ心配だよー！　えへ！　えへ！
+> CONTEXT: Map619/events/1/pages/1/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わたしも一緒に行こうかー？　えへへへへ！
+> CONTEXT: Map619/events/1/pages/1/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あなたが私に同行してしまったら、カラット様を
+お護りできる者がいなくなってしまいます。
+> CONTEXT: Map619/events/1/pages/1/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブロンシュはここに残ってください。　魔界へは、
+私ひとりで行きます。
+> CONTEXT: Map619/events/1/pages/1/168/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも・・・
+> CONTEXT: Map619/events/1/pages/1/173/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それに、一口に死神と言っても個体差は
+様々でしょう。
+> CONTEXT: Map619/events/1/pages/1/178/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+中には、話の通じる者もいるはずです。
+> CONTEXT: Map619/events/1/pages/1/180/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そして、もし可能であれば、3体持ちを
+見つけてきましょう。
+> CONTEXT: Map619/events/1/pages/1/181/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうか私を・・・信じて待っていてください。
+> CONTEXT: Map619/events/1/pages/1/184/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+行ってきます。
+> CONTEXT: Map619/events/1/pages/1/185/Dialogue < UNTRANSLATED
+
+> END STRING

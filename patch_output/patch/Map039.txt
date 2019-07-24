@@ -1,0 +1,168 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ダーブ洞窟
+
+　　～危険につき立ち入り注意～
+> CONTEXT: Map039/events/1/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+↑：マハイ山・ジャクラの森
+→：ダーブ洞窟
+↓：港町ザザーブ・ドノ村・サンライズ大橋
+> CONTEXT: Map039/events/7/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+複数の敵を相手にする時は、倒すべき相手に
+優先順位を付けるのがコツだよ。
+> CONTEXT: Map039/events/8/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+厄介な相手は、素早く倒すってことさ。
+> CONTEXT: Map039/events/8/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この辺りにも、たまに盗賊団が出るらしいわ。
+気をつけないと・・・
+> CONTEXT: Map039/events/9/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊団が壊滅したって本当！？
+> CONTEXT: Map039/events/9/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+旅に飲料水は欠かせないよ。　ちゃんと持った
+かい？
+> CONTEXT: Map039/events/10/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵のネームウィンドウには、その敵の名前だけ
+じゃなく、弱点属性も表示されるよ。
+> CONTEXT: Map039/events/11/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ま、こっちが属性付きのスキルを使えなければ
+気にする必要なんてないけどね。
+> CONTEXT: Map039/events/11/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦闘中にHPがゼロになると気絶しちゃうけど、
+戦闘が終了すれば、HP1の状態で復活できる
+らしいよ。
+> CONTEXT: Map039/events/15/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダンジョンで迷わないようにするコツを
+教えてあげようか？
+> CONTEXT: Map039/events/16/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/16/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+コツその1！　地面をよく見よ！
+> CONTEXT: Map039/events/16/pages/0/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/16/pages/1/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どういうことかって？　簡単さ。
+> CONTEXT: Map039/events/16/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/16/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+人が歩けば地面が削れたり、草が踏み倒され
+たりする。　つまり、人の往来がある道は
+地面に何らかの痕跡があるってことだよ。
+> CONTEXT: Map039/events/16/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/16/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+地面をよーく見れば、そのダンジョンを
+最短距離で踏破できるんだよ。
+> CONTEXT: Map039/events/16/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/16/pages/1/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+コツその2！　特殊アイテムを活用せよ！
+> CONTEXT: Map039/events/16/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/16/pages/1/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この世界には【もっどーれ↓】っていう不思議な
+アイテムがあるんだ。
+> CONTEXT: Map039/events/16/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/16/pages/1/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これをダンジョンで使えば、あっという間に
+入口までワープできるんだよ。
+> CONTEXT: Map039/events/16/pages/0/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/16/pages/1/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぜひ1つは持ち歩きたい一品だね。
+> CONTEXT: Map039/events/16/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/16/pages/1/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょうどそこの道具屋さんで売ってるから
+このお金で買ってみなよ。サービスだよ！
+> CONTEXT: Map039/events/16/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+20レンをもらった！
+> CONTEXT: Map039/events/16/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まあそんなわけで、ダンジョンで迷わないように
+いろいろ考えて進んでみるといいよ！
+> CONTEXT: Map039/events/16/pages/0/23/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/16/pages/1/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、そう・・・
+> CONTEXT: Map039/events/16/pages/0/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/16/pages/1/22/Dialogue < UNTRANSLATED
+
+> END STRING

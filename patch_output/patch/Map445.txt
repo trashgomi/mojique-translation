@@ -1,0 +1,46 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+開かない。　特殊なロックが掛かっているようだ。
+> CONTEXT: Map445/events/7/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+上に何かを乗せることができそうだ。
+> CONTEXT: Map445/events/8/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map445/events/11/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map445/events/13/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【伯爵の胸像】を乗せますか？
+> CONTEXT: Map445/events/8/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map445/events/11/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map445/events/13/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+乗せるさ
+> CONTEXT: Map445/events/8/pages/0/4/Choice/0 < UNTRANSLATED
+> CONTEXT: Map445/events/11/pages/0/4/Choice/0 < UNTRANSLATED
+> CONTEXT: Map445/events/13/pages/0/4/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だが乗せない
+> CONTEXT: Map445/events/8/pages/0/4/Choice/1 < UNTRANSLATED
+> CONTEXT: Map445/events/11/pages/0/4/Choice/1 < UNTRANSLATED
+> CONTEXT: Map445/events/13/pages/0/4/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だめです。　乗せます。
+> CONTEXT: Map445/events/8/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map445/events/11/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map445/events/13/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING

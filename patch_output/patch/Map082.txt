@@ -1,0 +1,270 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+神官
+「ようこそ、神聖なる儀式の間へ。」
+> CONTEXT: Map082/events/4/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「ここは、日々の善行を認められた正しき
+　心の持ち主が、神の加護をその身に受ける
+　ことができる場所です。」
+> CONTEXT: Map082/events/4/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「神の加護を受け、魂を祝福し、そしてさらなる
+　清き心とともに一層の善き行いを心がける
+　のです。」
+> CONTEXT: Map082/events/4/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+い・・・いよいよだね。（どきどき）
+> CONTEXT: Map082/events/4/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はむこ、私語はダメよ・・・！
+> CONTEXT: Map082/events/4/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、そういうにゃんこだって今しゃべったじゃん。
+> CONTEXT: Map082/events/4/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんたを注意するために仕方なくよ・・・！
+> CONTEXT: Map082/events/4/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんたがしゃべんなければ、あたしだって
+声出さないわよ・・・！
+> CONTEXT: Map082/events/4/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+にゃんこの方がしゃべった文字数多いよ？
+> CONTEXT: Map082/events/4/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だ、だからこれは・・・っ！
+> CONTEXT: Map082/events/4/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こほん。
+> CONTEXT: Map082/events/4/pages/0/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「こほん。」
+> CONTEXT: Map082/events/4/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こ・・・こほん。
+> CONTEXT: Map082/events/4/pages/0/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「さて、それでは儀式を始めましょう。」
+> CONTEXT: Map082/events/4/pages/0/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「肩の力を抜いて、気持ちを楽にしてください。」
+> CONTEXT: Map082/events/4/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「はい。　そのまま心静かに・・・」
+> CONTEXT: Map082/events/4/pages/0/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「刻流れ、命泉満つる。」
+> CONTEXT: Map082/events/4/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「光注ぎ、楽幸の地を献ず。」
+> CONTEXT: Map082/events/4/pages/0/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「荘厳たる啓示の御元、あまたの人の子に
+　英智と善の奏功を。」
+> CONTEXT: Map082/events/4/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「その慈悲と。　その敢為と。　その祝福と。」
+> CONTEXT: Map082/events/4/pages/0/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「・・・！？　これは・・・！」
+> CONTEXT: Map082/events/4/pages/0/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+な、なんだろ。　何か様子がヘンじゃない・・・？
+> CONTEXT: Map082/events/4/pages/0/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+変な感じ・・・
+> CONTEXT: Map082/events/4/pages/0/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+暖かいような、寒いような・・・
+> CONTEXT: Map082/events/4/pages/0/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+時が来ました。
+> CONTEXT: Map082/events/4/pages/0/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+邪なる意識が、永き眠りから目覚める時が。
+> CONTEXT: Map082/events/4/pages/0/136/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+い、今何か聞こえた・・・？
+> CONTEXT: Map082/events/4/pages/0/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ああ。　確かに女の声がした。
+> CONTEXT: Map082/events/4/pages/0/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+黒閻の右将。
+> CONTEXT: Map082/events/4/pages/0/154/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白銀の左帥。
+> CONTEXT: Map082/events/4/pages/0/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そして煉絶の姫君。
+> CONTEXT: Map082/events/4/pages/0/156/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+世の理を滅す者たちが、動きだそうとして
+います。
+> CONTEXT: Map082/events/4/pages/0/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なによ、これ・・・！
+> CONTEXT: Map082/events/4/pages/0/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+誰かの・・・いたずら？
+> CONTEXT: Map082/events/4/pages/0/167/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「この声は・・・もしや・・・！」
+> CONTEXT: Map082/events/4/pages/0/169/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+立ち向かうのです。
+熾天少女（してんしょうじょ）たち。
+> CONTEXT: Map082/events/4/pages/0/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そして守護するのです。　大地に生ける者たち
+を。
+> CONTEXT: Map082/events/4/pages/0/177/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+立ち向かうのです。
+> CONTEXT: Map082/events/4/pages/0/179/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戻った・・・かな？
+> CONTEXT: Map082/events/4/pages/0/190/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今のはいったい・・・
+> CONTEXT: Map082/events/4/pages/0/194/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「あなた方、少し時間を取らせていただいても
+　いいですか？」
+> CONTEXT: Map082/events/4/pages/0/205/Dialogue < UNTRANSLATED
+
+> END STRING

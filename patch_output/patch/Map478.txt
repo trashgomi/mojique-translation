@@ -1,0 +1,112 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+（何かのメモ？）
+> CONTEXT: Map478/events/1/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ルミィさんがいる場所の手掛かりとか、書いて
+　ないかな・・・）
+> CONTEXT: Map478/events/1/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『盗賊日記』
+> CONTEXT: Map478/events/1/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『プリエラのあねさんを失ってからは、俺ら
+　盗賊団は散り散りになっちまった。』
+> CONTEXT: Map478/events/1/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『だが、あの館長に従ってさえいれば、体に
+　魔力をまとう薬が引き続き手に入る。』
+> CONTEXT: Map478/events/1/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『楽な警備に就いているだけで、城の騎士団を
+　蹴散らせるくらいの力が得られるんだ。』
+> CONTEXT: Map478/events/1/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『俺たちは勝ち組に違いない。』
+> CONTEXT: Map478/events/1/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（盗賊の世渡りについては勉強になったけど、
+　時間の無駄だったみたい・・・）
+> CONTEXT: Map478/events/1/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ぷるる・・・っ）
+> CONTEXT: Map478/events/1/pages/0/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map267/events/7/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（うぅ・・・お、お手洗い・・・行きたい・・・）
+> CONTEXT: Map478/events/1/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（でも、ルミィさんを助け出すまでは、我慢
+　しないと・・・！）
+> CONTEXT: Map478/events/1/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（行き止まり・・・戻らなくちゃ・・・）
+> CONTEXT: Map478/events/1/pages/0/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（さっきの2人組、もういなくなったかな・・・？）
+> CONTEXT: Map478/events/1/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（っっっっっ！！！！）
+> CONTEXT: Map478/events/1/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊
+「うわわわっ！！　な、なんだ！？！？」
+> CONTEXT: Map478/events/1/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊
+「い、今、何か柔らかくてあたたかいモノが
+　俺の胸に・・・！！！」
+> CONTEXT: Map478/events/1/pages/0/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（い・・・いやああああぁぁぁっ！！！）
+> CONTEXT: Map478/events/1/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING

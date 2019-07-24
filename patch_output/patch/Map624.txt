@@ -1,0 +1,95 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+うう・・・
+> CONTEXT: Map624/events/1/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map494/events/6/pages/1/223/Dialogue < UNTRANSLATED
+> CONTEXT: Map405/events/10/pages/0/278/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/35/pages/0/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わたくし達、これからどうしたら・・・
+> CONTEXT: Map624/events/1/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白カラットには、どうあがいても
+かなわないね。
+> CONTEXT: Map624/events/1/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+新型魔力増幅薬は、あきらめよう・・・
+> CONTEXT: Map624/events/1/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そう・・・ですわね。
+> CONTEXT: Map624/events/1/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんなの、デタラメですわ・・・
+> CONTEXT: Map624/events/1/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+姉さん、前に飲んだ試作型の薬は、まだ
+効いてる？
+> CONTEXT: Map624/events/1/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ええ。　まだ、あと一戦分くらいの効果なら
+ありますわ。
+> CONTEXT: Map624/events/1/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃあさ、もう人間界の征服はあきらめて、
+赤カラットをやっつけに行かない？
+> CONTEXT: Map624/events/1/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+四天王は熾天少女が全滅させたらしいから、
+向こうは当初のヴィスティとブロンシュが
+最大戦力でしょ？
+> CONTEXT: Map624/events/1/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+最後に一矢報いに行こうよ。
+> CONTEXT: Map624/events/1/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうですわね・・・！
+> CONTEXT: Map624/events/1/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+力はほとんど互角ですから、全力で挑めば
+勝てないこともありませんわ！
+> CONTEXT: Map624/events/1/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あのちんちくりんの小娘どもに、目にものを
+見せて差し上げましょう！！
+> CONTEXT: Map624/events/1/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING

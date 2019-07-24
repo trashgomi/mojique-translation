@@ -1,0 +1,90 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+最近まで平和だったせいか、盗賊団や魔物の
+対処に四苦八苦してるんですよ。
+> CONTEXT: Map064/events/32/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+俗に言う“平和ボケ”ってやつです。
+> CONTEXT: Map064/events/32/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やあ、お若いの。　ちょうど話し相手が
+ほしかったところじゃ。
+> CONTEXT: Map064/events/33/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んお？　忙しいとな。　では仕方あるまい。
+気を付けて過ごされよ。
+> CONTEXT: Map064/events/33/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ホテルの質は、お手洗いの清潔状態を
+保てるかどうかで決まると言っても過言じゃ
+ない。
+> CONTEXT: Map064/events/34/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その道理はわかるんだけど、あんまり頻繁に
+お掃除されても、使いたい時に使えないんじゃ
+困っちゃう。
+> CONTEXT: Map064/events/34/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょ、ちょっと！　いきなり人の部屋に入って
+こないでよッ！
+> CONTEXT: Map064/events/35/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここのお料理って最高なんです。
+まさに一流シェフの味ですね。
+> CONTEXT: Map064/events/36/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いやー疲れた。　トロッコが無いと山を越える
+のも一苦労ですなあ。
+> CONTEXT: Map064/events/37/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+飲み過ぎてお腹がタポタポの時は、たくさん
+運動して汗をかこう！
+> CONTEXT: Map064/events/38/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はい！　“AC”の値が大きいスキルを多用だ！
+> CONTEXT: Map064/events/38/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひっくしょん！
+> CONTEXT: Map064/events/39/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご、ごめんなさい。　オッシー見たさのあまり
+流行り風邪が治らないうちに出てきちゃって・・・
+> CONTEXT: Map064/events/39/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING

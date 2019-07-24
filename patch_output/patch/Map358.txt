@@ -1,0 +1,357 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+神官
+「皆様、ご足労いただきありがとうございます。」
+> CONTEXT: Map358/events/14/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さっそく、“ヒトならざる仲間”の話を聞きに
+来ました！！
+> CONTEXT: Map358/events/14/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お話、よろしいですか？
+> CONTEXT: Map358/events/14/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「ええ、もちろんです。」
+> CONTEXT: Map358/events/14/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「皆様が煉絶の姫君たちと奮闘している間、
+　私なりに古い文献をあたって情報を集めて
+　いたのですが、」
+> CONTEXT: Map358/events/14/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「多くの伝承において、先代の熾天少女が
+　単身で敵の軍勢と闘いを繰り広げている
+　描写しかありませんでした。」
+> CONTEXT: Map358/events/14/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「しかし、とある由緒正しい文献によると、
+　どうやら彼女には信頼できる力強い仲間が
+　いたとのことなのです。」
+> CONTEXT: Map358/events/14/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも、それって別の熾天少女でもなければ
+人間でもないんですよね・・・？
+> CONTEXT: Map358/events/14/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「そのとおりです。」
+> CONTEXT: Map358/events/14/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「その仲間は、この世界に住まう精霊たちの
+　長、」
+> CONTEXT: Map358/events/14/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「“精霊王”と呼ばれていたそうです。」
+> CONTEXT: Map358/events/14/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精霊王！？　なんかすごそう！！！
+> CONTEXT: Map358/events/14/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精霊王！YES！！　精霊王！！YESッ！！
+> CONTEXT: Map358/events/14/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+落ちつけ。
+> CONTEXT: Map358/events/14/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すまない。
+> CONTEXT: Map358/events/14/pages/0/55/Dialogue < UNTRANSLATED
+> CONTEXT: Map127/events/4/pages/3/323/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「そ、それで、その精霊王とは・・・」
+> CONTEXT: Map358/events/14/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「ええ。　精霊王についてさらに調査したの
+　ですが、あまり詳細に記述されておらず・・・」
+> CONTEXT: Map358/events/14/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「大陸南部にある“蜃気楼の谷”での眠りから
+　覚め、熾天少女に協力した、ということしか
+　分かっていません。」
+> CONTEXT: Map358/events/14/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大陸南部に、精霊王が・・・
+> CONTEXT: Map358/events/14/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今も存在するのか？
+> CONTEXT: Map358/events/14/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「煉絶の姫君を破った後、精霊王は再び南の
+　地で眠りについた、と残されています。」
+> CONTEXT: Map358/events/14/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「記述が正しければ、今も蜃気楼の谷に
+　精霊王が存在する可能性はあるでしょう。」
+> CONTEXT: Map358/events/14/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レグマくん！！　これはもちろん行くっきゃ
+ないよね！！　ね！？
+> CONTEXT: Map358/events/14/pages/0/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+味方が増えるのはうれしいです・・・
+> CONTEXT: Map358/events/14/pages/0/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+探す価値はありそうだ。
+> CONTEXT: Map358/events/14/pages/0/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「騎士団長殿から話は聞きました。」
+> CONTEXT: Map358/events/14/pages/0/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「煉絶の姫君カラットとは別に、蒼麗の歌姫を
+　名乗るカラットまで現れたとか・・・」
+> CONTEXT: Map358/events/14/pages/0/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「敵勢力の拡大に備えるためにも、精霊王の
+　力を借りることができれば、大きな助力と
+　なるでしょう。」
+> CONTEXT: Map358/events/14/pages/0/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精霊の王だなんて、頼もしいわね。
+> CONTEXT: Map358/events/14/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぜひとも仲間に迎え入れたい。
+> CONTEXT: Map358/events/14/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何より、当時の戦いに携わった者だ。
+敵勢力の弱点や熾力の強化に関する貴重な
+情報を得られる可能性が高い。
+> CONTEXT: Map358/events/14/pages/0/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「うむ。　すぐにでも南部へ出発してくれる
+　かな？」
+> CONTEXT: Map358/events/14/pages/0/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+了解した。
+> CONTEXT: Map358/events/14/pages/0/118/Dialogue < UNTRANSLATED
+> CONTEXT: Map303/events/8/pages/0/199/Dialogue < UNTRANSLATED
+> CONTEXT: Map242/events/2/pages/0/433/Dialogue < UNTRANSLATED
+> CONTEXT: Map205/events/2/pages/0/263/Dialogue < UNTRANSLATED
+> CONTEXT: Map205/events/2/pages/1/256/Dialogue < UNTRANSLATED
+> CONTEXT: Map127/events/4/pages/7/108/Dialogue < UNTRANSLATED
+> CONTEXT: Map127/events/15/pages/9/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+南部への道順を教示願いたい。　船が必要か？
+> CONTEXT: Map358/events/14/pages/0/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「いや、南部へは“サンライズ大橋”を渡れば
+　たどりつく。　ほぼ陸続きだよ。」
+> CONTEXT: Map358/events/14/pages/0/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「港町ザザーブの西に、南北へ伸びる公道が
+　あるだろう？」
+> CONTEXT: Map358/events/14/pages/0/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「その公道を南に下って行けば、サンライズ
+　大橋に着く。」
+> CONTEXT: Map358/events/14/pages/0/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「あとは、その橋を渡れば南部だ。」
+> CONTEXT: Map358/events/14/pages/0/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+分かった。　サンライズ大橋だな。
+> CONTEXT: Map358/events/14/pages/0/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+南部へ着いたら、次は蜃気楼の谷を目指せば
+いいんですね？
+> CONTEXT: Map358/events/14/pages/0/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「だが、蜃気楼の谷と呼ばれる地名は、私は
+　聞いたことが無いな。」
+> CONTEXT: Map358/events/14/pages/0/143/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「神官殿はご存じか？」
+> CONTEXT: Map358/events/14/pages/0/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「いいえ、残念ながら私も記憶にありません・・・」
+> CONTEXT: Map358/events/14/pages/0/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「なにぶん、古い伝承に記された地名ですので、
+　今はその名称が使われていないのかも
+　しれませんね。」
+> CONTEXT: Map358/events/14/pages/0/150/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんじゃ、現地で聞き込みだね。
+> CONTEXT: Map358/events/14/pages/0/156/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ではさっそく出発するとしよう。
+> CONTEXT: Map358/events/14/pages/0/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長に神官、情報感謝する。
+> CONTEXT: Map358/events/14/pages/0/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「うむ。　無事に精霊王の力を得られることを
+　願っているよ。」
+> CONTEXT: Map358/events/14/pages/0/164/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「どうか、ご武運を。」
+> CONTEXT: Map358/events/14/pages/0/167/Dialogue < UNTRANSLATED
+
+> END STRING

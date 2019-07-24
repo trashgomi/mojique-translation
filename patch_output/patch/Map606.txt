@@ -1,0 +1,742 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+雑貨屋店員
+「まずは、とーっても重要なヤツを紹介します
+　ねー。」
+> CONTEXT: Map606/events/9/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「じゃじゃーん！　赤いポストちゃんー！」
+> CONTEXT: Map606/events/9/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+知っている。
+> CONTEXT: Map606/events/9/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（もじもじ・・・そわそわ・・・・っ）
+> CONTEXT: Map606/events/9/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（あうぅ・・・お、おトイレ・・・行きたいよぉ・・・）
+> CONTEXT: Map606/events/9/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（で、でも・・・さっき何でもないって
+　言っちゃったし・・・）
+> CONTEXT: Map606/events/9/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（今さら言い出しにくい・・・うぅ・・・）
+> CONTEXT: Map606/events/9/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「えええ！？　すでにポストちゃんのことを
+　ご存じなのですかー！？」
+> CONTEXT: Map606/events/9/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「いやー、参りましたねー。　お恥ずかしい！」
+> CONTEXT: Map606/events/9/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+知らないわけがないだろう。　郵便事業には
+必須だ。
+> CONTEXT: Map606/events/9/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「え？　ゆーびんじぎょー・・・？？」
+> CONTEXT: Map606/events/9/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「なーんだ！　やっぱりポストちゃんのこと
+　知らないじゃないですかーやだー！」
+> CONTEXT: Map606/events/9/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・？？
+> CONTEXT: Map606/events/9/pages/0/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map494/events/6/pages/1/246/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（おトイレ・・・おトイレ・・・っ！）
+> CONTEXT: Map606/events/9/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（もう・・・なんでこんな急にしたくなっちゃったん
+　だろう・・・？）
+> CONTEXT: Map606/events/9/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（・・・あ！　そ、そういえば、森の中で泉の
+　水をがぶ飲みしちゃったんだった！）
+> CONTEXT: Map606/events/9/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（や、やばい・・・アレが効いてきたっぽい・・・！）
+> CONTEXT: Map606/events/9/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+郵便以外にポストの使い道があるのか？
+> CONTEXT: Map606/events/9/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「逆に“ゆーびん”ってのが何なのか分かりま
+　せんけど・・・」
+> CONTEXT: Map606/events/9/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「赤いポストちゃんと言えば、“せえぶ”に
+　決まってるじゃないですかー！」
+> CONTEXT: Map606/events/9/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+“せえぶ”・・・？
+> CONTEXT: Map606/events/9/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+セーブのことか？
+> CONTEXT: Map606/events/9/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「さあ、どうでしょー？　実はわたしもよく
+　分からないんですよー。」
+> CONTEXT: Map606/events/9/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（何の参考にもならないな・・・）
+> CONTEXT: Map606/events/9/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ・・・、もう・・・終わった？
+> CONTEXT: Map606/events/9/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「いえいえー！　わたしの旅知識はこれからが
+　本番ですー！」
+> CONTEXT: Map606/events/9/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「それではお二方、次はこちらですー！」
+> CONTEXT: Map606/events/9/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はい・・・（そわそわ）
+> CONTEXT: Map606/events/9/pages/0/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「お次はこちら、行商人ちゃんですー！」
+> CONTEXT: Map606/events/14/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何かを売り歩いているのか？
+> CONTEXT: Map606/events/14/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「チリリーン！　正解ですー！」
+> CONTEXT: Map606/events/14/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（おしっこしたい・・・おしっこ・・・おしっこ・・・っ）
+> CONTEXT: Map606/events/14/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ち、力を抜いたら・・・出ちゃいそぅ・・・っ！）
+> CONTEXT: Map606/events/14/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（もじもじもじ・・・くねくねくね・・・っ）
+> CONTEXT: Map606/events/14/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「ここでお役立ち情報！」
+> CONTEXT: Map606/events/14/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「実は、売り子さんごとに販売するモノが違って
+　いまして、」
+> CONTEXT: Map606/events/14/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「青い帽子の娘ちゃんからは、飲み物系を
+　買うことができますー！」
+> CONTEXT: Map606/events/14/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「そして、赤い帽子の娘ちゃんからは、便利な
+　道具系を買うことができるのですー！」
+> CONTEXT: Map606/events/14/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほう。
+> CONTEXT: Map606/events/14/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ああぁ・・・も、もうじっとしてられない・・・っ！）
+> CONTEXT: Map606/events/14/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（くねくね、すりすり・・・もじもじもじっ）
+> CONTEXT: Map606/events/14/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（おしっこ・・・おトイレ・・・おしっこしたい、もう、
+　我慢できないよぉ・・・っ！）
+> CONTEXT: Map606/events/14/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「あのー、お連れの方、大丈夫です？」
+> CONTEXT: Map606/events/14/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「なんか具合悪そうですけど・・・？」
+> CONTEXT: Map606/events/14/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あう、・・・あ、その、あの・・・
+> CONTEXT: Map606/events/14/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+太ももをこすり合わせているところを見ると・・・
+> CONTEXT: Map606/events/14/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トイレに行きたいんじゃないのか？
+> CONTEXT: Map606/events/14/pages/0/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え、ええと、あの・・・ええっと・・・っ
+> CONTEXT: Map606/events/14/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（うわぁぁ・・・ど、どうしよう！？）
+> CONTEXT: Map606/events/14/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ごまかす
+> CONTEXT: Map606/events/14/pages/0/66/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+正直に言う
+> CONTEXT: Map606/events/14/pages/0/66/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、その・・・太ももを蚊に刺されちゃった
+みたいで！！
+> CONTEXT: Map606/events/14/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あぁ～・・かゆいなぁっ！！（もじもじもじ・・・）
+> CONTEXT: Map606/events/14/pages/0/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+店員、虫刺されの薬はあるか？
+> CONTEXT: Map606/events/14/pages/0/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「あああー！　ごめんなさいーーー！！」
+> CONTEXT: Map606/events/14/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「昨日わたしが全部使っちゃいましたー☆」
+> CONTEXT: Map606/events/14/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（商品を売る気あるのか・・・）
+> CONTEXT: Map606/events/14/pages/0/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だ、大丈夫だよ！
+> CONTEXT: Map606/events/14/pages/0/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・が、がまん・・・できるから・・・っ
+> CONTEXT: Map606/events/14/pages/0/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほら、次行こ！　次！
+> CONTEXT: Map606/events/14/pages/0/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、あのね・・・
+> CONTEXT: Map606/events/14/pages/0/110/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/147/869/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+実は、その・・・森を抜ける時から、ずっと・・・
+> CONTEXT: Map606/events/14/pages/0/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ずっと我慢してて・・・っ////
+> CONTEXT: Map606/events/14/pages/0/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それならそうと言えばいい。
+> CONTEXT: Map606/events/14/pages/0/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+待っているから、早く行ってこい。
+> CONTEXT: Map606/events/14/pages/0/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・う、うんっ
+> CONTEXT: Map606/events/14/pages/0/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「では、こちらをご覧くださいー！」
+> CONTEXT: Map606/events/24/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「じゃーん！　その名も、「きれいな水」です！」
+> CONTEXT: Map606/events/24/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そのようだな。
+> CONTEXT: Map606/events/24/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map464/events/7/pages/0/169/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（がまん・・・が、がまん・・・っ！）
+> CONTEXT: Map606/events/24/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（したいけど・・・がまん・・・っ！　がまん
+　しなくちゃ・・・！！）
+> CONTEXT: Map606/events/24/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この泉が、旅の役に立つのか？
+> CONTEXT: Map606/events/24/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「もっちろーんです！」
+> CONTEXT: Map606/events/24/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「きれいな水は、ダテにきれいな水では
+　ありませんー！」
+> CONTEXT: Map606/events/24/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「なんてったって、飲めちゃいますから！」
+> CONTEXT: Map606/events/24/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大丈夫なのか・・・？
+> CONTEXT: Map606/events/24/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「おっとー、　お兄さん疑り深いですねー。」
+> CONTEXT: Map606/events/24/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「旅をするのに、飲料水は必須！」
+> CONTEXT: Map606/events/24/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「そんな貴重なお水ちゃんを、無限に好きなだけ
+　入手できてしまう！」
+> CONTEXT: Map606/events/24/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「それがここ！　給水ポイントなのですー！」
+> CONTEXT: Map606/events/24/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（はうぅ・・・！　み、水の話は・・・やばい・・・っ）
+> CONTEXT: Map606/events/24/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「想像してみてください！」
+> CONTEXT: Map606/events/24/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「澄んだきれいな天然水が、乾いてほてった
+　のどを冷たくうるおしてくれますよー！」
+> CONTEXT: Map606/events/24/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「ポイントを見つけたら、遠慮せずゴクゴク
+　いっちゃってくださいー！」
+> CONTEXT: Map606/events/24/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ゴ・・・ゴクゴク・・・！？　はうううぅぅっ！！）
+（ぷるるるるっ）
+> CONTEXT: Map606/events/24/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（そんなの・・・想像したら・・・も、もぅ・・・わたし
+　・・・っ！！）
+> CONTEXT: Map606/events/24/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自販機が見つからない時などは、検討させて
+もらおう。
+> CONTEXT: Map606/events/24/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「あ！　ちなみにですねー。」
+> CONTEXT: Map606/events/24/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「われわれ雑貨屋さんや行商人さんは、
+　特に純度の高い天然水を選りすぐった、」
+> CONTEXT: Map606/events/24/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「“うまい水”を販売していますので、ぜひ
+　一度お試しくださいねー！」
+> CONTEXT: Map606/events/24/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「それはもう、体中が最高の水分で満たされる
+　ような、グレイトなお水ちゃんですから！」
+> CONTEXT: Map606/events/24/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（体中が・・・す、水分で・・・っ！！　くぅあっ！）
+> CONTEXT: Map606/events/24/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ぶるるるっ！　くねくねくねっ！　もじもじっ！）
+> CONTEXT: Map606/events/24/pages/0/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（たんたんたん！　すりすりっ！　きゅううぅっ！）
+> CONTEXT: Map606/events/24/pages/0/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はむこ、ずいぶん太ももがかゆそうだが、
+大丈夫なのか？
+> CONTEXT: Map606/events/24/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+蚊ではなくて、もっと危険な虫だったのかも
+しれない。　一度病院に・・・
+> CONTEXT: Map606/events/24/pages/0/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「そうだ！　とりあえず応急処置として、お水で
+　冷やしましょう！」
+> CONTEXT: Map606/events/24/pages/0/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「ほい！」
+> CONTEXT: Map606/events/24/pages/0/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぴちょん！
+> CONTEXT: Map606/events/24/pages/0/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はあううぅぅっ！！！？
+> CONTEXT: Map606/events/24/pages/0/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょろ・・・っ　じわあぁ・・・
+> CONTEXT: Map606/events/24/pages/0/137/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふぁあんっ、も、も・・・もれ・・・ちゃぅっ！
+> CONTEXT: Map606/events/24/pages/0/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ぎゅううううぅぅっ！！）
+> CONTEXT: Map606/events/24/pages/0/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「あ・・・あれ？　やっぱりオシッコなのでは？」
+> CONTEXT: Map606/events/24/pages/0/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうもそのようだな。
+> CONTEXT: Map606/events/24/pages/0/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ずっと我慢していたのか・・・？
+> CONTEXT: Map606/events/24/pages/0/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ううぅ・・・、だ、だって・・・
+> CONTEXT: Map606/events/24/pages/0/154/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は・・・恥ずかしいじゃん・・・////
+> CONTEXT: Map606/events/24/pages/0/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「トイレならわたしのお店にありますから、
+　急いでくださいー！」
+> CONTEXT: Map606/events/24/pages/0/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑貨屋店員
+「はやくしないと、おもらししちゃいますよー？」
+> CONTEXT: Map606/events/24/pages/0/160/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レグマくん、ごめん・・・い、行ってくるっ！！
+> CONTEXT: Map606/events/24/pages/0/165/Dialogue < UNTRANSLATED
+
+> END STRING

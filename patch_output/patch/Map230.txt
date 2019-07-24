@@ -1,0 +1,111 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+何やら特別な力を持っていると思って後を
+つけてみれば・・・
+> CONTEXT: Map230/events/43/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+かつてダジェルバージ家のカラットを退けた
+熾天少女の末裔だったとはね。
+> CONTEXT: Map230/events/43/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どおりで魔力に抵抗を持ってると思ったよ。
+> CONTEXT: Map230/events/43/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも、その力を研究してる施設に出入り
+してるってことは、まだ完全体ってわけじゃ
+なさそうだね。
+> CONTEXT: Map230/events/43/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+危険な相手ですわ！
+> CONTEXT: Map230/events/43/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お脅威となる前に、まずはこの研究施設を
+叩き潰して差し上げましょう！！
+> CONTEXT: Map230/events/43/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうだね。　さっさとやっちゃおう。
+> CONTEXT: Map230/events/43/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お待ちになって！　まさか今から乗り込む
+つもりですの！？
+> CONTEXT: Map230/events/43/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+違うの？
+> CONTEXT: Map230/events/43/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あなたはまだ先ほどの戦いで失った体力が
+回復してないでしょう！！
+> CONTEXT: Map230/events/43/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大丈夫だってば。　ただの研究施設だし、
+熾天少女みたいな強い相手はいないでしょ。
+> CONTEXT: Map230/events/43/pages/0/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いいえ！！　万が一のことも考えて、今は
+回復に専念しなさいな！
+> CONTEXT: Map230/events/43/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+研究施設への奇襲は今夜にしましょう！！
+> CONTEXT: Map230/events/43/pages/0/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・分かったよ。　姉さんがそこまで言うなら。
+> CONTEXT: Map230/events/43/pages/0/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃあとりあえず夜まで様子見だね。
+> CONTEXT: Map230/events/43/pages/0/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ええ！　聞きわけがよくていい子ですわ！！
+> CONTEXT: Map230/events/43/pages/0/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もう・・・また子供扱いして・・・
+> CONTEXT: Map230/events/43/pages/0/94/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,103 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+盗賊A
+「お！？　なんだコイツら、どうやって？」
+> CONTEXT: Map099/events/3/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ・・・やば・・・！
+> CONTEXT: Map099/events/3/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊B
+「また人質を逃がしたとあっちゃあ、お頭に
+　何をされるか分からねえ！」
+> CONTEXT: Map099/events/3/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊B
+「取り押さえるんだ！」
+> CONTEXT: Map099/events/3/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊A
+「ば、馬鹿な・・・！　なんでこんなヤツらに！」
+> CONTEXT: Map099/events/3/pages/2/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊B
+「あの力が効かないだと・・・っ！？」
+> CONTEXT: Map099/events/3/pages/2/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊B
+「こりゃ大変だ！　お頭に報告せねばっ！！」
+> CONTEXT: Map099/events/3/pages/2/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おお、勝っちゃった・・・！
+> CONTEXT: Map099/events/3/pages/2/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ね！　楽勝だったでしょ？
+> CONTEXT: Map099/events/3/pages/2/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうやら、これで証明されたな。
+> CONTEXT: Map099/events/3/pages/2/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+熾天少女の力は、盗賊団相手でも通用する。
+> CONTEXT: Map099/events/3/pages/2/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よっし！　このまま突き進んで、盗賊団壊滅だ！
+> CONTEXT: Map099/events/3/pages/2/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+目的はそうじゃないでしょ？
+> CONTEXT: Map099/events/3/pages/2/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何よりもシャルシャルさんの安全が第一よ。
+> CONTEXT: Map099/events/3/pages/2/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おっと、そいつはウッカリだ！
+> CONTEXT: Map099/events/3/pages/2/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃ、シャルシャルさんの救出にレッチュゴー！
+> CONTEXT: Map099/events/3/pages/2/75/Dialogue < UNTRANSLATED
+
+> END STRING

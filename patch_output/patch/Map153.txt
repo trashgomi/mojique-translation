@@ -1,0 +1,84 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+伝令を聞いております。　さあ、お通りください。
+> CONTEXT: Map153/events/7/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あれが、かつて熾力研究館の館長だった女か。
+> CONTEXT: Map153/events/7/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もう二度とあんなのと戦うのはご免だぜ・・・
+> CONTEXT: Map153/events/7/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+中は屈強なガーディアンだらけだ。　心して
+かかれ。
+> CONTEXT: Map153/events/8/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+生きてる！　俺生きてる！！
+> CONTEXT: Map153/events/8/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここ熾天宮には、定期的にお祈りをささげに
+やってきます。
+> CONTEXT: Map153/events/9/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+理由は何となくです。
+> CONTEXT: Map153/events/9/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一度でいいから、中に入ってみたいわ！
+> CONTEXT: Map153/events/10/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+傭兵をたくさん雇えば、ガーディアンなんて
+恐くないと思いますの。
+> CONTEXT: Map153/events/11/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それなのに入れてくれないなんて、心配
+しすぎですわ。　ぷんぷん！
+> CONTEXT: Map153/events/11/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もう少し花が咲いてれば、お花見したいね！
+> CONTEXT: Map153/events/12/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんかお城の兵士たちがいっぱい
+いたけど、何かあったの？
+> CONTEXT: Map153/events/12/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こんちゃ！　あなたの移動を援助する
+しがないお助け虫だよ！
+> CONTEXT: Map153/events/41/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

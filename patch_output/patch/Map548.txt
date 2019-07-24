@@ -1,0 +1,302 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ふぃー・・・
+> CONTEXT: Map548/events/8/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+久しぶりのまったりタイム～・・・♪
+> CONTEXT: Map548/events/8/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+心が潤いますなぁ～・・・！
+> CONTEXT: Map548/events/8/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+早乙女の言うとおり、ずっと強い相手とばかり
+戦ってきたものね。
+> CONTEXT: Map548/events/8/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そだね。
+> CONTEXT: Map548/events/8/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map381/events/12/pages/0/36/Dialogue < UNTRANSLATED
+> CONTEXT: Map009/events/2/pages/1/198/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それにしても、あの死神だけはホント別格。
+> CONTEXT: Map548/events/8/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんとかうまく戦いを回避していきたいけど・・・
+> CONTEXT: Map548/events/8/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こっちの世界に来ちゃっている以上、いずれは
+戦うことになってしまうと思います・・・
+> CONTEXT: Map548/events/8/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+せめて弱点があれば、勝機も望めるのですが
+・・・
+> CONTEXT: Map548/events/8/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そう言えばあの死神ちゃん、お腹を空かせて
+帰っちゃったみたいだったよね？
+> CONTEXT: Map548/events/8/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もしかしたら、お腹ぺこぺこ状態の時を狙えば
+勝てるかも！？
+> CONTEXT: Map548/events/8/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そのタイミングを見計らうの、難しいでしょ。
+> CONTEXT: Map548/events/8/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そもそも、お腹空いた状態で、どこまで弱体化
+するか分かんないし。
+> CONTEXT: Map548/events/8/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あとはホラ、早乙女くんに一目惚れだった
+じゃん？
+> CONTEXT: Map548/events/8/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+淡い恋心を逆手に取って、早乙女くんが
+言葉巧みにダマして、魔界に帰しちゃうとか！
+> CONTEXT: Map548/events/8/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神相手とは言え、なかなかえげつない戦法
+考えるのね・・・
+> CONTEXT: Map548/events/8/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+て言うか、あれは“淡い恋心”どころじゃなくて
+ベタボレだったよ～！
+> CONTEXT: Map548/events/8/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほんと、一瞬でオちてたもん！
+> CONTEXT: Map548/events/8/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたしもさすがにビックリだよ！！
+> CONTEXT: Map548/events/8/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほ、ほんとよね！　まったく、早乙女なんかの
+どこが良いのか全然理解できないし！
+> CONTEXT: Map548/events/8/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おっとー？　にゃんちゃん、それは本当に
+本心なのカナ～？
+> CONTEXT: Map548/events/8/pages/0/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その割には、普段から早乙女くんのこと
+横目でチラチラ見てるような～？？？
+> CONTEXT: Map548/events/8/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はああぁぁ！？　そ、そ、そ、そ、そ、そ、そ、そ、
+そ、そ、そそそそそそ、そ、そ、そん、そ、そそん
+そ、そ、そ、そ、そ、そ、そ、そ、そそそそそそそ
+そそそ、そんな、そんなわけないでしょ！？！？
+> CONTEXT: Map548/events/8/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（分かりやす過ぎて、逆にリアクション取り
+　づらい・・・）
+> CONTEXT: Map548/events/8/pages/0/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あー、その・・・実を言うとですね。
+> CONTEXT: Map548/events/8/pages/0/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あの一目惚れは、死神の特性でもあるんです。
+> CONTEXT: Map548/events/8/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・特性？
+> CONTEXT: Map548/events/8/pages/0/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それって、どういうことですか？
+> CONTEXT: Map548/events/8/pages/0/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご存じのとおり、死神は“2体持ち”という特殊な
+生まれ方をします。
+> CONTEXT: Map548/events/8/pages/0/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おそらく、複数の肉体を１つの精神で支配する
+生態は、生物史上で死神しか持っていない、
+極めて稀なケースだと思います。
+> CONTEXT: Map548/events/8/pages/0/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その性質上、死神の女性は自分と非常に
+相性のいい男性を選ばないと、複数の体を
+うまく身ごもることができないと言われて
+います。
+> CONTEXT: Map548/events/8/pages/0/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なので、死神は自分の最高のパートナーを
+生物的な直感で見抜く能力が高いんです。
+> CONTEXT: Map548/events/8/pages/0/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+つまり、早乙女はあの死神と相性が良くて、
+それを悟った死神は、あんなに猛烈な
+アプローチをしてきたってこと・・・？
+> CONTEXT: Map548/events/8/pages/0/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうなんだと思います。
+> CONTEXT: Map548/events/8/pages/0/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔界での死神の個体数は、魔族全体のうち
+0.1％にも満たないとも言われていますので、
+> CONTEXT: Map548/events/8/pages/0/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あの“一目惚れ”は、ベストパートナーに
+出会う数少ないチャンスを確実にモノに
+するための特性なのでしょうね。
+> CONTEXT: Map548/events/8/pages/0/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+むふふーん♪　それって要するにさぁ・・・
+> CONTEXT: Map548/events/8/pages/0/137/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あの死神と早乙女くんは、
+“カラダの相性がバッチリ”
+ってことなんでしょ～？？
+> CONTEXT: Map548/events/8/pages/0/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+　　　　　　　　　　　　　　　　　　　　（聞こえていないフリ）↑
+> CONTEXT: Map548/events/8/pages/0/143/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、あの・・・まあ、ええと、その・・・//////
+> CONTEXT: Map548/events/8/pages/0/147/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、そういう・・・感じ？　かもです・・・/////
+> CONTEXT: Map548/events/8/pages/0/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ととととととととにかくっ！！！！　さ、さ、さ、
+早乙女は、一応、あたし達の指揮官なんだから
+か、か、か、簡単に死神なんかにホイホイ
+ついて行かせるようなマネはだだだだだだだだ
+> CONTEXT: Map548/events/8/pages/0/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だだだだだだだだだだだだだだだだだだだだ
+だだだだめなんだからねっ！！！！！！
+> CONTEXT: Map548/events/8/pages/0/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しょ、承知しておりますので、どうか気を
+静めていただけますでしょうか・・・
+> CONTEXT: Map548/events/8/pages/0/163/Dialogue < UNTRANSLATED
+
+> END STRING

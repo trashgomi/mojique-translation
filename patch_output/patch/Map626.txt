@@ -1,0 +1,123 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+そ、それでは・・・
+> CONTEXT: Map626/events/1/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+空腹になったので戦闘を中断し、やつら
+全員を逃がしてしまったと・・・
+> CONTEXT: Map626/events/1/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴィスティ・・・こいつ、大丈夫なんだろうな？
+> CONTEXT: Map626/events/1/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+申し訳ありません、カラット様・・・
+> CONTEXT: Map626/events/1/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+私の指導が足らなかったようです。
+> CONTEXT: Map626/events/1/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+別にヴィスティを責めてるわけじゃないけどさ。
+> CONTEXT: Map626/events/1/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えへへへへへ！　でも、実力は確かだから
+次を頑張ればいいんだよー！　えへへへ！！
+> CONTEXT: Map626/events/1/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+と、とりあえず、やつらを野放しにしておく
+わけにもいきません。
+> CONTEXT: Map626/events/1/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+青カラットたちの行方はともかく、熾天少女の
+いる場所なら見当はつきます。
+> CONTEXT: Map626/events/1/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まずは熾天少女から片付けましょう。
+> CONTEXT: Map626/events/1/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あいつらがどこにいるのか分かるのか！？
+> CONTEXT: Map626/events/1/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ええ。　やつらは行動方針を話し合うため、
+たびたび城へと足を運んでいます。
+> CONTEXT: Map626/events/1/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おそらく、城の周辺にいると見て間違い
+無いでしょう。
+> CONTEXT: Map626/events/1/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おおおお！！　ヴィスティちゃん天才ー！！
+えへへへへ！！　えへ！
+> CONTEXT: Map626/events/1/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうと分かれば、さっそく奇襲だ！！
+> CONTEXT: Map626/events/1/pages/0/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+城へ行くぞヴィスティ！！
+> CONTEXT: Map626/events/1/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いいえ、行くのは死神1人で十分です。
+> CONTEXT: Map626/events/1/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+逆に、カラット様をお護りしながら戦うのは
+非常に難しいので、できれば我々はここで
+防衛に徹しているべきかと。
+> CONTEXT: Map626/events/1/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うﾞ・・・わ、分かった。
+> CONTEXT: Map626/events/1/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING

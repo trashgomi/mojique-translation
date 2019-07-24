@@ -1,0 +1,126 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+はぁ・・・っ　はぁ・・・っ
+> CONTEXT: Map673/events/3/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でちゃうでちゃうでちゃうでちゃううぅぅっ！！！
+> CONTEXT: Map673/events/3/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぁぁああっ！　だ、だめ・・・もう・・・ち、力が・・・
+ぬ、抜け・・・ちゃう・・・ぅっ！！
+> CONTEXT: Map673/events/3/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んんんうぅっ！！　あ、あ、あっ！！
+> CONTEXT: Map673/events/3/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いやぁっ！　も、漏れちゃううぅっ！！　も、もう
+だめえぇっ！！
+> CONTEXT: Map673/events/3/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+が、が、がまん・・・で、でき・・・できな・・・ぁ、ぁっ
+> CONTEXT: Map673/events/3/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぁ・・・む、むり・・・もぉ・・・だめぇぇ・・・
+> CONTEXT: Map673/events/3/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はあぁぁ・・・っ
+> CONTEXT: Map673/events/3/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+め・・・めちゃくちゃ・・・出てる・・・っ//////
+> CONTEXT: Map673/events/3/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はあぁぁ～～・・・////
+> CONTEXT: Map673/events/3/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ～あ・・・
+> CONTEXT: Map673/events/3/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたし、知～らない・・・
+> CONTEXT: Map673/events/3/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+くぅ・・・なんでこんな事に・・・
+> CONTEXT: Map673/events/3/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えへへ！　盛大にやっちゃったね～！
+> CONTEXT: Map673/events/3/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これは早くお片づけしないと、不衛生だよ～！
+えへ！　えへへ！
+> CONTEXT: Map673/events/3/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おいお前、ヴィスティが戻って来たら
+すぐにその床、全部掃除しろよな。
+> CONTEXT: Map673/events/3/pages/0/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あと、洗濯も自分でやるんだぞ。
+> CONTEXT: Map673/events/3/pages/0/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・ええ！？　し、しばらくこのままなんですか
+！？
+> CONTEXT: Map673/events/3/pages/0/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+か、痒くなっちゃうぅ・・・
+> CONTEXT: Map673/events/3/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+誰かぁ・・・ほんと、早く助けに来てくださいいぃ
+～～っ！！
+> CONTEXT: Map673/events/3/pages/0/95/Dialogue < UNTRANSLATED
+
+> END STRING

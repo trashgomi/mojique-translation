@@ -1,0 +1,45 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+やあ、中央部から来たのかい？
+> CONTEXT: Map300/events/1/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+東部へ来たなら、一度は秘湯へ浸かってみる
+ことをオススメするよ。　疲れなんて一発で
+ぶっ飛ぶから。
+> CONTEXT: Map300/events/1/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ああ、ヨサクなら俺だよ。
+> CONTEXT: Map300/events/1/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え？　彼女が木から降りられないでいるの
+かい？
+> CONTEXT: Map300/events/1/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+分かった。　すぐに伐採場へ向かうよ。
+> CONTEXT: Map300/events/1/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+知らせてくれてありがとうね。
+> CONTEXT: Map300/events/1/pages/1/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワイヤーを何本か手に入れた。
+> CONTEXT: Map300/events/7/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING

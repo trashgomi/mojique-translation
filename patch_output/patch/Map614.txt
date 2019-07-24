@@ -1,0 +1,88 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+船員
+「数に限りがありますので、小さいお子様を
+　優先して配布しておりますー。」
+> CONTEXT: Map614/events/5/pages/0/57/Dialogue < UNTRANSLATED
+> CONTEXT: Map614/events/5/pages/0/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+船員
+「もしくは、我慢できない方であればお配り
+　しますー。」
+> CONTEXT: Map614/events/5/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すみません！　もう限界なんですっ！！
+> CONTEXT: Map614/events/5/pages/0/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+携帯トイレくださいっ！！
+> CONTEXT: Map614/events/5/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+船員
+「どうぞー。　ご迷惑おかけしますー。」
+> CONTEXT: Map614/events/5/pages/0/69/Dialogue < UNTRANSLATED
+> CONTEXT: Map614/events/5/pages/0/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぁ、ぁの・・・//////　（もじもじ・・・）
+> CONTEXT: Map614/events/5/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その・・・わ、私・・・その・・・
+> CONTEXT: Map614/events/5/pages/0/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+船員
+「ええと・・・」
+> CONTEXT: Map614/events/5/pages/0/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+船員
+「我慢できない方なら、お配りしますけど。」
+> CONTEXT: Map614/events/5/pages/0/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・っ////　・・・・・・っっ////////
+> CONTEXT: Map614/events/5/pages/0/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+で・・・できません・・・
+> CONTEXT: Map614/events/5/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もう・・・その・・・が・・・がまん・・・
+できないんですぅ・・・っっ///////////////
+> CONTEXT: Map614/events/5/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ーー～っ///////////////
+> CONTEXT: Map614/events/5/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING

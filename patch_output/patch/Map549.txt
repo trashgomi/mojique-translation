@@ -1,0 +1,257 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+-夜-
+> CONTEXT: Map549/events/33/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（・・・何の音だ・・・？）
+> CONTEXT: Map549/events/33/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+気のせいか・・・
+> CONTEXT: Map549/events/33/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・！！！
+> CONTEXT: Map549/events/33/pages/0/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神・・・
+> CONTEXT: Map549/events/33/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・見つけた・・・
+> CONTEXT: Map549/events/33/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+追ってきたのか。
+> CONTEXT: Map549/events/33/pages/0/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+目的は俺か？
+> CONTEXT: Map549/events/33/pages/0/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・そう・・・・・・迎えに・・・来た・・・・・・
+> CONTEXT: Map549/events/33/pages/0/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どこへ連れて行くつもりだ。
+> CONTEXT: Map549/events/33/pages/0/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・魔界・・・
+> CONTEXT: Map549/events/33/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一緒に・・・・・・暮らす・・・ずっと・・・・・・
+私と・・・あなた・・・・・・ずっと・・・
+> CONTEXT: Map549/events/33/pages/0/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+断る。
+> CONTEXT: Map549/events/33/pages/0/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・どうして・・・・・・・・・？
+> CONTEXT: Map549/events/33/pages/0/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+君と一緒に魔界へ行くつもりはない。
+> CONTEXT: Map549/events/33/pages/0/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+俺は人間。　それも、この世界とは別の
+次元から来た。
+> CONTEXT: Map549/events/33/pages/0/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・そういうの・・・私は・・・・・気にしない・・・
+> CONTEXT: Map549/events/33/pages/0/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それだけじゃない。
+> CONTEXT: Map549/events/33/pages/0/131/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+前にも言ったが、君は魔族に従って人間界に
+攻め入る側。　対して俺は人間界を守るために
+戦う熾天少女のまとめ役だ。
+> CONTEXT: Map549/events/33/pages/0/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+俺と君は相容れない。
+> CONTEXT: Map549/events/33/pages/0/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+引き下がってもらおう。
+> CONTEXT: Map549/events/33/pages/0/136/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・引き下がらない・・・
+> CONTEXT: Map549/events/33/pages/0/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・連れていく・・・・・・
+> CONTEXT: Map549/events/33/pages/0/207/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+力ずくというわけか。
+> CONTEXT: Map549/events/33/pages/0/210/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こうなっては、俺には抵抗する手段が無い。
+> CONTEXT: Map549/events/33/pages/0/211/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+仲間を呼んだところで、おそらく間に合わない
+だろう。
+> CONTEXT: Map549/events/33/pages/0/212/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・分かっているなら・・・おとなしく・・・して
+・・・一緒に・・・・・・魔界へ・・・・・・行こ・・・
+> CONTEXT: Map549/events/33/pages/0/218/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だが、1つ教えてほしい。
+> CONTEXT: Map549/events/33/pages/0/222/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これは・・・君のやり方なのか。
+それとも死神のやり方なのか。
+> CONTEXT: Map549/events/33/pages/0/226/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・質問の・・・意味が・・・・・・よく
+分からない・・・・・・
+> CONTEXT: Map549/events/33/pages/0/233/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いいや、君は分かっているはずだ。
+> CONTEXT: Map549/events/33/pages/0/238/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+君の力は絶大だ。
+> CONTEXT: Map549/events/33/pages/0/239/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その力を使い、望むものを手に入れて
+きたのだろう。
+> CONTEXT: Map549/events/33/pages/0/240/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そして今も、欲しいものを力に訴え、手に
+入れようとしている。
+> CONTEXT: Map549/events/33/pages/0/242/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+言い方を変えよう。
+> CONTEXT: Map549/events/33/pages/0/252/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それは、“死神”が望むものなのか。　それとも
+“君”が望むものなのか。
+> CONTEXT: Map549/events/33/pages/0/253/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+“死神”が望む限り、
+> CONTEXT: Map549/events/33/pages/0/331/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+“君”が望むものを手に入れることは、
+> CONTEXT: Map549/events/33/pages/0/332/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+できない。
+> CONTEXT: Map549/events/33/pages/0/333/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おそらく、これまでもそうだったように。
+> CONTEXT: Map549/events/33/pages/0/334/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・・・・・・・・。
+> CONTEXT: Map549/events/33/pages/0/339/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,164 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+うわあ！！　なにこれ！なにこれ！！
+> CONTEXT: Map132/events/21/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+めちゃんこおいしそーーーーーーっ！！！！
+> CONTEXT: Map132/events/21/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ど、ど、どれから食べればいいんだろう！？
+> CONTEXT: Map132/events/21/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+二人とも、少し落ち着きなさいよ・・・！（もぐもぐ）
+> CONTEXT: Map132/events/21/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふむ、これは素晴らしい。
+> CONTEXT: Map132/events/21/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どれも見たことのない料理。　珍奇だが絶妙な
+味付け。
+> CONTEXT: Map132/events/21/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここが異世界だということを、改めて実感できる。
+> CONTEXT: Map132/events/21/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んふーーー・・・幸せぇ・・・☆　もごもご・・・
+> CONTEXT: Map132/events/21/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おお！　このジュースすごく甘くておいしいよ
+レグマくん！！
+> CONTEXT: Map132/events/21/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鮮やかな色合いだな。　何かの果実か。
+> CONTEXT: Map132/events/21/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だが俺は甘いのは苦手だ、遠慮する。
+> CONTEXT: Map132/events/21/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いやいや、甘いだけじゃなくて、なんかこう旨み
+というか、とにかくおいしいんだって！！
+> CONTEXT: Map132/events/21/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それよりスープが欲しいな。
+> CONTEXT: Map132/events/21/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もー、飲まず嫌いはダメだよー！　一口
+飲んでみなよ！　はい！
+> CONTEXT: Map132/events/21/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょ、はむこ！　なななにやってんのよ！！
+それあんたのグラスでしょ！？
+> CONTEXT: Map132/events/21/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え？　そうだけど・・・わたしは別に気に
+しないから平気だよ？
+> CONTEXT: Map132/events/21/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それよりレグマくん！　ほら、飲んでみてよー！
+絶対おいしいから！！
+> CONTEXT: Map132/events/21/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あーっ！　ダメダメ！！　ダメよっ！！！
+> CONTEXT: Map132/events/21/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、あたしが新しいのもらってくるからっ！！！
+> CONTEXT: Map132/events/21/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+にゃんこ・・・なに慌ててるんだろ？
+> CONTEXT: Map132/events/21/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あーもう！！　ここの料理おいしすぎっ！！
+> CONTEXT: Map132/events/21/pages/0/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あとスープとかジュースもいいよね！！
+もう止まんないよぉ～！！
+> CONTEXT: Map132/events/21/pages/0/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほどほどにな。　暴飲暴食は寿命を縮めるぞ。
+> CONTEXT: Map132/events/21/pages/0/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だいじょぶだいじょぶ！！　まだ若いから！！
+> CONTEXT: Map132/events/21/pages/0/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んぶっ！！　こ、これ辛っ！！
+> CONTEXT: Map132/events/21/pages/0/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+水！　水っ！！　ごくごくごくごく・・・
+> CONTEXT: Map132/events/21/pages/0/126/Dialogue < UNTRANSLATED
+
+> END STRING

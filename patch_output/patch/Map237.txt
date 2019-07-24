@@ -1,0 +1,19 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+この世界には、現在分かっているだけで4つの
+力が存在します。
+> CONTEXT: Map237/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すなわち、理力、霊気、魔力、そして熾力です。
+> CONTEXT: Map237/events/2/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（夢中になって資料を読み込んでいる・・・）
+> CONTEXT: Map237/events/3/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

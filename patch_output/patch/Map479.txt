@@ -1,0 +1,203 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+（もしルミィさんが捕らわれているとすれば、
+　牢屋みたいな部屋に監禁されてるのかな？）
+> CONTEXT: Map479/events/2/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（まずはそれっぽい所を探さないと・・・）
+> CONTEXT: Map479/events/2/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊
+「よーしよしよし！　今、その狭い檻から
+　出してやるぞ～♪」
+> CONTEXT: Map479/events/2/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（・・・！！）
+> CONTEXT: Map479/events/2/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊
+「いいね～！　スピアたんは今日も鋭いね～♪」
+> CONTEXT: Map479/events/2/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊
+「お！　サーベルたんのその曲線美！！　最高
+　だよ～♪」
+> CONTEXT: Map479/events/2/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊
+「今日もおじさんが、綺麗に研いであげるから
+　ね～♪」
+> CONTEXT: Map479/events/2/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（た、ただの刃物マニアさん・・・）
+> CONTEXT: Map479/events/2/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊
+「なんだお前、まーた刃物を研いでんのかよ！」
+> CONTEXT: Map479/events/2/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊
+「前にも言っただろ？　時代は近接武器じゃ
+　ない。　　飛び道具なんだってな！」
+> CONTEXT: Map479/events/2/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+近接武器派
+「て、てめえ！　また俺のハニー達を笑いものに
+　しようってのか！！」
+> CONTEXT: Map479/events/2/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+遠距離武器派
+「ああそうさ！　何しろ、相手に近づかなきゃ
+　威力を発揮できない時代錯誤の旧式
+　なんだからよ！」
+> CONTEXT: Map479/events/2/pages/0/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+近接武器派
+「馬鹿野郎！！　敵の懐に飛び込んでからが
+　男の戦いだぜ！？」
+> CONTEXT: Map479/events/2/pages/0/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+近接武器派
+「弓や鉄砲みたいな飛び道具なんて、ただの
+　腰ぬけのオモチャだろうが！！」
+> CONTEXT: Map479/events/2/pages/0/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+遠距離武器派
+「はああ！？　威力を一点に集中して敵の
+　急所を貫く飛び道具の、どこがオモチャだって
+　言うんだコラァ！！」
+> CONTEXT: Map479/events/2/pages/0/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ひいぃ！　なんか怖い喧嘩が始まっちゃった
+　よおぉ・・・！！）
+> CONTEXT: Map479/events/2/pages/0/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+近接武器派
+「そもそも戦闘というのは、互いの視線や呼吸を
+　感じとって、刹那の駆け引きを・・・」
+> CONTEXT: Map479/events/2/pages/0/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+遠距離武器派
+「戦闘に重要なのは、いかにこちらの戦力を
+　温存した状態で敵の戦力を削るかで
+　あって・・・」
+> CONTEXT: Map479/events/2/pages/0/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ううぅ・・・）
+> CONTEXT: Map479/events/2/pages/0/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（お互い情熱をぶつけ合うのはいいけど、
+　そこでやられると、ここから動けないよ・・・）
+> CONTEXT: Map479/events/2/pages/0/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ああ・・・）
+> CONTEXT: Map479/events/2/pages/0/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（お手洗い行きたい・・・っ！）
+> CONTEXT: Map479/events/2/pages/0/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（こ、こうやってじっとしてると・・・余計に、尿意が
+　・・・）
+> CONTEXT: Map479/events/2/pages/0/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（あんまり長くは・・・我慢できない・・・かもっ）
+> CONTEXT: Map479/events/2/pages/0/143/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+近接武器派
+「あ、やべ！　もう盗賊会議の時間じゃ
+　ねえか！」
+> CONTEXT: Map479/events/2/pages/0/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+遠距離武器派
+「ほ、ほんとだ！　急がねえと仮団長に
+　ぶん殴られるぞ！！」
+> CONTEXT: Map479/events/2/pages/0/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（よ、よかった・・・！　やっと行ってくれた・・・）
+> CONTEXT: Map479/events/2/pages/0/187/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（はやく・・・ルミィさんを、見つけないと・・・っ！）
+> CONTEXT: Map479/events/2/pages/0/192/Dialogue < UNTRANSLATED
+
+> END STRING

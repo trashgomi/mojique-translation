@@ -1,0 +1,396 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ん、ふ・・・ぁ・・・っ！！
+> CONTEXT: Map641/events/2/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団の増援
+「それにしても、やけにあっさり捕まったな・・・」
+> CONTEXT: Map641/events/2/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団の増援
+「もしや、何か企んでいるのか？」
+> CONTEXT: Map641/events/2/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+くぅ・・・い、いや・・・その・・・っ
+> CONTEXT: Map641/events/2/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょ、ちょっと・・・オレ・・・あの・・・っ！！
+> CONTEXT: Map641/events/2/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しょ、しょ・・・小便・・・行かせてくれ・・・っ！
+> CONTEXT: Map641/events/2/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+たのむっ！！
+> CONTEXT: Map641/events/2/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団の増援
+「小便だと・・・？」
+> CONTEXT: Map641/events/2/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団の増援
+「下手な嘘だな。　その手には乗らないぞ！」
+> CONTEXT: Map641/events/2/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いや、マジで！！　マジでやべぇんだよっ！！
+> CONTEXT: Map641/events/2/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+頼むよっ！　も、もう・・・漏れそうで・・・っ！！
+> CONTEXT: Map641/events/2/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団の増援
+「貴様・・・いくら演技とは言え、そんなに腰を
+　くねらせて恥じらいは無いのか？」
+> CONTEXT: Map641/events/2/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団の増援
+「とにかく、何と言おうと縄はほどかん。　さあ
+　歩け！」
+> CONTEXT: Map641/events/2/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、そんな・・・っ
+> CONTEXT: Map641/events/2/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+も、もう・・・
+> CONTEXT: Map641/events/2/pages/0/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+限界・・・だ・・・
+> CONTEXT: Map641/events/2/pages/0/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・ぁああっ！！
+> CONTEXT: Map641/events/2/pages/0/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぅ・・・ち、ちくしょぉ・・・っ！
+> CONTEXT: Map641/events/2/pages/0/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+み、み、見てんじゃ・・・ねえよぉっ！！
+> CONTEXT: Map641/events/2/pages/0/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+出ちゃったじゃんか・・・っ！！
+> CONTEXT: Map641/events/2/pages/0/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だから言ったんだよぉっ！！
+> CONTEXT: Map641/events/2/pages/0/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団の増援
+「フッ、まさか本当に催していたとはな・・・」
+> CONTEXT: Map641/events/2/pages/0/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団の増援
+「しかも何だ、この巨大な水たまりは！」
+> CONTEXT: Map641/events/2/pages/0/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う・・・うるせーなぁっ////　色々事情があんだよ
+バカっ！！！
+> CONTEXT: Map641/events/2/pages/0/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団の増援
+「まあいい。　このまま城まで引き回して
+　見世物にしてやろう。」
+> CONTEXT: Map641/events/2/pages/0/136/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団の増援
+「これまで働いた悪事に対する、せめてもの
+　償いだと思え！」
+> CONTEXT: Map641/events/2/pages/0/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おい！？　それはシャレになんねえから
+マジで勘弁・・・
+> CONTEXT: Map641/events/2/pages/0/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団の増援
+「んぬっ！？　貴様・・・まだ仲間を・・・」
+> CONTEXT: Map641/events/2/pages/0/161/Dialogue < UNTRANSLATED
+> CONTEXT: Map638/events/15/pages/0/284/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団の増援
+「・・・く・・・っ」
+> CONTEXT: Map641/events/2/pages/0/163/Dialogue < UNTRANSLATED
+> CONTEXT: Map638/events/15/pages/0/286/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ま、またあのヘンな煙玉・・・
+> CONTEXT: Map641/events/2/pages/0/172/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+誰なんだ・・・？
+> CONTEXT: Map641/events/2/pages/0/173/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フードの人物
+「よ！　ピンチだったね～。」
+> CONTEXT: Map641/events/2/pages/0/200/Dialogue < UNTRANSLATED
+> CONTEXT: Map638/events/15/pages/0/327/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フードの人物
+「怪我は無いかな？」
+> CONTEXT: Map641/events/2/pages/0/202/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（声からして・・・女か？）
+> CONTEXT: Map641/events/2/pages/0/207/Dialogue < UNTRANSLATED
+> CONTEXT: Map638/events/15/pages/0/338/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フードの人物
+「おっと、警戒してる？」
+> CONTEXT: Map641/events/2/pages/0/209/Dialogue < UNTRANSLATED
+> CONTEXT: Map638/events/15/pages/0/340/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フードの人物
+「だいじょぶ、怪しい者じゃないよ～！」
+> CONTEXT: Map641/events/2/pages/0/211/Dialogue < UNTRANSLATED
+> CONTEXT: Map638/events/15/pages/0/342/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんでオレらを助けるんだ・・・？
+> CONTEXT: Map641/events/2/pages/0/215/Dialogue < UNTRANSLATED
+> CONTEXT: Map638/events/15/pages/0/346/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんた、いったい何なんだよ？
+> CONTEXT: Map641/events/2/pages/0/216/Dialogue < UNTRANSLATED
+> CONTEXT: Map638/events/15/pages/0/347/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フードの人物
+「ま、あたしの自己紹介は置いといて・・・」
+> CONTEXT: Map641/events/2/pages/0/218/Dialogue < UNTRANSLATED
+> CONTEXT: Map638/events/15/pages/0/349/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フードの人物
+「キミを盗賊団長プリエラと見込んで、ちょいと
+　協力してほしいことがあるんだよね～。」
+> CONTEXT: Map641/events/2/pages/0/220/Dialogue < UNTRANSLATED
+> CONTEXT: Map638/events/15/pages/0/351/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はあ？　なんでオレがテメェに協力しなきゃ
+なんねえんだよ！
+> CONTEXT: Map641/events/2/pages/0/225/Dialogue < UNTRANSLATED
+> CONTEXT: Map638/events/15/pages/0/356/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんだか知らねえが、お断りだ！
+> CONTEXT: Map641/events/2/pages/0/230/Dialogue < UNTRANSLATED
+> CONTEXT: Map638/events/15/pages/0/361/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フードの人物
+「へ～、強気だね～。」
+> CONTEXT: Map641/events/2/pages/0/232/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フードの人物
+「そういうことなら、そうやって縛られたまま
+　騎士団に突き出しちゃってもいいけど・・・」
+> CONTEXT: Map641/events/2/pages/0/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・くっ！
+> CONTEXT: Map641/events/2/pages/0/239/Dialogue < UNTRANSLATED
+> CONTEXT: Map638/events/15/pages/0/373/Dialogue < UNTRANSLATED
+> CONTEXT: Map404/events/4/pages/0/504/Dialogue < UNTRANSLATED
+> CONTEXT: Map395/events/18/pages/0/316/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フードの人物
+「しかも下半身には謎の黄色い液体が！」
+> CONTEXT: Map641/events/2/pages/0/241/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フードの人物
+「その正体はなんと！　あの盗賊団長ともあろう
+　女頭目が！！」
+> CONTEXT: Map641/events/2/pages/0/243/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フードの人物
+「まるで幼児のようにお尻をふりふりして我慢
+　したあげく、ついに堪えきれずに股間から・・・」
+> CONTEXT: Map641/events/2/pages/0/246/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょちょちょっ！！　ま！！　わ、分かった！！
+協力する！！
+> CONTEXT: Map641/events/2/pages/0/252/Dialogue < UNTRANSLATED
+> CONTEXT: Map638/events/15/pages/0/382/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すりゃあいいんだろっ！！　ちくしょおっ！！
+> CONTEXT: Map641/events/2/pages/0/254/Dialogue < UNTRANSLATED
+> CONTEXT: Map638/events/15/pages/0/384/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フードの人物
+「フフ・・・交渉成立だね。」
+> CONTEXT: Map641/events/2/pages/0/256/Dialogue < UNTRANSLATED
+> CONTEXT: Map638/events/15/pages/0/386/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フードの人物
+「なーに、キミたち盗賊団にとっても悪い話じゃ
+　ないはずだよ。」
+> CONTEXT: Map641/events/2/pages/0/258/Dialogue < UNTRANSLATED
+> CONTEXT: Map638/events/15/pages/0/388/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フードの人物
+「んじゃ、人目につかないようにご同行
+　願おうか。」
+> CONTEXT: Map641/events/2/pages/0/261/Dialogue < UNTRANSLATED
+> CONTEXT: Map638/events/15/pages/0/391/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+↑：港町ザザーブ・ダーブ洞窟・マハイ山
+←：ドノ村
+↓：サンライズ大橋
+> CONTEXT: Map641/events/4/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/4/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+↑：ダーブ洞窟・マハイ山・ジャクラの森
+→：港町ザザーブ
+↓：サンライズ大橋・ドノ村
+> CONTEXT: Map641/events/5/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/5/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

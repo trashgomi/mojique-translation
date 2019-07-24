@@ -1,0 +1,974 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+あ、館長さん！！
+> CONTEXT: Map404/events/4/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おろろ？　君たち・・・
+> CONTEXT: Map404/events/4/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここが熾力研究館だというのは本当だった
+ようだな。
+> CONTEXT: Map404/events/4/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、あの！　私たち、青カラットに捕まって
+ここの地下に監禁されてたんです！
+> CONTEXT: Map404/events/4/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さっきまでいたはずなんだけど、館長さん
+見てない？
+> CONTEXT: Map404/events/4/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そりゃモチロン見てるよ～？
+> CONTEXT: Map404/events/4/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんてったって、ここはあたしの研究館だから
+ね。
+> CONTEXT: Map404/events/4/pages/0/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+では、早急に警戒態勢を・・・！
+> CONTEXT: Map404/events/4/pages/0/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ああ、大丈夫大丈夫～♪
+> CONTEXT: Map404/events/4/pages/0/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あの娘たちには、協力してもらってるんだ～。
+> CONTEXT: Map404/events/4/pages/0/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご、御冗談を～！
+> CONTEXT: Map404/events/4/pages/0/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いやいや、冗談じゃないよ～。
+> CONTEXT: Map404/events/4/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+優秀な魔力の持ち主だからね。
+> CONTEXT: Map404/events/4/pages/0/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おかげであたしの研究も飛躍的に前進
+したよ～！
+> CONTEXT: Map404/events/4/pages/0/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+待て、いくら熾力研究のためとは言え、
+敵勢力のヘッドに協力を依頼するなど
+どうかしている。
+> CONTEXT: Map404/events/4/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、そうですよ！
+> CONTEXT: Map404/events/4/pages/0/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+青カラットはこの世界にとって敵なんですよ！？
+> CONTEXT: Map404/events/4/pages/0/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ～、熾力研究か・・・
+> CONTEXT: Map404/events/4/pages/0/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今まで騙しててゴメンね～、君たち！
+> CONTEXT: Map404/events/4/pages/0/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+か、館長・・・？
+> CONTEXT: Map404/events/4/pages/0/136/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぶっちゃけ、今あたしが研究してるのって熾力
+じゃなくて魔力なんだわ。
+> CONTEXT: Map404/events/4/pages/0/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+人間が、魔力を操る研究。　分かる？
+> CONTEXT: Map404/events/4/pages/0/143/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・馬鹿な・・・！
+> CONTEXT: Map404/events/4/pages/0/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ど、ど、どういうこと！？
+> CONTEXT: Map404/events/4/pages/0/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+熾力研究はどうなったの・・・！？
+> CONTEXT: Map404/events/4/pages/0/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+熾力研究なんてやってないよ、最初から。
+> CONTEXT: Map404/events/4/pages/0/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、いや、研究館の設立当初はやってたっけ。
+> CONTEXT: Map404/events/4/pages/0/167/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でもさ～、研究素材が無い状態で手探りのまま
+研究するなんて無理だったんだわ、これが！
+> CONTEXT: Map404/events/4/pages/0/170/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+で、どうしようか悩んでるときに思いついたのが
+魔力研究なわけよ。
+> CONTEXT: Map404/events/4/pages/0/174/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔力だったら、魔物を素材としていくらでも
+調達できるからね～！
+> CONTEXT: Map404/events/4/pages/0/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、それじゃ・・・ここは熾力研究館じゃなくて
+魔力研究館じゃないですか！！
+> CONTEXT: Map404/events/4/pages/0/181/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だね！　じゃないですよ！！
+> CONTEXT: Map404/events/4/pages/0/190/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔力を研究してどうするつもりなんですか！？
+> CONTEXT: Map404/events/4/pages/0/191/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お、いい質問だね～！
+> CONTEXT: Map404/events/4/pages/0/196/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたしの目的は、あくまで熾力や魔力といった
+超力学の解明さね。
+> CONTEXT: Map404/events/4/pages/0/199/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それらの力を使って何をするってわけでも
+ないんだよ。
+> CONTEXT: Map404/events/4/pages/0/201/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+科学者のサガってやつ～？
+> CONTEXT: Map404/events/4/pages/0/203/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それなら他人に迷惑のかからない範囲で
+好きにやればいい。
+> CONTEXT: Map404/events/4/pages/0/207/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我々を巻き込むことだけはやめてもらおう。
+> CONTEXT: Map404/events/4/pages/0/209/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そいつは無理な相談だね～！
+> CONTEXT: Map404/events/4/pages/0/214/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+短い生涯の中で、奇跡的に熾天少女と
+魔族が同時に目の前に現れたんだ。
+> CONTEXT: Map404/events/4/pages/0/215/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この機会は絶対に逃さないよ～！
+> CONTEXT: Map404/events/4/pages/0/217/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたしゃ研究のためならどんな手段でも
+使っちゃうから！　自分で言うのも何だけど！
+> CONTEXT: Map404/events/4/pages/0/222/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんなコト言ってるよ・・・
+> CONTEXT: Map404/events/4/pages/0/228/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レグマくん、どうするの・・・？
+> CONTEXT: Map404/events/4/pages/0/232/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+状況を整理しよう。
+> CONTEXT: Map404/events/4/pages/0/236/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この研究館は当初、熾力を研究するために
+設立された。
+> CONTEXT: Map404/events/4/pages/0/237/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だがいつしか、研究対象は魔力へと変わって
+いた。　おそらくこの事実は、館長と一部の
+研究員しか知らないのだろう。
+> CONTEXT: Map404/events/4/pages/0/239/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+少なくとも城の姫やユーリャ教会の神官は
+知らなかったからな。
+> CONTEXT: Map404/events/4/pages/0/242/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そして我々熾天少女は、まんまと騙されて
+魔力研究の手伝いをさせられていたと
+言うわけだ。
+> CONTEXT: Map404/events/4/pages/0/244/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+頭の回転速いね～！
+> CONTEXT: Map404/events/4/pages/0/251/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この地下研究施設では、魔力の解析や
+それを人間が身に付ける方法を研究して
+いるんだ。
+> CONTEXT: Map404/events/4/pages/0/252/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+地上の研究員たちには知らせていない。
+> CONTEXT: Map404/events/4/pages/0/255/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いや～、秘密にしながらコツコツ研究するの
+大変だったよ～！
+> CONTEXT: Map404/events/4/pages/0/260/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一時は、研究してた魔力増幅試薬が外部に
+流れちゃって、あんな事件にもなっちゃったし。
+> CONTEXT: Map404/events/4/pages/0/262/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんな事件・・・？
+> CONTEXT: Map404/events/4/pages/0/267/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いわゆる幽霊船騒動さ。
+> CONTEXT: Map404/events/4/pages/0/272/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+闇をつかさどってる精霊が、その薬の影響で
+瘴魔状態になっちゃって、海上で暴れてた
+アレだよ。
+> CONTEXT: Map404/events/4/pages/0/273/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、あの幽霊船って、ここでの魔力研究が
+原因だったんですか・・・！！
+> CONTEXT: Map404/events/4/pages/0/279/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたし、ひどい目にあったんだよー！！
+> CONTEXT: Map404/events/4/pages/0/284/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+私も巻き込まれて、こわ・・・大変な思いを
+しました・・・！
+> CONTEXT: Map404/events/4/pages/0/287/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（こむも乗っていたのか。）
+> CONTEXT: Map404/events/4/pages/0/292/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも、君たちが青カラットって呼んでる
+あの娘たちが協力してくれたおかげで
+一気に解明が進んでね～！
+> CONTEXT: Map404/events/4/pages/0/297/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+実は今、人間が魔力を操ることができる
+一歩手前まで来てるんだ！
+> CONTEXT: Map404/events/4/pages/0/300/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あの青カラットが、無条件で研究に協力するとは
+思えないけど・・・
+> CONTEXT: Map404/events/4/pages/0/305/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モチロン、交換条件をもちかけたのさ。
+> CONTEXT: Map404/events/4/pages/0/311/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+私の研究に協力する代わりに、あの娘たちには
+完成したての魔力増幅薬をプレゼントして
+あげたよ～。
+> CONTEXT: Map404/events/4/pages/0/312/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+効果はバッチリだったみたいだね～♪
+> CONTEXT: Map404/events/4/pages/0/317/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ・・・もしかして！
+> CONTEXT: Map404/events/4/pages/0/321/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+青カラットが赤カラットとぶつかったときに発した
+あのすごい魔力は・・・！
+> CONTEXT: Map404/events/4/pages/0/322/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その薬で身につけたものだったのか・・・
+> CONTEXT: Map404/events/4/pages/0/327/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんてことを・・・
+> CONTEXT: Map404/events/4/pages/0/330/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さすが、本場の魔族は魔力を実に効率よく
+扱うことができるよね！
+> CONTEXT: Map404/events/4/pages/0/333/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今までは盗賊団たちに与えて実験してたけど、
+やっぱ人間じゃ限界があったからね～！
+> CONTEXT: Map404/events/4/pages/0/335/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え！？　盗賊団！？
+> CONTEXT: Map404/events/4/pages/0/340/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やつらが微弱な魔力をまとっていたのも、
+お前の仕業だったとはな・・・
+> CONTEXT: Map404/events/4/pages/0/344/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いろいろやりすぎだよ！
+> CONTEXT: Map404/events/4/pages/0/349/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ま、利害が一致しちゃったからね～！
+> CONTEXT: Map404/events/4/pages/0/352/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊団は力を手に入れたい。
+あたしは薬の人体実験をしたい。
+> CONTEXT: Map404/events/4/pages/0/353/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたしと盗賊団が手を組むのは必然だった
+わけでしょ。
+> CONTEXT: Map404/events/4/pages/0/355/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そして今回は魔族の協力によって研究は
+いよいよ最終段階！
+> CONTEXT: Map404/events/4/pages/0/361/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+人間が瘴魔状態にならずに魔力を身につける
+ことができるようになる！
+> CONTEXT: Map404/events/4/pages/0/363/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんな夢のような薬の元になる成分、
+『稀薬SPL-195』がついさっき抽出できた
+ばっかなんだ～！
+> CONTEXT: Map404/events/4/pages/0/367/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ん？）
+> CONTEXT: Map404/events/4/pages/0/373/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あとはその成分が人体になじむように改良して、
+魔力の元となる成分と合成させれば・・・
+> CONTEXT: Map404/events/4/pages/0/377/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+馬鹿なことはやめろ。　失敗して瘴魔状態に
+なったらどうするつもりだ。
+> CONTEXT: Map404/events/4/pages/0/382/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ならないと思うよ～？　なったらなったで、
+まあしょうがないかな～。
+> CONTEXT: Map404/events/4/pages/0/388/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+本当につかみどころの無い方ですね・・・
+> CONTEXT: Map404/events/4/pages/0/394/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さてさて、秘密を知っちゃった君たちには
+また牢に戻ってもらわなくちゃね！
+> CONTEXT: Map404/events/4/pages/0/397/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はい！　おとなしく回れ右～！
+> CONTEXT: Map404/events/4/pages/0/399/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、そうはいかないよ！！
+> CONTEXT: Map404/events/4/pages/0/403/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+残念だが、どんな理由であれカラット達に力を
+提供する輩に従うつもりはない。
+> CONTEXT: Map404/events/4/pages/0/407/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この研究館のことは全て城の姫に報告する。
+そこをどいてもらおう。
+> CONTEXT: Map404/events/4/pages/0/409/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まあそういう考えになっちゃうよね～。
+> CONTEXT: Map404/events/4/pages/0/413/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+仕方ないな～。　気が進まないけど、力ずくで
+戻ってもらおうかな～。
+> CONTEXT: Map404/events/4/pages/0/414/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おっと！　熾天少女の力を甘くみてもらっちゃ
+困るよ！
+> CONTEXT: Map404/events/4/pages/0/418/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わたし達、強いもんね！
+> CONTEXT: Map404/events/4/pages/0/423/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あれれ？　気付いてないの？
+> CONTEXT: Map404/events/4/pages/0/426/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今の君たちは、熾天少女じゃなくてただの少女
+なんだけど～？
+> CONTEXT: Map404/events/4/pages/0/427/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルミィさんが言ってました・・・
+> CONTEXT: Map404/events/4/pages/0/437/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この地下施設には、熾力を弱める装置が
+働いているって・・・
+> CONTEXT: Map404/events/4/pages/0/438/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+で、でも相手は1人です！　この数でかかれば
+・・・！
+> CONTEXT: Map404/events/4/pages/0/444/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+言っとくけど、このコートの裏にはちょいと
+アブない薬品をいっぱい揃えてあるからね。
+> CONTEXT: Map404/events/4/pages/0/450/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+抵抗するようなら、服だけ溶かしちゃうスライム
+状の薬とか、ぶっかけちゃうよ～？
+> CONTEXT: Map404/events/4/pages/0/454/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もしくは、自動的に穴を察知して中に入り込んで
+いくスライム状の薬とか、付着した部分が
+ものすごく毛深くなるスライム状の薬とか！
+> CONTEXT: Map404/events/4/pages/0/458/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ス、スライムこわいいいいいいぃぃぃぃ！！！
+> CONTEXT: Map404/events/4/pages/0/464/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほ～ら、さっさと戻った戻った！
+> CONTEXT: Map404/events/4/pages/0/470/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+し、従うしかないの・・・！？
+> CONTEXT: Map404/events/4/pages/0/505/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんとか一矢報いる手段は・・・！
+> CONTEXT: Map404/events/4/pages/0/510/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふっふっふっふっふ・・・
+> CONTEXT: Map404/events/4/pages/0/514/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ど、どうしたんですか急に・・・？
+> CONTEXT: Map404/events/4/pages/0/534/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+館長！　今すぐあたし達を自由にしなさい！
+> CONTEXT: Map404/events/4/pages/0/538/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さもなくば・・・
+> CONTEXT: Map404/events/4/pages/0/539/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これがどうなってもいいのかな～？
+> CONTEXT: Map404/events/4/pages/0/541/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふへ？　なにその小瓶・・・？
+> CONTEXT: Map404/events/4/pages/0/545/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+稀薬SPL-195だ・・・
+> CONTEXT: Map404/events/4/pages/0/551/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+秋空さん、いつの間に・・・！
+> CONTEXT: Map404/events/4/pages/0/556/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さっき入った保管庫でゲットしちゃった☆
+> CONTEXT: Map404/events/4/pages/0/559/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほらほら～、やっと完成した大切な薬
+なんでしょー？
+> CONTEXT: Map404/events/4/pages/0/562/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+言うこと聞かないと、床に叩きつけて
+割っちゃうぞ～？？
+> CONTEXT: Map404/events/4/pages/0/564/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+別に構わないよ～。
+> CONTEXT: Map404/events/4/pages/0/568/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え？　お、脅しじゃないよ！？
+> CONTEXT: Map404/events/4/pages/0/572/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+本当に割っちゃうよ！？
+> CONTEXT: Map404/events/4/pages/0/573/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+床にこぼれたって成分が変わるわけじゃない
+からね。　あとで回収すれば済む話だし。
+> CONTEXT: Map404/events/4/pages/0/576/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あー・・・、その、それじゃ、ええと・・・
+> CONTEXT: Map404/events/4/pages/0/581/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んじゃ、逆に言わせてもらおうかな。
+> CONTEXT: Map404/events/4/pages/0/605/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おとなしくその小瓶を渡せば、手荒なマネは
+しないよ～。
+> CONTEXT: Map404/events/4/pages/0/606/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも悪あがきするってのなら、ちょっと
+おもしろはずかしい目に遭ってもらっちゃう
+かもね～・・・
+> CONTEXT: Map404/events/4/pages/0/608/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょ、ま、タイム！
+> CONTEXT: Map404/events/4/pages/0/614/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ええと、ええと・・・
+> CONTEXT: Map404/events/4/pages/0/615/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひめちゃん、パス！！！
+> CONTEXT: Map404/events/4/pages/0/621/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わ、わわわわわ！！
+> CONTEXT: Map404/events/4/pages/0/646/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おいおい～、大人をからかっちゃダメだぞ～！
+> CONTEXT: Map404/events/4/pages/0/649/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+早くこっちに渡さないと・・・
+> CONTEXT: Map404/events/4/pages/0/659/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひいいいぃぃっ！！！
+> CONTEXT: Map404/events/4/pages/0/663/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+と、と、常夏さんっ！！　はい！！
+> CONTEXT: Map404/events/4/pages/0/669/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とっとっと！！　セーフ・・・っ！！
+> CONTEXT: Map404/events/4/pages/0/707/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はいそこまでー！　追い詰めたよ～！
+> CONTEXT: Map404/events/4/pages/0/712/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鬼ごっこはおしまい～。　それ、返してくれる
+かな～？
+> CONTEXT: Map404/events/4/pages/0/719/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ううう・・・
+> CONTEXT: Map404/events/4/pages/0/725/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（こ、これを渡しちゃったら・・・大変なことに
+　なっちゃう・・・！）
+> CONTEXT: Map404/events/4/pages/0/726/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（きゅぽっ）
+> CONTEXT: Map404/events/4/pages/0/733/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ごくっ、ごくっ、ごくっ、ごく・・・
+> CONTEXT: Map404/events/4/pages/0/737/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぷはっ！
+> CONTEXT: Map404/events/4/pages/0/741/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・あ
+> CONTEXT: Map404/events/4/pages/0/746/Dialogue < UNTRANSLATED
+> CONTEXT: Map404/events/4/pages/0/750/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・あ
+> CONTEXT: Map404/events/4/pages/0/756/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なかなか手こずらせてくれるね。
+> CONTEXT: Map404/events/4/pages/0/760/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・何か言うことは？
+> CONTEXT: Map404/events/4/pages/0/761/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あの・・・
+> CONTEXT: Map404/events/4/pages/0/766/Dialogue < UNTRANSLATED
+> CONTEXT: Map293/events/25/pages/1/153/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/148/4880/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/3643/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご・・・ごちそうさまでした・・・
+> CONTEXT: Map404/events/4/pages/0/767/Dialogue < UNTRANSLATED
+
+> END STRING

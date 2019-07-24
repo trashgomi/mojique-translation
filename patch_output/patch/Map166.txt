@@ -1,0 +1,207 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+む？
+> CONTEXT: Map166/events/7/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんだろ？　あれってトロッコ技師の
+人たちだよね？
+> CONTEXT: Map166/events/7/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トロッコ技師
+「おっと君たち！　山越えかい？」
+> CONTEXT: Map166/events/7/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はい。　トロッコが定期メンテ中とのこと
+でしたので・・・
+> CONTEXT: Map166/events/7/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トロッコ技師
+「だからって、ちゃんと看板に従って
+　もらわなくちゃ困るよー！」
+> CONTEXT: Map166/events/7/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トロッコ技師
+「何でトンネルの中に来ちゃったのー！」
+> CONTEXT: Map166/events/7/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・え？　看板・・・ですか？
+> CONTEXT: Map166/events/7/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どれのこと？
+> CONTEXT: Map166/events/7/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トロッコ技師
+「どれって、このトンネルの入り口に立てかけて
+　あったでしょ？」
+> CONTEXT: Map166/events/7/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トロッコ技師
+「“レール点検中につき、進入禁止。　山越えの
+　方は、トンネルの上の道をご利用ください”」
+> CONTEXT: Map166/events/7/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トロッコ技師
+「ってさ。」
+> CONTEXT: Map166/events/7/pages/0/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はて、そのような看板は見た覚えが無いな。
+> CONTEXT: Map166/events/7/pages/0/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はい。　私も気が付きませんでした。
+> CONTEXT: Map166/events/7/pages/0/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わたしも見てないよ・・・？
+> CONTEXT: Map166/events/7/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トロッコ技師
+「・・・え！？」
+> CONTEXT: Map166/events/7/pages/0/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トロッコ技師
+「おかしいな、そんなはずは・・・」
+> CONTEXT: Map166/events/7/pages/0/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見習技師
+「す、すみません、先輩・・・」
+> CONTEXT: Map166/events/7/pages/0/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見習技師
+「俺・・・看板出しておくの、すっかり忘れて
+　ました・・・！」
+> CONTEXT: Map166/events/7/pages/0/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トロッコ技師
+「なんだと！？」
+> CONTEXT: Map166/events/7/pages/0/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トロッコ技師
+「だったら早く出してこい！！」
+> CONTEXT: Map166/events/7/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見習技師
+「す、すいやせんーーーっ！！」
+> CONTEXT: Map166/events/7/pages/0/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トロッコ技師
+「うちの部下がヘマしたみたいだった、
+　すまんね。」
+> CONTEXT: Map166/events/7/pages/0/156/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トロッコ技師
+「そういうわけで、今は出入り口付近のレール
+　点検中だから、ここは通れないんだ。」
+> CONTEXT: Map166/events/7/pages/0/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんなぁ～・・・
+> CONTEXT: Map166/events/7/pages/0/164/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+困るヨー！！　ちょっと通るだけだから、
+そこどいてヨー！！
+> CONTEXT: Map166/events/7/pages/0/169/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トロッコ技師
+「点検機材と交換レールを積んじゃったから、
+　通るのは無理だよ。　悪いけど。」
+> CONTEXT: Map166/events/7/pages/0/172/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ううぅ～・・・！　でも・・・でも・・・っ！
+> CONTEXT: Map166/events/7/pages/0/178/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+たこやきさん、確かにあの荷物の横を
+すり抜けるのは無理ですよ・・・
+> CONTEXT: Map166/events/7/pages/0/183/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+引き返すしかないわね。
+> CONTEXT: Map166/events/7/pages/0/187/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ずっと我慢してるのニー！！　ばかー！）
+> CONTEXT: Map166/events/7/pages/0/192/Dialogue < UNTRANSLATED
+
+> END STRING

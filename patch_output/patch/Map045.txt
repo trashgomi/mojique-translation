@@ -1,0 +1,121 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ふむ。　これが【熱さまシード】であると見た。
+> CONTEXT: Map045/events/7/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さっそく持って帰るとしよう。
+> CONTEXT: Map045/events/7/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よくこれだって分かったね。
+> CONTEXT: Map045/events/7/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それらしきオーラが出ていたからな。
+> CONTEXT: Map045/events/7/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オーラ・・・
+> CONTEXT: Map045/events/7/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+種から？
+> CONTEXT: Map045/events/7/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+目的の物が見つかったなら、こんなとこに
+用は無いわ。
+> CONTEXT: Map045/events/7/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+同意だ。　春風とは気が合うようだな。
+> CONTEXT: Map045/events/7/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こ、こんな洞窟にいつまでもいたいヤツなんか
+いるわけないでしょ！
+> CONTEXT: Map045/events/7/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんであたしが、あんたと気が合わなきゃ
+ならないのよ・・・！
+> CONTEXT: Map045/events/7/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【熱さまシード】×1
+を手に入れた！
+> CONTEXT: Map045/events/7/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【熱さまシード】×1
+を見つけたが、持ち物がいっぱいだ！
+> CONTEXT: Map045/events/7/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さて、戻るとしよう。
+> CONTEXT: Map045/events/7/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はむこ、春風、構えろ。
+> CONTEXT: Map045/events/7/pages/1/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふー・・・っ！　な、なんとか勝ったね・・・！
+> CONTEXT: Map045/events/7/pages/3/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なかなか手強い相手だったな。
+> CONTEXT: Map045/events/7/pages/3/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まったく、あんなのがいるなんて聞いてない
+わよ。
+> CONTEXT: Map045/events/7/pages/3/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+2人とも見事な手際だった。　実にすばらしい。
+> CONTEXT: Map045/events/7/pages/3/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さて、こんなところに長居は無用。
+急いで町へ戻るとしよう。
+> CONTEXT: Map045/events/7/pages/3/23/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,41 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+騎士団長ガウラ
+「いかがですか、姫。」
+> CONTEXT: Map652/events/7/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、そうじゃな・・・
+> CONTEXT: Map652/events/7/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+特に気になる点は・・・無い・・・かのう？
+（もじもじ・・・）
+> CONTEXT: Map652/events/7/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「そうですか。」
+> CONTEXT: Map652/events/7/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「残念ですが、ここでも新たな発見は無さそう
+　ですな。」
+> CONTEXT: Map652/events/7/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うむ。　よ、よし・・・次の部屋じゃ。　行くぞ。
+> CONTEXT: Map652/events/7/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING

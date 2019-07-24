@@ -1,0 +1,428 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+（あぁううぅっ！！　し、し、振動がっ！！）
+> CONTEXT: Map659/events/7/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（下腹部に、ひ、響・・・くうぅっ！！）
+> CONTEXT: Map659/events/7/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（だめじゃ！　こ、こんなところで、漏らしたり
+　してしまったら・・・っ！！）
+> CONTEXT: Map659/events/7/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（我慢じゃ！！　が、我慢じゃぁっ！！）
+> CONTEXT: Map659/events/7/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んううぅっ！！　（ぎゅぅーーっ！　ぷるぷるっ！）
+> CONTEXT: Map659/events/7/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（頼むっ！！　はやく・・・早く・・・城に・・・っ！
+　城に着いてくれぇっ！）
+> CONTEXT: Map659/events/7/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（城に、つ、着いたら・・・トイレに・・・っ！！）
+> CONTEXT: Map659/events/7/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（トイレに入って・・・おぉ、ぉ・・・ぉしっこ・・・
+　おしっこしたいっ！！　ぁああ早くううぅっ！！）
+> CONTEXT: Map659/events/7/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ガタンッ！
+> CONTEXT: Map659/events/7/pages/0/34/Dialogue < UNTRANSLATED
+> CONTEXT: Map659/events/7/pages/0/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んあぁあうっ！！
+> CONTEXT: Map659/events/7/pages/0/40/Dialogue < UNTRANSLATED
+> CONTEXT: Map659/events/7/pages/0/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（だ、だ、だめ・・・じゃ・・・）
+> CONTEXT: Map659/events/7/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（も、もう本当に・・・我慢が・・・っ！！）
+> CONTEXT: Map659/events/7/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ガウラ、ガウラ！
+> CONTEXT: Map659/events/7/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+い、今・・・どの辺りじゃ・・・！？
+> CONTEXT: Map659/events/7/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「オシル湖を抜け、城への公道を走って
+　います。」
+> CONTEXT: Map659/events/7/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「城門まで、あと10分程度で着くでしょう。」
+> CONTEXT: Map659/events/7/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（10分！　あと10分我慢すれば・・・トイレに
+　・・・！！）
+> CONTEXT: Map659/events/7/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ワラワは・・・ど、どうすれば・・・っ）
+> CONTEXT: Map659/events/7/pages/0/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あと10分我慢
+> CONTEXT: Map659/events/7/pages/0/84/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+10分も無理
+> CONTEXT: Map659/events/7/pages/0/84/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（こ、これまで必死に尿意をこらえて来たの
+　じゃ！！）
+> CONTEXT: Map659/events/7/pages/0/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（王女たるもの、あと10分程度の辛抱・・・！！）
+> CONTEXT: Map659/events/7/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（乗り切ってみせようぞっ！！）
+> CONTEXT: Map659/events/7/pages/0/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふう・・・ふう・・・っ！　んんん～っ！（ぎゅうっ）
+> CONTEXT: Map659/events/7/pages/0/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ガタッ！　ガタタンッ！
+> CONTEXT: Map659/events/7/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ！　あっ！！　ぁああっ！！
+> CONTEXT: Map659/events/7/pages/0/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（も、漏れるっ！　漏れてしまうっ！！）
+> CONTEXT: Map659/events/7/pages/0/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（だ・・・だめ・・・じゃ・・・も、もう・・・これ以上は
+　・・・げ、限・・・）
+> CONTEXT: Map659/events/7/pages/0/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ガッタンッ！！！
+> CONTEXT: Map659/events/7/pages/0/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふわあぁっ！　ぁあああっ！！
+> CONTEXT: Map659/events/7/pages/0/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんな・・・うぅ・・・
+> CONTEXT: Map659/events/7/pages/0/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+せっかく・・・ここまで我慢・・・したのに・・・っ！！
+あううぅ・・・/////
+> CONTEXT: Map659/events/7/pages/0/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「ひ、姫・・・！？」
+> CONTEXT: Map659/events/7/pages/0/152/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ううぅ・・・ち、違うんじゃ、これは・・・
+> CONTEXT: Map659/events/7/pages/0/156/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちが・・・ぐすっ、ううぅ・・・ひぐっ////
+> CONTEXT: Map659/events/7/pages/0/160/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「何か様子がおかしいと思っていましたが・・・」
+> CONTEXT: Map659/events/7/pages/0/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「そういうことでしたか・・・」
+> CONTEXT: Map659/events/7/pages/0/164/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だって・・・ガ、ガウラが・・・
+> CONTEXT: Map659/events/7/pages/0/170/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんなにいっぱい・・・ひぐ・・・っ、水、飲ませる
+から・・・っ！！
+> CONTEXT: Map659/events/7/pages/0/171/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「言ってくだされば対処できましたのに・・・」
+> CONTEXT: Map659/events/7/pages/0/174/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「気付かなかった私の責任もありますが・・・」
+> CONTEXT: Map659/events/7/pages/0/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぐすっ・・・/////
+> CONTEXT: Map659/events/7/pages/0/180/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（む、無理じゃ・・・もう・・・次の振動が来たら
+　・・・っ！）
+> CONTEXT: Map659/events/7/pages/0/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（これ以上は・・・こ、こらえきれぬぅ・・・っ！！）
+> CONTEXT: Map659/events/7/pages/0/195/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ガウラ・・・ガウラ・・・！
+> CONTEXT: Map659/events/7/pages/0/210/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「は、何か。」
+> CONTEXT: Map659/events/7/pages/0/214/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ば、馬車を・・・止めてくれ・・・っ！
+> CONTEXT: Map659/events/7/pages/0/219/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「え、馬車を・・・？」
+> CONTEXT: Map659/events/7/pages/0/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「なぜですか？」
+> CONTEXT: Map659/events/7/pages/0/223/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、その・・・ええと・・・あの・・・
+> CONTEXT: Map659/events/7/pages/0/228/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワラワ、その・・・ト、トイレ・・・
+> CONTEXT: Map659/events/7/pages/0/233/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もう、が、がまんが・・・できぬゆえ・・・/////
+> CONTEXT: Map659/events/7/pages/0/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「ト、トイレですか・・・！？」
+> CONTEXT: Map659/events/7/pages/0/236/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「なにやら様子がおかしいとは思っていましたが
+　まさか、そのような・・・」
+> CONTEXT: Map659/events/7/pages/0/238/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「しかし、馬車を止めたところで、この周辺に
+　トイレなど・・・」
+> CONTEXT: Map659/events/7/pages/0/241/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+分かっておる！　じゃ、じゃが・・・ワラワ・・・
+ほんとに・・・もう・・・っ！！
+> CONTEXT: Map659/events/7/pages/0/247/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+頼むぅ！　もう・・・限界なのじゃ・・・っ！！
+> CONTEXT: Map659/events/7/pages/0/253/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「つまり、その・・・その辺で済ませようという
+　のですか！？」
+> CONTEXT: Map659/events/7/pages/0/255/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「むうう、しかし・・・一国の姫が、そのような・・・」
+> CONTEXT: Map659/events/7/pages/0/258/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぁあっ！　は、早く！　早くぅ！　もれ、漏れて
+しまううぅっ！！
+> CONTEXT: Map659/events/7/pages/0/263/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「わ、分かりました・・・！　致し方ありませぬ。」
+> CONTEXT: Map659/events/7/pages/0/266/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「おい！　すぐに馬車を止めろ！」
+> CONTEXT: Map659/events/7/pages/0/273/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「姫が・・・ええと・・・」
+> CONTEXT: Map659/events/7/pages/0/275/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「馬車に酔ってしまわれた！　外の空気を
+　吸いたいそうだ！」
+> CONTEXT: Map659/events/7/pages/0/277/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「止めろ！」
+> CONTEXT: Map659/events/7/pages/0/280/Dialogue < UNTRANSLATED
+
+> END STRING

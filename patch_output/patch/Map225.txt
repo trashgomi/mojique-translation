@@ -1,0 +1,120 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+よう！　トロッコに乗るかい？　乗賃は
+5レンだぜ！
+> CONTEXT: Map225/events/29/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map224/events/29/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map223/events/29/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map222/events/29/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map221/events/29/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map220/events/29/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map219/events/29/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map056/events/30/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/29/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よっしゃ！　乗った乗った！！
+> CONTEXT: Map225/events/29/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map224/events/29/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map223/events/29/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map222/events/29/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map221/events/29/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map220/events/29/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map219/events/29/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map056/events/30/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/29/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+毎度ありー！
+> CONTEXT: Map225/events/29/pages/0/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map224/events/29/pages/0/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map223/events/29/pages/0/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map222/events/29/pages/0/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map221/events/29/pages/0/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map220/events/29/pages/0/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map219/events/29/pages/0/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map056/events/30/pages/0/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/29/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おいおい、金が足りねえぜ？
+> CONTEXT: Map225/events/29/pages/0/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map224/events/29/pages/0/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map223/events/29/pages/0/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map222/events/29/pages/0/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map221/events/29/pages/0/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map220/events/29/pages/0/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map219/events/29/pages/0/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map056/events/30/pages/0/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/29/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そっかい！　頑張るねぇ！
+> CONTEXT: Map225/events/29/pages/0/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map224/events/29/pages/0/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map223/events/29/pages/0/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map222/events/29/pages/0/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map221/events/29/pages/0/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map220/events/29/pages/0/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map219/events/29/pages/0/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map056/events/30/pages/0/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/29/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（あと一人・・・っ！　あ、あと・・・一人ぃ・・・っ！）
+> CONTEXT: Map225/events/31/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お！　もうちょいだね！
+> CONTEXT: Map225/events/31/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あれ？　にゃんこどうしたの！？
+> CONTEXT: Map225/events/31/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は・・・はむこぉ・・・っ！
+> CONTEXT: Map225/events/31/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（だめ、や、やっぱりもう我慢できないっ！！）
+> CONTEXT: Map225/events/31/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ト、ト、トイレ・・・っ！　行きたいから、か、か、
+代わってっ！！！
+> CONTEXT: Map225/events/31/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、うん！　分かった！　急いで！
+> CONTEXT: Map225/events/31/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ごめん・・・っ！！
+> CONTEXT: Map225/events/31/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING

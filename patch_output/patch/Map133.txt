@@ -1,0 +1,234 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ともっち～、朝だよ～！
+> CONTEXT: Map133/events/4/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+早く起きなよ～！
+> CONTEXT: Map133/events/4/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Zzz・・・んにゅぅ・・・れちゃったぁ・・・
+> CONTEXT: Map133/events/4/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Zzz・・・んにゅぅ・・・きもひぃ・・・
+> CONTEXT: Map133/events/4/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もうとっくに起きる時間よ？　ほら、ともっち！
+> CONTEXT: Map133/events/4/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うーん・・・あと5分・・・と2時間だけぇ・・・
+> CONTEXT: Map133/events/4/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・長いよ。
+> CONTEXT: Map133/events/4/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、おはよう・・・みんな・・・
+> CONTEXT: Map133/events/4/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もう朝なの・・・？
+> CONTEXT: Map133/events/4/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうよ。　だから早く起きて。
+> CONTEXT: Map133/events/4/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は～い・・・
+> CONTEXT: Map133/events/4/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・ッ！？！？
+> CONTEXT: Map133/events/4/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・？　どしたの、ともっち。
+> CONTEXT: Map133/events/4/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え？　あの、えっと・・・！
+> CONTEXT: Map133/events/4/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたし、その、着替えなきゃならないから、
+先に行ってて！！
+> CONTEXT: Map133/events/4/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+着替えるも何も、制服のまま寝てるんでしょ？
+ここ、パジャマの予備が無いんだから。
+> CONTEXT: Map133/events/4/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んと、まあそうなんだけど・・・
+> CONTEXT: Map133/events/4/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+い、今はいろいろと・・・準備があるっていうか、
+後始末があるっていうか・・・
+> CONTEXT: Map133/events/4/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もう！　ぐずぐずしないの！　ほら！
+> CONTEXT: Map133/events/4/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・え・・・？
+> CONTEXT: Map133/events/4/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、あの・・・これはね！　そうじゃなくて、
+ちがうの！
+> CONTEXT: Map133/events/4/pages/0/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だって！　トイレ全部入ってて、ぜんぜん
+空かないんだもん！！　あんなのひどいよぉ！
+> CONTEXT: Map133/events/4/pages/0/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちゃ、ちゃんと間に合ったんだもん！！　トイレ
+いっぱいだったけど、木陰までガマンしたんだ
+もん！！！
+> CONTEXT: Map133/events/4/pages/0/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+言い訳しないの。
+> CONTEXT: Map133/events/4/pages/0/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+昨日あんなにガブガブ飲んで、トイレにも
+行かずバッタリ寝ちゃうからでしょ？
+> CONTEXT: Map133/events/4/pages/0/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+す、すごい量だね・・・
+> CONTEXT: Map133/events/4/pages/0/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だって・・・だってぇ・・・！
+> CONTEXT: Map133/events/4/pages/0/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ずいぶん時間がかかっているようだが、何か
+あったのか？
+> CONTEXT: Map133/events/4/pages/0/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だ、大丈夫よ！　すぐ行くから、もう少し待って！
+> CONTEXT: Map133/events/4/pages/0/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうそう！　全然大丈夫だから、レグマくんは
+その辺を20分くらい散歩して来なよ！！
+> CONTEXT: Map133/events/4/pages/0/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうだな。　起きがけで安静状態にある体を、
+適度な運動で交感神経を刺激し、活動待機の
+状態にもっていくことも有効か。
+> CONTEXT: Map133/events/4/pages/0/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+では、散歩に行って来よう。
+> CONTEXT: Map133/events/4/pages/0/151/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほら、今のうちに後処理しましょ。　手伝うから。
+> CONTEXT: Map133/events/4/pages/0/171/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・うん。　ありがと・・・
+> CONTEXT: Map133/events/4/pages/0/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（眠っているようだ。）
+> CONTEXT: Map133/events/15/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長殿は療養中だ。
+> CONTEXT: Map133/events/16/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+くれぐれも、騒がないようにお願いする。
+> CONTEXT: Map133/events/16/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING

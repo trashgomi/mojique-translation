@@ -1,0 +1,541 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+気がついたら、また牢獄か。
+> CONTEXT: Map398/events/16/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もはや、お約束だね！
+> CONTEXT: Map398/events/16/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+嫌なお約束ね。
+> CONTEXT: Map398/events/16/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+命があるだけマシだけど。
+> CONTEXT: Map398/events/16/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+で、ここはどこかな？
+> CONTEXT: Map398/events/16/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+最後の状況から考えれば、赤いカラットか
+青いカラットの、どちらかのアジトでは
+ないでしょうか。
+> CONTEXT: Map398/events/16/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも、赤カラットのアジトは森の奥にあった
+小屋ですよね？
+> CONTEXT: Map398/events/16/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここはどう見ても小屋の中とは思えませんから、
+たぶん青カラットのアジトだと思います。
+> CONTEXT: Map398/events/16/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ということは、あの戦いは青カラット達が制したと
+見られるな。
+> CONTEXT: Map398/events/16/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うそでしょ・・・
+> CONTEXT: Map398/events/16/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だって、赤カラットの側近たちって、魔界では
+並ぶ者がいないほど強かったんじゃないの？
+> CONTEXT: Map398/events/16/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、そのはずなんですけど・・・
+> CONTEXT: Map398/events/16/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まさか、青カラットたちがあれほど強力な魔力を
+持っているなんて思いませんでした。
+> CONTEXT: Map398/events/16/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さすがは魔界の名家だね・・・
+> CONTEXT: Map398/events/16/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただ・・・
+> CONTEXT: Map398/events/16/pages/0/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+青カラットたちが発した魔力の波動には、
+ちょっと違和感と言いますか、
+> CONTEXT: Map398/events/16/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+不自然な“ゆらぎ”があったように思います。
+> CONTEXT: Map398/events/16/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゆらぎ・・・？
+> CONTEXT: Map398/events/16/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すごく不安定で、制御しきれていない・・・
+> CONTEXT: Map398/events/16/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんな感じです。
+> CONTEXT: Map398/events/16/pages/0/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+緊張してたのかな？
+> CONTEXT: Map398/events/16/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんな性格には見えなかったが。
+> CONTEXT: Map398/events/16/pages/0/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+“そんな性格”で悪かったですわね！！！
+> CONTEXT: Map398/events/16/pages/0/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+青カラット！！
+> CONTEXT: Map398/events/16/pages/0/137/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何ですの、そのセンスのお欠片もない
+呼び方は！
+> CONTEXT: Map398/events/16/pages/0/143/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちゃんと“蒼麗の歌姫カラット様”とお呼びな
+さいな！！
+> CONTEXT: Map398/events/16/pages/0/147/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それもどうかと思うけど・・・
+> CONTEXT: Map398/events/16/pages/0/151/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぶっちゃけ、歌わないしね。
+> CONTEXT: Map398/events/16/pages/0/156/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+青カラットがいるってことは、やっぱここは
+青カラットのアジトなんだね。
+> CONTEXT: Map398/events/16/pages/0/160/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我々をどうするつもりだ。
+> CONTEXT: Map398/events/16/pages/0/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+本来であれば、危険因子である熾天少女など
+凍てつく氷に閉じ込めてパンギーニ家の栄光の
+証としてお玄関に飾ってさしあげるところですわ。
+> CONTEXT: Map398/events/16/pages/0/170/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかしあの方の要望ですから、今回は実験体
+として提供しますのよ！
+> CONTEXT: Map398/events/16/pages/0/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+借りを作ったままにするのもイヤだしね。
+> CONTEXT: Map398/events/16/pages/0/181/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あの方・・・？
+> CONTEXT: Map398/events/16/pages/0/185/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じ、じ、実験体って・・・ど、どういうことですか
+・・・！？
+> CONTEXT: Map398/events/16/pages/0/189/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まあまあまあ！！　おびえきってしまって
+かわい・・・
+> CONTEXT: Map398/events/16/pages/0/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+痛・・・っ！！
+> CONTEXT: Map398/events/16/pages/0/198/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+姉さん・・・まだ傷が・・・
+> CONTEXT: Map398/events/16/pages/0/204/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+忌々しいですわ・・・
+> CONTEXT: Map398/events/16/pages/0/208/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わたくしの気高き体に、これほど深いダメージを
+刻みこむなど・・・！！
+> CONTEXT: Map398/events/16/pages/0/209/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+赤カラットたちとの戦いには勝ったものの、
+ほとんど相討ちに近い決着だったみたいね。
+> CONTEXT: Map398/events/16/pages/0/214/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+行きますわよ、サッファ。
+> CONTEXT: Map398/events/16/pages/0/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+来たるダジェルバージ家との決戦に備えて
+お体力の回復を図らなくてはなりませんわ。
+> CONTEXT: Map398/events/16/pages/0/222/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうだね。　後のことは、あの人に任せよう。
+> CONTEXT: Map398/events/16/pages/0/228/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+では熾天少女のみなさん、ごきげんよう。
+> CONTEXT: Map398/events/16/pages/0/231/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今度流れ星を見かけたら、「赤と青がちゃんと
+共倒れになりますように」ってお願いしとくね。
+> CONTEXT: Map398/events/16/pages/0/275/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+地味に陰湿だ・・・
+> CONTEXT: Map398/events/16/pages/0/280/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さて、このままむざむざ実験体とやらにされる
+わけにはいかない。
+> CONTEXT: Map398/events/16/pages/0/284/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうにかして脱出しましょう・・・！
+> CONTEXT: Map398/events/16/pages/0/290/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここにいる熾天少女たちの力をすべて一点に
+集中させれば、鉄格子を破壊できるかも
+しれない。
+> CONTEXT: Map398/events/16/pages/0/294/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+試してみよう。
+> CONTEXT: Map398/events/16/pages/0/297/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うーん・・・それなんだけど・・・
+> CONTEXT: Map398/events/16/pages/0/300/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんだか、いつものように熾力をうまく発揮
+できないんです・・・
+> CONTEXT: Map398/events/16/pages/0/304/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、みんなも？
+> CONTEXT: Map398/events/16/pages/0/309/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+実はわたしもそうなんだよねー。
+> CONTEXT: Map398/events/16/pages/0/310/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どういうことだ？
+> CONTEXT: Map398/events/16/pages/0/314/Dialogue < UNTRANSLATED
+> CONTEXT: Map219/events/35/pages/0/147/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+分からないわ。
+> CONTEXT: Map398/events/16/pages/0/318/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+力そのものは持ってるんだけど、何かの
+抑制力に邪魔されているみたいな感じかしら。
+> CONTEXT: Map398/events/16/pages/0/319/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ま、まさか・・・気絶している間に、体に細工を
+・・・！？
+> CONTEXT: Map398/events/16/pages/0/326/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うそ！？　ど、どこにナニを！？
+> CONTEXT: Map398/events/16/pages/0/332/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「安心してください。　体には何もしていません。」
+> CONTEXT: Map398/events/16/pages/0/334/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この地下施設には、熾力に干渉して力を
+弱める装置が配備されているだけです。
+> CONTEXT: Map398/events/16/pages/0/364/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+外へ出てしまえば、従来の力を発揮できる
+でしょう。
+> CONTEXT: Map398/events/16/pages/0/366/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あなたは・・・！
+> CONTEXT: Map398/events/16/pages/0/371/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+確か・・・
+> CONTEXT: Map398/events/16/pages/0/379/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+誰だっけ？
+> CONTEXT: Map398/events/16/pages/0/384/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルミィです。
+> CONTEXT: Map398/events/16/pages/0/388/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+熾力研究館長の、助手です。
+> CONTEXT: Map398/events/16/pages/0/389/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、思い出した！！
+> CONTEXT: Map398/events/16/pages/0/393/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え？　あれ？
+> CONTEXT: Map398/events/16/pages/0/397/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんでルミィさんが青カラットのアジトにいるの？
+> CONTEXT: Map398/events/16/pages/0/401/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここは熾力研究館の地下施設です。
+青カラットのアジトではありません。
+> CONTEXT: Map398/events/16/pages/0/406/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+待て、話が見えない。
+> CONTEXT: Map398/events/16/pages/0/411/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今、我々は熾力研究館に監禁されていると
+言うのか？
+> CONTEXT: Map398/events/16/pages/0/412/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え？　え？　だって、さっき青カラットたちが
+・・・えええ？
+> CONTEXT: Map398/events/16/pages/0/417/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+説明している時間はありません。
+私も長くここに居ては怪しまれてしまいます。
+> CONTEXT: Map398/events/16/pages/0/423/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今は早くここから逃げてください。
+> CONTEXT: Map398/events/16/pages/0/440/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+では。
+> CONTEXT: Map398/events/16/pages/0/441/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+状況がまったく飲み込めないでござる。
+> CONTEXT: Map398/events/16/pages/0/466/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+同じく。
+> CONTEXT: Map398/events/16/pages/0/470/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+と、とりあえず外に出られるなら、このチャンスを
+逃す手はありません・・・！
+> CONTEXT: Map398/events/16/pages/0/477/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうですね。　今はとにかく脱出することを
+考えましょう。
+> CONTEXT: Map398/events/16/pages/0/482/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よし。　状況把握は後だ。
+> CONTEXT: Map398/events/16/pages/0/487/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+行こう。
+> CONTEXT: Map398/events/16/pages/0/488/Dialogue < UNTRANSLATED
+> CONTEXT: Map293/events/25/pages/1/255/Dialogue < UNTRANSLATED
+
+> END STRING

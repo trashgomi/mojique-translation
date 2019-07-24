@@ -1,0 +1,14 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+魔物が急に増え始めたのは、つい最近の
+ことよ。
+> CONTEXT: Map030/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+予期せぬ事態に、国も対応しきれていない
+みたいね。
+> CONTEXT: Map030/events/2/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING

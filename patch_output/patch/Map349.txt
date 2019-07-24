@@ -1,0 +1,87 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ここを進めば、オシル湖へ出られるのだな。
+> CONTEXT: Map349/events/9/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物が出るかもしれない。　注意して行くと
+しよう。
+> CONTEXT: Map349/events/9/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+！！　階段が・・・
+> CONTEXT: Map349/events/9/pages/0/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「ヒヒヒヒ！！！　まったくバカなやつらだぜ！」
+> CONTEXT: Map349/events/9/pages/0/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「こんな簡単な罠にかかっちまうとはなぁ！！」
+> CONTEXT: Map349/events/9/pages/0/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まさか・・・カラットの手下！？
+> CONTEXT: Map349/events/9/pages/0/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そう言えばあの人たち、わずかに魔力を
+まとっていた気がします・・・！
+> CONTEXT: Map349/events/9/pages/0/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我ながら、なんとも陳腐な罠にハマった
+ものだ。
+> CONTEXT: Map349/events/9/pages/0/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+連続する四天王への勝利で、浮足立って
+いたのかもしれない。　すまなかった。
+> CONTEXT: Map349/events/9/pages/0/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レグマくんのせいじゃないよー！　みんな
+気付かなかったし！
+> CONTEXT: Map349/events/9/pages/0/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まあ、引っかかっちゃったものはしょうがない
+から、早いとこ脱出しよ？
+> CONTEXT: Map349/events/9/pages/0/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうだな。　この様子では階段は使えない。
+> CONTEXT: Map349/events/9/pages/0/137/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+向こう側が地上につながっていることを
+祈って進むとしよう。
+> CONTEXT: Map349/events/9/pages/0/138/Dialogue < UNTRANSLATED
+
+> END STRING

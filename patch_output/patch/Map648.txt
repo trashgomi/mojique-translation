@@ -1,0 +1,78 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+思ったより長い洞窟じゃったな。
+> CONTEXT: Map648/events/7/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃが、ヌシらのおかげで無事抜けることが
+できた。
+> CONTEXT: Map648/events/7/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「姫が無事なのは当然であるべきです。」
+> CONTEXT: Map648/events/7/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふふ、いつもながら頼もしいのう。
+> CONTEXT: Map648/events/7/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さて、熾天宮はここから近いのか？
+> CONTEXT: Map648/events/7/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「はい。　エント村の前の公道を西へ少し
+　歩けば、すぐに到着します。」
+> CONTEXT: Map648/events/7/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふむ、分かった。
+> CONTEXT: Map648/events/7/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（・・・村、か・・・）
+> CONTEXT: Map648/events/7/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（さすがに、一国の王女が突然村を訪れれば
+　騒ぎになってしまうのう・・・）
+> CONTEXT: Map648/events/7/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（しかたない、トイレは我慢するとしよう・・・）
+> CONTEXT: Map648/events/7/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「・・・姫？」
+> CONTEXT: Map648/events/7/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ん？　ああ、すまぬ。　行くとしよう。
+> CONTEXT: Map648/events/7/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING

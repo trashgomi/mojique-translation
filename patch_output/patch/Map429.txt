@@ -1,0 +1,73 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+どうやらここが温泉の湧き出し口のようだな。
+> CONTEXT: Map429/events/4/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+確かに、すごい蒸気ね。　メガネが曇りそう。
+> CONTEXT: Map429/events/4/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さてさて、イタズラな魔物さんはどこかな～？
+> CONTEXT: Map429/events/4/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+痛っ！！
+> CONTEXT: Map429/events/4/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+な、なにこれ・・・！　目の前に見えない壁が
+・・・！
+> CONTEXT: Map429/events/4/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+本当だ・・・なんだか、生暖かい透明な壁が・・・
+> CONTEXT: Map429/events/4/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これは・・・！
+> CONTEXT: Map429/events/4/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+みなさん、気をつけてください！！　魔物です！
+> CONTEXT: Map429/events/4/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふむ、湧き出しの勢いが増しているな。
+> CONTEXT: Map429/events/4/pages/2/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さっきの魔物がふさいでいたのね。
+> CONTEXT: Map429/events/4/pages/2/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃあ、これで温泉復活だね！？
+> CONTEXT: Map429/events/4/pages/2/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だね！　さっそく秘湯に戻ってみよう！！
+> CONTEXT: Map429/events/4/pages/2/19/Dialogue < UNTRANSLATED
+
+> END STRING

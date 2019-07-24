@@ -1,0 +1,7 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+重く閉まっている・・・
+> CONTEXT: Map340/events/9/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map340/events/10/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

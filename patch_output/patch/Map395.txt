@@ -1,0 +1,922 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+この小屋は・・・
+> CONTEXT: Map395/events/11/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おおー！　いい感じのロッジだね！
+> CONTEXT: Map395/events/11/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、余談だけど、「ろっじ」を変換すると「六時」
+になっちゃうのは、わたしのパソコンだけかな？
+> CONTEXT: Map395/events/11/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほんと、これでもかってくらい余談ね・・・
+> CONTEXT: Map395/events/11/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これって、カラットのアジトなのでは・・・？
+> CONTEXT: Map395/events/11/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうだと思います・・・！
+> CONTEXT: Map395/events/11/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+中から、ものすごい魔力の波動を感じます！
+> CONTEXT: Map395/events/11/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よし！　火をつけよう！
+> CONTEXT: Map395/events/11/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だめよ・・・！
+> CONTEXT: Map395/events/11/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ビオラさんが中に捕らわれているかも
+しれないでしょ！
+> CONTEXT: Map395/events/11/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「ふっふ～♪　ふんふふ～ん♪」
+> CONTEXT: Map395/events/11/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鼻歌が聞こえるぞ。
+> CONTEXT: Map395/events/11/pages/0/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どこかで聞いた声だね・・・
+> CONTEXT: Map395/events/11/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふんふ～♪　ふっふぅ～♪
+> CONTEXT: Map395/events/11/pages/0/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（セリフ）たべる小魚、青い海からカルシウム！
+> CONTEXT: Map395/events/11/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ららっとぅ、ふっふ～♪
+> CONTEXT: Map395/events/11/pages/0/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+楽しそうに洗濯してるーーーーっ！！！
+> CONTEXT: Map395/events/11/pages/0/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あー・・・ビオラさん？
+> CONTEXT: Map395/events/11/pages/0/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うわ！！！　サボってません！！　ちゃんと
+やってます！！！！
+> CONTEXT: Map395/events/11/pages/0/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・って、あなた達は・・・！！
+> CONTEXT: Map395/events/11/pages/0/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お前がジャクラの森から帰って来ないことを
+心配した騎士団長の依頼で、救出に来た。
+> CONTEXT: Map395/events/11/pages/0/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こんなとこで、いったい何を・・・？
+> CONTEXT: Map395/events/11/pages/0/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あああ、助かりました！！　ありがとう
+ございます！！
+> CONTEXT: Map395/events/11/pages/0/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+実は、この森で演習をしていたところ、
+偶然にも煉絶の姫君カラットの一味を
+発見してしまいまして、
+> CONTEXT: Map395/events/11/pages/0/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵のアジトを探るべく、単身乗り込んで
+来たのはいいものの・・・
+> CONTEXT: Map395/events/11/pages/0/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あっけなく見つかってしまい、捕虜にされて
+このような雑用を・・・
+> CONTEXT: Map395/events/11/pages/0/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+逃げたら何をされるか・・・うぅ・・・
+> CONTEXT: Map395/events/11/pages/0/136/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・なんか、致命的に無鉄砲な方のようです・・・
+> CONTEXT: Map395/events/11/pages/0/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+北部の時と変わってないわね・・・
+> CONTEXT: Map395/events/11/pages/0/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ビオラさん、今ロッジの中にいるのは
+何人ですか？
+> CONTEXT: Map395/events/11/pages/0/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+3人です。
+> CONTEXT: Map395/events/11/pages/0/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一番エラそうな小さな女の子が、カラット本人
+です。
+> CONTEXT: Map395/events/11/pages/0/154/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その他に、側近と思われる人物が2人いました。
+目つきは悪いけど意外と女子力の高い
+女の人と、何が面白いのかずっと笑いっぱなし
+の、楽しげな女の人です。
+> CONTEXT: Map395/events/11/pages/0/156/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+間違いありません、ヴィスティとブロンシュ
+です・・・！
+> CONTEXT: Map395/events/11/pages/0/164/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今戦うのは危険すぎます、早くこの場を
+離れましょう！
+> CONTEXT: Map395/events/11/pages/0/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+し、熾天少女であるあなた方が敵わないと
+言うんですか・・・！？
+> CONTEXT: Map395/events/11/pages/0/171/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひいぃぃっ！
+> CONTEXT: Map395/events/11/pages/0/173/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とにかく、3人がロッジの中にいる今が
+チャンスだよ！
+> CONTEXT: Map395/events/11/pages/0/177/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この場は任せて、早く逃げて！
+> CONTEXT: Map395/events/11/pages/0/181/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いつもいつもありがとうございます！！
+> CONTEXT: Map395/events/11/pages/0/185/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、それではお言葉に甘えて、撤退させて
+いただきます！！
+> CONTEXT: Map395/events/11/pages/0/186/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+みなさんも、どうかご無事で！！
+> CONTEXT: Map395/events/11/pages/0/188/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とりあえず、目標は達成したな。
+> CONTEXT: Map395/events/11/pages/0/224/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はい、無事で良かったですね。
+> CONTEXT: Map395/events/11/pages/0/229/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それじゃ、気付かれないうちにあたし達も
+この場を離れましょう・・・
+> CONTEXT: Map395/events/11/pages/0/232/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おい捕虜子！！　洗濯が終わったら、
+村まで焼きそばパン・・・
+> CONTEXT: Map395/events/11/pages/0/261/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+げえええええ！！　熾天少女おおおおお！！？
+> CONTEXT: Map395/events/11/pages/0/280/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見つかってしまったか。
+> CONTEXT: Map395/events/11/pages/0/284/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+姿を見られてしまったからには、仕方ない・・・
+> CONTEXT: Map395/events/11/pages/0/287/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+悪いが、ここで消えてもらおうか・・・！！
+> CONTEXT: Map395/events/11/pages/0/291/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひえええええっ　たﾞすﾞけﾞてﾞえﾞぇぇぇ！！！！
+> CONTEXT: Map395/events/11/pages/0/295/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カラット様、何事ですか・・・！！
+> CONTEXT: Map395/events/11/pages/0/320/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なになにー？　騎士団の奇襲か何かー？
+えへへへへ！！
+> CONTEXT: Map395/events/11/pages/0/323/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴィスティ、ブロンシュ！　こいつらが例の
+熾天少女だ！！
+> CONTEXT: Map395/events/11/pages/0/332/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+早くやっつけろ！！
+> CONTEXT: Map395/events/11/pages/0/334/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なるほど、あなた方が次代の熾天少女という
+わけですか。
+> CONTEXT: Map395/events/11/pages/0/339/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よくこのアジトを見つけましたね。
+> CONTEXT: Map395/events/11/pages/0/341/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こんな森の奥深くなら、絶対バレないと
+思ったのにねー！　えへ！
+> CONTEXT: Map395/events/11/pages/0/344/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あー！！　精霊王こむちゃんだ！！
+えへへへへ！！　久しぶりだねー！！
+> CONTEXT: Map395/events/11/pages/0/348/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あー・・・ひ、久しぶりです。
+> CONTEXT: Map395/events/11/pages/0/354/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（相変わらず調子狂うな、この人・・・）
+> CONTEXT: Map395/events/11/pages/0/355/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こ、この2人がめちゃくちゃ強い側近の人たち
+なんだね・・・
+> CONTEXT: Map395/events/11/pages/0/360/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうするの、早乙女？　戦うの・・・？
+> CONTEXT: Map395/events/11/pages/0/365/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+隙を見て逃走できれば、それに越したことは
+ない。
+> CONTEXT: Map395/events/11/pages/0/369/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だが、簡単には許してくれないだろう。
+> CONTEXT: Map395/events/11/pages/0/371/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+下手に背中を見せると、かえって危険です・・・
+> CONTEXT: Map395/events/11/pages/0/377/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この状況では、応戦するしか・・・！
+> CONTEXT: Map395/events/11/pages/0/378/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+熾天少女の持つ力がどれほど強力かは
+よく知っています。
+> CONTEXT: Map395/events/11/pages/0/383/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+手加減はしません。　全力で潰させて
+いただきますよ・・・！
+> CONTEXT: Map395/events/11/pages/0/389/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「あらあらあら！！　どうやらお取り込み中の
+　ようですわね！！！
+> CONTEXT: Map395/events/11/pages/0/393/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・このムカつく高飛車な声は・・・！！
+> CONTEXT: Map395/events/11/pages/0/404/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+久しいわね！　ダジェルバージの小娘たち！！
+> CONTEXT: Map395/events/18/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+パンギーニ家・・・！！
+> CONTEXT: Map395/events/18/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+また我々の邪魔をしにきたのですか・・・？
+> CONTEXT: Map395/events/18/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+当然ですわ！！　あなた方に会う理由が他に
+ありまして？
+> CONTEXT: Map395/events/18/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どこへ行っても、ちょっかい出してくるよねー！
+えへへ！！　えへへへへへ！！！
+> CONTEXT: Map395/events/18/pages/0/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+宿命みたいなもんだからね。
+> CONTEXT: Map395/events/18/pages/0/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こ・・・こりゃあ大変なことになってきたよ・・・
+> CONTEXT: Map395/events/18/pages/0/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも、これは逆にチャンスじゃない？
+> CONTEXT: Map395/events/18/pages/0/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+両者がにらみ合っているうちに、そーっと
+逃げられないでしょうか・・・？
+> CONTEXT: Map395/events/18/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この位置から気付かれずに出口へ向かうのは
+ちょっと難しいんじゃないかな・・・
+> CONTEXT: Map395/events/18/pages/0/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今は目立つ行動は控えよう。
+> CONTEXT: Map395/events/18/pages/0/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+このまま様子を見る。
+> CONTEXT: Map395/events/18/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フン！　性懲りもなく歯向かってくるなんて
+パンギーニ家の学習能力を疑いたくなるぞ！
+> CONTEXT: Map395/events/18/pages/0/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何度やったって、お前なんかあたし達には
+勝てないのさ！！
+> CONTEXT: Map395/events/18/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カラット様のおっしゃる通りです。
+> CONTEXT: Map395/events/18/pages/0/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+確かにあなたの魔力は並ではありません。
+> CONTEXT: Map395/events/18/pages/0/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし、その程度では私やブロンシュには
+遠く及びません。
+> CONTEXT: Map395/events/18/pages/0/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これまで何度も証明してきたはずですが？
+> CONTEXT: Map395/events/18/pages/0/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まあまあまあ！　言わせておけば下らない
+お戯言ばかり！！
+> CONTEXT: Map395/events/18/pages/0/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+思考の根拠が過去の情報にしか無いなんて、
+それこそ愚の骨頂ですこと！！
+> CONTEXT: Map395/events/18/pages/0/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もう昔の私じゃない」って言いたいらしいよ。
+> CONTEXT: Map395/events/18/pages/0/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほう。　何か対策でも練ってきたようですね。
+> CONTEXT: Map395/events/18/pages/0/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えへへへへへへ！！　なんだろうー？
+楽しみだねー！！　えへへ！！
+> CONTEXT: Map395/events/18/pages/0/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+のんきに笑っていられるのも今のうち・・・
+> CONTEXT: Map395/events/18/pages/0/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+手加減などせず、最初から全力で攻めてくる
+ことをお勧めしますわ・・・！！
+> CONTEXT: Map395/events/18/pages/0/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔力が・・・急激に・・・！
+> CONTEXT: Map395/events/18/pages/0/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+な、何！？　何が起きてるの！？
+> CONTEXT: Map395/events/18/pages/0/169/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やるからには、僕も手は抜かない。
+> CONTEXT: Map395/events/18/pages/0/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今のうちにせいぜい覚悟しておくんだね。
+> CONTEXT: Map395/events/18/pages/0/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふ、2人とも、お城で会った時より、はるかに
+強い魔力を・・・！
+> CONTEXT: Map395/events/18/pages/0/181/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブロンシュ、あの2人の魔力・・・あなたと同格
+レベルのようです・・・
+> CONTEXT: Map395/events/18/pages/0/188/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうみたいだねー！　わたしもびっくり！
+えへへへ！！
+> CONTEXT: Map395/events/18/pages/0/192/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さすがに見抜くのが早いですわね！！
+> CONTEXT: Map395/events/18/pages/0/198/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし・・・これでもまだ本気ではありません
+のよ？
+> CONTEXT: Map395/events/18/pages/0/199/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どんな手を使ったのか知りませんが、これなら
+久しぶりに本気を出せそうです。
+> CONTEXT: Map395/events/18/pages/0/205/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+楽しませていただきましょうか・・・！！
+> CONTEXT: Map395/events/18/pages/0/212/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カラット様、危ないので小屋の中へ。
+> CONTEXT: Map395/events/18/pages/0/213/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お、おう！　後は任せたぞ、ヴィスティ、
+ブロンシュ！！
+> CONTEXT: Map395/events/18/pages/0/219/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+無駄なこと！！
+> CONTEXT: Map395/events/18/pages/0/245/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あなた方2人を倒した後、あの小娘もじっくり
+お料理してさしあげますわ！！！
+> CONTEXT: Map395/events/18/pages/0/246/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+させません・・・っ！！
+> CONTEXT: Map395/events/18/pages/0/252/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・くっ
+> CONTEXT: Map395/events/18/pages/0/277/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+な、なんて力なの・・・！！
+> CONTEXT: Map395/events/18/pages/0/282/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だめ・・・近づけない・・・っ！！
+> CONTEXT: Map395/events/18/pages/0/287/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なるほど・・・！　大口を叩くだけのことは
+ありますね・・・！！
+> CONTEXT: Map395/events/18/pages/0/291/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すごーーい！！　たのしいねー！！
+えへへ！！　えへ、えへへへへへ！！！
+> CONTEXT: Map395/events/18/pages/0/295/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+余力を残しているのは向こうも同じみたいだよ、
+姉さん。
+> CONTEXT: Map395/events/18/pages/0/301/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そのようですわね、サッファ。
+> CONTEXT: Map395/events/18/pages/0/307/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ならば全力を出さざるを得ないようにして
+さしあげますわ！！！！
+> CONTEXT: Map395/events/18/pages/0/308/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はああああああああ！！！
+> CONTEXT: Map395/events/18/pages/0/312/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひええええ！！　すごい衝撃波が迫ってくるう
+ううううう！！！
+> CONTEXT: Map395/events/18/pages/0/320/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ぶるぶるぶるぶるっ）
+> CONTEXT: Map395/events/18/pages/0/325/Dialogue < UNTRANSLATED
+> CONTEXT: Map200/events/4/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・はぁ・・・はぁ・・・
+> CONTEXT: Map395/events/18/pages/0/337/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+や・・・やはり伝説の魔導具の使い手は・・・
+ダテじゃありませんわね・・・
+> CONTEXT: Map395/events/18/pages/0/338/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まさか・・・はぁ・・・はぁ・・・あなたがこれほどの
+力を持っているとは・・・
+> CONTEXT: Map395/events/18/pages/0/343/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+油断しましたよ・・・はぁ・・・はぁ・・・
+> CONTEXT: Map395/events/18/pages/0/345/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えへ・・・えへへ・・・わたしも、もうボロボロだよー
+えへへへへ！
+> CONTEXT: Map395/events/18/pages/0/349/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見事に全員、満身創痍だね・・・ふう・・・
+> CONTEXT: Map395/events/18/pages/0/355/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（両者の戦闘力は拮抗していますが・・・）
+> CONTEXT: Map395/events/18/pages/0/360/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（こちらはカラット様を守りながら戦う分、状況は
+　不利ですね・・・）
+> CONTEXT: Map395/events/18/pages/0/361/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブロンシュ、引き上げますよ。
+> CONTEXT: Map395/events/18/pages/0/363/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えへへへ！　引き上げちゃおっかー！　えへ！
+> CONTEXT: Map395/events/18/pages/0/367/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あら！　お尻尾を巻いて逃げるんですの？
+> CONTEXT: Map395/events/18/pages/0/373/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見下げ果てましたわ！！
+> CONTEXT: Map395/events/18/pages/0/374/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+挑発行為は暗に自身の窮地を示唆していると
+見ました。　違いますか？
+> CONTEXT: Map395/events/18/pages/0/379/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「強がるな」って言いたいらしいよ。
+> CONTEXT: Map395/events/18/pages/0/385/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+くっ・・・まあ憎らしいこと・・・！
+> CONTEXT: Map395/events/18/pages/0/389/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+熾天少女たちを仕留めそこなったのは
+遺憾ですが、仕方ありません。
+> CONTEXT: Map395/events/18/pages/0/395/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ではこれにて失礼。
+> CONTEXT: Map395/events/18/pages/0/397/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃあねー！　また会おうねー！！　えへへへ！
+> CONTEXT: Map395/events/18/pages/0/401/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+次は決着付けてやるからなー！　覚悟しとけ
+よー！！
+> CONTEXT: Map395/events/18/pages/0/406/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、待てー！　置いてくなー！！
+> CONTEXT: Map395/events/18/pages/0/412/Dialogue < UNTRANSLATED
+
+> END STRING

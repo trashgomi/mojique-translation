@@ -1,0 +1,660 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+たどり着いたようだな。
+> CONTEXT: Map475/events/10/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルミィさんが連れて来られた隠れ家、ここで
+間違いないでしょう・・・
+> CONTEXT: Map475/events/10/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+みんな！　突撃の準備はいい！？
+> CONTEXT: Map475/events/10/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんたって、アクションゲーでひたすら突進技を
+連発するタイプでしょ。
+> CONTEXT: Map475/events/10/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+中がどうなっているか分からない。　正面から
+いきなり突入するのはまずいだろう。
+> CONTEXT: Map475/events/10/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルミィさんも捕まってるし。
+> CONTEXT: Map475/events/10/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+気にせず攻め込んじゃえばいいんじゃないの
+カー？
+> CONTEXT: Map475/events/10/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だ、だめですよ・・・！
+> CONTEXT: Map475/events/10/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手は、魔力を増幅させた青カラットだ。
+> CONTEXT: Map475/events/10/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+人質もいる中で、まともにぶつかり合うのは
+得策ではない。
+> CONTEXT: Map475/events/10/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊団アジトのように、どこか侵入できる
+経路があればいいのだが・・・
+> CONTEXT: Map475/events/10/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、それでまた罠に掛かるのはイヤよ・・・！？
+> CONTEXT: Map475/events/10/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・お？
+> CONTEXT: Map475/events/10/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そこに何か落ちてるよ？
+> CONTEXT: Map475/events/10/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+手紙だ！
+> CONTEXT: Map475/events/10/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この字はルミィさんのだよ！
+> CONTEXT: Map475/events/10/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あと、小さなビンもあります。
+> CONTEXT: Map475/events/10/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そこの小窓から外に投げたようですね。
+> CONTEXT: Map475/events/10/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+手紙は何て書いてあるんダー？
+> CONTEXT: Map475/events/10/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んーと・・・
+> CONTEXT: Map475/events/10/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『内部では、白カラットが配置した警備担当の
+　盗賊が複数で見回りをしています』
+> CONTEXT: Map475/events/10/pages/0/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『入口は正面の扉しかないので、普通の
+　手段では見つからずに侵入することは
+　不可能です』
+> CONTEXT: Map475/events/10/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+終わった・・・
+> CONTEXT: Map475/events/10/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まだ続きがあるよ！
+> CONTEXT: Map475/events/10/pages/0/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『ただし、入口付近の見回りが交代のため、
+　数分間だけいなくなるタイミングが正午と15時
+　の2回あります』
+> CONTEXT: Map475/events/10/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『その隙に、“透過剤”を使用して内部に侵入
+　してください』
+> CONTEXT: Map475/events/10/pages/0/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+透過剤・・・この小瓶のことか。
+> CONTEXT: Map475/events/10/pages/0/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『透過剤は、飲むと姿を消すことができる
+　呪薬です』
+> CONTEXT: Map475/events/10/pages/0/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『しかし、効果が発揮されるのは適性を持った
+　人のみです』
+> CONTEXT: Map475/events/10/pages/0/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『適性を確認するためには、透過剤を少量
+　腕にたらして、青い煙が出るかどうかチェック
+　してください』
+> CONTEXT: Map475/events/10/pages/0/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『青い煙が出れば、透過剤が有効に働く証拠
+　です』
+> CONTEXT: Map475/events/10/pages/0/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+姿を消せるなんて、す、すごいわね・・・
+> CONTEXT: Map475/events/10/pages/0/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+つまり、この薬が効く人間が透明化し、正午の
+瞬間に内部に侵入して15時のタイミングで
+ルミィを救出すればいいのだな。
+> CONTEXT: Map475/events/10/pages/0/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+透明人間になれるのカー！　おもしろそうだ
+ネー！
+> CONTEXT: Map475/events/10/pages/0/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+では、さっそく試してみましょう。
+> CONTEXT: Map475/events/10/pages/0/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+青い煙・・・出ない・・・
+> CONTEXT: Map475/events/10/pages/0/160/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたしも・・・
+（透明化、してみたかったわ・・・）
+> CONTEXT: Map475/events/10/pages/0/164/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+で、出ました・・・青い煙・・・
+> CONTEXT: Map475/events/10/pages/0/170/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お！　ほんとだ！　ひめちゃんすごい！！
+> CONTEXT: Map475/events/10/pages/0/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+他に、出た者はいるか？
+> CONTEXT: Map475/events/10/pages/0/180/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んー・・・ヒメだけみたいだネー。
+> CONTEXT: Map475/events/10/pages/0/185/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んじゃ、ひめが今回の救出役だね！
+> CONTEXT: Map475/events/10/pages/0/189/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ・・・う・・・わ、私にできるのでしょうか・・・！？
+> CONTEXT: Map475/events/10/pages/0/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+透過剤の適性者は桐生だけだ。
+> CONTEXT: Map475/events/10/pages/0/197/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我々としては、お前に頼むしかない。
+> CONTEXT: Map475/events/10/pages/0/198/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うう・・・で、できるだけ・・・がんばりますっ！
+> CONTEXT: Map475/events/10/pages/0/201/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はい、透過剤。
+> CONTEXT: Map475/events/10/pages/0/205/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この量だと、一回分かしら。
+> CONTEXT: Map475/events/10/pages/0/206/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それじゃ・・・飲みますね・・・
+> CONTEXT: Map475/events/10/pages/0/210/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ごく・・・
+> CONTEXT: Map475/events/10/pages/0/213/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+消えたーーーーーーーっ！！！
+> CONTEXT: Map475/events/10/pages/0/228/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぁ、わ、あ、ぁ、き、き、消えてる・・・！　ふえぇ！
+> CONTEXT: Map475/events/10/pages/0/231/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+実際に消える瞬間を見ると、驚くな。
+> CONTEXT: Map475/events/10/pages/0/235/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも、服は消えないんだナー！
+> CONTEXT: Map475/events/10/pages/0/240/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+服がしゃべってるみたいでおもしろいヨー！
+> CONTEXT: Map475/events/10/pages/0/241/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これなら、見つからずに侵入できるね！
+> CONTEXT: Map475/events/10/pages/0/245/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+問題は、音を立てないように注意しなきゃ
+ならないのと・・・
+> CONTEXT: Map475/events/10/pages/0/249/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あと、その・・・
+> CONTEXT: Map475/events/10/pages/0/251/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふ、服を全部脱いで行かないと、ですね・・・
+> CONTEXT: Map475/events/10/pages/0/254/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぅ・・・っ
+> CONTEXT: Map475/events/10/pages/0/257/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+で、でも、それは・・・っ/////
+> CONTEXT: Map475/events/10/pages/0/258/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひめちゃ～ん、ルミィさんの安全のためだよ～？
+> CONTEXT: Map475/events/10/pages/0/261/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここは文字通り、一肌脱いじゃおうよ～！
+> CONTEXT: Map475/events/10/pages/0/262/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（進めづらい話になってきたな・・・）
+> CONTEXT: Map475/events/10/pages/0/266/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+透明だから大丈夫だよー！　ほらほらほらー！
+> CONTEXT: Map475/events/10/pages/0/269/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんなら、あたしが脱がせて・・・
+> CONTEXT: Map475/events/10/pages/0/270/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じじじじ、じじ自分でやりますううぅぅ！！
+> CONTEXT: Map475/events/10/pages/0/278/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・っ/////////
+> CONTEXT: Map475/events/10/pages/0/315/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もう、ひめがどこにいるのかぜんぜん
+分かんないわ・・・
+> CONTEXT: Map475/events/10/pages/0/320/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どんな顔してるのかは、想像つくけどね～♪
+> CONTEXT: Map475/events/10/pages/0/324/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほ、ほ、本当にこの格好で行かないと・・・
+だめですか・・・っ？
+> CONTEXT: Map475/events/10/pages/0/328/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何か着て行ったら、意味がないヨー。
+> CONTEXT: Map475/events/10/pages/0/334/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+恥ずかしいとは思うけど、ルミィさんを助ける
+までの我慢だから・・・
+> CONTEXT: Map475/events/10/pages/0/338/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わ・・・わかりました・・・
+> CONTEXT: Map475/events/10/pages/0/343/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+覚悟を決めます・・・っ////
+> CONTEXT: Map475/events/10/pages/0/344/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+※なお、レグマはこの場から強制ログアウト
+　させられています。
+> CONTEXT: Map475/events/10/pages/0/346/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ねえ、はむこ。　手紙の裏にもまだ続きが
+書いてあるみたいよ？
+> CONTEXT: Map475/events/10/pages/0/350/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え？
+> CONTEXT: Map475/events/10/pages/0/355/Dialogue < UNTRANSLATED
+> CONTEXT: Map314/events/29/pages/0/55/Dialogue < UNTRANSLATED
+> CONTEXT: Map242/events/2/pages/2/77/Dialogue < UNTRANSLATED
+> CONTEXT: Map083/events/49/pages/0/269/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・あ、ほんとだ！
+> CONTEXT: Map475/events/10/pages/0/356/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『なお、透過剤の効果は、尿として排泄するまで
+　続きます』
+> CONTEXT: Map475/events/10/pages/0/357/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『しかし、透過剤には非常に強い利尿作用が
+　ありますので、使用するタイミングには
+　注意してください』
+> CONTEXT: Map475/events/10/pages/0/359/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、それ・・・すごく重要なポイントなんじゃ・・・
+> CONTEXT: Map475/events/10/pages/0/367/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+正午まで、あと30分あるわよ・・・？
+> CONTEXT: Map475/events/10/pages/0/371/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+つ、つまり・・・
+> CONTEXT: Map475/events/10/pages/0/375/Dialogue < UNTRANSLATED
+> CONTEXT: Map127/events/16/pages/1/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+このままお手洗いに行かずに、30分後に
+侵入しなければならないってことですか・・・！
+> CONTEXT: Map475/events/10/pages/0/376/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうみたいネー・・・
+> CONTEXT: Map475/events/10/pages/0/382/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひめちゃん、オシッコ大丈夫？
+> CONTEXT: Map475/events/10/pages/0/386/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今は平気ですけど・・・
+> CONTEXT: Map475/events/10/pages/0/390/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すごく強い利尿作用があるんですよね・・・？
+> CONTEXT: Map475/events/10/pages/0/394/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（だ、大丈夫かな・・・）
+> CONTEXT: Map475/events/10/pages/0/395/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+飲んじゃったものはしょうがないわ。
+> CONTEXT: Map475/events/10/pages/0/398/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とりあえず、正午までこのまま待ちましょう。
+> CONTEXT: Map475/events/10/pages/0/399/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そろそろ12時になるヨー。
+> CONTEXT: Map475/events/10/pages/0/409/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+桐生さん、どうですか？　行けそうですか・・・？
+> CONTEXT: Map475/events/10/pages/0/415/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だ・・・大丈夫です・・・
+> CONTEXT: Map475/events/10/pages/0/419/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（正直、かなりお手洗い行きたいけど・・・）
+> CONTEXT: Map475/events/10/pages/0/420/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ここまで来たら、もう作戦通りやらなきゃ・・・！）
+> CONTEXT: Map475/events/10/pages/0/421/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+心配だけど、わたし達はここで待ってるからね。
+> CONTEXT: Map475/events/10/pages/0/425/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+危なくなったり、何か問題があったらすぐに
+逃げて来るのよ？
+> CONTEXT: Map475/events/10/pages/0/429/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わ、分かりました・・・
+> CONTEXT: Map475/events/10/pages/0/434/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょうど12時になったヨー・・・！
+> CONTEXT: Map475/events/10/pages/0/439/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+では・・・い、行ってきます・・・っ！
+> CONTEXT: Map475/events/10/pages/0/443/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひめちゃん、ファイト！
+> CONTEXT: Map475/events/10/pages/0/446/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵地だよ！　行く必要ないよ！！
+> CONTEXT: Map475/events/10/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,362 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+兵
+「はーいストーップ！」
+> CONTEXT: Map185/events/2/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兵
+「ここから先は通行止めだよー！」
+> CONTEXT: Map185/events/2/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたしたち、この先にある雪原に行きたいん
+ですけど・・・
+> CONTEXT: Map185/events/2/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兵
+「えー？　知ってるでしょ？　雪原で赤い光の
+　柱が目撃された事件！」
+> CONTEXT: Map185/events/2/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兵
+「何があったのか調査予定だから、今は
+　これ以上進んじゃダメだよー！」
+> CONTEXT: Map185/events/2/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それなら大丈夫だよ。
+> CONTEXT: Map185/events/2/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わたしたちは熾天少女として、その事件の
+原因を調査しに行くんだから！
+> CONTEXT: Map185/events/2/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兵
+「調査って、君たちが・・・？」
+> CONTEXT: Map185/events/2/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兵
+「団長の許可は取ったの？」
+> CONTEXT: Map185/events/2/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+当然、騎士団長の指令のもとだ。
+> CONTEXT: Map185/events/2/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兵
+「いやいや、騎士団長じゃなくて自治警団長の
+　ほうだよー。」
+> CONTEXT: Map185/events/2/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兵
+「自治警団長に無断で通ろうとしちゃダメー！」
+> CONTEXT: Map185/events/2/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、あの・・・自治警団長ってどなたですか？
+> CONTEXT: Map185/events/2/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長さんとは別なの？
+> CONTEXT: Map185/events/2/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兵
+「あれ、知らないの？　君たち東部の出身？」
+> CONTEXT: Map185/events/2/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兵
+「えーとね、自治警団っていうのは、ここ
+　大陸北部の自衛警備のために作られた
+　組織でね、」
+> CONTEXT: Map185/events/2/pages/0/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兵
+「中央部以下を管轄する騎士団とは別に独立
+　した警団なんだよー。」
+> CONTEXT: Map185/events/2/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兵
+「平たく言えば、北部地域専門の騎士団と
+　言ったところかなー？」
+> CONTEXT: Map185/events/2/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+へえー、そんなのがあるのね。
+> CONTEXT: Map185/events/2/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団長って人に許可をもらえば、
+この先に行けるんだね？
+> CONTEXT: Map185/events/2/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兵
+「団長命令ならねー。」
+> CONTEXT: Map185/events/2/pages/0/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふむ。　ならば許可を取りに行くしかあるまい。
+> CONTEXT: Map185/events/2/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団長はどこにいる？
+> CONTEXT: Map185/events/2/pages/0/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兵
+「今は魔物鎮圧のために“零下の洞窟”へ
+　出撃中かなー？」
+> CONTEXT: Map185/events/2/pages/0/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兵
+「行動が終わってれば、警団署に戻ってると
+　思うけどねー。」
+> CONTEXT: Map185/events/2/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物鎮圧？　なんか大変そうだね・・・
+> CONTEXT: Map185/events/2/pages/0/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兵
+「雪原の赤い光の柱事件の直後に、町の
+　東にある“零下の洞窟”で魔物が活発に
+　暴れ始めてさー。」
+> CONTEXT: Map185/events/2/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兵
+「町人に被害が及ぶ前に、鎮圧行動に出た
+　わけ。」
+> CONTEXT: Map185/events/2/pages/0/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兵
+「団長もその行動に参加してるはずだよー？」
+> CONTEXT: Map185/events/2/pages/0/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+分かった。　町の東だな。
+> CONTEXT: Map185/events/2/pages/0/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+い・・・行ってみますか？
+> CONTEXT: Map185/events/2/pages/0/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうね。　ぼーっとして待ってるより、こっちから
+出向いてみましょう。
+> CONTEXT: Map185/events/2/pages/0/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もし苦戦してるようだったら、じゃじゃーんっと
+参加してどっかーーんと解決しちゃお！！
+> CONTEXT: Map185/events/2/pages/0/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+意見に同意する。
+> CONTEXT: Map185/events/2/pages/0/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+進路を変更し、町の東にある“零下の洞窟”
+とやらを目指そう。
+> CONTEXT: Map185/events/2/pages/0/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兵
+「自治警備団長の許可が無きゃ、ここは
+　通っちゃダメー！」
+> CONTEXT: Map185/events/2/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兵
+「雪原は突発的に吹雪が発生することがある
+　から、気を付けてねー！」
+> CONTEXT: Map185/events/33/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この先にいる魔物たちは、どれも強力な
+ものばかりです！　戦ったことありませんが。
+> CONTEXT: Map185/events/162/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でもみなさんならきっと大丈夫です！！
+熾天少女の力を見せつけてやって
+ください！！
+> CONTEXT: Map185/events/162/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「これが最後の戦いとなるだろう。」
+> CONTEXT: Map185/events/164/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「我々はここで魔物の侵出を食い止める。
+　君たちは全力でヤツを倒してくれ。」
+> CONTEXT: Map185/events/164/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+人間界の命運は、そなた達に掛かっておる。
+> CONTEXT: Map185/events/165/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+頼んだぞ、熾天少女たちよ！
+> CONTEXT: Map185/events/165/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+側近Ａ
+「姫は私が守る！　この剣に懸けて！！」
+> CONTEXT: Map185/events/166/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+側近Ａ
+「・・・あ、あれ？　剣どこいったかな・・・？」
+> CONTEXT: Map185/events/166/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+側近Ｂ
+「近づくものは何であろうと斬る。」
+> CONTEXT: Map185/events/167/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+側近Ｂ
+「姫様には指一本触れさせはせぬ。」
+> CONTEXT: Map185/events/167/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+私がここにいても意味無いかもしれませんが、
+何かあった時に私の知識が役に立つかも
+しれません。
+> CONTEXT: Map185/events/168/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+出番がなければ、それに越したことは
+ありませんけどね。
+> CONTEXT: Map185/events/168/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「きっと先代の熾天少女様も見守っておられる
+　でしょう。」
+> CONTEXT: Map185/events/169/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「あなた方の活躍と健闘を、心から願います。」
+> CONTEXT: Map185/events/169/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING

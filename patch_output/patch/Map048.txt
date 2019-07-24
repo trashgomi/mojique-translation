@@ -1,0 +1,251 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+盗賊団の首領って、どんなことを考えながら
+部下に盗みを働かせるのか・・・興味深い
+ですね。
+> CONTEXT: Map048/events/7/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ごめん、わたしちょっとおトイレ・・・
+> CONTEXT: Map048/events/18/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃあ、あたしもー！
+> CONTEXT: Map048/events/18/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここで少し休憩にしましょうか。
+> CONTEXT: Map048/events/18/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+了解した。　ここで10分の自由時間だ。
+> CONTEXT: Map048/events/18/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もう休憩なのカー？　みんな体力無いネー！
+> CONTEXT: Map048/events/18/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+たこやきさん、ここで言う“休憩”ってのは、
+“トイレ休憩”って意味ですよ。
+> CONTEXT: Map048/events/18/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どっちにしても、ワタシには必要ないんだ
+ナー！
+> CONTEXT: Map048/events/18/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+たこちゃんは、そのスーツのおかげで
+トイレに行かなくてもいいんだもんね。
+> CONTEXT: Map048/events/18/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+分解消滅システムを最大にすれば、おしっこ
+なんてパンツに届く前に消え去るネー！
+> CONTEXT: Map048/events/18/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+強力すぎて、ちょっと怖いね。
+> CONTEXT: Map048/events/18/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はいはい、あたし達はトイレが必要な野蛮星人
+でケッコウです。
+> CONTEXT: Map048/events/18/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すみませんが、みんながお手洗いを
+済ませるまで待っていてください。
+> CONTEXT: Map048/events/18/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わかったヨー！　このへんでフラフラしてる
+ネー！
+> CONTEXT: Map048/events/18/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じーー～・・・
+> CONTEXT: Map048/events/18/pages/0/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何を不思議そうに見ている？
+> CONTEXT: Map048/events/18/pages/0/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なあなあ、この、“スイカソーダ”の“スイカ”って
+なんダー？
+> CONTEXT: Map048/events/18/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+甘い汁を含んだ夏野菜だ。
+> CONTEXT: Map048/events/18/pages/0/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+たこ焼きは知っているくせに、スイカは
+知らないのか。
+> CONTEXT: Map048/events/18/pages/0/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+たこ焼きは、ワタシの星でも有名な食べ物
+だヨー！
+> CONTEXT: Map048/events/18/pages/0/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ていうか、銀河統括局加盟惑星人なら、
+みんな知ってるヨー！
+> CONTEXT: Map048/events/18/pages/0/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうなのか。　まさか、たこ焼きがそこまで
+ギャラクティックな食べ物だったとはな・・・
+> CONTEXT: Map048/events/18/pages/0/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それで、スイカってうまいのカー？
+> CONTEXT: Map048/events/18/pages/0/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+俺はあまり食べないが、嫌いな人間は
+ほとんどいないと思う。
+> CONTEXT: Map048/events/18/pages/0/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうなのカー！
+> CONTEXT: Map048/events/18/pages/0/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じー～・・・
+> CONTEXT: Map048/events/18/pages/0/151/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+チラッ
+> CONTEXT: Map048/events/18/pages/0/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+店員、スイカソーダを1つ。
+> CONTEXT: Map048/events/18/pages/0/167/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+店員さん
+「はーい、まいどー！」
+> CONTEXT: Map048/events/18/pages/0/170/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レグマー！　オマエ、いいやつだナー！！
+> CONTEXT: Map048/events/18/pages/0/174/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（強制に近い何かを感じた。）
+> CONTEXT: Map048/events/18/pages/0/177/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おおおおお！！　甘くてシュワシュワして
+おいしいナー！！！
+> CONTEXT: Map048/events/18/pages/0/185/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワタシ気に入ったヨー！！
+> CONTEXT: Map048/events/18/pages/0/187/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なあなあ、もう1杯～！
+> CONTEXT: Map048/events/18/pages/0/191/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一生のお願いだヨー！
+> CONTEXT: Map048/events/18/pages/0/192/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やれやれ・・・
+> CONTEXT: Map048/events/18/pages/0/195/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+時間だ。　全員そろったな？
+> CONTEXT: Map048/events/18/pages/0/207/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+みんないるよー！
+> CONTEXT: Map048/events/18/pages/0/210/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃあ、そろそろ出発しましょう。
+> CONTEXT: Map048/events/18/pages/0/214/Dialogue < UNTRANSLATED
+
+> END STRING

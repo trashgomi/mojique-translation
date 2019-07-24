@@ -1,0 +1,343 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+うぅっ、お、おトイレぇっ！
+> CONTEXT: Map465/events/2/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map465/events/2/pages/0/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map356/events/22/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map356/events/22/pages/0/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map226/events/3/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map226/events/3/pages/0/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map151/events/1/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map151/events/1/pages/1/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/3/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/3/pages/1/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/4/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/4/pages/1/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/10/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/10/pages/1/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ねえ、お、おトイレ行かせて・・・っ！
+> CONTEXT: Map465/events/2/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map465/events/2/pages/0/60/Dialogue < UNTRANSLATED
+> CONTEXT: Map356/events/22/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map356/events/22/pages/0/60/Dialogue < UNTRANSLATED
+> CONTEXT: Map226/events/3/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map226/events/3/pages/0/60/Dialogue < UNTRANSLATED
+> CONTEXT: Map151/events/1/pages/1/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map151/events/1/pages/1/60/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/3/pages/1/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/3/pages/1/60/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/4/pages/1/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/4/pages/1/60/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/10/pages/1/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/10/pages/1/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+き、着替えたいし、おトイレにも行きたいよ・・・。
+> CONTEXT: Map465/events/2/pages/0/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map356/events/22/pages/0/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map226/events/3/pages/0/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map151/events/1/pages/1/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/3/pages/1/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/4/pages/1/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/10/pages/1/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さ、先に着替えさせてよぉ・・・。
+> CONTEXT: Map465/events/2/pages/0/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map356/events/22/pages/0/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map226/events/3/pages/0/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map151/events/1/pages/1/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/3/pages/1/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/4/pages/1/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/10/pages/1/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さ、先におトイレ行きたいよ・・・。
+> CONTEXT: Map465/events/2/pages/0/71/Dialogue < UNTRANSLATED
+> CONTEXT: Map356/events/22/pages/0/71/Dialogue < UNTRANSLATED
+> CONTEXT: Map226/events/3/pages/0/71/Dialogue < UNTRANSLATED
+> CONTEXT: Map151/events/1/pages/1/71/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/3/pages/1/71/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/4/pages/1/71/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/10/pages/1/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さ、先に・・・っ、トイレ・・・行かせて・・・っ！
+> CONTEXT: Map465/events/2/pages/0/85/Dialogue < UNTRANSLATED
+> CONTEXT: Map465/events/2/pages/0/129/Dialogue < UNTRANSLATED
+> CONTEXT: Map356/events/22/pages/0/85/Dialogue < UNTRANSLATED
+> CONTEXT: Map356/events/22/pages/0/129/Dialogue < UNTRANSLATED
+> CONTEXT: Map226/events/3/pages/0/96/Dialogue < UNTRANSLATED
+> CONTEXT: Map226/events/3/pages/0/140/Dialogue < UNTRANSLATED
+> CONTEXT: Map151/events/1/pages/1/96/Dialogue < UNTRANSLATED
+> CONTEXT: Map151/events/1/pages/1/140/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/3/pages/1/96/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/3/pages/1/140/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/4/pages/1/96/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/4/pages/1/140/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/10/pages/1/96/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/10/pages/1/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょっと、先にトイレ行かせてよ・・・っ！
+> CONTEXT: Map465/events/2/pages/0/96/Dialogue < UNTRANSLATED
+> CONTEXT: Map465/events/2/pages/0/140/Dialogue < UNTRANSLATED
+> CONTEXT: Map356/events/22/pages/0/96/Dialogue < UNTRANSLATED
+> CONTEXT: Map356/events/22/pages/0/140/Dialogue < UNTRANSLATED
+> CONTEXT: Map226/events/3/pages/0/107/Dialogue < UNTRANSLATED
+> CONTEXT: Map226/events/3/pages/0/151/Dialogue < UNTRANSLATED
+> CONTEXT: Map151/events/1/pages/1/107/Dialogue < UNTRANSLATED
+> CONTEXT: Map151/events/1/pages/1/151/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/3/pages/1/107/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/3/pages/1/151/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/4/pages/1/107/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/4/pages/1/151/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/10/pages/1/107/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/10/pages/1/151/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この服のまま・・・進めって言うの・・・？
+それに・・・トイレ・・・。
+> CONTEXT: Map465/events/2/pages/0/108/Dialogue < UNTRANSLATED
+> CONTEXT: Map356/events/22/pages/0/108/Dialogue < UNTRANSLATED
+> CONTEXT: Map226/events/3/pages/0/119/Dialogue < UNTRANSLATED
+> CONTEXT: Map151/events/1/pages/1/119/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/3/pages/1/119/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/4/pages/1/119/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/10/pages/1/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この服のまま・・・進めって言うの・・・？
+> CONTEXT: Map465/events/2/pages/0/118/Dialogue < UNTRANSLATED
+> CONTEXT: Map356/events/22/pages/0/118/Dialogue < UNTRANSLATED
+> CONTEXT: Map226/events/3/pages/0/129/Dialogue < UNTRANSLATED
+> CONTEXT: Map151/events/1/pages/1/129/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/3/pages/1/129/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/4/pages/1/129/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/10/pages/1/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、その前に・・・トイレ行きたいんだけど・・・。
+> CONTEXT: Map465/events/2/pages/0/151/Dialogue < UNTRANSLATED
+> CONTEXT: Map356/events/22/pages/0/151/Dialogue < UNTRANSLATED
+> CONTEXT: Map226/events/3/pages/0/162/Dialogue < UNTRANSLATED
+> CONTEXT: Map151/events/1/pages/1/162/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/3/pages/1/162/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/4/pages/1/162/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/10/pages/1/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャルシャル、起きた事を順番に話してくれ。
+> CONTEXT: Map465/events/3/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+私がお買い物から戻ると、家の前で騎士団長様
+と、あとメガネをかけた白衣の女性が私の帰りを
+待っていました。
+> CONTEXT: Map465/events/3/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メガネ白衣の女・・・ルミィのことだナー？
+> CONTEXT: Map465/events/3/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、確かそんな名前です。
+> CONTEXT: Map465/events/3/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それで、私に紅茶の茶葉を分けてほしいと
+頼まれました。
+> CONTEXT: Map465/events/3/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんでも、世界を脅かしている人物を抑止する
+ために、必要な材料だって言われたので・・・
+> CONTEXT: Map465/events/3/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+渡したのか？
+> CONTEXT: Map465/events/3/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はい。　特に断る理由もありませんでしたので。
+> CONTEXT: Map465/events/3/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それで、茶葉を包んだ袋を騎士団長様に
+お渡しした直後、突然家の中に2人組が入って
+きて・・・
+> CONTEXT: Map465/events/3/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルミィさんが無理やり連れて行かれて
+しまったのです。
+> CONTEXT: Map465/events/3/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長様は2人組に立ち向かったのですが、
+その・・・ほとんど歯が立たずに・・・
+> CONTEXT: Map465/events/3/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルミィが・・・連れて行かれただと・・・
+> CONTEXT: Map465/events/3/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どおりで見かけないと思ったヨー。
+> CONTEXT: Map465/events/3/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+2人組って、どんなヤツらダー？
+> CONTEXT: Map465/events/3/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ええと、確か・・・
+> CONTEXT: Map465/events/3/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+青い髪で大きな帽子をかぶった女性と、
+その弟みたいな感じの男の子です。
+> CONTEXT: Map465/events/3/pages/0/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+青カラットたちか・・・！
+> CONTEXT: Map465/events/3/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルミィをさらって、いったいどうするつもりだ・・・
+> CONTEXT: Map465/events/3/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・！
+> CONTEXT: Map465/events/3/pages/0/65/Dialogue < UNTRANSLATED
+> CONTEXT: Map195/events/2/pages/0/245/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まさか・・・
+> CONTEXT: Map465/events/3/pages/0/66/Dialogue < UNTRANSLATED
+> CONTEXT: Map217/events/9/pages/0/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「・・・う、ここは・・・！」
+> CONTEXT: Map465/events/3/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よかった、気が付きましたね。
+> CONTEXT: Map465/events/3/pages/0/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャルシャルさんの家ですよ。
+> CONTEXT: Map465/events/3/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もう安全ですから、安心してください。
+> CONTEXT: Map465/events/3/pages/0/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「ぬう・・・そうか、私は・・・」
+> CONTEXT: Map465/events/3/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「面目ない・・・」
+> CONTEXT: Map465/events/3/pages/0/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今は休んでください。
+> CONTEXT: Map465/events/3/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お城の兵士さんを連れてきたよ！
+> CONTEXT: Map465/events/3/pages/0/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よし。　騎士団長を城へ運ぼう。
+> CONTEXT: Map465/events/3/pages/0/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+詳しい話は、その後だ。
+> CONTEXT: Map465/events/3/pages/0/160/Dialogue < UNTRANSLATED
+
+> END STRING

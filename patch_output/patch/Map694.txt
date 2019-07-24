@@ -1,0 +1,493 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+男
+「・・・・・・。」
+> CONTEXT: Map694/events/4/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map692/events/4/pages/0/381/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「木、燃え尽きちまったな・・・」
+> CONTEXT: Map694/events/4/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「ああ・・・」
+> CONTEXT: Map694/events/4/pages/0/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map694/events/4/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「氷、溶けないな・・・」
+> CONTEXT: Map694/events/4/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、はううぅぅ～～・・・っ！
+> CONTEXT: Map694/events/4/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（もれちゃう・・・でちゃう・・・おしっこ・・・おしっこ
+　・・・っ）
+> CONTEXT: Map694/events/4/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（も、もう・・・我慢できないよおぉっ！！）
+> CONTEXT: Map694/events/4/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「ん？」
+> CONTEXT: Map694/events/4/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「・・・おい、見てみろ！」
+> CONTEXT: Map694/events/4/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+びくんっ！
+> CONTEXT: Map694/events/4/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（が、我慢してるのバレちゃった・・・！？）
+> CONTEXT: Map694/events/4/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「ここだ！　前より氷が薄くなってるぞ！」
+> CONTEXT: Map694/events/4/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「本当だ、これならいけるんじゃないか？」
+> CONTEXT: Map694/events/4/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「おい、今度こそ角材の出番だぜ！　持って
+　こい！！」
+> CONTEXT: Map694/events/4/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「よっしゃ！！」
+> CONTEXT: Map694/events/4/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「やったるぜ！！　みんな、いくぞーーーっ！」
+> CONTEXT: Map694/events/4/pages/0/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「おおおーーーーっ！！！」
+> CONTEXT: Map694/events/4/pages/0/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いひゃあぁぁんっ！！！
+> CONTEXT: Map694/events/4/pages/0/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（んっ！！　ぁっ、あんっ！！　だ、めぇっ！！）
+> CONTEXT: Map694/events/4/pages/0/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ゆ、ゆらさ・・・な、いっ・・・でぇっ！！
+　ひゃあぁぁんっ！！）
+> CONTEXT: Map694/events/4/pages/0/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（こ・・・このままじゃ、氷が割れる前におしっこ
+　・・・漏らしちゃうっ）
+> CONTEXT: Map694/events/4/pages/0/218/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（でも、氷が割れないと外に出られないし・・・っ）
+> CONTEXT: Map694/events/4/pages/0/220/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ふええぇぇ・・・どうしようっ！？）
+> CONTEXT: Map694/events/4/pages/0/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+割れるまで耐える
+> CONTEXT: Map694/events/4/pages/0/225/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+みんなを制止する
+> CONTEXT: Map694/events/4/pages/0/225/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（あ・・・！　も、もう少しで氷が割れそう・・・！）
+> CONTEXT: Map694/events/4/pages/0/230/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（が、我慢・・・我慢しなくちゃっ！！）
+> CONTEXT: Map694/events/4/pages/0/231/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うぅ・・・、あ、・・・ふうぅん・・・っ！！　んぁ・・・っ
+> CONTEXT: Map694/events/4/pages/0/248/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んくっ！　ぅぅっ、はぁうっ！！　あん！　あぁん！
+> CONTEXT: Map694/events/4/pages/0/265/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「よっしゃあぁ！！　とうとうやったな！」
+> CONTEXT: Map694/events/4/pages/0/288/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「ふー！　本当に頑丈な氷だったぜ・・・」
+> CONTEXT: Map694/events/4/pages/0/290/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「さあ、お嬢ちゃん・・・ん？　お嬢ちゃん？」
+> CONTEXT: Map694/events/4/pages/0/292/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う・・・急に・・・お、おなかが・・・圧迫さ・・・れ・・・
+> CONTEXT: Map694/events/4/pages/0/296/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これまで、氷内の空気は冷やされて気圧が
+下がっていたのだ。
+> CONTEXT: Map694/events/4/pages/0/300/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そして氷が割れた今、ブロンシュの体表は
+通常の気圧に戻ったことにより、相対的に
+腹部が圧迫されたのである。
+> CONTEXT: Map694/events/4/pages/0/302/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その気圧差による圧力はわずかであったが、
+ギリギリで尿意に耐えてきたブロンシュに
+とっては致命的であったのだ。
+> CONTEXT: Map694/events/4/pages/0/305/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やあぁぁっ！！　出ちゃ、ぅ・・・っ、だ・・・
+だめええぇぇーーー～～～っ！！
+> CONTEXT: Map694/events/4/pages/0/312/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いやぁん・・・み、見ちゃ・・・だめぇ・・・///////
+> CONTEXT: Map694/events/4/pages/0/326/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はううぅぅぅん///////////
+> CONTEXT: Map694/events/4/pages/0/327/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふぅ・・・ふぅ・・・っ
+> CONTEXT: Map694/events/4/pages/0/337/Dialogue < UNTRANSLATED
+> CONTEXT: Map054/events/13/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え、えへ・・・えへへ・・・
+> CONTEXT: Map694/events/4/pages/0/342/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これは・・・あの・・・そのぉ・・・/////
+> CONTEXT: Map694/events/4/pages/0/343/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「あんた、トイレ我慢してたのかい・・・」
+> CONTEXT: Map694/events/4/pages/0/345/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「おおう・・・こいつぁ、なんとも・・・」
+> CONTEXT: Map694/events/4/pages/0/347/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「びしょびしょだ！」
+> CONTEXT: Map694/events/4/pages/0/349/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いやあん！　い、言っちゃダメぇ～！！
+> CONTEXT: Map694/events/4/pages/0/354/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「ブロンシュから離れろ、下衆ども！！」
+> CONTEXT: Map694/events/4/pages/0/356/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男たち
+「ぎゃーーーーーす！！」
+> CONTEXT: Map694/events/4/pages/0/386/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（これ以上揺らされたら・・・も、もう我慢
+　できないよおぉ～っ！！）
+> CONTEXT: Map694/events/4/pages/0/395/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はわわわっ！、み、みんなちょっとストップうぅ！
+> CONTEXT: Map694/events/4/pages/0/400/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男たち
+「ん？　どうしたんだい？」
+> CONTEXT: Map694/events/4/pages/0/402/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男たち
+「もうちょっとで割れそうだよ！　あと少しの
+　我慢だからね！」
+> CONTEXT: Map694/events/4/pages/0/404/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いや、その、あ、あのぉ・・・っ！！
+> CONTEXT: Map694/events/4/pages/0/409/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、そんなに揺らされたら・・・ぉ・・・ぉ・・・っこ
+・・・
+> CONTEXT: Map694/events/4/pages/0/410/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男たち
+「え？　なに・・・？」
+> CONTEXT: Map694/events/4/pages/0/413/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふえぇ・・・ぉ・・・し・・・
+> CONTEXT: Map694/events/4/pages/0/417/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おしっこ・・・！　おしっこが・・・漏れちゃうのおぉ
+ーー～～っ！！
+> CONTEXT: Map694/events/4/pages/0/421/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男たち
+「うわぁお・・・」
+> CONTEXT: Map694/events/4/pages/0/424/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男たち
+「え、ずっと我慢してたの？　もう限界？」
+> CONTEXT: Map694/events/4/pages/0/426/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（はふうぅぅ～！　は、はずかしいよぉ・・・/////）
+> CONTEXT: Map694/events/4/pages/0/430/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（んんぁっ、だ、だめぇ・・・もう・・・も、漏れちゃう
+　・・・っ！！）
+> CONTEXT: Map694/events/4/pages/0/434/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ふわあぁっ！！　が、が、がまんんぅっ！！）
+> CONTEXT: Map694/events/4/pages/0/441/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（んん、ん・・・くぅっ、げ、げんかい・・・っ！！
+　がまん・・・でき・・・なぃ・・・っ！！）
+> CONTEXT: Map694/events/4/pages/0/445/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（もう・・・ここで・・・するしか・・・！！）
+> CONTEXT: Map694/events/4/pages/0/450/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ス、スカートで・・・隠せば・・・み、み、見えない
+　かな・・・っ？）
+> CONTEXT: Map694/events/4/pages/0/451/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ぁっ、ほんとに、もう・・・だめ・・・っ）
+> CONTEXT: Map694/events/4/pages/0/458/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お願い・・・みんな・・・み、見ない・・・で・・・っ
+> CONTEXT: Map694/events/4/pages/0/462/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男たち
+「え・・・っ！？」
+> CONTEXT: Map694/events/4/pages/0/472/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+み、みんなの前で・・・おしっこ、しちゃってる
+・・・っ///////
+> CONTEXT: Map694/events/4/pages/0/483/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+や、やあぁん・・・/////　はずかしいよおぉ////
+> CONTEXT: Map694/events/4/pages/0/485/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（はずかしいけど・・・スッキリしたあぁ～～！！）
+> CONTEXT: Map694/events/4/pages/0/498/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ふうううぅぅ～～～～っ！！//////）
+> CONTEXT: Map694/events/4/pages/0/499/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男たち
+「目の前で美少女が野ションを・・・」
+> CONTEXT: Map694/events/4/pages/0/501/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男たち
+「ぐ、ぐはあああぁぁぁあああぁ！！！！」
+> CONTEXT: Map694/events/4/pages/0/503/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,129 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+は・・・はぐれた・・・
+> CONTEXT: Map503/events/1/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おかしいなぁ、ちゃんとみんなの後を追って
+いたはずなんだけど・・・
+> CONTEXT: Map503/events/1/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+途中で人の顔に見えるヘンな模様の木と
+にらめっこしてたのが悪かったのかな・・・？
+> CONTEXT: Map503/events/1/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+と、とにかくみんなを探さなきゃ！
+> CONTEXT: Map503/events/1/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ええと、どっちから来たんだっけ・・・？
+> CONTEXT: Map503/events/1/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うわぁ・・・もうぜんぜん道わかんない・・・
+> CONTEXT: Map503/events/1/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ま、適当に歩き回ってればそのうち合流
+できるかな・・・？
+> CONTEXT: Map503/events/1/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さ、さ、早乙女さーーん・・・！　常夏さーーん！
+> CONTEXT: Map503/events/1/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+みなさーーーん・・・！！
+> CONTEXT: Map503/events/1/pages/0/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうしよう・・・みんな・・・どこ・・・？
+> CONTEXT: Map503/events/1/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふう・・・なんか、同じところをぐるぐるしている
+ような・・・
+> CONTEXT: Map503/events/1/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・お腹すいたなぁ・・・
+> CONTEXT: Map503/events/1/pages/1/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どっかに刺身でも落ちてないかなぁ・・・
+> CONTEXT: Map503/events/1/pages/1/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+できれば強炭酸のコーラとデザートに
+きなこ味のチョコがほしいなぁ・・・
+> CONTEXT: Map503/events/1/pages/1/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ！　カルボナーラも捨てがたいかな！
+でも今はどっちかって言うとペペロンチーノの
+気分かな・・・？
+> CONTEXT: Map503/events/1/pages/1/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あぁぁ・・・想像したら耐えがたい空腹感が・・・
+> CONTEXT: Map503/events/1/pages/1/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+このキノコ・・・
+> CONTEXT: Map503/events/1/pages/1/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+食べられるのかな・・・？
+> CONTEXT: Map503/events/1/pages/1/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いやいや！　さすがに安全確認もできない
+ナマのキノコを拾い食いなんて・・・
+> CONTEXT: Map503/events/1/pages/1/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+す、少～しだけかじってチェックしてみようかな
+・・・
+> CONTEXT: Map503/events/1/pages/1/56/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,574 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+（しまった～・・・）
+> CONTEXT: Map219/events/30/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（並び始める前にトイレ行っとくんだったわ・・・）
+> CONTEXT: Map219/events/30/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ちょっと行きたくなってきちゃった・・・）
+> CONTEXT: Map219/events/30/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（でもまあ、2時間待てばトロッコの順番来るし、）
+> CONTEXT: Map219/events/30/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（向こう側に着いてからでも余裕か・・・）
+> CONTEXT: Map219/events/30/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おおおー！　これで燃料を地上に引き上げて
+るんだねー！
+> CONTEXT: Map219/events/30/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そういえば燃料って何でできてるのかな？
+> CONTEXT: Map219/events/30/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんか石炭とか、そういうイメージだけど
+どうなんだろ？
+> CONTEXT: Map219/events/30/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ！　あ！　ボタンが光った！！　なにこれ、
+押してOKの合図！？
+> CONTEXT: Map219/events/30/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おっちゃん
+「た、頼むから見るだけにしといてね・・・」
+> CONTEXT: Map219/events/30/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヘンな虫いないかな～♪
+> CONTEXT: Map219/events/30/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+異世界なんだし、見たこともないバッタとか
+いそうなんだけどな～・・・
+> CONTEXT: Map219/events/30/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お！　なんだこれ！！　テントウムシっぽいのに
+ハサミがあるーー！！
+> CONTEXT: Map219/events/30/pages/0/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あはははは！　しかもキュウキュウ鳴いてる！
+かわい～！！
+> CONTEXT: Map219/events/30/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うわっ！　なにこの行列！！
+> CONTEXT: Map219/events/35/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トロッコ大人気だねー！！
+> CONTEXT: Map219/events/35/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いや、これは人気と言うより・・・
+> CONTEXT: Map219/events/35/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今まで盗賊団のせいで運行がストップしてた
+ぶん、山を越えられずにいたお客さんが
+一気に集中して来たんじゃない？
+> CONTEXT: Map219/events/35/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+親方
+「あら、お久しぶりじゃないの！」
+> CONTEXT: Map219/events/35/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+親方
+「元気してた？」
+> CONTEXT: Map219/events/35/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+親方さん、こんにちはー！
+> CONTEXT: Map219/events/35/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大盛況だねー♪
+> CONTEXT: Map219/events/35/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+運行再開にともなって利用客が押し寄せて
+きたようだな。
+> CONTEXT: Map219/events/35/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+親方
+「そぉなのよ～！」
+> CONTEXT: Map219/events/35/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+親方
+「さすがに多すぎて、トロッコの回転が間に
+　合わなくて困っちゃう！」
+> CONTEXT: Map219/events/35/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+親方
+「アナタたちも中央部へ行くのかしら？」
+> CONTEXT: Map219/events/35/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はい。　色々と用事がありまして・・・
+> CONTEXT: Map219/events/35/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+親方
+「あら～、忙しくて大変ねぇ！」
+> CONTEXT: Map219/events/35/pages/0/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+親方
+「アタシはトロッコで足を助けてあげることしか
+　できないけど、頑張ってちょうだいね！」
+> CONTEXT: Map219/events/35/pages/0/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+心遣いに感謝する。
+> CONTEXT: Map219/events/35/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ところで、この行列だとどのくらい待つ必要が
+ありそうだ？
+> CONTEXT: Map219/events/35/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+親方
+「そぉね～、反対側にも列ができてるみたい
+　だし・・・」
+> CONTEXT: Map219/events/35/pages/0/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+親方
+「このペースでいけば、ざっと2時間くらい
+　かしらね～。」
+> CONTEXT: Map219/events/35/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+け・・・けっこう待つんですね・・・
+> CONTEXT: Map219/events/35/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+歩いて山を越えたほうが早くない？
+> CONTEXT: Map219/events/35/pages/0/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+親方
+「あ～、それはキケンよぉ！」
+> CONTEXT: Map219/events/35/pages/0/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+親方
+「今来たばかりのアナタたちは知らないかも
+　しれないけど、さっきまで山は雨だったのよ。」
+> CONTEXT: Map219/events/35/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+親方
+「今は雨上がりで、山の上はすごく深い霧が
+　発生してるわ。」
+> CONTEXT: Map219/events/35/pages/0/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+親方
+「いくら旅慣れてる人間でも、今徒歩で山を
+　登るのは自殺行為よ！」
+> CONTEXT: Map219/events/35/pages/0/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そっかー。　じゃあやっぱりトロッコで行くしか
+ないね。
+> CONTEXT: Map219/events/35/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+致し方あるまい。　列に並ぶとしよう。
+> CONTEXT: Map219/events/35/pages/0/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だが、全員で並ぶのも効率が悪いな。
+> CONTEXT: Map219/events/35/pages/0/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここは俺が並んでおく。　お前たちは適当に
+時間を潰していればいい。
+> CONTEXT: Map219/events/35/pages/0/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おお～！　早乙女くんイケメン～！
+> CONTEXT: Map219/events/35/pages/0/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦闘ではお前たちに任せっきりだからな。
+> CONTEXT: Map219/events/35/pages/0/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こういう時くらいは頼ってくれていい。
+> CONTEXT: Map219/events/35/pages/0/131/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（な、なによ・・・カッコいいこと言っちゃって・・・）
+> CONTEXT: Map219/events/35/pages/0/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+待って、レグマくん！
+> CONTEXT: Map219/events/35/pages/0/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここはにゃんこに並んでもらわないと！
+> CONTEXT: Map219/events/35/pages/0/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え？　あたし・・・？
+> CONTEXT: Map219/events/35/pages/0/143/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+にゃんこには、行列に並ぶことの意義と厳しさ
+を叩きこんであげないと！
+> CONTEXT: Map219/events/35/pages/0/151/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あー・・・あの話ね・・・
+> CONTEXT: Map219/events/35/pages/0/156/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なになになになに！？
+> CONTEXT: Map219/events/35/pages/0/160/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わたしが景水堂の期間限定パフェの行列に
+並ぼうとした時ね、にゃんこが言ったんだよ！
+> CONTEXT: Map219/events/35/pages/0/164/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「行列に並ぶことほど無駄なモノは無い」って！
+> CONTEXT: Map219/events/35/pages/0/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だってそうじゃない。
+> CONTEXT: Map219/events/35/pages/0/170/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+時間の浪費だし、並んで得られる価値なんて
+それほど無いし。
+> CONTEXT: Map219/events/35/pages/0/171/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちがうのちがうのーっ！！
+> CONTEXT: Map219/events/35/pages/0/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+行列っていうのはね！　一種のアトラクション
+なんだよ！！　乾いた心に潤いをくれるオアシス
+なんだよー！！
+> CONTEXT: Map219/events/35/pages/0/177/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうして分からないかな！　むっきーーー！！
+> CONTEXT: Map219/events/35/pages/0/180/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょ、騒がないでよ、恥ずかしい！！
+> CONTEXT: Map219/events/35/pages/0/184/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わかった、わかった！　並ぶわよ！
+> CONTEXT: Map219/events/35/pages/0/187/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+経験すればいいんでしょ！
+> CONTEXT: Map219/events/35/pages/0/188/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うん！　絶対行列の楽しさに目覚めるから！！
+> CONTEXT: Map219/events/35/pages/0/192/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はぁ・・・
+> CONTEXT: Map219/events/35/pages/0/195/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いまいち話が見えないが、とにかくここは
+春風に任せていいのだな？
+> CONTEXT: Map219/events/35/pages/0/199/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いいわ。　あたしが並んでおくから。
+> CONTEXT: Map219/events/35/pages/0/203/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んじゃ、にゃんちゃんお願いね！
+> CONTEXT: Map219/events/35/pages/0/206/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お、お願いします。
+> CONTEXT: Map219/events/35/pages/0/210/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+親方
+「まあ退屈だろうけど、これも人生よ。」
+> CONTEXT: Map219/events/35/pages/0/222/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+親方
+「それじゃあ、アタシは帳簿整理があるから
+　これで失礼するわね！　バ～イ♪」
+> CONTEXT: Map219/events/35/pages/0/224/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+またな。
+> CONTEXT: Map219/events/35/pages/0/229/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おもしろい人だったね！
+> CONTEXT: Map219/events/35/pages/0/245/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ああ見えて、対面した相手の人格を一瞬で
+見抜く達人らしい。
+> CONTEXT: Map219/events/35/pages/0/249/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダテに接客業は長くない！
+> CONTEXT: Map219/events/35/pages/0/254/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+す・・・すごい方なんですね。
+> CONTEXT: Map219/events/35/pages/0/258/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ねえ、せっかくあたしが並んであげてるん
+だから、みんなはその辺で遊んできて
+いいわよ？
+> CONTEXT: Map219/events/35/pages/0/264/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほんと？　じゃああたし、公道の近くで珍しい
+虫でも探してくる！
+> CONTEXT: Map219/events/35/pages/0/272/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+またね～！
+> CONTEXT: Map219/events/35/pages/0/276/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃあわたしは、トロッコ小屋の地下室を見学
+してくる！
+> CONTEXT: Map219/events/35/pages/0/290/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レグマくんはどうするの？
+> CONTEXT: Map219/events/35/pages/0/295/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうだな。　小屋の中で考えを整理でもするか。
+> CONTEXT: Map219/events/35/pages/0/299/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何してても構わないけど、2時間経つ前には
+戻ってきてよね。
+> CONTEXT: Map219/events/35/pages/0/302/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ラジャー！　それじゃにゃんこ、良い行列ライフ
+を！！
+> CONTEXT: Map219/events/35/pages/0/307/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+私は、少し疲れたので小屋の中で休憩して
+いますね。
+> CONTEXT: Map219/events/35/pages/0/322/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うん。　こっちは気にしないで、ゆっくり
+休んで。
+> CONTEXT: Map219/events/35/pages/0/327/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+では、各自自由行動とする。　定時までには
+再び集合するように。
+> CONTEXT: Map219/events/35/pages/0/332/Dialogue < UNTRANSLATED
+
+> END STRING

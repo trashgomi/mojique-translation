@@ -1,0 +1,146 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+（おしっこ・・・おしっこォ・・・っ！　おしっこしたい
+　よォ・・・！！）
+> CONTEXT: Map054/events/13/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何か欲しいものがあったら、遠慮なく言い
+なさいよ？
+> CONTEXT: Map054/events/13/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+い、今欲しいのは・・・トイ・・・
+> CONTEXT: Map054/events/13/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トイ・・・？
+> CONTEXT: Map054/events/13/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トイ・・・砥石・・・かナー？
+> CONTEXT: Map054/events/13/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+切れ味が落ちた武器でもあるの・・・？
+> CONTEXT: Map054/events/13/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はい、お水です。　飲んでください。
+> CONTEXT: Map054/events/13/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・え・・・っ？
+> CONTEXT: Map054/events/13/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+たこやきさん、汗いっぱいかいてますから
+水分補給しないと・・・
+> CONTEXT: Map054/events/13/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうだよ。　体調が悪い時は、少し多めに
+水分摂っておかないと！
+> CONTEXT: Map054/events/13/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、そ、そうだネー・・・いただくヨー・・・
+> CONTEXT: Map054/events/13/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ごく・・・ごく・・・ぅ・・・ごく・・・
+> CONTEXT: Map054/events/13/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もう、いいヨ・・・あ、ありが・・・
+> CONTEXT: Map054/events/13/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はふぅ・・・っ！
+> CONTEXT: Map054/events/13/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+心なしか、時間と共に悪化しているようだな。
+> CONTEXT: Map054/events/13/pages/0/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やっぱり、この星の環境のせいなのかな？
+> CONTEXT: Map054/events/13/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（も、もぅ・・・これ以上、我慢できないよォ・・・！）
+> CONTEXT: Map054/events/13/pages/0/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（このままじゃ・・・も、もれ・・・ちゃうぅ・・・っ！！）
+> CONTEXT: Map054/events/13/pages/0/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+た、体調が悪いのは、き、きっと、この山の
+空気のせいネ・・・っ！
+> CONTEXT: Map054/events/13/pages/0/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だから、はや・・・くっ！　山を、こ、越えないと
+・・・ワタシ・・・ワタシ・・・ぁ・・・っ！
+> CONTEXT: Map054/events/13/pages/0/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だったら、こんな所で休んでいても良く
+ならないわ。
+> CONTEXT: Map054/events/13/pages/0/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だね！　出発しよ！
+> CONTEXT: Map054/events/13/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（よ・・・よしっ！　あとは、下山するまで・・・
+　なんとか・・・我慢を・・・っ！！）
+> CONTEXT: Map054/events/13/pages/0/112/Dialogue < UNTRANSLATED
+
+> END STRING

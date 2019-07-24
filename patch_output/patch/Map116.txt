@@ -1,0 +1,31 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+正門のようだが、しっかり鍵がかかっている。
+> CONTEXT: Map116/events/2/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map116/events/3/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map116/events/4/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊
+「待て！　ここから先はお頭のお部屋だ！」
+> CONTEXT: Map116/events/9/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊
+「絶対に通すわけにはいかん！　覚悟ッ！！」
+> CONTEXT: Map116/events/9/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+店員
+「どもどもー！　行商人でーす！　相手が
+　盗賊であろうと、お客様はなんとやら！」
+> CONTEXT: Map116/events/15/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map104/events/8/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING

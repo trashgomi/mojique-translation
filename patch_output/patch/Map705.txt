@@ -1,0 +1,83 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+（やばい・・・やばい・・・っ）
+> CONTEXT: Map705/events/2/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（想像以上に・・・おしっこが溜まるのが・・・）
+> CONTEXT: Map705/events/2/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（速い・・・っ！！）
+> CONTEXT: Map705/events/2/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サッファ、もしかして、もう限界ですの・・・？
+> CONTEXT: Map705/events/2/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+べ、別に・・・そこまでじゃないけど・・・
+> CONTEXT: Map705/events/2/pages/0/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（このペースだと・・・村まで我慢できない・・・
+　かも・・・）
+> CONTEXT: Map705/events/2/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もしどうしても辛抱できなかったら、その・・・
+> CONTEXT: Map705/events/2/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わたくしここで待ってますので、お花を摘んで
+きてもよろしくてよ？
+> CONTEXT: Map705/events/2/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だ、大丈夫！　そういうのは要らないから！
+すぐ姉さんは僕を子供扱いする！
+> CONTEXT: Map705/events/2/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わ、わたくしはあなたの為を思って・・・！
+> CONTEXT: Map705/events/2/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+と、とにかく、村まで大丈夫だから・・・！
+変な心配はしなくていいよ・・・
+> CONTEXT: Map705/events/2/pages/0/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+分かりましたわ。　あなたがそこまで言うの
+なら。
+> CONTEXT: Map705/events/2/pages/0/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さあ、行きますわよ。
+> CONTEXT: Map705/events/2/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,92 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+（おしっこしたい・・・っ）
+> CONTEXT: Map678/events/6/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（もう、なんでこのあたしがトイレを我慢
+　しなくちゃならないんだよ・・・！）
+> CONTEXT: Map678/events/6/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（元はと言えば、あの高飛車女が森のアジトへ
+　攻めてきたのが全部悪いんだ！）
+> CONTEXT: Map678/events/6/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（くっそー、絶対許さないからなー・・・っ！）
+> CONTEXT: Map678/events/6/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（あぁ・・・おしっこしたい・・・おしっこしたい・・・）
+> CONTEXT: Map678/events/6/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ヴィスティの言うとおり、こんな所に急にトイレ
+　を建てるなんてできないだろうし、）
+> CONTEXT: Map678/events/6/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（そうなると、やっぱり・・・）
+> CONTEXT: Map678/events/6/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（で、でも！　高貴なるダジェルバージ当主とも
+　あろう者が岩陰で野ションとか、やっぱり
+　ありえないっ！！）
+> CONTEXT: Map678/events/6/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（うぅ・・・トイレ行きたいよぉ・・・！）
+> CONTEXT: Map678/events/6/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（どうしよう・・・どうしよう・・・っ？）
+> CONTEXT: Map678/events/6/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（もじもじ・・・っ　そわそわ・・・っ）
+> CONTEXT: Map678/events/6/pages/0/61/Dialogue < UNTRANSLATED
+> CONTEXT: Map394/events/3/pages/0/246/Dialogue < UNTRANSLATED
+> CONTEXT: Map394/events/3/pages/0/255/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/246/Dialogue < UNTRANSLATED
+> CONTEXT: Map393/events/31/pages/0/255/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/246/Dialogue < UNTRANSLATED
+> CONTEXT: Map392/events/11/pages/0/255/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/246/Dialogue < UNTRANSLATED
+> CONTEXT: Map391/events/14/pages/0/255/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（とにかく我慢しなきゃ！　きっと2人がいい
+　アイディアを出してくれるはず！！）
+> CONTEXT: Map678/events/6/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（それまで我慢・・・我慢・・・っ！！）
+> CONTEXT: Map678/events/6/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING

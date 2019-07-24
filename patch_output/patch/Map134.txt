@@ -1,0 +1,585 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+これは・・・生徒手帳だ。
+> CONTEXT: Map134/events/16/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map086/events/16/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+“秋空　巴”
+> CONTEXT: Map134/events/16/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map086/events/16/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+と・・・っ、ともっちの・・・だね・・・っ
+> CONTEXT: Map134/events/16/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/16/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+と・・・ともっちの・・・だね！
+> CONTEXT: Map134/events/16/pages/0/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/16/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+と、ともっちのだ・・・！
+> CONTEXT: Map134/events/16/pages/0/48/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/16/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ともっちのだ！
+> CONTEXT: Map134/events/16/pages/0/65/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/16/pages/0/72/Dialogue < UNTRANSLATED
+> CONTEXT: Map086/events/16/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んっ、さ、さらわれたのは・・・と、ともっち・・・
+かも・・・っ！　んぅ・・・っ
+> CONTEXT: Map134/events/16/pages/0/84/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/16/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃ、じゃあ・・・さらわれた同級生って、ともっち
+かも・・・！
+> CONTEXT: Map134/events/16/pages/0/104/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/16/pages/0/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃあ、盗賊団にさらわれたのって、ともっち
+なのかも・・・！
+> CONTEXT: Map134/events/16/pages/0/124/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/16/pages/0/143/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃあ、盗賊団にさらわれたのって、ともっち
+なのかも！
+> CONTEXT: Map134/events/16/pages/0/132/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/16/pages/0/150/Dialogue < UNTRANSLATED
+> CONTEXT: Map086/events/16/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そう見て間違いないだろうな。
+> CONTEXT: Map134/events/16/pages/0/159/Dialogue < UNTRANSLATED
+> CONTEXT: Map086/events/16/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・ん？　何か書いてある。
+> CONTEXT: Map134/events/16/pages/0/160/Dialogue < UNTRANSLATED
+> CONTEXT: Map086/events/16/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+“きた”、“もりのおく”、“とーぞく”、“たすけて”
+> CONTEXT: Map134/events/16/pages/0/161/Dialogue < UNTRANSLATED
+> CONTEXT: Map086/events/16/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こ、これって・・・ぅっ、も、もしかして・・・！
+> CONTEXT: Map134/events/16/pages/0/169/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/16/pages/0/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こ、これって・・・もしかして・・・！
+> CONTEXT: Map134/events/16/pages/0/187/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/16/pages/0/194/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/16/pages/0/205/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/16/pages/0/212/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これってもしかして・・・！
+> CONTEXT: Map134/events/16/pages/0/222/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/16/pages/0/229/Dialogue < UNTRANSLATED
+> CONTEXT: Map086/events/16/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ああ。　盗賊に連れ去られる最中に書き残した
+彼女のメモだろう。
+> CONTEXT: Map134/events/16/pages/0/237/Dialogue < UNTRANSLATED
+> CONTEXT: Map086/events/16/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これは恐らく、盗賊によってどこへ連れて
+行かれるかを示したものだ。
+> CONTEXT: Map134/events/16/pages/0/239/Dialogue < UNTRANSLATED
+> CONTEXT: Map086/events/16/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+つ・・・つまり、“北の森の奥”って・・・こ、こと
+ね・・・？
+> CONTEXT: Map134/events/16/pages/0/248/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/16/pages/0/256/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+つ・・・つまり、“北の森の奥”ってことね・・・？
+> CONTEXT: Map134/events/16/pages/0/268/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/16/pages/0/275/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+つまり、“北の森の奥”ってことね？
+> CONTEXT: Map134/events/16/pages/0/286/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/16/pages/0/293/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/16/pages/0/303/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/16/pages/0/309/Dialogue < UNTRANSLATED
+> CONTEXT: Map086/events/16/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そう推測することが妥当だな。
+> CONTEXT: Map134/events/16/pages/0/317/Dialogue < UNTRANSLATED
+> CONTEXT: Map086/events/16/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【ともっちの生徒手帳】×1
+を手に入れた！
+> CONTEXT: Map134/events/16/pages/0/323/Dialogue < UNTRANSLATED
+> CONTEXT: Map086/events/16/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【ともっちの生徒手帳】×1
+を見つけたが、持ち物がいっぱいだ！
+> CONTEXT: Map134/events/16/pages/0/328/Dialogue < UNTRANSLATED
+> CONTEXT: Map086/events/16/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊団の脅威も無くなって、安心して
+散歩できるよ！
+> CONTEXT: Map134/events/30/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+釣り・・・やる？
+> CONTEXT: Map134/events/31/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+俺はやらないよ。
+> CONTEXT: Map134/events/31/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここねぇ、蝶々がいっぱい捕れるんだよぉ！
+> CONTEXT: Map134/events/32/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+奇麗な湖でしょ？　中央部に住む人たちの
+自慢なんですよ。　うふふ。
+> CONTEXT: Map134/events/33/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・Ｚｚｚ
+> CONTEXT: Map134/events/34/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここオシル湖は、キャンプ場としても有名
+なのさ。
+> CONTEXT: Map134/events/35/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男はな、いくつになっても少年の心を忘れちゃ
+いけねえ。
+> CONTEXT: Map134/events/36/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だから断じて精神年齢が低いわけじゃねえぞ！
+> CONTEXT: Map134/events/36/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マイナスイオンよ、我の力となるがいい！
+> CONTEXT: Map134/events/37/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+太古の昔から生き残ってきた竜族の生き残り、
+それがオッシーさ。
+> CONTEXT: Map134/events/38/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+差し詰め、古代竜族ってとこかな。
+> CONTEXT: Map134/events/38/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いいところよね。　空気もきれいだし、景色も
+最高。
+> CONTEXT: Map134/events/39/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただ、近くにトイレがあればいいのに・・・
+> CONTEXT: Map134/events/39/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+行きたくなっても、町に戻らないといけないもの
+ね。
+> CONTEXT: Map134/events/39/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いやあ、絶景ですなぁ！
+> CONTEXT: Map134/events/40/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここに秘密基地作ろうぜ！！
+> CONTEXT: Map134/events/41/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うおー！　燃えるぜー！！
+> CONTEXT: Map134/events/42/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+冬は湖が凍って、スケート場になるのよ。
+> CONTEXT: Map134/events/43/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたしはぜんぜん滑れないけど。
+> CONTEXT: Map134/events/43/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こういうところでのんびりしてると、突然いい
+アイデアが浮かんだりするんです。
+> CONTEXT: Map134/events/44/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、ボク画家なんですよ。
+> CONTEXT: Map134/events/44/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+少し前まで貸しボート屋があったのに、
+オッシーのウワサが流れてからお店
+たたんじゃったみたいなの。
+> CONTEXT: Map134/events/45/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+本当にオッシーがいたら危険なんだろうけど、
+これだけお客が集まればいい商売になった
+のに、もったいないわね。
+> CONTEXT: Map134/events/45/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おーい！　オッシー！！　出ておいでーー！！
+> CONTEXT: Map134/events/46/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兵「いよぉう兄弟！　ボートで地下洞窟へ入口へ
+　　移動するかい！？」
+> CONTEXT: Map134/events/49/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヒャッハー！！
+> CONTEXT: Map134/events/49/pages/0/3/Choice/0 < UNTRANSLATED
+> CONTEXT: Map134/events/54/pages/0/2/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+落ちつけ
+> CONTEXT: Map134/events/49/pages/0/3/Choice/1 < UNTRANSLATED
+> CONTEXT: Map134/events/54/pages/0/2/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兵「よっしゃあ！　しっかりつかまってろよぉ！！」
+> CONTEXT: Map134/events/49/pages/0/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/54/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兵「いえぇぇぇい！！　ごきげんだぜえぇ！！」
+> CONTEXT: Map134/events/49/pages/0/68/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/54/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兵「すまねえ、オレが未熟だったんだな・・・」
+> CONTEXT: Map134/events/49/pages/0/74/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/54/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兵「いよぉう兄弟！　岸まで移動するかい！？」
+> CONTEXT: Map134/events/54/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こっ、ここなら誰からも見えないよね・・・っ！？
+> CONTEXT: Map134/events/55/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、も、もぅ・・・だめ・・・我慢できないっ！
+> CONTEXT: Map134/events/55/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+早く、け、携帯トイレのふたを開けて・・・
+> CONTEXT: Map134/events/55/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う・・・ぅ・・・っ（もじもじもじもじ）
+> CONTEXT: Map134/events/55/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よし・・・っ、準備完了・・・っ！！
+> CONTEXT: Map134/events/55/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ん・・・っ
+> CONTEXT: Map134/events/55/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぁ・・・あー～～～・・・//////
+> CONTEXT: Map134/events/55/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お外で立ったままするのも・・・
+きもちいぃ～～～・・・/////
+> CONTEXT: Map134/events/55/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふー・・・
+> CONTEXT: Map134/events/55/pages/0/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/15/pages/2/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すっきり♪
+> CONTEXT: Map134/events/55/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ん、でもこの携帯トイレ、どうしよう・・・
+こんなに膨らんでたらポケットに入らないし・・・
+> CONTEXT: Map134/events/55/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+と、とりあえずここに隠しておいて、後で
+回収に来よっと。
+> CONTEXT: Map134/events/55/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おしっこでパンパンになった携帯トイレだ。
+> CONTEXT: Map134/events/55/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まだぬくもりがある。
+> CONTEXT: Map134/events/55/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今回の"古代竜族の鱗"回収は、たこやきの
+意思疎通スキルのおかげだな。
+> CONTEXT: Map134/events/62/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/63/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/64/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+正直、君は指令を無視して後方から銃を
+乱射するくらいしか能力が無いと思っていたが。
+> CONTEXT: Map134/events/62/pages/0/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/63/pages/0/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/64/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うう・・・褒めるのとディスるのを同時に
+やられると、反応に困るヨー・・・
+> CONTEXT: Map134/events/62/pages/0/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/63/pages/0/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/64/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それに！　このワタシにはディテクション
+バイザーというありがたい能力もあるんだゾー！
+> CONTEXT: Map134/events/62/pages/0/19/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/63/pages/0/19/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/64/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦えて、コミュニケーションも取れて、探し物も
+見つけちゃうワタシ！！　すごいナー！！
+すごすぎるナー！！
+> CONTEXT: Map134/events/62/pages/0/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/63/pages/0/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/64/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Pメモリーシステムが解禁されました！
+> CONTEXT: Map134/events/62/pages/0/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/63/pages/0/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/64/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Pメモリー"とは、この世界の女の子が
+体験した尿意に関する恥ずかしい記憶、
+残留思念です。
+> CONTEXT: Map134/events/62/pages/0/27/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/63/pages/0/27/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/64/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+普段は目に見えませんが、ディテクション
+バイザーを起動することによってPメモリーを
+発見し、回収することができます。
+> CONTEXT: Map134/events/62/pages/0/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/63/pages/0/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/64/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+回収したPメモリーは、赤いポストを調べる
+ことによっていつでも閲覧できます。
+> CONTEXT: Map134/events/62/pages/0/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/63/pages/0/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/64/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+また、赤いポストで見られるPメモリーメニュー
+から、Pメモリーを発見できる場所のヒントを
+見ることができます。
+> CONTEXT: Map134/events/62/pages/0/35/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/63/pages/0/35/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/64/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まずは赤いポストを調べて、Pメモリーの
+ヒントを得ましょう。
+> CONTEXT: Map134/events/62/pages/0/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/63/pages/0/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map134/events/64/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING

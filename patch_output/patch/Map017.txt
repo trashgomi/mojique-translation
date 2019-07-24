@@ -1,0 +1,6 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+村長でしたら、二階の執務室におられます。
+> CONTEXT: Map017/events/3/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

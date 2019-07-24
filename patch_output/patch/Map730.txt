@@ -1,0 +1,579 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\C[6]さらに洞窟を進むこと30分。
+> CONTEXT: Map730/events/2/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・・・・・・・・・・・・・・・・・・・。
+> CONTEXT: Map730/events/2/pages/0/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map731/events/1/pages/0/19/Dialogue < UNTRANSLATED
+> CONTEXT: Map731/events/1/pages/0/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map731/events/1/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・場所・・・・・・・・・・・・・・・・・・・・・・・・・・
+・・・・・・・・・・・・・・・間違えたかな・・・・・・・？
+> CONTEXT: Map730/events/2/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[6]疑問の方向性がずれてはいるものの、己の
+行動の過ちを感じ始めたその時であった。
+> CONTEXT: Map730/events/2/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「これはこれは、4体持ちさん。」
+> CONTEXT: Map730/events/2/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「まさかこうも簡単に袋のネズミになって
+　くれるとは思ってもみなかったよねぇ・・・！」
+> CONTEXT: Map730/events/2/pages/0/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[6]突如現れた2人の男もまた、死神である。
+（演出の都合上、彼らの肉体も1つだけの表示と
+　させていただく。）
+> CONTEXT: Map730/events/2/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[6]ご存知のとおり死神たちの縄張りは荒野である
+が、彼らの秩序は単純明快に弱肉強食の上に
+成り立っている。
+> CONTEXT: Map730/events/2/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[6]強い者が弱い者の全てを奪い、弱い者は
+強い者の支配を受け入れ服従する。
+それが死神の唯一にして最大のルールである。
+> CONTEXT: Map730/events/2/pages/0/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[6]だが同時に、強い野心を持つ者が下克上を
+果たすため、時として結託し、その数をもってして
+強者を下すこともしばしば起こる。
+> CONTEXT: Map730/events/2/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[6]もともと戦闘狂であり、争いを好み楽しむ性質の
+彼らにとって、“4体持ち”という奇跡のような存在
+は、狩りの対象として十分であった。
+> CONTEXT: Map730/events/2/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神A
+「あんた、最近ずいぶん俺らの縄張りで暴れて
+　くれてるそうだねぇ。」
+> CONTEXT: Map730/events/2/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神B
+「食料もかなり横取りされてるって話だ。
+　さぞかし満足だろうよ。」
+> CONTEXT: Map730/events/2/pages/0/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神A
+「でもねぇ・・・いくらあんたが死神最強の4体持ち
+　だと言っても、これ以上黙って好きにさせておく
+　わけにはいかないんだよねぇ。」
+> CONTEXT: Map730/events/2/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神B
+「悪いけど、君にはここで消えてもらう。」
+> CONTEXT: Map730/events/2/pages/0/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神C
+「ククク・・・どうした？　謝れば見逃してもらえる
+　とでも思っているのか？」
+> CONTEXT: Map730/events/2/pages/0/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神D
+「貴様の戦闘力は事前にリサーチさせて
+　もらった。」
+> CONTEXT: Map730/events/2/pages/0/152/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神D
+「驚異的ではあるが、しょせんは1人。　我々は
+　2体持ちとは言え、この数を相手ではどうにも
+　できまい。」
+> CONTEXT: Map730/events/2/pages/0/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神E
+「ここで終わりだ！　くたばれ4体持ちぃっ！！」
+> CONTEXT: Map730/events/2/pages/0/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[6]少女の肉体は4。　対して敵の肉体は合計12。
+> CONTEXT: Map730/events/2/pages/0/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[6]客観的に見れば、起死回生の望みさえ灰の
+ように吹き飛ぶ状況であるが、彼らは知らな
+かったのだ。
+> CONTEXT: Map730/events/2/pages/0/167/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[6]死神1人の戦闘力は、肉体数の5乗である事を。
+> CONTEXT: Map730/events/2/pages/0/217/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[6]彼女と互角に戦うには、2体持ちの死神を32人、
+合計64体の肉体を用意しなければならないので
+ある。
+> CONTEXT: Map730/events/2/pages/0/218/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[6]つまるところ、4体持ちの死神とは、2体持ちの
+彼らにとってそれほど超常的な存在であった。
+> CONTEXT: Map730/events/2/pages/0/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[6]そして。
+> CONTEXT: Map730/events/2/pages/0/223/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・・・・・・・もっと・・・・・・奥・・・・・・・・・・かな
+・・・・・・会場・・・・・・・・・・。
+> CONTEXT: Map730/events/2/pages/0/229/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[6]この期に及んで未だこれが罠だということに
+気付かない彼女も、たいがいである。
+> CONTEXT: Map730/events/2/pages/0/232/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神B
+「ま・・・待て・・・」
+> CONTEXT: Map730/events/2/pages/0/252/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・・・・・・・・・なに・・・・・・・・・・？
+> CONTEXT: Map730/events/2/pages/0/261/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神B
+「君がお望みの・・・ば、晩餐会は・・・」
+> CONTEXT: Map730/events/2/pages/0/263/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神B
+「その先の通路を・・・左に、曲がった・・・先・・・
+　だ・・・」
+> CONTEXT: Map730/events/2/pages/0/265/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・うん・・・
+・・・・・・・・わかった・・・・・・・・・・・・・・・・・・・・・・
+> CONTEXT: Map730/events/2/pages/0/271/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[6]しかし彼らもまた、幾多の修羅場をくぐり抜けて
+きた戦いの申し子。
+> CONTEXT: Map730/events/2/pages/0/274/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[6]死神少女を打倒するための策を、もう1つ用意
+していたのだ。
+> CONTEXT: Map730/events/2/pages/0/276/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・会場は・・・・・・・・・左・・・・・・・・・・・・・・
+> CONTEXT: Map730/events/2/pages/0/316/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・・・・・・ごちそう・・・・・・・・・・・・・・・・・・・・
+・・・・・・・・・・・・・・・・・・・・・・・・・・いっぱい・・・・
+> CONTEXT: Map730/events/2/pages/0/351/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・・・・・・・いただきます・・・・・・・・・・・・・・・・
+> CONTEXT: Map730/events/2/pages/0/353/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あむあむあむあむあむあむあむあむあむあむ
+あむあむあむあむあむあむあむあむあむあむ
+> CONTEXT: Map730/events/2/pages/0/365/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あむあむあむあむあむあむあむあむあむあむ
+あむあむあむあむあむあむあむあむあむあむ
+あむあむあむあむあむあむあむあむあむあむ
+> CONTEXT: Map730/events/2/pages/0/377/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あむあむあむあむあむあむあむあむあむあむ
+あむあむあむあむあむあむあむあむあむあむ
+あむあむあむあむあむあむあむあむあむあむ
+あむあむあむあむあむあむあむあむあむあむ
+> CONTEXT: Map730/events/2/pages/0/390/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ごくごくごくごくごくごくごくごくごくごくごくごくごく
+ごくごくごくごくごくごくごくごくごくごくごくごくごく
+ごくごくごくごくごくごくごくごくごくごくごくごくごく
+ごくごくごくごくごくごくごくごくごくごくごくごくごく
+> CONTEXT: Map730/events/2/pages/0/404/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・
+・・・・・・・・・・・・ごちそうさま・・・・・・・・・・・・・・・・
+・・・・・でした・・・・・・・・・・・・・・・・・・・・・・・・・・・・
+> CONTEXT: Map730/events/2/pages/0/411/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[6]大型草食動物もびっくりの食欲で、用意されて
+いた大量の食べ物を4つの体で一気に平らげた
+死神少女。
+> CONTEXT: Map730/events/2/pages/0/415/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[6]当然ながら、これも敵の死神たちによる罠で
+ある。
+> CONTEXT: Map730/events/2/pages/0/418/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神A
+「フ・・・フフフ・・・フフ・・・」
+> CONTEXT: Map730/events/2/pages/0/437/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神A
+「ぜ～んぶキレイに食べたねぇ・・・」
+> CONTEXT: Map730/events/2/pages/0/439/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神A
+「満足してもらえたかな？」
+> CONTEXT: Map730/events/2/pages/0/450/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神A
+「俺らの特製“竜毒入り”最後の晩餐フルコース
+　をねぇ・・・！！」
+> CONTEXT: Map730/events/2/pages/0/452/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[6]竜毒とは、魔界に伝わる最強クラスの猛毒で
+あり、“竜をも一瞬で失神させる”ほどの強い
+麻酔効果を持つ。
+> CONTEXT: Map730/events/2/pages/0/455/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[6]彼女が食した料理の全てに、この強力な毒が
+盛られていたのだ。
+> CONTEXT: Map730/events/2/pages/0/458/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神A
+「まさか毒が効き始める前に全部食い終わっち
+　まうとは思わなかったけどねぇ。」
+> CONTEXT: Map730/events/2/pages/0/460/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神A
+「その摂取量だと・・・フフ・・・下手すりゃ命に
+　かかわるかもねぇ・・・！」
+> CONTEXT: Map730/events/2/pages/0/463/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神B
+「首尾はどうだ？」
+> CONTEXT: Map730/events/2/pages/0/485/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神A
+「ああ、大成功さ。　1つ残らず胃に入ったよ。」
+> CONTEXT: Map730/events/2/pages/0/491/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神B
+「そうか。　これでやつも終わりだな。」
+> CONTEXT: Map730/events/2/pages/0/493/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・・・・・・・・・・・・・・・・・・・・・。
+> CONTEXT: Map730/events/2/pages/0/505/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・・・・・・・・・・・おかわり・・・・・・・・・・・・・・・
+・・・・・・・・・・・・・・・・・・・・・・・・・・・ある？・・・・・・
+> CONTEXT: Map730/events/2/pages/0/506/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神A
+「・・・・・・・・・。」
+> CONTEXT: Map730/events/2/pages/0/509/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神B
+「おい、本当に竜毒入りの料理を食わせたん
+　だよな・・・？」
+> CONTEXT: Map730/events/2/pages/0/511/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神A
+「あ、ああ・・・そのはずなんだけど・・・」
+> CONTEXT: Map730/events/2/pages/0/514/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[6]結論から言うと、彼らの竜毒作戦は失敗である。
+> CONTEXT: Map730/events/2/pages/0/521/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[6]この死神少女が特別な存在とされる理由として
+4体持ちであることが大きく目立っているものの、
+> CONTEXT: Map730/events/2/pages/0/522/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[6]その実、彼女が仮に2体持ちであったとしても
+その戦闘力は他の追随を許さなかったであろう。
+> CONTEXT: Map730/events/2/pages/0/524/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[6]なぜなら、彼女は生まれながらにして卓越した
+五感や身体能力を有しており、
+> CONTEXT: Map730/events/2/pages/0/526/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[6]こと代謝においては、経口摂取したあらゆる
+毒素を即時に分解し、無毒化することが可能
+なのである。
+> CONTEXT: Map730/events/2/pages/0/528/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神A
+「なんてこった・・・ぜんぜん毒が効いてない
+　ぞ・・・！」
+> CONTEXT: Map730/events/2/pages/0/531/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神B
+「マジ・・・かよ・・・バケモノめ！！」
+> CONTEXT: Map730/events/2/pages/0/534/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神A
+「くそ・・・こうなったらとことんやってやる・・・！」
+> CONTEXT: Map730/events/2/pages/0/536/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神A
+「総力戦だ！　仲間を全員招集しろ！！」
+> CONTEXT: Map730/events/2/pages/0/538/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神B
+「ああ、分かった！」
+> CONTEXT: Map730/events/2/pages/0/540/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神A
+「よく聞け、4体持ち！」
+> CONTEXT: Map730/events/2/pages/0/558/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神A
+「あんたは俺らの闘争本能に火を点けた！」
+> CONTEXT: Map730/events/2/pages/0/560/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神A
+「もはやここから生きて出られるとは思わない
+　ことだねぇ！」
+> CONTEXT: Map730/events/2/pages/0/562/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・・・・・・・・・・・・・。
+> CONTEXT: Map730/events/2/pages/0/569/Dialogue < UNTRANSLATED
+> CONTEXT: Map570/events/4/pages/2/604/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・・・どうすれば・・・・・・・・・・・ここから・・・
+・・・・・・・・・・・・・・・・・・・・・出られるの・・・・・・・？
+> CONTEXT: Map730/events/2/pages/0/570/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神A
+「おいおい、あんたに渡した手紙が何の招待状
+　だったか忘れたのか？」
+> CONTEXT: Map730/events/2/pages/0/573/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死神A
+「食うか食われるか。　それが死神界のルール
+　だ・・・！」
+> CONTEXT: Map730/events/2/pages/0/576/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・・・・・・・・・わかった・・・・・・・・・・・・・・・・・
+> CONTEXT: Map730/events/2/pages/0/583/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[6]かくして、死神たちの“晩餐会”が幕をあけたので
+ある。
+> CONTEXT: Map730/events/2/pages/0/585/Dialogue < UNTRANSLATED
+
+> END STRING

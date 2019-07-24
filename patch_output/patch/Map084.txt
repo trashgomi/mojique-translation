@@ -1,0 +1,104 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+盗賊団のヤツら、ずいぶん大胆なことしてくれる
+じゃねえか。
+> CONTEXT: Map084/events/8/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物はいつになったらいなくなるのかねえ。
+> CONTEXT: Map084/events/8/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+野次馬根性、見せちゃるわあ！
+> CONTEXT: Map084/events/9/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+行商人の女の子、結構かわいいよね。
+> CONTEXT: Map084/events/9/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんというか、こう、ほわ～んとしたとこが。
+> CONTEXT: Map084/events/9/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こりゃもうオッシーどころじゃないわな。
+> CONTEXT: Map084/events/10/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+湖で誘拐事件があったんですって？
+> CONTEXT: Map084/events/11/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さっきまでオシル湖でのんびりしてたんだけど、
+ヘタすれば私がさらわれてたかもね・・・
+> CONTEXT: Map084/events/12/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊団なんて怖くないですよ！　ええ、もう
+ぜんぜん！　は、はは・・・
+> CONTEXT: Map084/events/13/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+若い女性が誘拐されたと聞きます。
+> CONTEXT: Map084/events/14/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+できれば、この年寄りが代わってやりたい
+のですが・・・
+> CONTEXT: Map084/events/14/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この年になると、思うように動けなくて
+もどかしいばかりです。
+> CONTEXT: Map084/events/14/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+城の兵は何やってるのかしら！　盗賊団なんて
+早くツブしちゃえばいいのに！
+> CONTEXT: Map084/events/15/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+城の兵は何やってるのかしら！　魔物なんて
+早くやっつけちゃえばいいのに！
+> CONTEXT: Map084/events/15/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うう、も、もうけっこうヤバいかも・・・っ
+> CONTEXT: Map084/events/19/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+早く、どこかでアレを使わないと・・・うぅ、
+もれそう・・・っ！
+> CONTEXT: Map084/events/19/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING

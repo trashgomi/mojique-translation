@@ -1,0 +1,7 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+最近は物騒だから、町まで買い物に出るのも
+ままならないわ。
+> CONTEXT: Map014/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,69 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+男
+「ああ、すいやせん、通行人の方ですかい？」
+> CONTEXT: Map348/events/4/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「実は先ほど、落石がありましてねえ。」
+> CONTEXT: Map348/events/4/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「ご覧のとおり、通路がふさがってるんです
+　よお。」
+> CONTEXT: Map348/events/4/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふむ、これはずいぶん大規模な崩落だな。
+> CONTEXT: Map348/events/4/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あちゃ～、こりゃ通るのは無理だね・・・
+> CONTEXT: Map348/events/4/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+できるだけ急いで城へ戻りたいのに
+・・・まったくこんな時に限って！
+> CONTEXT: Map348/events/4/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「ご心配なく！　旅人さん達のために、急きょ
+　迂回路を用意したんで、」
+> CONTEXT: Map348/events/4/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「そこの特設階段を降りて進めば、向こう側へ
+　つきますぜ！」
+> CONTEXT: Map348/events/4/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お♪　気が利くね、おじさ～ん！！
+> CONTEXT: Map348/events/4/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ありがとうございます、助かります。
+> CONTEXT: Map348/events/4/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING

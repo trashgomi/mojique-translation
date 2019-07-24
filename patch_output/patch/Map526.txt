@@ -1,0 +1,113 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+こ、この奥からものすごい魔力を感じます・・・！
+> CONTEXT: Map526/events/2/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほんとだ・・・！
+> CONTEXT: Map526/events/2/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これは強い！　強すぎるよ！！　もはや
+魔力というか殺気だよ！！！
+> CONTEXT: Map526/events/2/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白カラットで間違いなさそうだな。
+> CONTEXT: Map526/events/2/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、そうね・・・
+> CONTEXT: Map526/events/2/pages/0/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map384/events/22/pages/0/266/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+熾天宮で会った時よりも、さらにすごくなってる
+みたい・・・
+> CONTEXT: Map526/events/2/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でもこっちには秘密兵器があるネー！
+> CONTEXT: Map526/events/2/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+干渉剤S.D。　これが勝利の鍵だな。
+> CONTEXT: Map526/events/2/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただ、白カラットはこちらが干渉剤を持っている
+ことを知っています。
+> CONTEXT: Map526/events/2/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手も簡単には隙を見せてはくれないでしょう。
+> CONTEXT: Map526/events/2/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まあその辺はホラ、うまくやれば何とか
+なるって！
+> CONTEXT: Map526/events/2/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だね！　“うまくやれば”ね！
+> CONTEXT: Map526/events/2/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+具体的には、どうやるんダー？
+> CONTEXT: Map526/events/2/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+勢いクラスタって怖いわ・・・
+> CONTEXT: Map526/events/2/pages/0/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+と、とにかく・・・隙を見つけましょう・・・！
+> CONTEXT: Map526/events/2/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうだね！　隙をね！！
+> CONTEXT: Map526/events/2/pages/0/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+行くか。
+> CONTEXT: Map526/events/2/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+い、行きましょう・・・
+> CONTEXT: Map526/events/2/pages/0/88/Dialogue < UNTRANSLATED
+
+> END STRING

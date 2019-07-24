@@ -1,0 +1,99 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+あちゃ～、やっぱプラズマチェーンも
+消えちゃってたか～・・・
+> CONTEXT: Map406/events/8/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いったい何が起きた？
+> CONTEXT: Map406/events/8/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+地上にある電力ジェネレーター室に、突然
+空からでっかいナニかが落ちてきてね。
+> CONTEXT: Map406/events/8/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+施設全体が停電しちゃったのよ～。
+> CONTEXT: Map406/events/8/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんかよく分からないけど、館長にも予測
+できなかったハプニングが起きたみたいね。
+> CONTEXT: Map406/events/8/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そういえば、もう普通に熾力が使える感じが
+する！
+> CONTEXT: Map406/events/8/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+熾力を抑制するシステムも停止している
+ようですね。
+> CONTEXT: Map406/events/8/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ならばこちらの物です！
+> CONTEXT: Map406/events/8/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まったく君たち運がいいね～！
+> CONTEXT: Map406/events/8/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んじゃ、力を取り戻した熾天少女に戦いを
+挑むほどマヌケじゃないから、あたしゃそろそろ
+おいとまさせてもらうかね～。
+> CONTEXT: Map406/events/8/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+最低限必要な機材や薬品は確保したし、
+もうこの研究館に戻る理由もなくなったしね。
+> CONTEXT: Map406/events/8/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+待て、お前を野に放つのは危険すぎる。
+> CONTEXT: Map406/events/8/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+誉め言葉と受け取っておくよ～！　じゃあね～！
+> CONTEXT: Map406/events/8/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんかさ、敵ってみんな逃げ足速いよね。
+不公平だよね。
+> CONTEXT: Map406/events/8/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いいから、早く追いましょう！！
+> CONTEXT: Map406/events/8/pages/0/102/Dialogue < UNTRANSLATED
+
+> END STRING

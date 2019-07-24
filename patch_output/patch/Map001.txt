@@ -1,0 +1,112 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ああああああああああぁぁぁーーーーーーーー
+ーーーーーーーーーーーーーーーっ！！！！
+> CONTEXT: Map001/events/1/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょ、ちょっと！！　いきなり叫ばないでよ
+はむこ！！
+> CONTEXT: Map001/events/1/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうしたのよ！？
+> CONTEXT: Map001/events/1/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いやぁ、やまびこみたいな感じで、うみびことか
+返ってこないかな？　と思って・・・
+> CONTEXT: Map001/events/1/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+音を反射するものが何もないんだから、
+返ってくるわけないでしょ。
+> CONTEXT: Map001/events/1/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+っていうか、試すならせめて「やっほー」に
+しなさいよ・・・
+> CONTEXT: Map001/events/1/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やっほー」はやまびこでしょ？
+海はやっぱり「ああぁー！」だよ！
+> CONTEXT: Map001/events/1/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんたの海に対するデフォルト設定が、
+まず分からんわ・・・
+> CONTEXT: Map001/events/1/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+説明しよう！　今日は、はむこ達の学年が
+修学旅行の真っ最中なのである！
+> CONTEXT: Map001/events/1/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちなみに旅行先はフェリーで、現在、佐渡島に
+乗って航行中だ！！
+> CONTEXT: Map001/events/1/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（色々と突っ込みが追い付かない・・・）
+> CONTEXT: Map001/events/1/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それにしても平和だね～・・・
+> CONTEXT: Map001/events/1/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そりゃ平和じゃなきゃ困るわよ。
+> CONTEXT: Map001/events/1/pages/0/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こんな海のど真ん中で事件が起きたら
+どうしようもないじゃない。
+> CONTEXT: Map001/events/1/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はいフラグ一本入りましたーー！！
+> CONTEXT: Map001/events/1/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やめんか。
+> CONTEXT: Map001/events/1/pages/0/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・ふい？
+> CONTEXT: Map001/events/1/pages/0/78/Dialogue < UNTRANSLATED
+
+> END STRING

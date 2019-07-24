@@ -1,0 +1,7 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+最近は盗賊団の話のせいでぐっすり
+眠れないわ。
+> CONTEXT: Map065/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

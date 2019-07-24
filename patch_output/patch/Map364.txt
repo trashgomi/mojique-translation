@@ -1,0 +1,50 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+西に進めば南部で一番大きな集落、
+“砂の町ジャハマド”に行けるよー！
+> CONTEXT: Map364/events/15/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物が活発になってからは、海で泳ぐ観光客も
+いなくなっちまったぜ・・・
+> CONTEXT: Map364/events/16/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おや観光客かい？　悪いことは言わないから、
+煉獄洞に行くのはやめときな。
+> CONTEXT: Map364/events/17/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+暑いだけで、なーんにもありゃしないよ。
+> CONTEXT: Map364/events/17/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+看守部屋で聞き込み調査だよ！　こっちじゃ
+ないよ！　ね？
+> CONTEXT: Map364/events/23/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map364/events/24/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map364/events/25/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すぐそこに、橋の看守部屋があるな。
+> CONTEXT: Map364/events/26/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map364/events/27/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まずはそこで情報収集してみよう。
+> CONTEXT: Map364/events/26/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map364/events/27/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING

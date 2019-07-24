@@ -1,0 +1,26 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+はあ・・・スッカラカンだぜ・・・
+> CONTEXT: Map049/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とりあえずトロッコの燃料は確保できたぜ。
+> CONTEXT: Map049/events/2/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+親方も頭に血が上っちまってますぜ。
+ああなったら俺らでも止めらんねえです。
+> CONTEXT: Map049/events/3/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+燃料保険にでも入っておかないと心配に
+なってきたよ。
+> CONTEXT: Map049/events/3/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING

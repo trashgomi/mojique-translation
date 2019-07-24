@@ -1,0 +1,80 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+うひひひひっ！！　おま！！　それ絶対
+刃の向きが逆だったってオチだろ！？！
+な！？　な！？
+> CONTEXT: Map635/events/20/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊
+「あーーーねーーーさーーーーん！！！！
+　なんで先にそれ言っちゃうんっすかあぁぁ！」
+> CONTEXT: Map635/events/20/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぶわーーーーっはっはっはっはっはっ！！！
+読まれてやんの！！　オチ読まれてやんの！！
+> CONTEXT: Map635/events/20/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊
+「んひゃはははははは！！！」
+> CONTEXT: Map635/events/20/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊
+「あっと、ちょい便所！！」
+> CONTEXT: Map635/events/20/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おう！　3秒で済ませろよな！！！　ひひ！！
+> CONTEXT: Map635/events/20/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊
+「そこは3分にしてくださいよおおおぉ！！
+　んへはははは！！！」
+> CONTEXT: Map635/events/20/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊
+「そういやあねさん一度も便所立ってないみたい
+　っすけど！　溜まってんじゃないっすか！？」
+> CONTEXT: Map635/events/20/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ああ！？　お前オレを誰だと思ってんだ！？
+便所が来いってんだよ！！
+> CONTEXT: Map635/events/20/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+つーかてめぇ！！　女に何聞いてんだこんの
+野郎！！！　切り落とすぞ！！！ｗｗｗｗｗ
+> CONTEXT: Map635/events/20/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊
+「ひいいいいいぃぃぃっ！！！！ｗｗｗｗｗｗ」
+> CONTEXT: Map635/events/20/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING

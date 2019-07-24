@@ -1,0 +1,1155 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+早乙女・・・！
+> CONTEXT: Map098/events/5/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+早乙女ってば・・・っ！
+> CONTEXT: Map098/events/5/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お願い、起きて！　早乙女・・・っ！！
+> CONTEXT: Map098/events/5/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・ん。
+> CONTEXT: Map098/events/5/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+早乙女っ！　大丈夫？　怪我は！？
+> CONTEXT: Map098/events/5/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふむ。　俺については問題ない。
+> CONTEXT: Map098/events/5/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+春風こそ、無事か？
+> CONTEXT: Map098/events/5/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたしは大丈夫よ。　よかった、平気そうね・・・！
+> CONTEXT: Map098/events/5/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+少なくとも、お前が泣くほどの事態にはなって
+いない。
+> CONTEXT: Map098/events/5/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う、うる、うるさいわね！　心配して損したわっ！
+> CONTEXT: Map098/events/5/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+牢屋か。　ミイラ取りがミイラとは、まさにだ。
+> CONTEXT: Map098/events/5/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうね・・・あたしも油断したわ。
+> CONTEXT: Map098/events/5/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はむこやともっちは、別の牢屋かしら？
+> CONTEXT: Map098/events/5/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうかもしれないな。
+> CONTEXT: Map098/events/5/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+無事であることを祈ろう。
+> CONTEXT: Map098/events/5/pages/0/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ねえ早乙女。　なんとかしてここを脱出する
+方法はないかしら？
+> CONTEXT: Map098/events/5/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+無いな。
+> CONTEXT: Map098/events/5/pages/0/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょ、即答しないでよ！
+> CONTEXT: Map098/events/5/pages/0/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そう判断した理由は2つだ。
+> CONTEXT: Map098/events/5/pages/0/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+1つは、ここが牢屋であること。
+> CONTEXT: Map098/events/5/pages/0/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+囚人などを監禁することを目的として作られた
+この部屋は、内部から外部へ脱出する一切の
+方法が断ち切られた構造となっている。
+> CONTEXT: Map098/events/5/pages/0/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もう1つは、我々が何の特殊な道具あるいは
+格子を開けるためのカギを持っていないこと。
+> CONTEXT: Map098/events/5/pages/0/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+当然ながらカギがあれば脱出は可能。しかし
+持っていない。
+> CONTEXT: Map098/events/5/pages/0/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+金属を焼き切るバーナーなどの特殊用具も、
+またしかり。
+> CONTEXT: Map098/events/5/pages/0/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+結論として、外的要因を除き、我々が現時点で
+ここを脱出することは不可能と断定した。
+> CONTEXT: Map098/events/5/pages/0/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（く・・・っ、反論できない・・・）
+> CONTEXT: Map098/events/5/pages/0/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃ、じゃあどうするの？　助けを待つしかない
+ってこと・・・？
+> CONTEXT: Map098/events/5/pages/0/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+残念ながら。
+> CONTEXT: Map098/events/5/pages/0/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・そう。
+> CONTEXT: Map098/events/5/pages/0/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そう言えばこの牢屋、監視がいないわね。
+> CONTEXT: Map098/events/5/pages/0/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+人が足りてないのかしら？
+> CONTEXT: Map098/events/5/pages/0/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あるいは、監視の対象とみなされていないの
+だろう。
+> CONTEXT: Map098/events/5/pages/0/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+城の兵士と違い、我々は武器も鎧も無い若年の
+男女。
+> CONTEXT: Map098/events/5/pages/0/147/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+迷い込んだ一般人程度にしか見られていないと
+推測する。
+> CONTEXT: Map098/events/5/pages/0/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そう言われるとちょっとシャクだけど、まあ
+確かにそうかもしれないわね・・・
+> CONTEXT: Map098/events/5/pages/0/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+動き回ると、無駄に体力を消耗するだけだぞ。
+> CONTEXT: Map098/events/5/pages/0/197/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こんな時は・・・否、こんな時だからこそ
+落ち着くべきだ。
+> CONTEXT: Map098/events/5/pages/0/198/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わ・・・分かってるわよ！
+> CONTEXT: Map098/events/5/pages/0/208/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただ、ここから出られた時に盗賊団と戦う
+ために、体がなまらないようにと思って・・・！
+> CONTEXT: Map098/events/5/pages/0/212/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうか。　戦うのは他でもない、お前たち
+だからな。
+> CONTEXT: Map098/events/5/pages/0/217/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+軽はずみな発言を許してほしい。
+> CONTEXT: Map098/events/5/pages/0/219/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベ、別に謝んなくたっていいけど・・・
+> CONTEXT: Map098/events/5/pages/0/223/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・く・・・ぅ・・・
+> CONTEXT: Map098/events/5/pages/0/236/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ん？　何か言ったか？
+> CONTEXT: Map098/events/5/pages/0/244/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え、い、言ってないわよ！
+> CONTEXT: Map098/events/5/pages/0/252/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんか聞こえた・・・っ？
+> CONTEXT: Map098/events/5/pages/0/253/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一瞬、お前が何か言ったように聞こえただけだ。
+> CONTEXT: Map098/events/5/pages/0/257/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+俺の空耳だろう。
+> CONTEXT: Map098/events/5/pages/0/258/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ・・・そう・・・
+> CONTEXT: Map098/events/5/pages/0/262/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さ、早乙女・・・
+> CONTEXT: Map098/events/5/pages/0/279/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほんとに・・・ここから脱出する方法って
+・・・無いの？
+> CONTEXT: Map098/events/5/pages/0/291/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あれから状況に進展が無い。
+> CONTEXT: Map098/events/5/pages/0/296/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+進展がなければ結果も変わらない。
+依然として脱出は不可能と考える。
+> CONTEXT: Map098/events/5/pages/0/297/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほんとに何も無いの・・・！？　な、何か
+見落としてるとか、可能性を考えるくらい
+しなさいよ・・・っ！
+> CONTEXT: Map098/events/5/pages/0/302/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふむ。　一理ある。
+> CONTEXT: Map098/events/5/pages/0/308/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+確かに、模索の中で新たな発見がないとは
+断定できない。
+> CONTEXT: Map098/events/5/pages/0/309/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+分かった。　牢内を調べてみるとしよう。
+> CONTEXT: Map098/events/5/pages/0/311/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う、うん。　あたしも手伝うわ。
+> CONTEXT: Map098/events/5/pages/0/315/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+春風、こちらは収穫無しだ。
+> CONTEXT: Map098/events/5/pages/0/326/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そっちはどうだ？
+> CONTEXT: Map098/events/5/pages/0/327/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こ・・・こっちも、何も見つからないわ・・・
+> CONTEXT: Map098/events/5/pages/0/331/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+壁のもろさの発見など、希望を見出せる事象は
+何も無かったな。
+> CONTEXT: Map098/events/5/pages/0/343/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+残念ではあるが、結果は結果だ。
+> CONTEXT: Map098/events/5/pages/0/345/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+止むを得ん。　引き続き救助を待つしか
+ないだろう。
+> CONTEXT: Map098/events/5/pages/0/346/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・どうした？　汗びっしょりだぞ。
+> CONTEXT: Map098/events/5/pages/0/348/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う、う、動けば・・・汗くらいかくでしょっ！！
+> CONTEXT: Map098/events/5/pages/0/356/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何をそんなに怒っているんだ。
+> CONTEXT: Map098/events/5/pages/0/360/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+別にっ！　お、怒ってなんかないけど・・・っ！
+> CONTEXT: Map098/events/5/pages/0/364/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うぅ・・・っ（ぶるるっ）
+> CONTEXT: Map098/events/5/pages/0/368/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふむ。　もしやトイレに行きたいのか？
+> CONTEXT: Map098/events/5/pages/0/372/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なっ！　そ、そ、そんなわけっ！！
+> CONTEXT: Map098/events/5/pages/0/377/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・そんなわけっ、な、ないでしょっ！
+> CONTEXT: Map098/events/5/pages/0/381/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・そうなのか？　ならいいのだが。
+> CONTEXT: Map098/events/5/pages/0/385/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふ・・・ぅう・・・っ（もじもじ）
+> CONTEXT: Map098/events/5/pages/0/401/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んん・・・っ（そわそわ）
+> CONTEXT: Map098/events/5/pages/0/402/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（さっきはつい強がっちゃったけど・・・、
+　も、もう・・・そろそろ・・・我慢できない・・・っ！）
+> CONTEXT: Map098/events/5/pages/0/404/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ふむ。　春風はトイレを否定したが、
+　どう見てもあれは尿意をこらえている
+　ようにしか見えない。）
+> CONTEXT: Map098/events/5/pages/0/413/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（だが声をかければ、さきほどと同じように
+　強く否定することは想像に難くないが・・・）
+> CONTEXT: Map098/events/5/pages/0/416/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（やはりここは、同級生として手を差し伸べねば
+　ならない場面であると判断した。）
+> CONTEXT: Map098/events/5/pages/0/418/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+春風、この際正直に言うことを勧める。
+> CONTEXT: Map098/events/5/pages/0/421/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トイレに行きたいのだろう？　隠す必要は無い。
+> CONTEXT: Map098/events/5/pages/0/422/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・っ！
+> CONTEXT: Map098/events/5/pages/0/430/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/19/pages/0/68/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/148/4766/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だ、だから・・・その・・・あたしは・・・
+> CONTEXT: Map098/events/5/pages/0/431/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ま、まあ・・・行きたくないわけじゃ・・・ないけど
+・・・っ！
+> CONTEXT: Map098/events/5/pages/0/436/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+長時間の排尿拒絶は体に有害だ。
+> CONTEXT: Map098/events/5/pages/0/441/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+脱出の見通しが立たない現状では、もはや
+覚悟を決めて、ここでするしかないと思われる。
+> CONTEXT: Map098/events/5/pages/0/442/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はぁっ！？　こ、ここでって・・・その、ここで！？
+> CONTEXT: Map098/events/5/pages/0/448/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここでだ。
+> CONTEXT: Map098/events/5/pages/0/452/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+な、なな、何言ってんのよ！！　だって
+ここ、か、か、隠れるとこなんてどこにも
+ないじゃないっ！！
+> CONTEXT: Map098/events/5/pages/0/456/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（くうぅ・・・っ、あたし・・・ど、どうすれば・・・）
+> CONTEXT: Map098/events/5/pages/0/466/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それでも我慢する
+> CONTEXT: Map098/events/5/pages/0/470/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もう我慢できない
+> CONTEXT: Map098/events/5/pages/0/470/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+い、嫌よっ！！　絶対いやっ！！　ありえない
+わよっ！！
+> CONTEXT: Map098/events/5/pages/0/476/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+し、死んでも我慢するんだからっ！！！
+> CONTEXT: Map098/events/5/pages/0/482/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（なんということだ。　裏目に出てしまった
+　ようだな・・・）
+> CONTEXT: Map098/events/5/pages/0/485/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふー・・・っ、ふー・・・っ
+> CONTEXT: Map098/events/5/pages/0/498/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（が、我慢するのよっ！　何がなんでも、絶対に
+　・・・っ！！）
+> CONTEXT: Map098/events/5/pages/0/499/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（意識を・・・トイレのことから切り離さないとっ！）
+> CONTEXT: Map098/events/5/pages/0/505/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（うぅ・・・、で、でも・・・おしっこ・・・したいっ！！）
+> CONTEXT: Map098/events/5/pages/0/506/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（でも、さ、早乙女の前で、できるわけ・・・っ！！）
+> CONTEXT: Map098/events/5/pages/0/507/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（でも・・・でもっ、したいっっ！！）
+> CONTEXT: Map098/events/5/pages/0/508/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（あぅぅ・・・っ！！）
+> CONTEXT: Map098/events/5/pages/0/509/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はあ・・・っ、はあ・・・っ、はあ・・・っ！
+> CONTEXT: Map098/events/5/pages/0/523/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぅあ・・・あ、ぁっ！
+> CONTEXT: Map098/events/5/pages/0/524/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+で・・・出ちゃう・・・っ、出ちゃうぅ・・・っ！
+> CONTEXT: Map098/events/5/pages/0/525/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+っく、ぅ・・・も、もぅ・・・我慢、で、でき・・・ない・・・
+> CONTEXT: Map098/events/5/pages/0/526/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んぁっ、あ、ぁあぁ、ああっ！！
+> CONTEXT: Map098/events/5/pages/0/527/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（あ・・・あたし・・・っ）
+> CONTEXT: Map098/events/5/pages/0/548/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（早乙女の・・・前で・・・っ）
+> CONTEXT: Map098/events/5/pages/0/549/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ううぅ・・・ぐすっ・・・！　うわぁあぁん・・・！！
+> CONTEXT: Map098/events/5/pages/0/553/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（やってしまったか・・・）
+> CONTEXT: Map098/events/5/pages/0/556/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（仕方がない。　落ち着くまでそっとしておいて
+　やるとしよう。）
+> CONTEXT: Map098/events/5/pages/0/557/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+春風。
+> CONTEXT: Map098/events/5/pages/0/569/Dialogue < UNTRANSLATED
+> CONTEXT: Map098/events/5/pages/0/928/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わ、分かってるわよ・・・
+> CONTEXT: Map098/events/5/pages/0/572/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+別にあんたが悪いわけじゃないし・・・
+> CONTEXT: Map098/events/5/pages/0/573/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まあ、あれだな。　長い人生、誰でも一度は
+経験することだ。　気にするな。
+> CONTEXT: Map098/events/5/pages/0/577/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+へ、変な慰めはいいから・・・っ！
+> CONTEXT: Map098/events/5/pages/0/581/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+済まない。
+> CONTEXT: Map098/events/5/pages/0/584/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今の音は・・・銃撃・・・！？
+> CONTEXT: Map098/events/5/pages/0/617/Dialogue < UNTRANSLATED
+> CONTEXT: Map098/events/5/pages/0/978/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+救助か・・・？
+> CONTEXT: Map098/events/5/pages/0/618/Dialogue < UNTRANSLATED
+> CONTEXT: Map098/events/5/pages/0/979/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だ、誰！？
+> CONTEXT: Map098/events/5/pages/0/621/Dialogue < UNTRANSLATED
+> CONTEXT: Map098/events/5/pages/0/983/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+誰も現れないな・・・
+> CONTEXT: Map098/events/5/pages/0/627/Dialogue < UNTRANSLATED
+> CONTEXT: Map098/events/5/pages/0/989/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あるいは何かの罠か・・・？
+> CONTEXT: Map098/events/5/pages/0/628/Dialogue < UNTRANSLATED
+> CONTEXT: Map098/events/5/pages/0/990/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし、監禁している者をさらに罠にはめる
+特段の必要性は見出せない。
+> CONTEXT: Map098/events/5/pages/0/629/Dialogue < UNTRANSLATED
+> CONTEXT: Map098/events/5/pages/0/991/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここは素直に好機と見て、脱出を図るとしよう。
+> CONTEXT: Map098/events/5/pages/0/631/Dialogue < UNTRANSLATED
+> CONTEXT: Map098/events/5/pages/0/993/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+行くぞ、春風。
+> CONTEXT: Map098/events/5/pages/0/632/Dialogue < UNTRANSLATED
+> CONTEXT: Map098/events/5/pages/0/994/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、そうね。
+> CONTEXT: Map098/events/5/pages/0/636/Dialogue < UNTRANSLATED
+> CONTEXT: Map098/events/5/pages/0/1000/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+人の気配は・・・無いようだな。
+> CONTEXT: Map098/events/5/pages/0/674/Dialogue < UNTRANSLATED
+> CONTEXT: Map098/events/5/pages/0/1038/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いったい誰が・・・
+> CONTEXT: Map098/events/5/pages/0/675/Dialogue < UNTRANSLATED
+> CONTEXT: Map098/events/5/pages/0/1039/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、レグマくーーん！！　にゃんこーーー！！
+> CONTEXT: Map098/events/5/pages/0/677/Dialogue < UNTRANSLATED
+> CONTEXT: Map098/events/5/pages/0/1041/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はむこに秋空。　お前たちも無事だったか。
+> CONTEXT: Map098/events/5/pages/0/711/Dialogue < UNTRANSLATED
+> CONTEXT: Map098/events/5/pages/0/1075/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うん！　そっちも大丈夫みたいだね！
+> CONTEXT: Map098/events/5/pages/0/714/Dialogue < UNTRANSLATED
+> CONTEXT: Map098/events/5/pages/0/1078/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いや～、何事も無くて良かっ・・・
+> CONTEXT: Map098/events/5/pages/0/718/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こっ、これは・・・そ、その・・・！
+> CONTEXT: Map098/events/5/pages/0/734/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+俺が足を滑らせて転んだ拍子に、彼女の
+下腹部を押してしまった。
+> CONTEXT: Map098/events/5/pages/0/738/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+結果、著しい外圧に抗いようもなく、春風は
+失禁に至ったのだ。
+> CONTEXT: Map098/events/5/pages/0/740/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+致し方のない結末と言えよう。
+> CONTEXT: Map098/events/5/pages/0/742/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（さ・・・早乙女・・・）
+> CONTEXT: Map098/events/5/pages/0/746/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あらら・・・それは災難だったね。
+> CONTEXT: Map098/events/5/pages/0/751/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+早乙女くんのヘンターイ！　実はわざと
+押したんじゃな～い？
+> CONTEXT: Map098/events/5/pages/0/754/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それはそうと、シャルシャルはいないのか？
+> CONTEXT: Map098/events/5/pages/0/759/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うん。　ここにある牢屋にはいなかったよ。
+> CONTEXT: Map098/events/5/pages/0/763/Dialogue < UNTRANSLATED
+> CONTEXT: Map098/events/5/pages/0/1104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+別の牢屋か。　探さねばならないな。
+> CONTEXT: Map098/events/5/pages/0/767/Dialogue < UNTRANSLATED
+> CONTEXT: Map098/events/5/pages/0/1108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ねえ、牢屋のカギを銃で壊してくれたのって
+早乙女くんたちなの？
+> CONTEXT: Map098/events/5/pages/0/771/Dialogue < UNTRANSLATED
+> CONTEXT: Map098/events/5/pages/0/1112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いや、違う。
+> CONTEXT: Map098/events/5/pages/0/776/Dialogue < UNTRANSLATED
+> CONTEXT: Map098/events/5/pages/0/1117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その様子だと、お前たちでもないようだな。
+> CONTEXT: Map098/events/5/pages/0/777/Dialogue < UNTRANSLATED
+> CONTEXT: Map098/events/5/pages/0/1118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃあいったい誰が・・・
+> CONTEXT: Map098/events/5/pages/0/781/Dialogue < UNTRANSLATED
+> CONTEXT: Map098/events/5/pages/0/1122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+考えるのは後だ。
+> CONTEXT: Map098/events/5/pages/0/785/Dialogue < UNTRANSLATED
+> CONTEXT: Map098/events/5/pages/0/1126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+可能であればシャルシャルを救出しつつ、
+ここを脱出することを最優先で行動すべきで
+あると判断する。
+> CONTEXT: Map098/events/5/pages/0/786/Dialogue < UNTRANSLATED
+> CONTEXT: Map098/events/5/pages/0/1127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうね、いつまでもここで立ち止まっていては
+危険よ。
+> CONTEXT: Map098/events/5/pages/0/792/Dialogue < UNTRANSLATED
+> CONTEXT: Map098/events/5/pages/0/1132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んじゃ、みんなで気をつけて進みましょ～！
+> CONTEXT: Map098/events/5/pages/0/797/Dialogue < UNTRANSLATED
+> CONTEXT: Map098/events/5/pages/0/1137/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぜ・・・絶対・・・こっち見ない・・・？
+> CONTEXT: Map098/events/5/pages/0/827/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見ない。
+> CONTEXT: Map098/events/5/pages/0/831/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+音とか、聞かない・・・？　誰にも言わないっ？
+> CONTEXT: Map098/events/5/pages/0/836/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+誓おう。
+> CONTEXT: Map098/events/5/pages/0/840/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・こ、このツボって・・・
+> CONTEXT: Map098/events/5/pages/0/860/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そういう用途のヤツよね・・・？
+> CONTEXT: Map098/events/5/pages/0/861/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こんな・・・っ、牢屋の中で・・・！
+> CONTEXT: Map098/events/5/pages/0/866/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ツボに・・・す、するなんて・・・っ！
+> CONTEXT: Map098/events/5/pages/0/867/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも・・・っ、もう・・・あたし・・・っ！
+> CONTEXT: Map098/events/5/pages/0/868/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んうっ、ぁ・・・だめ・・・で、出ちゃ・・・ぅ・・・っ
+> CONTEXT: Map098/events/5/pages/0/874/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もう・・・もぅ・・・が、我慢・・・でき・・・ぁ、あっ！！
+> CONTEXT: Map098/events/5/pages/0/875/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あぁ・・・や・・・やっちゃった・・・//////
+> CONTEXT: Map098/events/5/pages/0/911/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたし、こんな・・・ところで・・・
+> CONTEXT: Map098/events/5/pages/0/912/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+早乙女の・・・いるところで・・・うぅ・・・///////
+> CONTEXT: Map098/events/5/pages/0/913/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+な・・・なによ・・・
+> CONTEXT: Map098/events/5/pages/0/931/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここであったことは誰にも言わない。
+> CONTEXT: Map098/events/5/pages/0/935/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+約束する。
+> CONTEXT: Map098/events/5/pages/0/936/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う、うるさい・・・っ！　当たり前のこと言うな！
+> CONTEXT: Map098/events/5/pages/0/939/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（一番秘密にしたい相手に知られてるんじゃ、
+　意味ないっての・・・っ！）
+> CONTEXT: Map098/events/5/pages/0/942/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いや～、何事も無くて良かった良かった！
+> CONTEXT: Map098/events/5/pages/0/1082/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う、うん・・・！　ほんと、何事もなく・・・ね！
+> CONTEXT: Map098/events/5/pages/0/1089/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・なんでレグマくんの後ろに隠れるの・・・？
+> CONTEXT: Map098/events/5/pages/0/1093/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（これはこれは・・・ナニかありましたなぁ～？）
+> CONTEXT: Map098/events/5/pages/0/1096/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ところで、シャルシャルはいないのか？
+> CONTEXT: Map098/events/5/pages/0/1100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ば、ばかっ！　み、み、見ないでよっ！！
+> CONTEXT: Map098/events/7/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょ、こらこら！
+> CONTEXT: Map098/events/12/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ！　だ、だめだよ！　この壺は・・・その、
+とにかくだめなのっ！！
+> CONTEXT: Map098/events/13/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+壺の中には、にゃんこの出したて
+ホカホカおしっこが溜まっている。
+> CONTEXT: Map098/events/16/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ば、ば、ばかぁっ！！！！////////
+> CONTEXT: Map098/events/16/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING

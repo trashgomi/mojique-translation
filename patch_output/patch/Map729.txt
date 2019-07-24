@@ -1,0 +1,100 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\C[6]なお、物語の進行をスムーズにするため、
+4つの体のうち3体を省略することをご容赦
+願いたい。
+> CONTEXT: Map729/events/2/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・・・・。
+> CONTEXT: Map729/events/2/pages/0/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map730/events/2/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map730/events/2/pages/0/62/Dialogue < UNTRANSLATED
+> CONTEXT: Map728/events/1/pages/0/75/Dialogue < UNTRANSLATED
+> CONTEXT: Map729/events/2/pages/0/39/Dialogue < UNTRANSLATED
+> CONTEXT: Map730/events/2/pages/0/164/Dialogue < UNTRANSLATED
+> CONTEXT: Map730/events/2/pages/0/448/Dialogue < UNTRANSLATED
+> CONTEXT: Map730/events/2/pages/0/469/Dialogue < UNTRANSLATED
+> CONTEXT: Map730/events/2/pages/0/519/Dialogue < UNTRANSLATED
+> CONTEXT: Map730/events/2/pages/0/568/Dialogue < UNTRANSLATED
+> CONTEXT: Map730/events/2/pages/0/582/Dialogue < UNTRANSLATED
+> CONTEXT: Map716/events/3/pages/0/98/Dialogue < UNTRANSLATED
+> CONTEXT: Map716/events/3/pages/0/156/Dialogue < UNTRANSLATED
+> CONTEXT: Map689/events/3/pages/0/54/Dialogue < UNTRANSLATED
+> CONTEXT: Map690/events/1/pages/0/126/Dialogue < UNTRANSLATED
+> CONTEXT: Map686/events/4/pages/0/109/Dialogue < UNTRANSLATED
+> CONTEXT: Map668/events/3/pages/0/31/Dialogue < UNTRANSLATED
+> CONTEXT: Map646/events/4/pages/0/52/Dialogue < UNTRANSLATED
+> CONTEXT: Map619/events/1/pages/1/78/Dialogue < UNTRANSLATED
+> CONTEXT: Map619/events/1/pages/1/87/Dialogue < UNTRANSLATED
+> CONTEXT: Map563/events/12/pages/0/78/Dialogue < UNTRANSLATED
+> CONTEXT: Map563/events/12/pages/0/115/Dialogue < UNTRANSLATED
+> CONTEXT: Map563/events/12/pages/2/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map563/events/12/pages/2/142/Dialogue < UNTRANSLATED
+> CONTEXT: Map563/events/12/pages/2/155/Dialogue < UNTRANSLATED
+> CONTEXT: Map545/events/80/pages/0/209/Dialogue < UNTRANSLATED
+> CONTEXT: Map570/events/4/pages/2/584/Dialogue < UNTRANSLATED
+> CONTEXT: Map570/events/4/pages/2/628/Dialogue < UNTRANSLATED
+> CONTEXT: Map541/events/8/pages/3/462/Dialogue < UNTRANSLATED
+> CONTEXT: Map541/events/8/pages/3/487/Dialogue < UNTRANSLATED
+> CONTEXT: Map475/events/10/pages/0/219/Dialogue < UNTRANSLATED
+> CONTEXT: Map385/events/27/pages/0/121/Dialogue < UNTRANSLATED
+> CONTEXT: Map098/events/5/pages/0/626/Dialogue < UNTRANSLATED
+> CONTEXT: Map098/events/5/pages/0/988/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/911/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/916/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/965/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・・・・・・・誰も・・・・・・・・・・・・・・・いない・・・・・・
+> CONTEXT: Map729/events/2/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[6]指定された洞窟の奥へと歩みを進め続ける
+死神少女。
+> CONTEXT: Map729/events/2/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[6]しかし、いくら進めど晩餐会の面影はおろか、
+人影すら見当たらない。
+> CONTEXT: Map729/events/2/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[6]通常であれば、いい加減この招待に疑問を
+いだくところであるが、前述のとおり彼女には
+物事を疑うという思考がない。
+> CONTEXT: Map729/events/2/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[6]それはこの死神少女が、その圧倒的戦闘力のみ
+で出会う全ての敵を完膚なきまでに叩きのめす
+ことができたからである。
+> CONTEXT: Map729/events/2/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[6]彼女の人生には、相手の裏をかいたり、
+目をあざむくといった駆け引きが必要なかった
+のだ。
+> CONTEXT: Map729/events/2/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・もっと・・・・・・・・・・・・奥・・・・・・かな・・・・・・
+> CONTEXT: Map729/events/2/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,461 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+（ガサガサ・・・）
+> CONTEXT: Map091/events/15/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+待て、何かいるぞ・・・
+> CONTEXT: Map091/events/15/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う、うそ・・・盗賊団・・・！？
+> CONTEXT: Map091/events/15/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+来るわよ！　き、気を付けて・・・！
+> CONTEXT: Map091/events/15/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふぅ～、スッキリした～！
+> CONTEXT: Map091/events/15/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ・・・れ・・・？
+> CONTEXT: Map091/events/15/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わ！　びっくりしたっ！！
+> CONTEXT: Map091/events/15/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+秋空　巴・・・なぜお前がここに？
+> CONTEXT: Map091/events/15/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+無事だったんだね！　よかった～！
+> CONTEXT: Map091/events/15/pages/0/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊団に捕まってたんじゃないかって、
+心配してたのよ。
+> CONTEXT: Map091/events/15/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ！　もしかして・・・あたしが残した生徒手帳を
+見て、ここまで来てくれたの？
+> CONTEXT: Map091/events/15/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こりゃ落とした甲斐があったよ～！
+> CONTEXT: Map091/events/15/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やはりこれはお前が意図的に落とした物
+だったのか。
+> CONTEXT: Map091/events/15/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だが、捕まったはずのお前がなぜこんな
+ところにいる？　説明を求める。
+> CONTEXT: Map091/events/15/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いや～、オシル湖ってとこでお昼寝してたら、
+いきなり盗賊団に捕まっちゃってさ～！
+> CONTEXT: Map091/events/15/pages/0/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こりゃヤバい！　って思って、連れて行かれる
+前にメッセージ書いてこっそり落としたんだよ。
+> CONTEXT: Map091/events/15/pages/0/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んで、そのまま牢屋に入れられちゃったん
+だけど・・・
+> CONTEXT: Map091/events/15/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うまくスキを突いて逃げて来ちゃった！
+> CONTEXT: Map091/events/15/pages/0/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+途中で何人か盗賊もやっつけたし！
+> CONTEXT: Map091/events/15/pages/0/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おお～！
+> CONTEXT: Map091/events/15/pages/0/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほ、ほんとに？
+> CONTEXT: Map091/events/15/pages/0/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+話によれば、盗賊団は城の兵士でも
+敵わないくらい強いみたいだけど・・・
+> CONTEXT: Map091/events/15/pages/0/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え？　そーだったかなぁ～・・・
+> CONTEXT: Map091/events/15/pages/0/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まあ、さすがに余裕で蹴散らしてきたわけじゃ
+ないけどさ。
+> CONTEXT: Map091/events/15/pages/0/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふむ。　読めた。
+> CONTEXT: Map091/events/15/pages/0/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+秋空もこの世界に召喚されたということは、
+彼女もまた熾天少女の一人ということになる。
+> CONTEXT: Map091/events/15/pages/0/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それであれば当然、はむこや春風と同じように
+“天の使いの力”を身につけているということだ。
+> CONTEXT: Map091/events/15/pages/0/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+つまり、“天の使いの力”を持っているから、
+強い盗賊団にも勝てたってこと？
+> CONTEXT: Map091/events/15/pages/0/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そう考えるのが妥当だろう。
+> CONTEXT: Map091/events/15/pages/0/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも、その力って魔物相手にしか効果
+無いんじゃないの？
+> CONTEXT: Map091/events/15/pages/0/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それか、悪い心を持った盗賊にも通用するの
+かもしれないよ！
+> CONTEXT: Map091/events/15/pages/0/143/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+理屈は分からん。
+> CONTEXT: Map091/events/15/pages/0/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だが、兵士が束になって勝てなかった相手を
+熾天少女である秋空が撃破しているんだ。
+> CONTEXT: Map091/events/15/pages/0/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+理由はそこしか考えられん。
+> CONTEXT: Map091/events/15/pages/0/151/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あの～・・・みなさまいったい何のお話で？
+> CONTEXT: Map091/events/15/pages/0/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ・・・ごめんごめん。　ともっちにも説明して
+おかなくちゃね。
+> CONTEXT: Map091/events/15/pages/0/158/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・というわけなのよ。
+> CONTEXT: Map091/events/15/pages/0/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほほ～！　なるほどね～！
+> CONTEXT: Map091/events/15/pages/0/180/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どおりでお金も違うし車も見ないし、現代製品の
+かけらも無いなって思ってたよ～。
+> CONTEXT: Map091/events/15/pages/0/183/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃ、どうする？　その煉絶の姫君って人を
+やっつけに行っちゃう？
+> CONTEXT: Map091/events/15/pages/0/188/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もう！　調子に乗るのは早いわよ。
+> CONTEXT: Map091/events/15/pages/0/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その前に聞きたいことがある。
+> CONTEXT: Map091/events/15/pages/0/197/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お前と同様に、シャルシャルという女も連れて
+行かれているはずだ。
+> CONTEXT: Map091/events/15/pages/0/198/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+彼女はどうなった？
+> CONTEXT: Map091/events/15/pages/0/200/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+金髪の奇麗なおねーさんのこと？
+> CONTEXT: Map091/events/15/pages/0/204/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う～ん・・・ちょっと離れた別の牢屋に入ってる
+みたいだから、様子は分からなかったなぁ。
+> CONTEXT: Map091/events/15/pages/0/205/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そっか・・・じゃあきっとまだ捕まったままだね。
+> CONTEXT: Map091/events/15/pages/0/210/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なら、早急に救出措置を取らねばなるまい。
+> CONTEXT: Map091/events/15/pages/0/214/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+進むとしよう。
+> CONTEXT: Map091/events/15/pages/0/215/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え・・・あたしたちだけで行く気？　危なくない？
+> CONTEXT: Map091/events/15/pages/0/220/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一度戻って、城の兵士をいっぱい連れてきた
+方が・・・
+> CONTEXT: Map091/events/15/pages/0/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+否。　現時点では、我々だけで乗り込むことが
+最も現状に適した行動と言えよう。
+> CONTEXT: Map091/events/15/pages/0/226/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はむこの言うとおり、盗賊団に対しても
+熾天少女の力が有効であるならば、彼らに
+対抗しうるのは我々しかいない。
+> CONTEXT: Map091/events/15/pages/0/228/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+かたや、城の兵士は盗賊一人に対して複数で
+かかっても返り討ちに遭うのが現実。
+連れてきたところで足でまといとなる。
+> CONTEXT: Map091/events/15/pages/0/231/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+下手をすれば、人質を増やしてしまう結果に
+なりかねない。
+> CONTEXT: Map091/events/15/pages/0/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+な、なるほど・・・よく考えてるじゃない。
+> CONTEXT: Map091/events/15/pages/0/239/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よし！　そうと決まれば行動あるのみ！
+> CONTEXT: Map091/events/15/pages/0/243/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+みんなでシャルシャルさんを助けに行こう！
+> CONTEXT: Map091/events/15/pages/0/244/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おーーっ！！
+> CONTEXT: Map091/events/15/pages/0/247/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+秋空。　盗賊団のアジト内部から外へ
+来たのなら、アジトの内部構造を把握している
+だろう。
+> CONTEXT: Map091/events/15/pages/0/251/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今のうちに教えておいてくれ。
+> CONTEXT: Map091/events/15/pages/0/254/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+内部・・・構造・・・？
+> CONTEXT: Map091/events/15/pages/0/258/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えーっと、それは・・・どうだったかな・・・？
+> CONTEXT: Map091/events/15/pages/0/259/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+分からないのか？
+> CONTEXT: Map091/events/15/pages/0/263/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う、うん。
+> CONTEXT: Map091/events/15/pages/0/267/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その・・・すっごいガマンしながら必死に走って
+来たから、よく覚えてないんだよね・・・
+> CONTEXT: Map091/events/15/pages/0/268/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ガマン・・・？　何をだ？
+> CONTEXT: Map091/events/15/pages/0/273/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えと・・・そ、それ聞いちゃうの・・・？
+> CONTEXT: Map091/events/15/pages/0/277/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+このばかっ！　行くならさっさと行くわよ！
+> CONTEXT: Map091/events/15/pages/0/281/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ともっちと行動を共にすることとなった！
+> CONTEXT: Map091/events/15/pages/0/306/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、ちょ！　そ、そっちには何も無いって・・・っ！
+> CONTEXT: Map091/events/21/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map091/events/22/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map091/events/23/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map091/events/24/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map091/events/25/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map091/events/26/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING

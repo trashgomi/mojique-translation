@@ -1,0 +1,271 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ここがホールだな。
+> CONTEXT: Map433/events/6/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長さんの話では、ここから先に
+進めないんだよね？
+> CONTEXT: Map433/events/6/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも、扉は普通に開いてるわ。
+> CONTEXT: Map433/events/6/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃあ問題なく通れるよね？
+> CONTEXT: Map433/events/6/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+と、と・・・通れない・・・？
+> CONTEXT: Map433/events/6/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんだこれは・・・
+> CONTEXT: Map433/events/6/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+確かにそこに扉があるというのに・・・
+> CONTEXT: Map433/events/6/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通れない・・・！　なんで！？
+> CONTEXT: Map433/events/6/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どういう・・・こと・・・？
+> CONTEXT: Map433/events/6/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・ふむ。
+> CONTEXT: Map433/events/6/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+できないものは致しかたない。
+> CONTEXT: Map433/events/6/pages/0/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一度戻って、騎士団長に相談しよう。
+> CONTEXT: Map433/events/6/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうですね。　戻りましょう。
+> CONTEXT: Map433/events/6/pages/0/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うーん、無念なり。
+> CONTEXT: Map433/events/6/pages/0/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その扉をバイザーで見てほしい。
+> CONTEXT: Map433/events/6/pages/1/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おやすいご用ネー！
+> CONTEXT: Map433/events/6/pages/1/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アレー？？
+> CONTEXT: Map433/events/6/pages/1/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何か分かったの？
+> CONTEXT: Map433/events/6/pages/1/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map091/events/15/pages/0/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここ・・・
+> CONTEXT: Map433/events/6/pages/1/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんにも無いヨー・・・？
+> CONTEXT: Map433/events/6/pages/1/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何も無いって・・・どういうこと？
+> CONTEXT: Map433/events/6/pages/1/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちゃんと扉があるでしょ？
+> CONTEXT: Map433/events/6/pages/1/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも、バイザーで見ると・・・ただの壁だヨー。
+> CONTEXT: Map433/events/6/pages/1/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これはもしかしたら・・・
+> CONTEXT: Map433/events/6/pages/1/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+幻術・・・かもしれません！
+> CONTEXT: Map433/events/6/pages/1/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+げ・・・幻術！？
+> CONTEXT: Map433/events/6/pages/1/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見る者の精神に影響を与えて、本来そこに
+あるはずの物を見せなかったり、逆に無い物を
+見せたりする術です！
+> CONTEXT: Map433/events/6/pages/1/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+つまり、我々が見ているこの扉は、扉では
+なく、ただの壁だということか？
+> CONTEXT: Map433/events/6/pages/1/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はい、おそらく。
+> CONTEXT: Map433/events/6/pages/1/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それを見破るなんて、さすが超科学ね・・・
+> CONTEXT: Map433/events/6/pages/1/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なるほど、そういうことか。
+> CONTEXT: Map433/events/6/pages/1/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+幻術は、見る者の精神に影響を与え、視覚を
+惑わす。
+> CONTEXT: Map433/events/6/pages/1/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だが、精神の存在しない電子機器の画像を
+通せば、幻術の効果は及ばない。
+> CONTEXT: Map433/events/6/pages/1/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+つまり、宇宙人さんのバイザーを使えば
+幻術を打ち破れるということですね？
+> CONTEXT: Map433/events/6/pages/1/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おおお！！　宇宙人ちゃん大活躍だね！！
+> CONTEXT: Map433/events/6/pages/1/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ンー？
+> CONTEXT: Map433/events/6/pages/1/132/Dialogue < UNTRANSLATED
+> CONTEXT: Map127/events/16/pages/1/390/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほ、本人はよく分かってないみたいです。
+> CONTEXT: Map433/events/6/pages/1/137/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とにかく、宇宙人のバイザーを駆使して
+調査を開始だ。
+> CONTEXT: Map433/events/6/pages/1/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物の気配もする。　注意して進もう。
+> CONTEXT: Map433/events/6/pages/1/143/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ディテクションバイザーが使用可能になりました。
+> CONTEXT: Map433/events/6/pages/1/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【C】キーを押し続けることによって、バイザーが
+起動します。
+（起動中は動けません。）
+> CONTEXT: Map433/events/6/pages/1/154/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【C】キーを離すと、通常の視界に戻ります。
+> CONTEXT: Map433/events/6/pages/1/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ディテクションバイザーを駆使して、
+オンドレラ邸を攻略しましょう。
+> CONTEXT: Map433/events/6/pages/1/158/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,73 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+・・・う、はあ・・・はあ・・・っ
+> CONTEXT: Map397/events/11/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+姉さん、もう無理しないで。
+> CONTEXT: Map397/events/11/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大丈夫ですわ、サッファ。　少しお調子に乗った
+だけですことよ。
+> CONTEXT: Map397/events/11/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし、これではっきりしましたわ！
+> CONTEXT: Map397/events/11/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この力をさらに強くすることができれば、
+ついにダジェルバージ家に一矢報いることが
+できると！！！
+> CONTEXT: Map397/events/11/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+確かに、ここまで魔力が強化されるとは
+思わなかったよ。
+> CONTEXT: Map397/events/11/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あの館長、なかなか有能だね。
+> CONTEXT: Map397/events/11/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+パンギーニ家の専属研究員にしてやっても
+惜しくない人材ですわね！
+> CONTEXT: Map397/events/11/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さて、サッファ。
+> CONTEXT: Map397/events/11/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今からわたくしが氷で台車を作ります。
+それでヒトを何人か運ぶ程度の余力は
+ありまして？
+> CONTEXT: Map397/events/11/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もちろん、そのくらいは。
+> CONTEXT: Map397/events/11/pages/0/58/Dialogue < UNTRANSLATED
+
+> END STRING

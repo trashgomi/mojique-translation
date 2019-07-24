@@ -1,0 +1,219 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ご苦労じゃった。　ガウラは客間のベッドで
+養生させておる。
+> CONTEXT: Map466/events/4/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+幸い、怪我自体は深くはないそうじゃ。
+> CONTEXT: Map466/events/4/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何よりだ。
+> CONTEXT: Map466/events/4/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし、ルミィがさらわれたとなると、事は
+急を要する。
+> CONTEXT: Map466/events/4/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+このタイミングで青カラットがルミィを狙った
+理由は、1つしか考えられない。
+> CONTEXT: Map466/events/4/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スペルエンチャンターの効果を無効化する
+干渉薬ね・・・
+> CONTEXT: Map466/events/4/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+間違いないだろう。
+> CONTEXT: Map466/events/4/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうなると、青カラットはルミィさんが干渉薬を
+作れることを知っていたってことですね？
+> CONTEXT: Map466/events/4/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うむ。　情報がもれていたようじゃな。
+> CONTEXT: Map466/events/4/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+青カラットと白カラットは協力関係にあります
+から、白カラットの力を抑える薬が存在すると
+分かれば、当然青カラットはそれを阻止する
+ために動くでしょうね。
+> CONTEXT: Map466/events/4/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それでルミィさんがさらわれちゃったんだ・・・
+> CONTEXT: Map466/events/4/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃ、早く捜して助けてあげないと！
+> CONTEXT: Map466/events/4/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もちろんその通りなのじゃが・・・
+> CONTEXT: Map466/events/4/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ガウラやシャルシャルに尋ねても、青カラット
+たちがどこへ去って行ったのか分からぬそう
+じゃ。
+> CONTEXT: Map466/events/4/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まったく手がかり無いのカー？
+> CONTEXT: Map466/events/4/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+青カラットの行方・・・見当もつかないわ。
+> CONTEXT: Map466/events/4/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+参ったな。　打つ手なしか。
+> CONTEXT: Map466/events/4/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、あの・・・大陸南部のどこかだと思うん
+ですけど・・・
+> CONTEXT: Map466/events/4/pages/0/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+へ？　なんで？
+> CONTEXT: Map466/events/4/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+研究館に隕石（スターシップ）が墜落した後、
+ルミィさんが行方不明になってましたよね。
+> CONTEXT: Map466/events/4/pages/0/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルミィさんの話では、その間、白カラットを
+追って大陸南部に行っていたようですから・・・
+> CONTEXT: Map466/events/4/pages/0/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なるほど・・・！　つまり、白カラットの隠れ家が
+大陸南部にあるということです！
+> CONTEXT: Map466/events/4/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だとすれば、協力関係にある青カラットも
+そこにいるはず・・・！
+> CONTEXT: Map466/events/4/pages/0/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+桐生、でかしたぞ。　このところ冴えているな。
+> CONTEXT: Map466/events/4/pages/0/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、その、偶然です/////
+> CONTEXT: Map466/events/4/pages/0/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そういうことなら、ヌシらにはさっそく大陸南部へ
+ルミィの捜索に向かってもらいたい。
+> CONTEXT: Map466/events/4/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はい！　もちろんです！
+> CONTEXT: Map466/events/4/pages/0/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+南部で聞き込みして、隠れ家を突き止めるんだ
+ナー？
+> CONTEXT: Map466/events/4/pages/0/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ああ。　現地の事情は現地人に聞くのが
+手っ取り早い。
+> CONTEXT: Map466/events/4/pages/0/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すぐに出発するとしよう。
+> CONTEXT: Map466/events/4/pages/0/132/Dialogue < UNTRANSLATED
+> CONTEXT: Map242/events/2/pages/0/434/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おお、そうじゃ。　ヌシらが取ってきてくれた
+“古代竜族の鱗”は、ガウラが入手した茶葉と
+一緒に城の宝物庫で保管しておこう。
+> CONTEXT: Map466/events/4/pages/0/136/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【古代竜族の鱗】を姫に預けた。
+> CONTEXT: Map466/events/4/pages/0/143/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+では、ルミィのことを頼んだぞ。
+> CONTEXT: Map466/events/4/pages/0/146/Dialogue < UNTRANSLATED
+
+> END STRING

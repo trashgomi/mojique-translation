@@ -1,0 +1,12 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+あああああー、落ち着かないよおおおお！！
+> CONTEXT: Map256/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+パパ、少し落ち着いて！　冷静になろうよ！
+> CONTEXT: Map256/events/4/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

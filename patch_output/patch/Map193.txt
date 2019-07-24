@@ -1,0 +1,93 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+魔物の多くは、炎、水、光、闇のどれかに
+弱点を持ちます。
+> CONTEXT: Map193/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+弱点となる属性攻撃を行えば、より効果的な
+ダメージを与えることができるでしょう。
+> CONTEXT: Map193/events/2/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団長
+「絶壁の途中に横穴があります。」
+> CONTEXT: Map193/events/3/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map205/events/2/pages/0/269/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団長
+「魔物を警戒して誰も踏み入ったことがないの
+　ですが、その先に拠点があると見て間違い
+　ないでしょう。」
+> CONTEXT: Map193/events/3/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map205/events/2/pages/0/271/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団長
+「雪原及び絶壁周辺は、引き続き警備を強化
+　します。」
+> CONTEXT: Map193/events/3/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自治警団長
+「敵も本気のようですね。　しかしこの町は
+　何としてでも死守してみせます。」
+> CONTEXT: Map193/events/3/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+伝令兵
+「吾輩は伝令兵。　名声はまだ無い。」
+> CONTEXT: Map193/events/4/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「私はここで待機しています。」
+> CONTEXT: Map193/events/5/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「どうか皆様に神の加護があらんことを・・・」
+> CONTEXT: Map193/events/5/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「大陸北部は、煉絶の姫君とゆかりの深い地域
+　のようです。」
+> CONTEXT: Map193/events/5/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「私はしばらくここに残り、古い伝承をあたって
+　みようと思います。　何か思わぬ発見がある
+　かもしれませんからね。」
+> CONTEXT: Map193/events/5/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+健闘を祈ります！！　この世界に平和を取り
+戻しましょう！！
+> CONTEXT: Map193/events/6/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING

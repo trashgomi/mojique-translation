@@ -1,0 +1,217 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ううぅ～・・・
+> CONTEXT: Map268/events/4/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こ、この船・・・広いよぉ・・・っ！
+> CONTEXT: Map268/events/4/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+怖い・・・オシッコしたい・・・怖い・・・っ！
+> CONTEXT: Map268/events/4/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あぁ・・・もぉ・・・っ！
+> CONTEXT: Map268/events/4/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+暗くて遠くまで見通せないな。
+> CONTEXT: Map268/events/4/pages/1/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map268/events/4/pages/2/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ともっちーーー！　どこーーー？
+> CONTEXT: Map268/events/4/pages/1/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map268/events/4/pages/2/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+返事してー！　ともっちー！！
+> CONTEXT: Map268/events/4/pages/1/25/Dialogue < UNTRANSLATED
+> CONTEXT: Map268/events/4/pages/2/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+落ちた位置を考えると、もう少し先でしょうか・・・
+> CONTEXT: Map268/events/4/pages/1/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map268/events/4/pages/2/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうだな。　移動していなければ、もっと南の
+方だろう。
+> CONTEXT: Map268/events/4/pages/1/34/Dialogue < UNTRANSLATED
+> CONTEXT: Map268/events/4/pages/2/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ともっち、すごく怖がってたから早く見つけて
+あげないと・・・！
+> CONTEXT: Map268/events/4/pages/1/39/Dialogue < UNTRANSLATED
+> CONTEXT: Map268/events/4/pages/2/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「ひやああぁぁぁぁぁぁああああぁぁっ！！！」
+> CONTEXT: Map268/events/4/pages/1/42/Dialogue < UNTRANSLATED
+> CONTEXT: Map268/events/4/pages/2/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+きゃっ！！
+> CONTEXT: Map268/events/4/pages/1/47/Dialogue < UNTRANSLATED
+> CONTEXT: Map268/events/4/pages/2/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こ、この声・・・ともっちよ！！
+> CONTEXT: Map268/events/4/pages/1/52/Dialogue < UNTRANSLATED
+> CONTEXT: Map268/events/4/pages/2/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ど、どこ！？　どこにいるの！？
+> CONTEXT: Map268/events/4/pages/1/57/Dialogue < UNTRANSLATED
+> CONTEXT: Map268/events/4/pages/2/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いﾞやﾞあﾞあﾞあﾞあﾞあﾞあﾞあﾞあﾞあﾞ！！！！
+> CONTEXT: Map268/events/4/pages/1/79/Dialogue < UNTRANSLATED
+> CONTEXT: Map268/events/4/pages/2/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+たﾞすﾞけﾞてﾞえﾞえﾞﾞぇﾞぇﾞえﾞえﾞぇﾞーーっ！！！
+> CONTEXT: Map268/events/4/pages/1/80/Dialogue < UNTRANSLATED
+> CONTEXT: Map268/events/4/pages/2/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ともっち！！
+> CONTEXT: Map268/events/4/pages/1/84/Dialogue < UNTRANSLATED
+> CONTEXT: Map268/events/4/pages/2/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+落ち付け秋空。　俺だ。
+> CONTEXT: Map268/events/4/pages/1/89/Dialogue < UNTRANSLATED
+> CONTEXT: Map268/events/4/pages/2/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+迎えに来たぞ。
+> CONTEXT: Map268/events/4/pages/1/90/Dialogue < UNTRANSLATED
+> CONTEXT: Map268/events/4/pages/2/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、あ、ぁ・・・
+> CONTEXT: Map268/events/4/pages/1/95/Dialogue < UNTRANSLATED
+> CONTEXT: Map268/events/4/pages/2/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+びええええええぇぇん！！！　怖かったよお
+ぉぉぉおおぉぉ！！！
+> CONTEXT: Map268/events/4/pages/1/102/Dialogue < UNTRANSLATED
+> CONTEXT: Map268/events/4/pages/2/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もう大丈夫よ。　安心して。
+> CONTEXT: Map268/events/4/pages/1/107/Dialogue < UNTRANSLATED
+> CONTEXT: Map268/events/4/pages/2/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+無事でよかったです・・・
+> CONTEXT: Map268/events/4/pages/1/111/Dialogue < UNTRANSLATED
+> CONTEXT: Map268/events/4/pages/2/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（おもらししちゃうほど怖かったんだ・・・）
+> CONTEXT: Map268/events/4/pages/1/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さて、秋空も見つかったことだ。　一度甲板へ
+戻って準備を整えよう。
+> CONTEXT: Map268/events/4/pages/1/119/Dialogue < UNTRANSLATED
+> CONTEXT: Map268/events/4/pages/2/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふえ・・・？　準備？
+> CONTEXT: Map268/events/4/pages/1/124/Dialogue < UNTRANSLATED
+> CONTEXT: Map268/events/4/pages/2/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここへ来る途中でシスターさんや行商人さんを
+見つけたんだよ。
+> CONTEXT: Map268/events/4/pages/1/128/Dialogue < UNTRANSLATED
+> CONTEXT: Map268/events/4/pages/2/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この船の甲板で待機してもらってるわ。
+> CONTEXT: Map268/events/4/pages/1/133/Dialogue < UNTRANSLATED
+> CONTEXT: Map268/events/4/pages/2/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一度戻って、仕切り直しましょう。
+> CONTEXT: Map268/events/4/pages/1/134/Dialogue < UNTRANSLATED
+> CONTEXT: Map268/events/4/pages/2/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うん・・・ぐすっ
+> CONTEXT: Map268/events/4/pages/1/138/Dialogue < UNTRANSLATED
+> CONTEXT: Map268/events/4/pages/2/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんなに怖かったんだね・・・
+> CONTEXT: Map268/events/4/pages/2/115/Dialogue < UNTRANSLATED
+
+> END STRING

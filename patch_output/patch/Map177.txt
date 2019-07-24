@@ -1,0 +1,39 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+俺は見た。
+> CONTEXT: Map177/events/7/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雪原の奥地にある林の中から、巨大な赤い
+光の柱が立つ瞬間を・・・
+> CONTEXT: Map177/events/7/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+赤い光のことなら、自治警団に任せておけば
+心配ないさ。
+> CONTEXT: Map177/events/8/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それより誰か雪かき手伝ってくれよお！
+> CONTEXT: Map177/events/8/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あー寒い寒い！
+> CONTEXT: Map177/events/9/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたしも若い頃は、こんなのへっちゃらだったん
+だけどねえ・・・
+> CONTEXT: Map177/events/9/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING

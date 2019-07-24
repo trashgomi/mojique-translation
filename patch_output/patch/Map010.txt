@@ -1,0 +1,111 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+うわ！！　出たっ！！
+> CONTEXT: Map010/events/5/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+慌てることはない。　大急ぎで構えろ。
+> CONTEXT: Map010/events/5/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どっち？
+> CONTEXT: Map010/events/5/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほっ・・・やっつけた～！
+> CONTEXT: Map010/events/5/pages/2/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふむ。　改めて驚いた。
+> CONTEXT: Map010/events/5/pages/2/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やはりお前はただ者ではないな。
+> CONTEXT: Map010/events/5/pages/2/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いやいや、そんなことないよ。
+> CONTEXT: Map010/events/5/pages/2/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+前に戦った時は、めちゃくちゃに暴れちゃった
+から、自分でもわけわかんなくなっちゃったけど、
+> CONTEXT: Map010/events/5/pages/2/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レグマくんの指示を聞いたら、驚くほどうまく
+動けたもん！
+> CONTEXT: Map010/events/5/pages/2/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これならいくらでも頑張れそうだよ！
+> CONTEXT: Map010/events/5/pages/2/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それは何よりだ。
+> CONTEXT: Map010/events/5/pages/2/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+では、この調子で森を突破するとしよう。
+> CONTEXT: Map010/events/5/pages/2/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よし。　さっきと同じ手順で撃破するぞ。
+> CONTEXT: Map010/events/9/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おっけー！
+> CONTEXT: Map010/events/9/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+楽勝～！
+> CONTEXT: Map010/events/9/pages/2/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+危なげない戦いだ。　見事と言っていい。
+> CONTEXT: Map010/events/9/pages/2/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だが、相手は得体の知れない化け物だぞ。
+油断はするな。
+> CONTEXT: Map010/events/9/pages/2/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、うん・・・それもそうだね。
+> CONTEXT: Map010/events/9/pages/2/27/Dialogue < UNTRANSLATED
+
+> END STRING

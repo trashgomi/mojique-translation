@@ -1,0 +1,49 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+さ・・・早乙女くーん・・・？　いるー・・・？
+> CONTEXT: Map267/events/7/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+行き止まりだ・・・
+> CONTEXT: Map267/events/7/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここは客室の廊下みたいだし・・・こんなとこから
+外へは出られないよね・・・
+> CONTEXT: Map267/events/7/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やば・・・ど、どっかでオシッコしないと・・・っ
+> CONTEXT: Map267/events/7/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+も・・・戻らなきゃ・・・っ
+> CONTEXT: Map267/events/7/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひうっ！！
+> CONTEXT: Map267/events/7/pages/0/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+い、い・・・い、今・・・何か・・・
+> CONTEXT: Map267/events/7/pages/0/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+気のせいかなっ！　き、気のせいだよねっ！
+> CONTEXT: Map267/events/7/pages/0/125/Dialogue < UNTRANSLATED
+
+> END STRING

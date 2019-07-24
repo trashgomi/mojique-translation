@@ -1,0 +1,163 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ここが、赤い光の柱が目撃された林だろう。
+> CONTEXT: Map204/events/2/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そしてこの建造物は何だ・・・？
+> CONTEXT: Map204/events/2/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ずいぶんボロボロだね～！
+> CONTEXT: Map204/events/2/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何かを閉じ込めておくような造りに見えます。
+> CONTEXT: Map204/events/2/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何かを閉じ込める・・・ふむ、確かにその
+ような形状をしているな。
+> CONTEXT: Map204/events/2/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+赤い光の柱ってのが、もし本当に煉絶の姫君の
+復活を表していたなら、
+> CONTEXT: Map204/events/2/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これは煉絶の姫君を封印してあったモノなん
+じゃない？
+> CONTEXT: Map204/events/2/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なるほどね！
+> CONTEXT: Map204/events/2/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それならボロボロに崩れてるのも納得！
+> CONTEXT: Map204/events/2/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+矛盾の無い意見だ。
+> CONTEXT: Map204/events/2/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここは煉絶の姫君が封印されていた場所で
+あり、それが崩壊し、赤い光の柱と共に
+煉絶の姫君が復活した。
+> CONTEXT: Map204/events/2/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+てことは、この近くに煉絶さんが・・・！？
+（きょろきょろ）
+> CONTEXT: Map204/events/2/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その可能性が高いな。
+> CONTEXT: Map204/events/2/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここで我々には2つの選択肢がある。
+> CONTEXT: Map204/events/2/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+1つは、周囲を探して煉絶の姫君を見つけ出し、
+戦いを挑むこと。
+> CONTEXT: Map204/events/2/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もう1つは、城へ帰還し、封印崩壊の現状を
+報告することだ。
+> CONTEXT: Map204/events/2/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+事態の解決を急ぐなら、近くにいるうちに
+探し出して倒すのが一番なんだろうけど・・・
+> CONTEXT: Map204/events/2/pages/0/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、あたしは寒くてちょっと限界かも・・・っ
+> CONTEXT: Map204/events/2/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ごめんなさい。　私も・・・すごく寒くて、もう辛い
+です・・・
+> CONTEXT: Map204/events/2/pages/0/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふむ。　あまりコンディションがいいとは
+言えない状況だな。
+> CONTEXT: Map204/events/2/pages/0/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+分かった。　ここは撤退しよう。
+> CONTEXT: Map204/events/2/pages/0/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一度町まで戻り、自治警団に雪原の危険性を
+伝えた上で、城へ帰還する。
+> CONTEXT: Map204/events/2/pages/0/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+調査の目的が果たせたのだ。　今はこれで十分
+だろう。
+> CONTEXT: Map204/events/2/pages/0/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だね。　それじゃすぐに道を戻ろ！
+> CONTEXT: Map204/events/2/pages/0/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ～さむさむ～っ！
+> CONTEXT: Map204/events/2/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING

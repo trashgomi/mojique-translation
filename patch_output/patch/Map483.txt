@@ -1,0 +1,502 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+15時だ。
+> CONTEXT: Map483/events/1/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うまく行ってれば、扉から2人が出てくる
+はずだね・・・！
+> CONTEXT: Map483/events/1/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お願い・・・2人とも・・・！
+> CONTEXT: Map483/events/1/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・どちらさま・・・？
+> CONTEXT: Map483/events/1/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（´　｀）
+「す、すみません・・・」
+> CONTEXT: Map483/events/1/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（´　｀）
+「訳あってこんな格好ですけど、桐生です・・・」
+> CONTEXT: Map483/events/1/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お帰りー！！
+> CONTEXT: Map483/events/1/pages/0/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+良かったです！　2人とも無事なんですね？
+> CONTEXT: Map483/events/1/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご迷惑をお掛けしました。
+> CONTEXT: Map483/events/1/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おかげさまで、逃れることができました。
+ありがとうございます。
+> CONTEXT: Map483/events/1/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+無事で本当に良かったわ・・・
+> CONTEXT: Map483/events/1/pages/0/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これも桐生のおかげだな。
+> CONTEXT: Map483/events/1/pages/0/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひめちゃんGJだよ！！
+> CONTEXT: Map483/events/1/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほらほら、いつまでもそんな箱かぶって
+ないで、出ておいでよ～！！
+> CONTEXT: Map483/events/1/pages/0/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（///）
+「ああ、あっ！！　だめ、だめですっ！！」
+> CONTEXT: Map483/events/1/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（///）
+「私、い、今、ハダカなんですからぁっ！！！」
+> CONTEXT: Map483/events/1/pages/0/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え？　どうせ透明なんだから平気でしょ？
+> CONTEXT: Map483/events/1/pages/0/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（///）
+「それが・・・そ、その・・・っ」
+> CONTEXT: Map483/events/1/pages/0/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（///）
+「も、もう効果が・・・切れてまして・・・/////」
+> CONTEXT: Map483/events/1/pages/0/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+つまりひめちゃん、ガマンできなかったん
+だ・・・？
+> CONTEXT: Map483/events/1/pages/0/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（>　<）
+「うぅ・・・だって・・・だってぇ・・・っ！」
+> CONTEXT: Map483/events/1/pages/0/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ともっち！
+> CONTEXT: Map483/events/1/pages/0/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+からかってないで、早く服を着させてあげて！
+> CONTEXT: Map483/events/1/pages/0/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これにて、今回の救出作戦は終了だ。
+> CONTEXT: Map483/events/1/pages/0/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すみやかにこの場を離れるとしよう。
+> CONTEXT: Map483/events/1/pages/0/150/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルミィさんを連れて、お城に戻ろう！
+> CONTEXT: Map483/events/1/pages/0/154/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうかしましたか？
+> CONTEXT: Map483/events/1/pages/0/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・なんでも・・・ありません。
+> CONTEXT: Map483/events/1/pages/0/170/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（そう言えば、盗賊の人が・・・）
+> CONTEXT: Map483/events/1/pages/0/174/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（確か、ルミィさんに呪いが掛けられてるって
+　言ってたような・・・）
+> CONTEXT: Map483/events/1/pages/0/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あの、ルミィさん・・・
+> CONTEXT: Map483/events/1/pages/0/180/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どこか具合が悪いんじゃないですか？
+> CONTEXT: Map483/events/1/pages/0/181/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いえ・・・特に・・・
+> CONTEXT: Map483/events/1/pages/0/185/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひめの言うとおり、やっぱりルミィさん、
+体調が悪そうですよ？　顔が少し赤い
+みたいですし。
+> CONTEXT: Map483/events/1/pages/0/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょっとおでこ触りますね。
+> CONTEXT: Map483/events/1/pages/0/196/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あぁんっ//////
+> CONTEXT: Map483/events/1/pages/0/204/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いや、あの、あ、あたし・・・おでこ触っただけ
+なんですけど・・・！？
+> CONTEXT: Map483/events/1/pages/0/228/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・ぅ・・・く・・・
+> CONTEXT: Map483/events/1/pages/0/233/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルミィさん・・・それ・・・
+> CONTEXT: Map483/events/1/pages/0/237/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もしかして、呪い・・・の影響ですか・・・？
+> CONTEXT: Map483/events/1/pages/0/238/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぜ・・・
+> CONTEXT: Map483/events/1/pages/0/245/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全身が・・・
+> CONTEXT: Map483/events/1/pages/0/246/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ものすごく・・・敏感になる呪い・・・です・・・////
+> CONTEXT: Map483/events/1/pages/0/247/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、それは・・・
+> CONTEXT: Map483/events/1/pages/0/256/Dialogue < UNTRANSLATED
+> CONTEXT: Map242/events/2/pages/0/190/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+たぶん、ヤバいやつだ・・・
+> CONTEXT: Map483/events/1/pages/0/260/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聞いたことがあります・・・！
+> CONTEXT: Map483/events/1/pages/0/267/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔界に伝わる呪術の一種で、対象者の
+感覚神経を過剰に反応させて自由を阻害する、
+強力な呪いですね・・・
+> CONTEXT: Map483/events/1/pages/0/268/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここに連れて来られた後、青カラットたちに
+施されました・・・
+> CONTEXT: Map483/events/1/pages/0/274/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+身動きするのも・・・正直・・・つらいです・・・
+> CONTEXT: Map483/events/1/pages/0/276/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃ、じゃあ・・・早く呪いを解いてあげないと・・・！
+> CONTEXT: Map483/events/1/pages/0/281/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+きっと、無理でしょう・・・
+> CONTEXT: Map483/events/1/pages/0/285/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一度かけられたら最後、神聖な破邪の光を
+浴びないかぎり、魔界の呪術は解けないと
+聞きます・・・
+> CONTEXT: Map483/events/1/pages/0/286/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんな・・・
+> CONTEXT: Map483/events/1/pages/0/291/Dialogue < UNTRANSLATED
+> CONTEXT: Map405/events/10/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map306/events/15/pages/0/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map306/events/22/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+破邪の光ってやつ、どうにかして作れないの
+カー？
+> CONTEXT: Map483/events/1/pages/0/296/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+作る方法は分かりませんが、浴びることが
+できる場所ならありますよ！
+> CONTEXT: Map483/events/1/pages/0/302/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほんと！？　どこどこ！？
+> CONTEXT: Map483/events/1/pages/0/307/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+“金字塔”と呼ばれる、神聖な建造物です。
+> CONTEXT: Map483/events/1/pages/0/312/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大昔に大陸南部に住む先住民族が、
+破邪の儀式に使用したとされています。
+> CONTEXT: Map483/events/1/pages/0/313/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その奥にある儀式の間までたどり着ければ、
+破邪の光で呪術を解くことができるはずですよ。
+> CONTEXT: Map483/events/1/pages/0/315/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こむは本当に博識ね！
+> CONTEXT: Map483/events/1/pages/0/320/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うんうん！　めっちゃ頼りになる！！
+> CONTEXT: Map483/events/1/pages/0/323/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（こくこく）
+> CONTEXT: Map483/events/1/pages/0/327/Dialogue < UNTRANSLATED
+> CONTEXT: Map430/events/1/pages/0/190/Dialogue < UNTRANSLATED
+> CONTEXT: Map430/events/1/pages/0/512/Dialogue < UNTRANSLATED
+> CONTEXT: Map383/events/4/pages/0/350/Dialogue < UNTRANSLATED
+> CONTEXT: Map357/events/16/pages/2/91/Dialogue < UNTRANSLATED
+> CONTEXT: Map315/events/10/pages/0/214/Dialogue < UNTRANSLATED
+> CONTEXT: Map217/events/9/pages/0/68/Dialogue < UNTRANSLATED
+> CONTEXT: Map219/events/35/pages/0/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map203/events/2/pages/1/116/Dialogue < UNTRANSLATED
+> CONTEXT: Map195/events/2/pages/0/261/Dialogue < UNTRANSLATED
+> CONTEXT: Map165/events/2/pages/0/281/Dialogue < UNTRANSLATED
+> CONTEXT: Map126/events/17/pages/0/22/Dialogue < UNTRANSLATED
+> CONTEXT: Map127/events/4/pages/9/412/Dialogue < UNTRANSLATED
+> CONTEXT: Map048/events/18/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+な、長く生きているだけですからっ！
+> CONTEXT: Map483/events/1/pages/0/330/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よし、さっそく向かおう。
+> CONTEXT: Map483/events/1/pages/0/334/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+南部の先住民が建てたと言ったな。　ここから
+近いのか？
+> CONTEXT: Map483/events/1/pages/0/335/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+少し距離があります。
+> CONTEXT: Map483/events/1/pages/0/341/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+デニ砂漠の奥地にある、蜃気楼の谷は
+覚えていますか？
+> CONTEXT: Map483/events/1/pages/0/342/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お前が祭ってある祭壇があった場所だろう。
+> CONTEXT: Map483/events/1/pages/0/347/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+実は、その祭壇の裏側に隠し通路が
+ありまして、通路を抜けると金字塔に
+行くことができるんです。
+> CONTEXT: Map483/events/1/pages/0/353/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃあ、まずは蜃気楼の谷を目指すんだナー？
+> CONTEXT: Map483/events/1/pages/0/360/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+行こう、ルミィさん！
+> CONTEXT: Map483/events/1/pages/0/364/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+す、すみません・・・ご迷惑を・・・
+> CONTEXT: Map483/events/1/pages/0/370/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お前には、対白カラットの切り札となる
+干渉剤を作ってもらわなくてはならない。
+> CONTEXT: Map483/events/1/pages/0/374/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+このくらいの援助はさせてもらう。
+> CONTEXT: Map483/events/1/pages/0/376/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よし！　蜃気楼の谷へGO！！
+> CONTEXT: Map483/events/1/pages/0/379/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ・・・ゆ・・・ゆっくりで・・・お願いし・・・んっ
+> CONTEXT: Map483/events/1/pages/0/383/Dialogue < UNTRANSLATED
+
+> END STRING

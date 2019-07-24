@@ -1,0 +1,218 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+看守さん
+「時期になると、デニ砂漠の砂嵐がこの辺にも
+　飛んでくるから、たまったもんじゃないよ。」
+> CONTEXT: Map365/events/3/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+看守さん
+「橋の落し物か・・・」
+> CONTEXT: Map365/events/3/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+看守さん
+「これは・・・手紙・・・？」
+> CONTEXT: Map365/events/3/pages/2/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+看守さん
+「でも、真っ白で何も書かれてないな。」
+> CONTEXT: Map365/events/3/pages/2/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+看守さん
+「じゃあ、落し物と言うより、ただの紙切れだな。」
+> CONTEXT: Map365/events/3/pages/2/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その手紙、ちょっと貸してもらえませんか？
+> CONTEXT: Map365/events/3/pages/2/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+看守さん
+「ああ、いいけど。　君たちのかい？」
+> CONTEXT: Map365/events/3/pages/2/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、いえ。　そういうわけじゃないんですけど、
+ちょっと気になったので・・・
+> CONTEXT: Map365/events/3/pages/2/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それがどうかしたのか、はむこ。
+> CONTEXT: Map365/events/3/pages/2/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うん。　さっき看守さんは、手紙には何も
+書かれてないって言ってたけど・・・
+> CONTEXT: Map365/events/3/pages/2/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほら、ちゃんと文字が書いてあるよ？
+> CONTEXT: Map365/events/3/pages/2/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほんとだわ。　殴り書きで読みにくいけど。
+> CONTEXT: Map365/events/3/pages/2/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ん？　俺には真っ白にしか見えないが・・・
+> CONTEXT: Map365/events/3/pages/2/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えええ？　早乙女くん、これが見えないの！？
+> CONTEXT: Map365/events/3/pages/2/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ンー？　ワタシにも見えないヨー？
+> CONTEXT: Map365/events/3/pages/2/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、私には見えます・・・
+> CONTEXT: Map365/events/3/pages/2/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ということは、つまり・・・
+> CONTEXT: Map365/events/3/pages/2/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これは熾天少女にしか見ることのできない
+文字なのでは？
+> CONTEXT: Map365/events/3/pages/2/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふむ。　熾力を持った者の目にしか見えない
+特殊なインクで書かれているのかもしれないな。
+> CONTEXT: Map365/events/3/pages/2/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんて書いてあるんダー？
+> CONTEXT: Map365/events/3/pages/2/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んとね、
+> CONTEXT: Map365/events/3/pages/2/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『敵はジャングルの奥地に私を連れていく
+　と言っています。　また連絡します。』
+> CONTEXT: Map365/events/3/pages/2/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これって、もしかして・・・
+> CONTEXT: Map365/events/3/pages/2/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルミィさんがあたし達に書き残したメモじゃ
+ない！？
+> CONTEXT: Map365/events/3/pages/2/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その可能性が高い。
+> CONTEXT: Map365/events/3/pages/2/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そもそも、熾力に応じて見えるようになるインク
+など、熾力研究に携わった者にしか扱えない
+だろうからな。
+> CONTEXT: Map365/events/3/pages/2/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これで手がかりゲットだナー！
+> CONTEXT: Map365/events/3/pages/2/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジャングルなら、“砂の町ジャハマド”を通って
+西に進んだ先にあります！
+> CONTEXT: Map365/events/3/pages/2/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よし、急ごう。
+> CONTEXT: Map365/events/3/pages/2/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+看守さん
+「あの紙切れなら、こっちで処分しておくよ。」
+> CONTEXT: Map365/events/3/pages/3/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一般人男性
+「看守さん、橋で落し物を拾ったんですけど！」
+> CONTEXT: Map365/events/12/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+看守さん
+「ご苦労さま。　こちらで預かります。」
+> CONTEXT: Map365/events/12/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一般人男性
+「はい、お願いしまーす！　では！」
+> CONTEXT: Map365/events/12/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING

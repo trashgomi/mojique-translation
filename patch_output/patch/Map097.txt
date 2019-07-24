@@ -1,0 +1,21 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ひゅおえええええええええぇぇぇぇぇっ！！！
+> CONTEXT: Map097/events/2/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あえて侵入経路を設置し、そこに罠を仕掛ける
+ことで、効率よく侵入者を捕縛することができる
+というわけか。
+> CONTEXT: Map097/events/2/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これを機に、以後このようなミスを犯すことの
+ないよう、我々は十分に
+> CONTEXT: Map097/events/2/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING

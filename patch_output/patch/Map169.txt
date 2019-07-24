@@ -1,0 +1,32 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+50レンを手に入れた！
+> CONTEXT: Map169/events/9/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【利尿剤】×1
+を手に入れた！
+> CONTEXT: Map169/events/10/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/12/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/48/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/49/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/50/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/51/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/156/1882/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/711/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【利尿剤】×1
+を見つけたが、持ち物がいっぱいだ！
+> CONTEXT: Map169/events/10/pages/0/19/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/12/pages/0/19/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/48/pages/0/19/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/49/pages/0/19/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/50/pages/0/19/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/51/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING

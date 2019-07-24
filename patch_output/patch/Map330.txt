@@ -1,0 +1,67 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+客
+「日替わりランチのCセットにサラダで。」
+> CONTEXT: Map330/events/10/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+客
+「ドレッシングはわさびソースで、飲み物は・・・」
+> CONTEXT: Map330/events/10/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+別の客
+「注文おねがいしまーす！」
+> CONTEXT: Map330/events/10/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+別の客
+「こっちも注文ー！」
+> CONTEXT: Map330/events/10/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えっと、も、もう少々お待ちください！
+すぐに伺いますっ！
+> CONTEXT: Map330/events/10/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ひいい、想像以上に忙しい・・・っ！）
+> CONTEXT: Map330/events/10/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（そ、それに・・・）
+> CONTEXT: Map330/events/10/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（どうしよう・・・すごく・・・お手洗いに行きたく
+　なってきた・・・）
+> CONTEXT: Map330/events/10/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もつ煮のお土産もご用意しております。
+おひとついかがですか？
+> CONTEXT: Map330/events/15/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map329/events/15/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map331/events/15/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map328/events/15/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map332/events/15/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map327/events/15/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map315/events/15/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

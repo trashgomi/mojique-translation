@@ -1,0 +1,880 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+言えない・・・。
+> CONTEXT: Map550/events/5/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map466/events/5/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+むえー～・・・疲れたヨー・・・
+> CONTEXT: Map550/events/11/pages/0/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+たこやきちゃん、お疲れ様～！
+> CONTEXT: Map550/events/11/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+無理を言って急がせてしまい、すまなかった
+のう。
+> CONTEXT: Map550/events/11/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「時空のひずみを制御し、安定させるための
+　方法の模索であったな。」
+> CONTEXT: Map550/events/11/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「さっそくだが、結果を聞かせてもらいたい。」
+> CONTEXT: Map550/events/11/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+結論から言えば、ひずみを安定させることは
+可能です。
+> CONTEXT: Map550/events/11/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お～～！！　さっすが！！
+> CONTEXT: Map550/events/11/pages/0/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これなら、話が早いわね。
+> CONTEXT: Map550/events/11/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それで、どうやって安定させるんでしょう・・・？
+> CONTEXT: Map550/events/11/pages/0/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+簡単に言えば、時空のひずみが発生している
+地点に、ひずみの原因となっている位相の
+ズレを修正させる力を加えればいいのです。
+> CONTEXT: Map550/events/11/pages/0/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+服のしわを伸ばすのと一緒だナー！
+> CONTEXT: Map550/events/11/pages/0/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+な、なるほど・・・
+> CONTEXT: Map550/events/11/pages/0/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+問題は、その力をどうやって発生させるか・・・
+ですね？
+> CONTEXT: Map550/events/11/pages/0/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さすが精霊王です。
+> CONTEXT: Map550/events/11/pages/0/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まさに、それが今回の作戦のポイントとなって
+います。
+> CONTEXT: Map550/events/11/pages/0/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+たこやきさんの知識を借りて検討した結果、
+時空に影響を及ぼすほどの強力なエネルギー
+を生み出すには、特殊な素材が必要となる
+ようなのです。
+> CONTEXT: Map550/events/11/pages/0/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+みんなもご存じのアレだヨー！
+> CONTEXT: Map550/events/11/pages/0/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたし達が知ってる、強力なエネルギーを
+発生させる素材・・・？　うーん・・・
+> CONTEXT: Map550/events/11/pages/0/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・ふむ、“イオンマテル”とやらのことか？
+> CONTEXT: Map550/events/11/pages/0/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ペンポーン！　正解ネー！
+> CONTEXT: Map550/events/11/pages/0/136/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いおんまてる・・・？　なんだっけ・・・？
+> CONTEXT: Map550/events/11/pages/0/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えーー！？　忘れちゃったのカー！！？
+> CONTEXT: Map550/events/11/pages/0/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワタシのスターシップを動かす原動力になる
+エネルギー物質のことだヨー！！
+> CONTEXT: Map550/events/11/pages/0/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+第1級イオンマテルから抽出できるイオン
+クラスターエネルギーなら、時空に干渉
+する十分な力となるネー！
+> CONTEXT: Map550/events/11/pages/0/151/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ・・・あー！　うん！　そっちのアレね！
+オーケー！　覚えてるよー！
+> CONTEXT: Map550/events/11/pages/0/158/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+つまり、また『おつかいイベント』なんだね・・・
+> CONTEXT: Map550/events/11/pages/0/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+要約した総論を述べます。
+> CONTEXT: Map550/events/11/pages/0/167/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+時空のひずみを安定させるために、イオン
+マテルを中核とした時空安定波発生玉、略して
+“時空玉”を作成。
+> CONTEXT: Map550/events/11/pages/0/168/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大陸北部にある魔界門を探し出し、完成した
+時空玉を発動して時空のひずみを安定させ、
+すかさず魔界門を破壊。
+> CONTEXT: Map550/events/11/pages/0/171/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+結論は以上です。
+> CONTEXT: Map550/events/11/pages/0/174/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「うむ。　方向性は、これで決まりだな。」
+> CONTEXT: Map550/events/11/pages/0/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あとは、その第1級イオンマテルとやらが
+どこで入手できるのかが問題じゃな。
+> CONTEXT: Map550/events/11/pages/0/180/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+厄介な問題だ。
+> CONTEXT: Map550/events/11/pages/0/184/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここに至るまで、我々はイオンマテルに関する
+情報を一度も・・・
+> CONTEXT: Map550/events/11/pages/0/185/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・いや、そうでもないな。
+> CONTEXT: Map550/events/11/pages/0/190/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え？　心当たりあるの？
+> CONTEXT: Map550/events/11/pages/0/194/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ある。
+> CONTEXT: Map550/events/11/pages/0/198/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お前たちが身に着けているペンダントだ。
+> CONTEXT: Map550/events/11/pages/0/199/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ！　そっか！！
+> CONTEXT: Map550/events/11/pages/0/203/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そう言えば、このペンダントの装飾に使われて
+いる赤い石がイオンマテルでしたよね。
+> CONTEXT: Map550/events/11/pages/0/207/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうそう！！　そうだヨー！！
+> CONTEXT: Map550/events/11/pages/0/213/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その赤い石の出どころさえ分かれば、
+第1級イオンマテルがいっぱい手に入るかも
+しれないネー！！
+> CONTEXT: Map550/events/11/pages/0/214/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「おお、そのペンダントは私が妹のビオラに
+　預けた物だな。」
+> CONTEXT: Map550/events/11/pages/0/218/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「元をたどれば、確か・・・私が神官から頂いた
+　品だったと思うが。」
+> CONTEXT: Map550/events/11/pages/0/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「ええ、覚えていますよ。」
+> CONTEXT: Map550/events/11/pages/0/224/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「ペンダントの装飾に使用されている赤い石は
+　ユーリャ教会において“災いを払う力を秘めた
+　宝玉”として伝えられているものです。」
+> CONTEXT: Map550/events/11/pages/0/226/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「国を守る騎士団の長として無事に務めを
+　果たせるよう、数年前に私が騎士団長に
+　進呈したものですね。」
+> CONTEXT: Map550/events/11/pages/0/230/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官さん！　その赤い石はどこで採れるの！？
+> CONTEXT: Map550/events/11/pages/0/236/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「大陸南部にある“煉獄洞”と呼ばれる地下
+　洞窟です。」
+> CONTEXT: Map550/events/11/pages/0/238/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ・・・あそこですか・・・
+> CONTEXT: Map550/events/11/pages/0/245/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もうその反応だけで、だいたい分かるけど・・・
+どんなところなの？
+> CONTEXT: Map550/events/11/pages/0/248/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+地底のマグマ溜まりにつながる、深い洞窟
+です。
+> CONTEXT: Map550/events/11/pages/0/255/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+地獄を思わせる灼熱の空間が広がる、非常に
+危険なところですよ。
+> CONTEXT: Map550/events/11/pages/0/257/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だと思った・・・
+> CONTEXT: Map550/events/11/pages/0/262/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だが、そこにイオンマテルがあるなら、
+選択肢は1つだ。
+> CONTEXT: Map550/events/11/pages/0/266/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こ、怖いけど・・・頑張らないと・・・
+> CONTEXT: Map550/events/11/pages/0/271/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+急がないと、また死神とか厄介なのが
+増えるかもしれないしね。
+> CONTEXT: Map550/events/11/pages/0/275/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（それに、もし第1級イオンマテルが
+　いーっぱい手に入ったら、やっと
+　ワタシのスターシップを動かせるネー！！）
+> CONTEXT: Map550/events/11/pages/0/279/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+早くその“煉獄洞”に行くヨー！！
+> CONTEXT: Map550/events/11/pages/0/282/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「お待ちください、みなさん。」
+> CONTEXT: Map550/events/11/pages/0/284/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「実はその赤い石なのですが・・・」
+> CONTEXT: Map550/events/11/pages/0/286/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「他の溶岩との区別が非常に付きにくい
+　代物のようでして、ベテランの採掘工でも
+　見分けることが難しいそうです。」
+> CONTEXT: Map550/events/11/pages/0/288/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「なので、手間ですが出かける前に腕利きの
+　採掘工を探して・・・」
+> CONTEXT: Map550/events/11/pages/0/292/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官。　その点は問題ない。
+> CONTEXT: Map550/events/11/pages/0/297/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なぜならこっちには・・・！
+> CONTEXT: Map550/events/11/pages/0/301/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これがあるんだナー！！
+> CONTEXT: Map550/events/11/pages/0/308/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ・・・それはいったい・・・！？
+> CONTEXT: Map550/events/11/pages/0/311/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ディテクションバイザーだヨー！
+> CONTEXT: Map550/events/11/pages/0/317/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+イオンクラスターエネルギーを検出できるから、
+これを使えば簡単にイオンマテルかどうか
+判別できるネー！！
+> CONTEXT: Map550/events/11/pages/0/318/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+時空の知識や、そのような未知の道具など・・・
+> CONTEXT: Map550/events/11/pages/0/323/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あなたはいったい何者なんですか・・・？
+> CONTEXT: Map550/events/11/pages/0/324/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え？　そ、それはだナー・・・あのネー・・・
+> CONTEXT: Map550/events/11/pages/0/330/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぜひ、そのバイザーについても内部構造の
+教示を・・・
+> CONTEXT: Map550/events/11/pages/0/333/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う、うん・・・あとでネー・・・
+> CONTEXT: Map550/events/11/pages/0/340/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とにかく、そのイオンマテルが入手できる
+余地があるのなら、さっそく現地へ向かって
+もらいたい。
+> CONTEXT: Map550/events/11/pages/0/344/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そしてルミィと神官は、時空玉の作成の
+下準備を進めておくように。　よいな？
+> CONTEXT: Map550/events/11/pages/0/347/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「すぐに取り掛かりましょう。」
+> CONTEXT: Map550/events/11/pages/0/355/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よーし！　それじゃわたし達は、大陸南部の
+ナントカ穴へレッツゴー！
+> CONTEXT: Map550/events/11/pages/0/359/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+“煉獄洞”ね。
+> CONTEXT: Map550/events/11/pages/0/363/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうか！　では、十分な量のイオンマテルを
+手に入れ、かつ、死神の奇襲も退けてきた
+のじゃな？
+> CONTEXT: Map550/events/11/pages/1/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さすがじゃ！
+> CONTEXT: Map550/events/11/pages/1/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+苦しゅうない！　もっと誉めてしんぜよ！
+> CONTEXT: Map550/events/11/pages/1/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+調子乗んな！
+> CONTEXT: Map550/events/11/pages/1/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワタシもいっぱい撃っていっぱい頑張ったヨー！
+> CONTEXT: Map550/events/11/pages/1/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも、死神の撃退は、ほとんど早乙女さんの
+おかげですけどね・・・
+> CONTEXT: Map550/events/11/pages/1/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほんと、レグマくんはトーク上手だよね！
+いよ！　このダブル・タン！
+> CONTEXT: Map550/events/11/pages/1/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+二枚舌って言いたいのでしょうけど・・・
+> CONTEXT: Map550/events/11/pages/1/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そもそも、二枚舌って嘘つきのことだし・・・
+> CONTEXT: Map550/events/11/pages/1/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とにかく、これで次元のひずみを安定させる
+ための“時空玉”を作る材料が整ったはずだ。
+> CONTEXT: Map550/events/11/pages/1/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さっそく製作に取り掛かってもらえるだろうか。
+> CONTEXT: Map550/events/11/pages/1/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+下準備は出来ていますので、完成までには
+ほとんど時間を要しません。
+> CONTEXT: Map550/events/11/pages/1/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「では、イオンマテルをお預かりします。」
+> CONTEXT: Map550/events/11/pages/1/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+イオンマテルを神官に渡した。
+> CONTEXT: Map550/events/11/pages/1/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「・・・おや、想定していた量よりかなり多い
+　ですね。」
+> CONTEXT: Map550/events/11/pages/1/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「失敗した際の予備でしょうか？」
+> CONTEXT: Map550/events/11/pages/1/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あー、そ、それはだナー・・・
+> CONTEXT: Map550/events/11/pages/1/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その・・・後で別の用途で使うから、半分は
+とっておいてほしいネー。
+> CONTEXT: Map550/events/11/pages/1/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「そうですか。　分かりました。」
+> CONTEXT: Map550/events/11/pages/1/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まあ、私は失敗とかしませんし。
+> CONTEXT: Map550/events/11/pages/1/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+1時間もあれば、時空玉をお渡しできるでしょう。
+> CONTEXT: Map550/events/11/pages/1/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それまでは、魔力探知装置で敵の動向を
+探っていてください。
+> CONTEXT: Map550/events/11/pages/1/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「時空玉の製作、御苦労だった。」
+> CONTEXT: Map550/events/11/pages/2/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「想定どおり完成できたのかな？」
+> CONTEXT: Map550/events/11/pages/2/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はい。　こちらです。
+> CONTEXT: Map550/events/11/pages/2/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【時空玉】×1
+を手に入れた！
+> CONTEXT: Map550/events/11/pages/2/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+赤い水晶のようなものだな。
+> CONTEXT: Map550/events/11/pages/2/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+きれい・・・
+> CONTEXT: Map550/events/11/pages/2/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それでルミィさん、コレどうやって使うんですか？
+> CONTEXT: Map550/events/11/pages/2/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔界門を発見したら、門の周辺に適当に設置
+してください。
+> CONTEXT: Map550/events/11/pages/2/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひずみを感知すると自動的に発動して、
+ひずみを抑える時空波を放出します。
+> CONTEXT: Map550/events/11/pages/2/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そして、ひずみの安定を確認すると、自爆モード
+が起動して門を爆破します。
+> CONTEXT: Map550/events/11/pages/2/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+設置後はすみやかに距離を取ってください。
+> CONTEXT: Map550/events/11/pages/2/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+す、すごい・・・
+> CONTEXT: Map550/events/11/pages/2/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よーし！　さっそく北部に出発しよ！！
+> CONTEXT: Map550/events/11/pages/2/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔界門を壊して、ついでに白カラットも
+やっつけちゃおう！
+> CONTEXT: Map550/events/11/pages/2/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんと、魔界門に白カラットがいるのか？
+> CONTEXT: Map550/events/11/pages/2/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さきほど、魔力探知装置で確認しました。
+> CONTEXT: Map550/events/11/pages/2/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+彼女のことですから、きっと魔界門を研究して
+何か力を得ようとしているのでしょう。
+> CONTEXT: Map550/events/11/pages/2/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「ならば、急行すべきだな。」
+> CONTEXT: Map550/events/11/pages/2/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「研究のためなら手段を選ばず、無茶なことを
+　しでかすに違いない。」
+> CONTEXT: Map550/events/11/pages/2/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+背後からそっと近づいて、後頭部を撃つヨー！
+> CONTEXT: Map550/events/11/pages/2/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神官
+「た・・・頼もしいですね。」
+> CONTEXT: Map550/events/11/pages/2/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+では目的を再確認する。
+> CONTEXT: Map550/events/11/pages/2/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔界からの増援を防ぐため、魔界門を
+破壊しなければならない。
+> CONTEXT: Map550/events/11/pages/2/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし、むやみに破壊すると時空のひずみが
+広がり、この世界が呑み込まれる恐れがある。
+> CONTEXT: Map550/events/11/pages/2/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よって、時空玉を用いてひずみを安定させた
+後に魔界門を破壊する。
+> CONTEXT: Map550/events/11/pages/2/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なお、魔界門付近には白カラットと思しき
+敵影が潜んでいる。　同時にこれを撃破
+することが望ましい。
+> CONTEXT: Map550/events/11/pages/2/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ＯＫ！　完璧に把握したよ！
+> CONTEXT: Map550/events/11/pages/2/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それでは熾天少女たちよ、魔界門破壊作戦
+決行じゃ！　頼んだぞ！
+> CONTEXT: Map550/events/11/pages/2/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おおーー！！
+> CONTEXT: Map550/events/11/pages/2/148/Dialogue < UNTRANSLATED
+
+> END STRING

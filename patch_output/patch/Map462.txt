@@ -1,0 +1,94 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+え・・・！？　騎士団長さん！？
+> CONTEXT: Map462/events/3/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+怪我してるみたい・・・！　どうしたんですか！？
+> CONTEXT: Map462/events/3/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、みなさん！　良かった！　ちょうどいい
+ところに！！
+> CONTEXT: Map462/events/3/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いったい何があったんだ。
+> CONTEXT: Map462/events/3/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士団長ガウラ
+「うう・・・っ」
+> CONTEXT: Map462/events/3/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だ、大丈夫ですか・・・？
+> CONTEXT: Map462/events/3/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+私、傷薬を用意してきます！
+> CONTEXT: Map462/events/3/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+では、こむと春風は騎士団長の介抱を頼む。
+> CONTEXT: Map462/events/3/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はむこと桐生は城へ向かい、姫に騎士団長の
+負傷を連絡してくれ。
+> CONTEXT: Map462/events/3/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その間、俺とたこやきはシャルシャルから
+事情を聞く。
+> CONTEXT: Map462/events/3/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+分かったわ。
+> CONTEXT: Map462/events/3/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+じゃ、ひとっ走り行ってくるね！
+> CONTEXT: Map462/events/3/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ねえねえ、あたしは？　あたしは？
+> CONTEXT: Map462/events/3/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+家の前で見張りを頼む。
+> CONTEXT: Map462/events/3/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（忘れられてた・・・）
+> CONTEXT: Map462/events/3/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
