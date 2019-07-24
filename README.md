@@ -4,9 +4,9 @@ This project is a fan-made English translation for Mojique (もじクエ), the R
 
 ## Progress
 
-Lines Translated: 0/19466 (Updated 07/23/2019)
+Lines Fully Translated: 0/19466 (Updated 07/24/2019)
 
-This project is not yet underway, and is instead currently in the process of gathering volunteers. If you'd like to see this translation get started, please spread word far and wide! Also consider joining yourself: see the section below.
+I have made a small start on establishing this project, but it is currently in the process of gathering volunteers. If you'd like to see this translation get started, please spread word far and wide! Also consider joining yourself: see the section below.
 
 ## Can I Help?
 
@@ -48,10 +48,10 @@ The best way to add new translations is to first choose a scene (i.e. one of the
 
 Translator++ supports multiple columns (stages) of translations.
 * Assistant translators should write their translations into the **Initial** column. 
-* Lead translators should create and use a column called **Checked**, and write their version of the initial translations in that column. If the initial version is correct, the lead translator can simply copy it into their **Checked** column.
-* Localisers can create and use a column called **Localised**, and write their version of checked translations in that column. However, localisers must get all of their localised lines checked once more by a lead translator.
+* Lead translators should use the column called **Checked**, and write their version of the initial translations in that column. If the initial version is correct, the lead translator can simply copy it into their **Checked** column.
+* Localisers should write their version of checked translations in the **Localised** column. However, localisers must then get all of their localised lines checked once more by a lead translator.
 
-Any _Google_, _Translation 1_, or _Translation 2_ columns are default and can be deleted.
+When you have finished work on a branch, you should export the changes as RPGMakerTrans formatted \*.txt files to the _patch_output_ directory. Ensure that you only commit the relevant changes. Although these files aren't used in the game, this step is important because it makes it much easier for collaborators to view your changes using the Git diffs.
 
 Branches shouldn't be merged into _master_ until they have gone through this whole process.
 
