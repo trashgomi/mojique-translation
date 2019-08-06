@@ -62,3 +62,4 @@ Following this convention, we can avoid work overlap and merge conflicts.
 If you are contributing in one of the ways mentioned above (or in some other capacity), please edit this file and leave your name and role here! Alternatively, ask someone else to add your name for you.
 
 * trashgomi - Assistant Translator, Repo Owner
+* 0x2F - Playtester
