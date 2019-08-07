@@ -21,6 +21,10 @@ There are many ways you can contribute, whether or not you can translate Japanes
 To contribute, you should register for a GitHub account. Ideally, all translators should know how to create commits to this project - you can find out how using the [GitHub guides](https://guides.github.com/).
 Localizers and playtesters can get away with simply creating [issues](https://github.com/trashgomi/mojique-translation/issues) on this project as appropriate.
 
+### Communication
+
+We are currently using the [OMOORG discord](https://discord.gg/Zs3dgsP) to chat and co-operate. Please join us there.
+
 ### Donations
 
 It is possible that some of our contributors may wish to receive donations - but this isn't happening yet. We would have to decide whether this is feasible; how it can be managed; and methods of transfer. It may also not be okay to do without Aoi Kurage's blessing. 
@@ -40,7 +44,7 @@ This section is required for any contributors making any actual changes to the t
 ### Required Tools
 
 This project is made possible by [Translator++](https://forums.rpgmakerweb.com/index.php?threads/translator-game-translation-tool.102706/).
-This tool is required for making any changes to the game. [Download here.](https://mega.nz/#F!P191mCib!f1gDY15BkUN20_61ikoAew)
+This tool is required for making any changes to the game. **You must contact me via [Discord](https://discord.gg/Zs3dgsP) or [email](mailto:trashgomi@protonmail.com) to get the correct version.**
 
 ## Making Changes
 
@@ -49,7 +53,7 @@ The best way to add new translations is to first choose a scene (i.e. one of the
 Translator++ supports multiple columns (stages) of translations.
 * Assistant translators should write their translations into the **Initial** column. 
 * Lead translators should use the column called **Checked**, and write their version of the initial translations in that column. If the initial version is correct, the lead translator can simply copy it into their **Checked** column.
-* Localizers should write their version of checked translations in the **Localised** column. However, localizers must then get all of their localized lines checked once more by a lead translator.
+* Localizers should write their version of checked translations in the **Localized** column. However, localizers must then get all of their localized lines checked once more by a lead translator.
 
 When you have finished work on a branch, you should export the changes as RPGMakerTrans formatted \*.txt files to the _patch_output_ directory. Ensure that you only commit the relevant changes. Although these files aren't used in the game, this step is important because it makes it much easier for collaborators to view your changes using the Git diffs.
 
