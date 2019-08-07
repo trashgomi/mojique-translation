@@ -9,11 +9,11 @@
 > CONTEXT: Map588/events/2/pages/0/8/Dialogue < UNTRANSLATED
 > CONTEXT: Map589/events/1/pages/0/20/Dialogue < UNTRANSLATED
 > CONTEXT: Map588/events/2/pages/0/20/Dialogue < UNTRANSLATED
-> CONTEXT: Map589/events/1/pages/0/31/Dialogue < UNTRANSLATED
 > CONTEXT: Map588/events/2/pages/0/31/Dialogue < UNTRANSLATED
+> CONTEXT: Map589/events/1/pages/0/31/Dialogue < UNTRANSLATED
 > CONTEXT: Map587/events/3/pages/0/8/Dialogue < UNTRANSLATED
-> CONTEXT: Map589/events/1/pages/0/42/Dialogue < UNTRANSLATED
 > CONTEXT: Map588/events/2/pages/0/42/Dialogue < UNTRANSLATED
+> CONTEXT: Map589/events/1/pages/0/42/Dialogue < UNTRANSLATED
 > CONTEXT: Map587/events/3/pages/0/20/Dialogue < UNTRANSLATED
 > CONTEXT: Map587/events/3/pages/0/31/Dialogue < UNTRANSLATED
 > CONTEXT: Map587/events/3/pages/0/42/Dialogue < UNTRANSLATED
@@ -22,11 +22,11 @@
 > CONTEXT: Map586/events/4/pages/0/31/Dialogue < UNTRANSLATED
 > CONTEXT: Map586/events/4/pages/0/42/Dialogue < UNTRANSLATED
 > CONTEXT: Map426/events/26/pages/0/8/Dialogue < UNTRANSLATED
-> CONTEXT: Map424/events/11/pages/0/8/Dialogue < UNTRANSLATED
 > CONTEXT: Map426/events/26/pages/0/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map424/events/11/pages/0/8/Dialogue < UNTRANSLATED
 > CONTEXT: Map426/events/26/pages/0/31/Dialogue < UNTRANSLATED
-> CONTEXT: Map424/events/11/pages/0/20/Dialogue < UNTRANSLATED
 > CONTEXT: Map426/events/26/pages/0/42/Dialogue < UNTRANSLATED
+> CONTEXT: Map424/events/11/pages/0/20/Dialogue < UNTRANSLATED
 > CONTEXT: Map424/events/11/pages/0/31/Dialogue < UNTRANSLATED
 > CONTEXT: Map424/events/11/pages/0/42/Dialogue < UNTRANSLATED
 

@@ -18,29 +18,29 @@
 > CONTEXT: Scripts/Game_Picture/29:13 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Picture/125:13 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Battler 1/30:21 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Party/61:33 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Battler 3/185:23 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Battler 3/294:23 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Character 1/38:23 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Character 1/161:38 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Character 1/173:31 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Party/61:33 < UNTRANSLATED
 > CONTEXT: Scripts/Sprite_Picture/38:27 < UNTRANSLATED
 > CONTEXT: Scripts/Sprite_Picture/44:25 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Event/43:27 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Event/127:25 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Character 1/38:23 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Character 1/161:38 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Character 1/173:31 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Player/96:25 < UNTRANSLATED
 > CONTEXT: Scripts/Window_Help/56:22 < UNTRANSLATED
 > CONTEXT: Scripts/Spriteset_Map/98:28 < UNTRANSLATED
 > CONTEXT: Scripts/Spriteset_Map/111:23 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Player/96:25 < UNTRANSLATED
 > CONTEXT: Scripts/Window_Skill/80:47 < UNTRANSLATED
+> CONTEXT: Scripts/Window_EquipRight/53:46 < UNTRANSLATED
 > CONTEXT: Scripts/Window_Item/101:46 < UNTRANSLATED
+> CONTEXT: Scripts/Window_EquipItem/91:46 < UNTRANSLATED
 > CONTEXT: Scripts/Window_Base/157:12 < UNTRANSLATED
 > CONTEXT: Scripts/Window_Base/160:20 < UNTRANSLATED
 > CONTEXT: Scripts/Window_Base/173:16 < UNTRANSLATED
-> CONTEXT: Scripts/Window_EquipRight/53:46 < UNTRANSLATED
-> CONTEXT: Scripts/Window_EquipItem/91:46 < UNTRANSLATED
-> CONTEXT: Scripts/Window_ShopSell/91:46 < UNTRANSLATED
 > CONTEXT: Scripts/Window_ShopBuy/91:46 < UNTRANSLATED
+> CONTEXT: Scripts/Window_ShopSell/91:46 < UNTRANSLATED
 > CONTEXT: Scripts/Window_NameEdit/26:13 < UNTRANSLATED
 > CONTEXT: Scripts/Window_NameEdit/49:44 < UNTRANSLATED
 > CONTEXT: Scripts/Window_NameEdit/63:15 < UNTRANSLATED
@@ -59,9 +59,9 @@
 > CONTEXT: Scripts/Window_NameInput/45:23 < UNTRANSLATED
 > CONTEXT: Scripts/Window_Message/85:69 < UNTRANSLATED
 > CONTEXT: Scripts/Window_Message/102:37 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Map/91:40 < UNTRANSLATED
 > CONTEXT: Scripts/Interpreter 3/75:31 < UNTRANSLATED
 > CONTEXT: Scripts/Interpreter 3/122:31 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Map/91:40 < UNTRANSLATED
 > CONTEXT: Scripts/Interpreter 5/50:36 < UNTRANSLATED
 > CONTEXT: Scripts/Main/21:61 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Name/62:33 < UNTRANSLATED
@@ -123,15 +123,8 @@
 > END STRING
 
 > BEGIN STRING
-"Data/Map%03d.rxdata"
-> CONTEXT: Scripts/Game_Map/50:30 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"歩数"
-> CONTEXT: Scripts/Window_Steps/22:44 < UNTRANSLATED
-> CONTEXT: Scripts/デバッグ強化/401:18 < UNTRANSLATED
+"  "
+> CONTEXT: Scripts/Window_Help/57:15 < UNTRANSLATED
 
 > END STRING
 
@@ -149,8 +142,23 @@
 > END STRING
 
 > BEGIN STRING
-"  "
-> CONTEXT: Scripts/Window_Help/57:15 < UNTRANSLATED
+"歩数"
+> CONTEXT: Scripts/Window_Steps/22:44 < UNTRANSLATED
+> CONTEXT: Scripts/デバッグ強化/401:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/Map%03d.rxdata"
+> CONTEXT: Scripts/Game_Map/50:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"-------"
+> CONTEXT: Scripts/Game_Actor/341:50 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Actor/347:65 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Actor/354:43 < UNTRANSLATED
 
 > END STRING
 
@@ -171,29 +179,47 @@
 > END STRING
 
 > BEGIN STRING
-"購入する"
-> CONTEXT: Scripts/Window_ShopCommand/16:18 < UNTRANSLATED
+"EXP"
+> CONTEXT: Scripts/Window_Status/38:46 < UNTRANSLATED
+> CONTEXT: Scripts/Window_BattleResult/36:29 < UNTRANSLATED
+> CONTEXT: Scripts/Window_BattleResult/37:43 < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
-"売却する"
-> CONTEXT: Scripts/Window_ShopCommand/16:26 < UNTRANSLATED
+"NEXT"
+> CONTEXT: Scripts/Window_Status/39:46 < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
-"やめる"
-> CONTEXT: Scripts/Window_ShopCommand/16:34 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_End/15:10 < UNTRANSLATED
+"Save#{@file_index + 1}.rxdata"
+> CONTEXT: Scripts/Window_SaveFile/22:17 < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
-"-------"
-> CONTEXT: Scripts/Game_Actor/341:50 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Actor/347:65 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Actor/354:43 < UNTRANSLATED
+"装備"
+> CONTEXT: Scripts/Window_Status/44:47 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"r"
+> CONTEXT: Scripts/Window_SaveFile/26:35 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Load/20:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ファイル #{@file_index + 1}"
+> CONTEXT: Scripts/Window_SaveFile/47:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%Y/%m/%d %H:%M"
+> CONTEXT: Scripts/Window_SaveFile/70:42 < UNTRANSLATED
 
 > END STRING
 
@@ -243,65 +269,54 @@
 > END STRING
 
 > BEGIN STRING
-"Save#{@file_index + 1}.rxdata"
-> CONTEXT: Scripts/Window_SaveFile/22:17 < UNTRANSLATED
+"購入する"
+> CONTEXT: Scripts/Window_ShopCommand/16:18 < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
-"r"
-> CONTEXT: Scripts/Window_SaveFile/26:35 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Load/20:36 < UNTRANSLATED
+"売却する"
+> CONTEXT: Scripts/Window_ShopCommand/16:26 < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
-"ファイル #{@file_index + 1}"
-> CONTEXT: Scripts/Window_SaveFile/47:12 < UNTRANSLATED
+"やめる"
+> CONTEXT: Scripts/Window_ShopCommand/16:34 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_End/15:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"戦う"
+> CONTEXT: Scripts/Window_PartyCommand/15:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"逃げる"
+> CONTEXT: Scripts/Window_PartyCommand/15:24 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/227:29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"0"
+> CONTEXT: Scripts/Window_InputNumber/17:44 < UNTRANSLATED
+> CONTEXT: Scripts/デバッグ強化/787:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%0*d"
+> CONTEXT: Scripts/Window_InputNumber/88:17 < UNTRANSLATED
+> CONTEXT: Scripts/デバッグ強化/882:17 < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
 "×"
 > CONTEXT: Scripts/Window_ShopNumber/42:46 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"%Y/%m/%d %H:%M"
-> CONTEXT: Scripts/Window_SaveFile/70:42 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"EXP"
-> CONTEXT: Scripts/Window_Status/38:46 < UNTRANSLATED
-> CONTEXT: Scripts/Window_BattleResult/36:29 < UNTRANSLATED
-> CONTEXT: Scripts/Window_BattleResult/37:43 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"NEXT"
-> CONTEXT: Scripts/Window_Status/39:46 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"装備"
-> CONTEXT: Scripts/Window_Status/44:47 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"持っている数"
-> CONTEXT: Scripts/Window_ShopStatus/34:44 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"%+d"
-> CONTEXT: Scripts/Window_ShopStatus/82:19 < UNTRANSLATED
 
 > END STRING
 
@@ -321,68 +336,14 @@
 > END STRING
 
 > BEGIN STRING
-"戦う"
-> CONTEXT: Scripts/Window_PartyCommand/15:18 < UNTRANSLATED
+"持っている数"
+> CONTEXT: Scripts/Window_ShopStatus/34:44 < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
-"逃げる"
-> CONTEXT: Scripts/Window_PartyCommand/15:24 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/227:29 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"LEVEL UP!"
-> CONTEXT: Scripts/Window_BattleStatus/44:55 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"S [%04d-%04d]"
-> CONTEXT: Scripts/Window_DebugLeft/29:22 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"V [%04d-%04d]"
-> CONTEXT: Scripts/Window_DebugLeft/33:22 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"[ON]"
-> CONTEXT: Scripts/Window_DebugRight/34:46 < UNTRANSLATED
-> CONTEXT: Scripts/デバッグ強化/370:46 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"[OFF]"
-> CONTEXT: Scripts/Window_DebugRight/34:55 < UNTRANSLATED
-> CONTEXT: Scripts/デバッグ強化/370:55 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"%04d:"
-> CONTEXT: Scripts/Window_DebugRight/42:25 < UNTRANSLATED
-> CONTEXT: Scripts/デバッグ強化/414:25 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"0"
-> CONTEXT: Scripts/Window_InputNumber/17:44 < UNTRANSLATED
-> CONTEXT: Scripts/デバッグ強化/787:44 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"%0*d"
-> CONTEXT: Scripts/Window_InputNumber/88:17 < UNTRANSLATED
-> CONTEXT: Scripts/デバッグ強化/882:17 < UNTRANSLATED
+"%+d"
+> CONTEXT: Scripts/Window_ShopStatus/82:19 < UNTRANSLATED
 
 > END STRING
 
@@ -1461,11 +1422,74 @@
 > BEGIN STRING
 "\\n"
 > CONTEXT: Scripts/Window_Message/128:17 < UNTRANSLATED
-> CONTEXT: Scripts/Interpreter 7/256:44 < UNTRANSLATED
-> CONTEXT: Scripts/Interpreter 7/262:51 < UNTRANSLATED
 > CONTEXT: Scripts/Interpreter 1/234:41 < UNTRANSLATED
 > CONTEXT: Scripts/Interpreter 3/22:61 < UNTRANSLATED
 > CONTEXT: Scripts/Interpreter 3/29:68 < UNTRANSLATED
+> CONTEXT: Scripts/Interpreter 7/256:44 < UNTRANSLATED
+> CONTEXT: Scripts/Interpreter 7/262:51 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"LEVEL UP!"
+> CONTEXT: Scripts/Window_BattleStatus/44:55 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"S [%04d-%04d]"
+> CONTEXT: Scripts/Window_DebugLeft/29:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"V [%04d-%04d]"
+> CONTEXT: Scripts/Window_DebugLeft/33:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"[ON]"
+> CONTEXT: Scripts/Window_DebugRight/34:46 < UNTRANSLATED
+> CONTEXT: Scripts/デバッグ強化/370:46 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"[OFF]"
+> CONTEXT: Scripts/Window_DebugRight/34:55 < UNTRANSLATED
+> CONTEXT: Scripts/デバッグ強化/370:55 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%04d:"
+> CONTEXT: Scripts/Window_DebugRight/42:25 < UNTRANSLATED
+> CONTEXT: Scripts/デバッグ強化/414:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"コモンイベントの呼び出しが上限を超えました。"
+> CONTEXT: Scripts/Interpreter 1/19:13 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ステータス"
+> CONTEXT: Scripts/Scene_Menu/23:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"セーブ"
+> CONTEXT: Scripts/Scene_Menu/24:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ゲーム終了"
+> CONTEXT: Scripts/Scene_Menu/25:10 < UNTRANSLATED
 
 > END STRING
 
@@ -1597,12 +1621,6 @@
 > END STRING
 
 > BEGIN STRING
-"コモンイベントの呼び出しが上限を超えました。"
-> CONTEXT: Scripts/Interpreter 1/19:13 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
 "Data/BT_Weapons.rxdata"
 > CONTEXT: Scripts/Scene_Title/181:37 < UNTRANSLATED
 
@@ -1686,24 +1704,6 @@
 > BEGIN STRING
 "タイトルへ"
 > CONTEXT: Scripts/Scene_End/13:10 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"ステータス"
-> CONTEXT: Scripts/Scene_Menu/23:10 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"セーブ"
-> CONTEXT: Scripts/Scene_Menu/24:10 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"ゲーム終了"
-> CONTEXT: Scripts/Scene_Menu/25:10 < UNTRANSLATED
 
 > END STRING
 
