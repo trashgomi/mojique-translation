@@ -144,7 +144,9 @@ SKL＋\\V[400], AGI＋\\V[401]
 「えっと・・・ど、どうすればいい？
 　とりあえず突撃しちゃおっか？
 > CONTEXT: Commonevents/110/1/Dialogue < UNTRANSLATED
-
+Hamuko
+「Uhh... w-what should I do?
+　I guess I'll start by attacking?
 > END STRING
 
 > BEGIN STRING
@@ -152,7 +154,9 @@ SKL＋\\V[400], AGI＋\\V[401]
 「むやみに暴れるな。　無駄に体力を消耗する
 　だけだぞ。
 > CONTEXT: Commonevents/110/4/Dialogue < UNTRANSLATED
-
+Regma
+「Don't be reckless. You'll only tire yourself
+　out.
 > END STRING
 
 > BEGIN STRING
@@ -160,47 +164,53 @@ SKL＋\\V[400], AGI＋\\V[401]
 「ここは、ありとあらゆるRPGを極めつくした
 　俺の指示をよく聞いて行動するんだ。
 > CONTEXT: Commonevents/110/7/Dialogue < UNTRANSLATED
-
+Regma
+「I know the ins-and-outs of all sorts of RPGs,
+　so act on my instruction.
 > END STRING
 
 > BEGIN STRING
 はむこ
 「わかった・・・じゃ、任せるね！
 > CONTEXT: Commonevents/110/10/Dialogue < UNTRANSLATED
-
+Hamuko
+「Got it... okay, leave it to me!
 > END STRING
 
 > BEGIN STRING
 戦闘チュートリアルを開始します。
 > CONTEXT: Commonevents/110/13/Dialogue < UNTRANSLATED
-
+Commencing the combat tutorial.
 > END STRING
 
 > BEGIN STRING
 敵との戦闘が始まると、画面上部に
 「全体メニュー」が表示されます。
 > CONTEXT: Commonevents/110/14/Dialogue < UNTRANSLATED
-
+At the start of a battle, a "Top Menu" will be
+displayed at the top of the screen.
 > END STRING
 
 > BEGIN STRING
 全体メニューでは、
 「戦う」、「アイテム」、「逃げる」が選択できます。
 > CONTEXT: Commonevents/110/16/Dialogue < UNTRANSLATED
-
+From the Top Menu, you can select between
+"Fight", "Items", and "Run".
 > END STRING
 
 > BEGIN STRING
 まずは「戦う」を選んでください。
 > CONTEXT: Commonevents/110/18/Dialogue < UNTRANSLATED
-
+Please start by choosing "Fight".
 > END STRING
 
 > BEGIN STRING
 「戦う」を選ぶと、行動力の高いキャラから順に
 行動することができます。
 > CONTEXT: Commonevents/110/27/Dialogue < UNTRANSLATED
-
+Upon selecting "Fight", characters will be able to act
+in order of initiative.
 > END STRING
 
 > BEGIN STRING
@@ -209,13 +219,15 @@ SKL＋\\V[400], AGI＋\\V[401]
 「攻撃」、「スキル」、「待機」
 が選択できます。
 > CONTEXT: Commonevents/110/29/Dialogue < UNTRANSLATED
-
+When an allied character is able to act, a command
+menu will be shown from which you can choose
+between "Attack", "Skills", and "Wait".
 > END STRING
 
 > BEGIN STRING
 「攻撃」を選び、敵にダメージを与えましょう。
 > CONTEXT: Commonevents/110/33/Dialogue < UNTRANSLATED
-
+Let's choose "Attack" and deal some damage to the opponent.
 > END STRING
 
 > BEGIN STRING
@@ -224,14 +236,17 @@ SKL＋\\V[400], AGI＋\\V[401]
 今のはむこは何も覚えていないので選択
 できません。
 > CONTEXT: Commonevents/110/42/Dialogue < UNTRANSLATED
-
+By choosing "Skills" from the command menu, special
+attacks and moves can be unleashed. However, Hamuko
+doesn't know any skills yet, so this can't be selected.
 > END STRING
 
 > BEGIN STRING
 「待機」を選ぶと、何もせずに自分の行動を
 終了します。
 > CONTEXT: Commonevents/110/46/Dialogue < UNTRANSLATED
-
+If you choose "Wait", you can skip your turn without
+doing anything.
 > END STRING
 
 > BEGIN STRING
@@ -239,7 +254,9 @@ SKL＋\\V[400], AGI＋\\V[401]
 されます。その後は敵や味方が5回行動を
 取るごとに表示されます。
 > CONTEXT: Commonevents/110/56/Dialogue < UNTRANSLATED
-
+The "Top Menu" will be shown at the start of combat, and
+then after every 5 turns taken by our allies and enemies in
+battle.
 > END STRING
 
 > BEGIN STRING
@@ -247,28 +264,32 @@ SKL＋\\V[400], AGI＋\\V[401]
 アローキーで動かして、攻撃対象を選ぶ
 ことができます。
 > CONTEXT: Commonevents/110/67/Dialogue < UNTRANSLATED
-
+When there are multiple enemies, you can choose the target
+of your attacks, shown by the target cursor, using the arrow
+keys.
 > END STRING
 
 > BEGIN STRING
 時々、ダメージが2倍に跳ね上がる
 「クリティカルヒット」が出る場合があります。
 > CONTEXT: Commonevents/110/78/Dialogue < UNTRANSLATED
-
+Occasionally, a double-damage "Critical Hit" will occur.
 > END STRING
 
 > BEGIN STRING
 敵から攻撃を受けた際、反撃を繰り出す
 「カウンター」が発動する場合があります。
 > CONTEXT: Commonevents/110/88/Dialogue < UNTRANSLATED
-
+When attacked by an enemy, our allies may execute a
+"Counter", responding with an attack of their own.
 > END STRING
 
 > BEGIN STRING
 カウンターの発動確率や威力は、攻撃を
 受けたキャラの防御力に依存します。
 > CONTEXT: Commonevents/110/90/Dialogue < UNTRANSLATED
-
+The chance of a counter occurring, and its power, depends
+on the Defense of the character.
 > END STRING
 
 > BEGIN STRING
