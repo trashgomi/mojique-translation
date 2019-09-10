@@ -4,9 +4,14 @@ This project is a fan-made English translation for Mojique (もじクエ), the R
 
 ## Progress
 
-Lines Fully Translated: 0/19466 (Updated 07/24/2019)
-
 I have made a small start on establishing this project, but it is currently in the process of gathering volunteers. If you'd like to see this translation get started, please spread word far and wide! Also consider joining yourself: see the section below.
+
+### Alpha Translation
+Lines that have been given an initial translation, but not checked or playtested.
+
+Text: 203/19466 (Updated 09/10/2019)
+
+Images: 0/?
 
 ## Can I Help?
 
