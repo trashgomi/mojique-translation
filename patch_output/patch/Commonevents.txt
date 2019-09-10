@@ -2,7 +2,8 @@
 > BEGIN STRING
 今この先に行くべきでない。　そんな気がする。
 > CONTEXT: Commonevents/8/1/Dialogue < UNTRANSLATED
-
+This doesn't feel like the right way to go at the
+moment.
 > END STRING
 
 > BEGIN STRING
@@ -10,31 +11,31 @@
 > CONTEXT: Commonevents/16/543/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/16/574/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/16/952/Dialogue < UNTRANSLATED
-
+Can't choose right now!
 > END STRING
 
 > BEGIN STRING
 この戦いからは逃げられない！！
 > CONTEXT: Commonevents/16/551/Dialogue < UNTRANSLATED
-
+Can't run from this battle!!
 > END STRING
 
 > BEGIN STRING
 うまく逃げ切れた！
 > CONTEXT: Commonevents/16/561/Dialogue < UNTRANSLATED
-
+Got away safely!
 > END STRING
 
 > BEGIN STRING
 逃げられなかった・・・！
 > CONTEXT: Commonevents/16/567/Dialogue < UNTRANSLATED
-
+Couldn't run...!
 > END STRING
 
 > BEGIN STRING
 はむこのレベルが\\V[103]に上がった！
 > CONTEXT: Commonevents/108/12/Dialogue < UNTRANSLATED
-
+Hamuko grew to level \\V[103]!
 > END STRING
 
 > BEGIN STRING
@@ -43,27 +44,30 @@
 攻撃力＋\\V[387]、　防御力＋\\V[388]、
 技術力＋\\V[389]、　敏捷性＋\\V[390]
 > CONTEXT: Commonevents/108/84/Dialogue < UNTRANSLATED
-
+【Hamuko】
+MaxHP＋\\V[386],
+ATK＋\\V[387], DEF＋\\V[388],
+SKL＋\\V[389], AGI＋\\V[390]
 > END STRING
 
 > BEGIN STRING
 はむこは、スキル【はむパンチ】
 を習得した！
 > CONTEXT: Commonevents/108/130/Dialogue < UNTRANSLATED
-
+Hamuko learned the 【Hamu-Punch】 skill!
 > END STRING
 
 > BEGIN STRING
 はむこは、スキル【暴れ娘】
 を習得した！
 > CONTEXT: Commonevents/108/144/Dialogue < UNTRANSLATED
-
+Hamuko learned the 【Raging Girl】 skill!
 > END STRING
 
 > BEGIN STRING
 にゃんこのレベルが\\V[104]に上がった！
 > CONTEXT: Commonevents/108/166/Dialogue < UNTRANSLATED
-
+Nyanko grew to level \\V[104]!
 > END STRING
 
 > BEGIN STRING
@@ -72,27 +76,30 @@
 攻撃力＋\\V[398]、　防御力＋\\V[399]、
 技術力＋\\V[400]、　敏捷性＋\\V[401]
 > CONTEXT: Commonevents/108/238/Dialogue < UNTRANSLATED
-
+【Nyanko】
+MaxHP＋\\V[397],
+ATK＋\\V[398], DEF＋\\V[399],
+SKL＋\\V[400], AGI＋\\V[401]
 > END STRING
 
 > BEGIN STRING
 にゃんこは、スキル【にゃんキック】
 を習得した！
 > CONTEXT: Commonevents/108/284/Dialogue < UNTRANSLATED
-
+Nyanko learned the 【Nyan-kick】 skill!
 > END STRING
 
 > BEGIN STRING
 にゃんこは、スキル【ねこ手刀】
 を習得した！
 > CONTEXT: Commonevents/108/298/Dialogue < UNTRANSLATED
-
+Nyanko learned the 【Neko Chop】 skill!
 > END STRING
 
 > BEGIN STRING
 ともっちのレベルが\\V[105]に上がった！
 > CONTEXT: Commonevents/108/320/Dialogue < UNTRANSLATED
-
+Tomocchi grew to level \\V[105]!
 > END STRING
 
 > BEGIN STRING
@@ -101,20 +108,23 @@
 攻撃力＋\\V[398]、　防御力＋\\V[399]、
 技術力＋\\V[400]、　敏捷性＋\\V[401]
 > CONTEXT: Commonevents/108/392/Dialogue < UNTRANSLATED
-
+【Tomocchi】
+MaxHP＋\\V[397],
+ATK＋\\V[398], DEF＋\\V[399],
+SKL＋\\V[400], AGI＋\\V[401]
 > END STRING
 
 > BEGIN STRING
 ともっちは、スキル【ヒップアタック】
 を習得した！
 > CONTEXT: Commonevents/108/438/Dialogue < UNTRANSLATED
-
+Tomocchi learned the 【Hip Attack】 skill!
 > END STRING
 
 > BEGIN STRING
 ひめのレベルが\\V[106]に上がった！
 > CONTEXT: Commonevents/108/460/Dialogue < UNTRANSLATED
-
+Hime grew to level \\V[106]!
 > END STRING
 
 > BEGIN STRING
@@ -123,7 +133,10 @@
 攻撃力＋\\V[398]、　防御力＋\\V[399]、
 技術力＋\\V[400]、　敏捷性＋\\V[401]
 > CONTEXT: Commonevents/108/532/Dialogue < UNTRANSLATED
-
+【Hime】
+MaxHP＋\\V[397],
+ATK＋\\V[398], DEF＋\\V[399],
+SKL＋\\V[400], AGI＋\\V[401]
 > END STRING
 
 > BEGIN STRING
