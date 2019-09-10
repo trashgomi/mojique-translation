@@ -1718,63 +1718,63 @@
 ぁぁ、あ、ぅ・・・も、だ・・・め・・・
 > CONTEXT: Commonevents/147/1022/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/147/1047/Dialogue < UNTRANSLATED
-
+Aa-aah, uuh... no... more...
 > END STRING
 
 > BEGIN STRING
 げんかい・・・なの・・・ぉ・・・っ！！
 > CONTEXT: Commonevents/147/1023/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/147/1048/Dialogue < UNTRANSLATED
-
+I'm at... my... limit...!!
 > END STRING
 
 > BEGIN STRING
 でちゃぅ、ぁ、ああっ、でちゃううぅっ！！
 > CONTEXT: Commonevents/147/1034/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/147/1059/Dialogue < UNTRANSLATED
-
+It's, aa-aaah, it's coming ouuuut!!
 > END STRING
 
 > BEGIN STRING
 や、やばい・・・っ、ねえ、もう・・・無理・・・っ！
 > CONTEXT: Commonevents/147/1076/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/147/1102/Dialogue < UNTRANSLATED
-
+Th-this is bad... hey, I can't... hold it...!
 > END STRING
 
 > BEGIN STRING
 おトイレ・・・ぉ、おしっこ・・・行きたいよぉっ！
 > CONTEXT: Commonevents/147/1077/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/147/1103/Dialogue < UNTRANSLATED
-
+I wanna go to the... I-I wanna go pee!
 > END STRING
 
 > BEGIN STRING
 く、ぅ・・・っ
 > CONTEXT: Commonevents/147/1088/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/147/1114/Dialogue < UNTRANSLATED
-
+Ku, uuh...
 > END STRING
 
 > BEGIN STRING
 も、もぅ・・・我慢・・・できないぃっ！
 > CONTEXT: Commonevents/147/1089/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/147/1115/Dialogue < UNTRANSLATED
-
+I, I can't... hold it... anymore!
 > END STRING
 
 > BEGIN STRING
 ごめん、あの、おトイレ・・・！
 > CONTEXT: Commonevents/147/1132/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/147/1158/Dialogue < UNTRANSLATED
-
+Sorry, umm, toilet...!
 > END STRING
 
 > BEGIN STRING
 そろそろ本当に、行きたいんだけど・・・っ！
 > CONTEXT: Commonevents/147/1133/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/147/1159/Dialogue < UNTRANSLATED
-
+I'd really like to go right about now...!
 > END STRING
 
 > BEGIN STRING
@@ -1783,7 +1783,7 @@
 > CONTEXT: Commonevents/147/1501/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/147/1826/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/147/2068/Dialogue < UNTRANSLATED
-
+Yeah... okay...
 > END STRING
 
 > BEGIN STRING
@@ -1792,13 +1792,13 @@
 > CONTEXT: Commonevents/147/1502/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/147/1827/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/147/2069/Dialogue < UNTRANSLATED
-
+I-it's better than... losing it again...
 > END STRING
 
 > BEGIN STRING
 それはまだ、ちょっと、無理だよ・・・さすがに・・・
 > CONTEXT: Commonevents/147/1169/Dialogue < UNTRANSLATED
-
+There's no way... I could do that... not yet...
 > END STRING
 
 > BEGIN STRING
@@ -1806,7 +1806,7 @@
 > CONTEXT: Commonevents/147/1195/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/147/1216/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/147/1235/Dialogue < UNTRANSLATED
-
+Uuuh... I didn't make it...
 > END STRING
 
 > BEGIN STRING
@@ -1814,32 +1814,34 @@
 > CONTEXT: Commonevents/147/1196/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/147/1217/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/147/1236/Dialogue < UNTRANSLATED
-
+S-sorry...
 > END STRING
 
 > BEGIN STRING
 レグマくん、あのさ・・・
 > CONTEXT: Commonevents/147/1203/Dialogue < UNTRANSLATED
-
+Hey, Reguma-kun...
 > END STRING
 
 > BEGIN STRING
 言いにくいんだけど、わたし、ちょっと・・・
 おトイレに・・・////
 > CONTEXT: Commonevents/147/1204/Dialogue < UNTRANSLATED
-
+I hate to say it, but, I wanna...
+Y'know, to the bathroom... ////
 > END STRING
 
 > BEGIN STRING
 （そう言えば、この辺におトイレあったかな・・・）
 > CONTEXT: Commonevents/147/1224/Dialogue < UNTRANSLATED
-
+(Come to think of it, I wonder if there was a toilet
+around here...)
 > END STRING
 
 > BEGIN STRING
 （ちょっと寄りたくなってきちゃった・・・）
 > CONTEXT: Commonevents/147/1225/Dialogue < UNTRANSLATED
-
+(It's kinda getting to that point...)
 > END STRING
 
 > BEGIN STRING
@@ -4948,60 +4950,60 @@
 ・・・っ！！
 > CONTEXT: Commonevents/148/978/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/148/1004/Dialogue < UNTRANSLATED
-
+It's... it's too late... I'm going to... pee myself... nnh!!
 > END STRING
 
 > BEGIN STRING
 我慢できなぃっ、もれちゃうっ！！！
 > CONTEXT: Commonevents/148/980/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/148/1006/Dialogue < UNTRANSLATED
-
+I can't hold it, it's going to come out!!!
 > END STRING
 
 > BEGIN STRING
 ぁ、ああ、限・・・界、ぃ、・・・っ！！
 > CONTEXT: Commonevents/148/991/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/148/1017/Dialogue < UNTRANSLATED
-
+Ah, aaah, no... no m-more...!!
 > END STRING
 
 > BEGIN STRING
 ねえ、あ、あたし・・・ずっと我慢してるの・・・っ！
 > CONTEXT: Commonevents/148/1034/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/148/1059/Dialogue < UNTRANSLATED
-
+Hey, I-I'm... really desperate!
 > END STRING
 
 > BEGIN STRING
 そろそろ・・・ト、トイレ行かせて・・・っ！
 > CONTEXT: Commonevents/148/1035/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/148/1060/Dialogue < UNTRANSLATED
-
+L-let me go to the toilet... anytime soon!
 > END STRING
 
 > BEGIN STRING
 こ、こ、今回だけだからねっ！！/////
 > CONTEXT: Commonevents/148/1046/Dialogue < UNTRANSLATED
-
+J-j-just this once, got it?!! /////
 > END STRING
 
 > BEGIN STRING
 あ、あたしはトイレに行きたいって言ってるの！
 > CONTEXT: Commonevents/148/1071/Dialogue < UNTRANSLATED
-
+I, I'm saying I want to go to the toilet!
 > END STRING
 
 > BEGIN STRING
 人の話、聞きなさいよっ////
 > CONTEXT: Commonevents/148/1072/Dialogue < UNTRANSLATED
-
+Pay attention to people when they talk! ////
 > END STRING
 
 > BEGIN STRING
 あー、その・・・早乙女・・・
 > CONTEXT: Commonevents/148/1088/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/148/1116/Dialogue < UNTRANSLATED
-
+Uhh, umm... Saotome...
 > END STRING
 
 > BEGIN STRING
@@ -5009,21 +5011,22 @@
 頃合いじゃないかしら・・・？
 > CONTEXT: Commonevents/148/1089/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/148/1117/Dialogue < UNTRANSLATED
-
+Guys? Don't you think this would be a good time to
+stop by a restroom, for example?
 > END STRING
 
 > BEGIN STRING
 あ、あたしは、べつに・・・っ！
 > CONTEXT: Commonevents/148/1100/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/148/1129/Dialogue < UNTRANSLATED
-
+I, I don't really need to...!
 > END STRING
 
 > BEGIN STRING
 べつに・・・（もじもじ・・・っ）
 > CONTEXT: Commonevents/148/1104/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/148/1133/Dialogue < UNTRANSLATED
-
+Not particularly... (fidget, fidget)
 > END STRING
 
 > BEGIN STRING
@@ -5031,7 +5034,7 @@
 > CONTEXT: Commonevents/148/1160/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/148/1181/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/148/1203/Dialogue < UNTRANSLATED
-
+To w-wet myself... at my age...
 > END STRING
 
 > BEGIN STRING
@@ -5039,33 +5042,35 @@
 > CONTEXT: Commonevents/148/1161/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/148/1182/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/148/1204/Dialogue < UNTRANSLATED
-
+G... go on, laugh!
 > END STRING
 
 > BEGIN STRING
 （・・・そわそわ）
 > CONTEXT: Commonevents/148/1168/Dialogue < UNTRANSLATED
-
+(Rustle, rustle)
 > END STRING
 
 > BEGIN STRING
 （け、けっこう溜まってきてる・・・トイレ行きたい
 　・・・）
 > CONTEXT: Commonevents/148/1169/Dialogue < UNTRANSLATED
-
+(I-I'm getting quite full... I want to go to the
+bathroom...)
 > END STRING
 
 > BEGIN STRING
 進む時は進む。　休む時は休む。
 行動にはメリハリが大事ね。
 > CONTEXT: Commonevents/148/1189/Dialogue < UNTRANSLATED
-
+There's a time to move forward, and a time to rest.
+A good balance is important, don't you think?
 > END STRING
 
 > BEGIN STRING
 あたしが言いたいのは・・・そ、それだけよ。
 > CONTEXT: Commonevents/148/1193/Dialogue < UNTRANSLATED
-
+That's... a-all I wanted to say.
 > END STRING
 
 > BEGIN STRING
@@ -7625,7 +7630,7 @@ Dr.FLASHの話だと、最初に戦ったとしひこが
 > CONTEXT: Commonevents/149/546/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/149/1337/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/149/1345/Dialogue < UNTRANSLATED
-
+I kinda wanna go to the toilet now...
 > END STRING
 
 > BEGIN STRING
@@ -8138,21 +8143,21 @@ Dr.FLASHの話だと、最初に戦ったとしひこが
 ふ・・・あぁっ、やだ、もぉ・・・オシッコ・・・っ！！
 > CONTEXT: Commonevents/149/1130/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/149/1163/Dialogue < UNTRANSLATED
-
+Fu... aah, no more... pee... nh!!
 > END STRING
 
 > BEGIN STRING
 オシッコが・・・で、でる・・・もぉ出ちゃう・・・っ！！
 > CONTEXT: Commonevents/149/1131/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/149/1164/Dialogue < UNTRANSLATED
-
+My pee'll... come out... it's coming out...!!
 > END STRING
 
 > BEGIN STRING
 お願い・・・さ、させて・・・ここでっ！！
 > CONTEXT: Commonevents/149/1133/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/149/1166/Dialogue < UNTRANSLATED
-
+I'm begging you... l-let me go... here!!
 > END STRING
 
 > BEGIN STRING
@@ -8160,14 +8165,15 @@ Dr.FLASHの話だと、最初に戦ったとしひこが
 出ちゃうってば・・・ぁ・・・・っ！！
 > CONTEXT: Commonevents/149/1140/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/149/1173/Dialogue < UNTRANSLATED
-
+Even if you... say that...!! I'm tellin' ya...
+I'll pee...ee...!!
 > END STRING
 
 > BEGIN STRING
 も、もっちゃうもっちゃうううぅぅーーーっ！！！
 > CONTEXT: Commonevents/149/1149/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/149/1182/Dialogue < UNTRANSLATED
-
+I, I'm-peeeing-I'm-peeeeeeeeiiing!!!
 > END STRING
 
 > BEGIN STRING
@@ -8175,49 +8181,50 @@ Dr.FLASHの話だと、最初に戦ったとしひこが
 なの！！
 > CONTEXT: Commonevents/149/1200/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/149/1233/Dialogue < UNTRANSLATED
-
+L-look! My bladder's already bulging this much!!
 > END STRING
 
 > BEGIN STRING
 我慢限界だよぉ！！
 > CONTEXT: Commonevents/149/1202/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/149/1235/Dialogue < UNTRANSLATED
-
+I can't hold it any mooore!!
 > END STRING
 
 > BEGIN STRING
 近くにトイレなさそうだし、ちょっと、そこで・・・！
 > CONTEXT: Commonevents/149/1204/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/149/1237/Dialogue < UNTRANSLATED
-
+There are no toilets nearby, so just let me go
+over there...!
 > END STRING
 
 > BEGIN STRING
 こ、これ以上我慢できないってばぁ・・・っ！！
 > CONTEXT: Commonevents/149/1211/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/149/1244/Dialogue < UNTRANSLATED
-
+I'm tellin' ya, I can't hold it anymore...!!
 > END STRING
 
 > BEGIN STRING
 生理現象だからしょうがないよねっ！！
 > CONTEXT: Commonevents/149/1219/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/149/1252/Dialogue < UNTRANSLATED
-
+It's totally natural, so I can't help it, you know!!
 > END STRING
 
 > BEGIN STRING
 ねえ、もうオシッコ我慢するのキツいよ！
 > CONTEXT: Commonevents/149/1270/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/149/1296/Dialogue < UNTRANSLATED
-
+Hey, I can't hold my pee much longer!
 > END STRING
 
 > BEGIN STRING
 このままじゃチビっちゃう・・・！
 > CONTEXT: Commonevents/149/1271/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/149/1297/Dialogue < UNTRANSLATED
-
+At this rate, I'll pee myself...!
 > END STRING
 
 > BEGIN STRING
@@ -8225,33 +8232,34 @@ Dr.FLASHの話だと、最初に戦ったとしひこが
 好きじゃないなぁ・・・////
 > CONTEXT: Commonevents/149/1282/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/149/1308/Dialogue < UNTRANSLATED
-
+It's just this once, 'kay? I don't really like doing this kind
+of thing... ////
 > END STRING
 
 > BEGIN STRING
 できれば早めに・・・済ませたいんだけど・・・
 > CONTEXT: Commonevents/149/1338/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/149/1346/Dialogue < UNTRANSLATED
-
+If I can... I'd like to take care of it pretty soon...
 > END STRING
 
 > BEGIN STRING
 つ、次はきっと最後まで我慢するもんっ！！
 > CONTEXT: Commonevents/149/1357/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/149/1375/Dialogue < UNTRANSLATED
-
+I'll d-definitely hold it in 'til the end, next time!!
 > END STRING
 
 > BEGIN STRING
 ここいらで、ちょっと休憩とシャレ込もうよ！
 > CONTEXT: Commonevents/149/1364/Dialogue < UNTRANSLATED
-
+Guys, let's stop here and chat!
 > END STRING
 
 > BEGIN STRING
 ・・・だ、だめ？
 > CONTEXT: Commonevents/149/1365/Dialogue < UNTRANSLATED
-
+...G-guys?
 > END STRING
 
 > BEGIN STRING
@@ -10273,7 +10281,7 @@ NGだぞ～？
 > CONTEXT: Commonevents/150/3535/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/728/72/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/728/79/Dialogue < UNTRANSLATED
-
+U-um... sorry...
 > END STRING
 
 > BEGIN STRING
@@ -10889,63 +10897,63 @@ NGだぞ～？
 ぉしっこ・・・お、しっこ・・・ぅぅぅ・・・っ！
 > CONTEXT: Commonevents/150/1025/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/150/1050/Dialogue < UNTRANSLATED
-
+Pee... pee... uuuh...!
 > END STRING
 
 > BEGIN STRING
 た、たすけ・・・て・・・ぇ・・・っ！！
 > CONTEXT: Commonevents/150/1026/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/150/1051/Dialogue < UNTRANSLATED
-
+H-help... mee...ee!!
 > END STRING
 
 > BEGIN STRING
 み、み、見ないでぇぇっ！！//////
 > CONTEXT: Commonevents/150/1036/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/150/1061/Dialogue < UNTRANSLATED
-
+D-d-don't looook!! //////
 > END STRING
 
 > BEGIN STRING
 は、・・・ぁぅ・・・っ
 > CONTEXT: Commonevents/150/1079/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/150/1104/Dialogue < UNTRANSLATED
-
+Hah... aau..
 > END STRING
 
 > BEGIN STRING
 あの、そのっ、あの・・・私・・・あ、あの・・・っ////
 > CONTEXT: Commonevents/150/1080/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/150/1105/Dialogue < UNTRANSLATED
-
+Um, uhh, umm... I... u-um... ////
 > END STRING
 
 > BEGIN STRING
 ま、ま、まだ何も言ってません・・・っ！！/////
 > CONTEXT: Commonevents/150/1091/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/150/1116/Dialogue < UNTRANSLATED
-
+I, I, I haven't said anything...!! /////
 > END STRING
 
 > BEGIN STRING
 （がんばれ、私・・・！！）
 > CONTEXT: Commonevents/150/1133/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/150/1156/Dialogue < UNTRANSLATED
-
+(Keep fighting, Hime...!!)
 > END STRING
 
 > BEGIN STRING
 （きっと、もうすぐお手洗いに・・・！）
 > CONTEXT: Commonevents/150/1134/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/150/1157/Dialogue < UNTRANSLATED
-
+(We'll definitely find a restroom sometime soon...!)
 > END STRING
 
 > BEGIN STRING
 ひゃぁう！！　な、な、な、何のことですかっ！？
 > CONTEXT: Commonevents/150/1144/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/150/1168/Dialogue < UNTRANSLATED
-
+Hyaau!! Wh-wh-what are you saying?!
 > END STRING
 
 > BEGIN STRING
@@ -10953,31 +10961,33 @@ NGだぞ～？
 > CONTEXT: Commonevents/150/1196/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/150/1220/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/150/1241/Dialogue < UNTRANSLATED
-
+(My panties are sticking to me... it feels so gross...)
 > END STRING
 
 > BEGIN STRING
 お手洗い・・・（ボソッ）
 > CONTEXT: Commonevents/150/1203/Dialogue < UNTRANSLATED
-
+Restroom... (mutter)
 > END STRING
 
 > BEGIN STRING
 ・・・はっ！　な、な、なんでもないですっ/////
 > CONTEXT: Commonevents/150/1208/Dialogue < UNTRANSLATED
-
+...Ah! N-n-nothing! /////
 > END STRING
 
 > BEGIN STRING
 （お手洗いがあったら寄ってほしいけど・・・）
 > CONTEXT: Commonevents/150/1227/Dialogue < UNTRANSLATED
-
+(It would be nice to stop by a restroom, if there's
+one nearby...)
 > END STRING
 
 > BEGIN STRING
 （自分から言うの、恥ずかしいなぁ・・・）
 > CONTEXT: Commonevents/150/1230/Dialogue < UNTRANSLATED
-
+(It's too embarrassing for me to be the one to say it,
+though...)
 > END STRING
 
 > BEGIN STRING
@@ -12963,91 +12973,91 @@ NGだぞ～？
 む、むり、むりです・・・ぁ、もぉ・・・だめ・・・
 > CONTEXT: Commonevents/151/1061/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/151/1085/Dialogue < UNTRANSLATED
-
+O-oh, oh no... ah, I'm going to... lose it...
 > END STRING
 
 > BEGIN STRING
 でちゃぅ・・・おしっこ・・・っ、もぉでちゃうぅっ！！
 > CONTEXT: Commonevents/151/1062/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/151/1086/Dialogue < UNTRANSLATED
-
+It's coming out... I'm... gonna pee myseeelf!!
 > END STRING
 
 > BEGIN STRING
 ああぁぁ、だ、だめぇえぇっ！！
 > CONTEXT: Commonevents/151/1072/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/151/1096/Dialogue < UNTRANSLATED
-
+Aaaaaaahh, n-nooooooo!!
 > END STRING
 
 > BEGIN STRING
 す、すみません・・・っ、あの、私・・・
 > CONTEXT: Commonevents/151/1114/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/151/1141/Dialogue < UNTRANSLATED
-
+E-excuse me... umm, I...
 > END STRING
 
 > BEGIN STRING
 ト、トイレ・・・もう、限界で・・・だから・・・っ！
 > CONTEXT: Commonevents/151/1115/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/151/1142/Dialogue < UNTRANSLATED
-
+I can't... hold it any more... so, please...!
 > END STRING
 
 > BEGIN STRING
 うう・・・っ、じゃ、じゃあ・・・あの・・・っ
 > CONTEXT: Commonevents/151/1126/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/151/1153/Dialogue < UNTRANSLATED
-
+Uuuh... w-well then... um...
 > END STRING
 
 > BEGIN STRING
 少し、待っててください・・・っ////
 > CONTEXT: Commonevents/151/1127/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/151/1154/Dialogue < UNTRANSLATED
-
+Please wait here a minute... ////
 > END STRING
 
 > BEGIN STRING
 あの・・・その・・・っ
 > CONTEXT: Commonevents/151/1172/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/151/1199/Dialogue < UNTRANSLATED
-
+Um... uhhm...
 > END STRING
 
 > BEGIN STRING
 こ、この近くに、その・・・
 > CONTEXT: Commonevents/151/1173/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/151/1200/Dialogue < UNTRANSLATED
-
+I-is there... umm...
 > END STRING
 
 > BEGIN STRING
 ト、ト、トイレ・・・ありませんか・・・？
 > CONTEXT: Commonevents/151/1174/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/151/1201/Dialogue < UNTRANSLATED
-
+A t-t-toilet... around here...?
 > END STRING
 
 > BEGIN STRING
 え、え・・・！？
 > CONTEXT: Commonevents/151/1186/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/151/1213/Dialogue < UNTRANSLATED
-
+E, eh...?!
 > END STRING
 
 > BEGIN STRING
 だ、だ、だめですよ、そんなの・・・っ////
 > CONTEXT: Commonevents/151/1187/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/151/1214/Dialogue < UNTRANSLATED
-
+Y-y-you can't just do that...! ////
 > END STRING
 
 > BEGIN STRING
 え、ええと・・・あの・・・
 > CONTEXT: Commonevents/151/1231/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/151/1242/Dialogue < UNTRANSLATED
-
+Uhh... umm...
 > END STRING
 
 > BEGIN STRING
@@ -13055,33 +13065,34 @@ NGだぞ～？
 （そわそわ・・・）
 > CONTEXT: Commonevents/151/1232/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/151/1243/Dialogue < UNTRANSLATED
-
+When do you think we'll take another break?
+(Rustle, rustle...)
 > END STRING
 
 > BEGIN STRING
 そ、その・・・あの・・・っ
 > CONTEXT: Commonevents/151/1255/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/151/1275/Dialogue < UNTRANSLATED
-
+U-umm... uhhm...
 > END STRING
 
 > BEGIN STRING
 あんまり・・・見ないでください・・・っ////
 > CONTEXT: Commonevents/151/1256/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/151/1276/Dialogue < UNTRANSLATED
-
+Please... don't look at me... ////
 > END STRING
 
 > BEGIN STRING
 （す、少しだけ・・・トイレ・・・行きたいな・・・）
 > CONTEXT: Commonevents/151/1264/Dialogue < UNTRANSLATED
-
+(I need... the toilet... just a little...)
 > END STRING
 
 > BEGIN STRING
 （休憩にならないかな・・・）
 > CONTEXT: Commonevents/151/1265/Dialogue < UNTRANSLATED
-
+(Maybe we could take a break...)
 > END STRING
 
 > BEGIN STRING
@@ -14325,35 +14336,35 @@ NGだぞ～？
 んっ、あ、ぁ・・・っ！　だ・・・め・・・っ！！
 > CONTEXT: Commonevents/163/8/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/163/43/Dialogue < UNTRANSLATED
-
+Nn, ah, aah...! N... no...!!
 > END STRING
 
 > BEGIN STRING
 はぅっ！　もぉ・・・限・・・っ界ぃっ！！
 > CONTEXT: Commonevents/163/19/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/163/54/Dialogue < UNTRANSLATED
-
+Hau! I'm at... my... limit!!
 > END STRING
 
 > BEGIN STRING
 あ、ぁあっ、だめ・・・だめぇ・・・っ！！
 > CONTEXT: Commonevents/163/30/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/163/65/Dialogue < UNTRANSLATED
-
+Ah, aah, no... noo...!!
 > END STRING
 
 > BEGIN STRING
 ふえぇ・・・っ　が、我慢できなかったよぉ・・・っ！
 > CONTEXT: Commonevents/163/105/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/843/165/Dialogue < UNTRANSLATED
-
+Fueeh... I, I couldn't hold iiit...!
 > END STRING
 
 > BEGIN STRING
 うう・・・ぐすっ・・・。
 > CONTEXT: Commonevents/163/112/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/843/169/Dialogue < UNTRANSLATED
-
+Uuuh... sniff...
 > END STRING
 
 > BEGIN STRING
@@ -14361,13 +14372,13 @@ NGだぞ～？
 ふえぇ・・・っ！
 > CONTEXT: Commonevents/163/119/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/843/173/Dialogue < UNTRANSLATED
-
+I... totally... wet myself...! Fweehh...!
 > END STRING
 
 > BEGIN STRING
 はむこの野しょんシーンを
 > CONTEXT: Commonevents/166/6/Dialogue < UNTRANSLATED
-
+Watch Hamuko's outdoor scene?
 > END STRING
 
 > BEGIN STRING
@@ -14449,13 +14460,13 @@ NGだぞ～？
 > BEGIN STRING
 その・・・お、お待たせ・・・
 > CONTEXT: Commonevents/166/56/Dialogue < UNTRANSLATED
-
+Umm... th-thanks for waiting...
 > END STRING
 
 > BEGIN STRING
 ふーっ・・・その・・・お、お待たせ・・・
 > CONTEXT: Commonevents/166/62/Dialogue < UNTRANSLATED
-
+Phew... um... th-thanks for waiting...
 > END STRING
 
 > BEGIN STRING
@@ -14585,60 +14596,60 @@ NGだぞ～？
 うっ・・・あ、ぁ・・・・っ、だ・・・だめ・・・っ！！
 > CONTEXT: Commonevents/205/8/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/205/43/Dialogue < UNTRANSLATED
-
+Uu... ah, aa... I... I can't...!!
 > END STRING
 
 > BEGIN STRING
 ん・・・っ、はぁっ！　も、もぅ・・・でちゃ・・・っ！
 > CONTEXT: Commonevents/205/19/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/205/54/Dialogue < UNTRANSLATED
-
+Nn... haah! I-it's... coming...!
 > END STRING
 
 > BEGIN STRING
 あ、ぁ、あ・・・んっ！　あっち・・・向いてぇ・・・っ！
 > CONTEXT: Commonevents/205/30/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/205/65/Dialogue < UNTRANSLATED
-
+Ah, ah, aa...aaah! Look... away...!
 > END STRING
 
 > BEGIN STRING
 ば・・ばか・・・っ！　見るなぁ・・・っ！
 > CONTEXT: Commonevents/205/105/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/844/165/Dialogue < UNTRANSLATED
-
+I-idiot...! Don't look...!
 > END STRING
 
 > BEGIN STRING
 だ、だって・・・っ、だってぇ・・・っ！
 > CONTEXT: Commonevents/205/112/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/844/169/Dialogue < UNTRANSLATED
-
+I-It's 'cos... you know...!
 > END STRING
 
 > BEGIN STRING
 こ・・・こんなの・・・うそよぉ・・・っ！
 > CONTEXT: Commonevents/205/119/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/844/173/Dialogue < UNTRANSLATED
-
+Th... this can't be... happening...!
 > END STRING
 
 > BEGIN STRING
 にゃんこの野しょんシーンを
 > CONTEXT: Commonevents/206/6/Dialogue < UNTRANSLATED
-
+Watch Nyanko's outdoor scene?
 > END STRING
 
 > BEGIN STRING
 ・・・い、行くわよ。
 > CONTEXT: Commonevents/206/56/Dialogue < UNTRANSLATED
-
+...Le-let's go.
 > END STRING
 
 > BEGIN STRING
 何よ・・・っ！　し、仕方なかったんだからねっ！
 > CONTEXT: Commonevents/206/62/Dialogue < UNTRANSLATED
-
+What...?! Th-there was no other way, alright?!
 > END STRING
 
 > BEGIN STRING
@@ -16107,25 +16118,25 @@ NGだぞ～？
 > CONTEXT: Commonevents/321/8/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/321/19/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/321/30/Dialogue < UNTRANSLATED
-
+Ah... n-not again...!
 > END STRING
 
 > BEGIN STRING
 も・・・ガマン・・・む、りぃ・・・っ！！
 > CONTEXT: Commonevents/321/43/Dialogue < UNTRANSLATED
-
+Can't... hold it... anymooore...!!
 > END STRING
 
 > BEGIN STRING
 あ、あっ！　だ、だめだめぇ・・・っ！！
 > CONTEXT: Commonevents/321/54/Dialogue < UNTRANSLATED
-
+Aa-aah! N-no, no, no...!!
 > END STRING
 
 > BEGIN STRING
 ご、ごめん・・・っ、もぅ・・・だめ・・・っ！！
 > CONTEXT: Commonevents/321/65/Dialogue < UNTRANSLATED
-
+S-sorry... nh, I... can't...!!
 > END STRING
 
 > BEGIN STRING
@@ -16133,39 +16144,39 @@ NGだぞ～？
 もん・・・
 > CONTEXT: Commonevents/321/105/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/845/165/Dialogue < UNTRANSLATED
-
+I, I couldn't help it... I've been holding it forever...
 > END STRING
 
 > BEGIN STRING
 あうぅ・・・やっちゃったぁ・・・
 > CONTEXT: Commonevents/321/113/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/845/170/Dialogue < UNTRANSLATED
-
+Au... I really did it...
 > END STRING
 
 > BEGIN STRING
 も・・・もれちゃったぁ・・・
 > CONTEXT: Commonevents/321/120/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/845/174/Dialogue < UNTRANSLATED
-
+I... I peed myself...
 > END STRING
 
 > BEGIN STRING
 ともっちの野しょんシーンを
 > CONTEXT: Commonevents/322/6/Dialogue < UNTRANSLATED
-
+Watch Tomocchi's outdoor scene?
 > END STRING
 
 > BEGIN STRING
 ふぅ～・・・スッキリした・・・
 > CONTEXT: Commonevents/322/56/Dialogue < UNTRANSLATED
-
+Fuu~... much better...
 > END STRING
 
 > BEGIN STRING
 ふぅ～・・・スッキリ♪
 > CONTEXT: Commonevents/322/62/Dialogue < UNTRANSLATED
-
+Fuu~... better ♪
 > END STRING
 
 > BEGIN STRING
@@ -16461,35 +16472,35 @@ NGだぞ～？
 んん・・・っ、ぁ・・・ぁ・・・っ！！
 > CONTEXT: Commonevents/388/8/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/388/43/Dialogue < UNTRANSLATED
-
+Nnn... ah... ah...!!
 > END STRING
 
 > BEGIN STRING
 ご・・・ごめん・・・なさ・・・ぃ・・・っ！
 > CONTEXT: Commonevents/388/19/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/388/54/Dialogue < UNTRANSLATED
-
+I... I'm... sorr... ry...!
 > END STRING
 
 > BEGIN STRING
 も・・・もぅ・・・だ、め・・・っ！！
 > CONTEXT: Commonevents/388/30/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/388/65/Dialogue < UNTRANSLATED
-
+N-no... I... can't...!!
 > END STRING
 
 > BEGIN STRING
 お願い、です・・・見ないで・・・ください・・・っ！
 > CONTEXT: Commonevents/388/105/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/846/165/Dialogue < UNTRANSLATED
-
+Please, no... don't... look...!
 > END STRING
 
 > BEGIN STRING
 ぅ・・・ぐすっ・・・ひぐ・・・っ
 > CONTEXT: Commonevents/388/112/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/846/169/Dialogue < UNTRANSLATED
-
+Uu... sniff... sob...
 > END STRING
 
 > BEGIN STRING
@@ -16497,7 +16508,8 @@ NGだぞ～？
 ごめんなさい・・・っ！
 > CONTEXT: Commonevents/388/119/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/846/173/Dialogue < UNTRANSLATED
-
+I... couldn't... hold it anymore...
+I'm sorry...!
 > END STRING
 
 > BEGIN STRING
@@ -16759,14 +16771,14 @@ NGだぞ～？
 > BEGIN STRING
 ひめの野しょんシーンを
 > CONTEXT: Commonevents/401/6/Dialogue < UNTRANSLATED
-
+Watch Hime's outdoor scene?
 > END STRING
 
 > BEGIN STRING
 お・・・お待たせしました・・・っ/////
 > CONTEXT: Commonevents/401/55/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/401/60/Dialogue < UNTRANSLATED
-
+Th... thank you for waiting... /////
 > END STRING
 
 > BEGIN STRING
@@ -21114,14 +21126,14 @@ HPキャンディをすぐに使いますか？
 > BEGIN STRING
 こむの野しょんシーンを
 > CONTEXT: Commonevents/728/23/Dialogue < UNTRANSLATED
-
+Watch Komu's outdoor scene?
 > END STRING
 
 > BEGIN STRING
 ご迷惑をおかけしました・・・っ////
 > CONTEXT: Commonevents/728/73/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/728/80/Dialogue < UNTRANSLATED
-
+I'm such a bother... ////
 > END STRING
 
 > BEGIN STRING
@@ -21158,40 +21170,40 @@ HPを減らすことはできても、トドメを刺すことは
 > BEGIN STRING
 や、ぁ・・・あ・・・っ！
 > CONTEXT: Commonevents/732/6/Dialogue < UNTRANSLATED
-
+No, aa... aaah...!
 > END STRING
 
 > BEGIN STRING
 もぉ・・・げんかいぃ・・・っ！　だ、だめ・・・っ！
 > CONTEXT: Commonevents/732/16/Dialogue < UNTRANSLATED
-
+I'm... at my limit...! N-no...!
 > END STRING
 
 > BEGIN STRING
 ご・・・ごめん・・・な、さ・・・ぁ・・・っ！
 > CONTEXT: Commonevents/732/25/Dialogue < UNTRANSLATED
-
+I... I'm... really... sorr... ry...!
 > END STRING
 
 > BEGIN STRING
 す、す・・・すみませんっ、すみません・・・っ///
 > CONTEXT: Commonevents/732/66/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/847/40/Dialogue < UNTRANSLATED
-
+P-pl... please, forgive me...! ///
 > END STRING
 
 > BEGIN STRING
 う、ぅ・・・
 > CONTEXT: Commonevents/732/73/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/847/44/Dialogue < UNTRANSLATED
-
+Uu, uuu...
 > END STRING
 
 > BEGIN STRING
 うわああぁぁぁああんっ///////
 > CONTEXT: Commonevents/732/74/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/847/45/Dialogue < UNTRANSLATED
-
+Uwaaaaaaaaaaaaaaahhh! ///////
 > END STRING
 
 > BEGIN STRING
@@ -21199,7 +21211,7 @@ HPを減らすことはできても、トドメを刺すことは
 でした・・・うぅ・・・っ////
 > CONTEXT: Commonevents/732/81/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/847/49/Dialogue < UNTRANSLATED
-
+Sniff... I, I couldn't... hold it in... uuu... ////
 > END STRING
 
 > BEGIN STRING
