@@ -452,7 +452,7 @@
 > CONTEXT: Map127/events/4/pages/5/113/Dialogue < UNTRANSLATED
 > CONTEXT: Map012/events/5/pages/0/29/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/15/pages/2/49/Dialogue < UNTRANSLATED
-
+Agreed.
 > END STRING
 
 > BEGIN STRING

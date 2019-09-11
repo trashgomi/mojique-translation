@@ -772,7 +772,7 @@
 そうか。
 > CONTEXT: Map055/events/37/pages/1/65/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/19/pages/0/92/Dialogue < UNTRANSLATED
-
+Is that right?
 > END STRING
 
 > BEGIN STRING

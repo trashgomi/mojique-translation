@@ -2,39 +2,42 @@
 > BEGIN STRING
 どうやら、無事に森を抜けることができたようだ。
 > CONTEXT: Map012/events/5/pages/0/10/Dialogue < UNTRANSLATED
-
+It appears we've made it safely through the forest.
 > END STRING
 
 > BEGIN STRING
 ここが老人の言っていた「ジンブー村」と
 見える。
 > CONTEXT: Map012/events/5/pages/0/11/Dialogue < UNTRANSLATED
-
+This must be the "Jinbu village" that the old man
+mentioned.
 > END STRING
 
 > BEGIN STRING
 この村に、地図をもってるおばあちゃんが
 いるんだよね？
 > CONTEXT: Map012/events/5/pages/0/16/Dialogue < UNTRANSLATED
-
+Is this where we can find the Grandma who has
+a map?
 > END STRING
 
 > BEGIN STRING
 そのはずだ。　「ベスばあさん」と呼んでいたな。
 > CONTEXT: Map012/events/5/pages/0/21/Dialogue < UNTRANSLATED
-
+I expect so. I believe she was referred to as
+"Grandma Beth".
 > END STRING
 
 > BEGIN STRING
 んじゃ、その人の居場所を聞いてまわろうよ。
 > CONTEXT: Map012/events/5/pages/0/25/Dialogue < UNTRANSLATED
-
+Okay, let's ask around and find out where she is.
 > END STRING
 
 > BEGIN STRING
 ようこそジンブー村へ。
 > CONTEXT: Map012/events/9/pages/0/1/Dialogue < UNTRANSLATED
-
+Welcome to Jinbu village.
 > END STRING
 
 > BEGIN STRING

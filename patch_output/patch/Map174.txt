@@ -121,7 +121,7 @@ A組の森嶋くんがその時のケータイを
 ほいほーい！
 > CONTEXT: Map174/events/2/pages/0/86/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/9/pages/0/29/Dialogue < UNTRANSLATED
-
+Aye aye!
 > END STRING
 
 > BEGIN STRING

@@ -447,7 +447,7 @@
 ふー・・・
 > CONTEXT: Map134/events/55/pages/0/21/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/15/pages/2/38/Dialogue < UNTRANSLATED
-
+Phew...
 > END STRING
 
 > BEGIN STRING

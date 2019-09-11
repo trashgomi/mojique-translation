@@ -518,7 +518,7 @@
 > CONTEXT: Map098/events/5/pages/0/430/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/19/pages/0/68/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/148/4766/Dialogue < UNTRANSLATED
-
+...!
 > END STRING
 
 > BEGIN STRING

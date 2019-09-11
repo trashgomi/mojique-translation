@@ -1439,7 +1439,7 @@
 おー！！
 > CONTEXT: Map127/events/4/pages/7/113/Dialogue < UNTRANSLATED
 > CONTEXT: Map010/events/5/pages/2/44/Dialogue < UNTRANSLATED
-
+Ho~!
 > END STRING
 
 > BEGIN STRING
