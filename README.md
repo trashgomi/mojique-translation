@@ -9,7 +9,7 @@ I have made a small start on establishing this project, but it is currently in t
 ### Alpha Translation
 Lines that have been given an initial translation, but not checked or playtested.
 
-Text: 203/19466 (Updated 09/10/2019)
+Text: 262/19466 (Updated 09/10/2019)
 
 Images: 0/?
 
