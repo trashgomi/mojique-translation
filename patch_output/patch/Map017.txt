@@ -2,5 +2,6 @@
 > BEGIN STRING
 村長でしたら、二階の執務室におられます。
 > CONTEXT: Map017/events/3/pages/0/1/Dialogue < UNTRANSLATED
-
+If you wish to see the village head, he's
+currently in his office on the second floor.
 > END STRING

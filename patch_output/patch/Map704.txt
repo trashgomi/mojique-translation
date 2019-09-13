@@ -51,5 +51,5 @@
 > CONTEXT: Map524/events/26/pages/0/42/Dialogue < UNTRANSLATED
 > CONTEXT: Map018/events/2/pages/0/56/Dialogue < UNTRANSLATED
 > CONTEXT: Map012/events/42/pages/0/177/Dialogue < UNTRANSLATED
-
+Sure...
 > END STRING

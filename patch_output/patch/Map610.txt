@@ -6,7 +6,8 @@
 > CONTEXT: Map609/events/1/pages/1/1/Dialogue < UNTRANSLATED
 > CONTEXT: Map607/events/1/pages/1/1/Dialogue < UNTRANSLATED
 > CONTEXT: Map016/events/1/pages/1/1/Dialogue < UNTRANSLATED
-
+General Store Clerk
+"Please hold on a minuuuute!"
 > END STRING
 
 > BEGIN STRING
@@ -17,7 +18,9 @@
 > CONTEXT: Map609/events/1/pages/1/22/Dialogue < UNTRANSLATED
 > CONTEXT: Map607/events/1/pages/1/22/Dialogue < UNTRANSLATED
 > CONTEXT: Map016/events/1/pages/1/22/Dialogue < UNTRANSLATED
-
+General Store Clerk
+"From what I can tell, you two seem to be a liiiitle
+inexperienced at journeying."
 > END STRING
 
 > BEGIN STRING
@@ -29,7 +32,9 @@
 > CONTEXT: Map609/events/1/pages/1/25/Dialogue < UNTRANSLATED
 > CONTEXT: Map607/events/1/pages/1/25/Dialogue < UNTRANSLATED
 > CONTEXT: Map016/events/1/pages/1/25/Dialogue < UNTRANSLATED
-
+General Store Clerk
+"If it would help, how about I teach you all sorts of things
+that you need to know when you travel?"
 > END STRING
 
 > BEGIN STRING
@@ -38,7 +43,7 @@
 > CONTEXT: Map609/events/1/pages/1/31/Dialogue < UNTRANSLATED
 > CONTEXT: Map607/events/1/pages/1/31/Dialogue < UNTRANSLATED
 > CONTEXT: Map016/events/1/pages/1/31/Dialogue < UNTRANSLATED
-
+That would really help.
 > END STRING
 
 > BEGIN STRING
@@ -47,7 +52,7 @@
 > CONTEXT: Map609/events/1/pages/1/36/Dialogue < UNTRANSLATED
 > CONTEXT: Map607/events/1/pages/1/36/Dialogue < UNTRANSLATED
 > CONTEXT: Map016/events/1/pages/1/36/Dialogue < UNTRANSLATED
-
+Ah... uhh... yep...
 > END STRING
 
 > BEGIN STRING
@@ -58,7 +63,9 @@
 > CONTEXT: Map609/events/1/pages/1/38/Dialogue < UNTRANSLATED
 > CONTEXT: Map607/events/1/pages/1/38/Dialogue < UNTRANSLATED
 > CONTEXT: Map016/events/1/pages/1/38/Dialogue < UNTRANSLATED
-
+General Store Clerk
+"In that case, please follow me. I'll let you know the most
+important points!"
 > END STRING
 
 > BEGIN STRING
@@ -1388,7 +1395,7 @@
 > CONTEXT: Map609/events/4/pages/0/4/Dialogue < UNTRANSLATED
 > CONTEXT: Map607/events/4/pages/0/4/Dialogue < UNTRANSLATED
 > CONTEXT: Map016/events/4/pages/0/4/Dialogue < UNTRANSLATED
-
+(Glance... glance...)
 > END STRING
 
 > BEGIN STRING

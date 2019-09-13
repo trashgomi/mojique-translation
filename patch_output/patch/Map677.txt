@@ -189,7 +189,7 @@
 > CONTEXT: Commonevents/147/3908/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/148/4623/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/150/3237/Dialogue < UNTRANSLATED
-
+(Fidget... glance...)
 > END STRING
 
 > BEGIN STRING

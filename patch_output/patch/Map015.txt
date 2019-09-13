@@ -2,11 +2,11 @@
 > BEGIN STRING
 今日のお夕飯、どうしようかしら・・・
 > CONTEXT: Map015/events/2/pages/0/1/Dialogue < UNTRANSLATED
-
+I wonder what I should have for supper...
 > END STRING
 
 > BEGIN STRING
 ・・・ｚｚｚ
 > CONTEXT: Map015/events/3/pages/0/1/Dialogue < UNTRANSLATED
-
+Zzz...
 > END STRING

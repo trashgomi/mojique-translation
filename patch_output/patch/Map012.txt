@@ -44,41 +44,46 @@ Welcome to Jinbu village.
 旅の人かい？　何にも無い村だけど、まあ
 ゆっくりしていくといい。
 > CONTEXT: Map012/events/10/pages/0/1/Dialogue < UNTRANSLATED
-
+Are you travellers? There's nothing going on in
+this village, but hey, take it easy.
 > END STRING
 
 > BEGIN STRING
 こういうのんびりした生活も悪くないわ。
 でも、最近は魔物が・・・
 > CONTEXT: Map012/events/11/pages/0/1/Dialogue < UNTRANSLATED
-
+A laid-back lifestyle like this isn't so bad.
+But lately, the demons...
 > END STRING
 
 > BEGIN STRING
 魔物だけは、許さない！
 > CONTEXT: Map012/events/12/pages/0/1/Dialogue < UNTRANSLATED
-
+Demons are the one thing I can't overlook!
 > END STRING
 
 > BEGIN STRING
 森や洞窟は魔物の温床だ。　不用意に
 立ち入れば、ただじゃすまないぜ。
 > CONTEXT: Map012/events/13/pages/0/1/Dialogue < UNTRANSLATED
-
+Forests and caves are demon hotbeds.
+Wonder into the wrong place, 'n you'll pay for it.
 > END STRING
 
 > BEGIN STRING
 ときどき村に行商人が来るんだけど、あれは
 ホント助かるねえ。
 > CONTEXT: Map012/events/14/pages/0/1/Dialogue < UNTRANSLATED
-
+We have the occasional merchant come to the
+village. It really helps out.
 > END STRING
 
 > BEGIN STRING
 村長が北の道を封鎖してるんだ。
 魔物のことを考えれば、まあ仕方ないよね。
 > CONTEXT: Map012/events/15/pages/0/1/Dialogue < UNTRANSLATED
-
+The village head has blockaded the road north.
+I guess it makes sense, demons 'n all.
 > END STRING
 
 > BEGIN STRING
@@ -86,92 +91,100 @@ Welcome to Jinbu village.
 城の兵士の演習場として最近開放された
 みたいだね。
 > CONTEXT: Map012/events/15/pages/1/1/Dialogue < UNTRANSLATED
-
+The village head had blockaded the road north,
+but it seems the castle soldiers've recently
+reopened it as a training ground.
 > END STRING
 
 > BEGIN STRING
 あ、バッタ！！
 > CONTEXT: Map012/events/23/pages/0/1/Dialogue < UNTRANSLATED
-
+Woah, grasshopper!!
 > END STRING
 
 > BEGIN STRING
 なーなー、鬼ごっこやろうぜー！
 > CONTEXT: Map012/events/24/pages/0/1/Dialogue < UNTRANSLATED
 > CONTEXT: Map012/events/24/pages/2/1/Dialogue < UNTRANSLATED
-
+Hey, hey, let's play tag!
 > END STRING
 
 > BEGIN STRING
 ぐわおおおお！！！
 > CONTEXT: Map012/events/24/pages/1/1/Dialogue < UNTRANSLATED
-
+Roooaaaar!!!
 > END STRING
 
 > BEGIN STRING
 お花で冠をつくってるのー！
 > CONTEXT: Map012/events/25/pages/0/1/Dialogue < UNTRANSLATED
-
+I'm making a crown out of flowers!
 > END STRING
 
 > BEGIN STRING
 うおーー！　ぎゃおーー！！
 > CONTEXT: Map012/events/26/pages/0/1/Dialogue < UNTRANSLATED
-
+Uuoohh! Gyaooo!!
 > END STRING
 
 > BEGIN STRING
 ベスばあさん
 「ゆくぞ！　くらえ怪物め！」
 > CONTEXT: Map012/events/27/pages/0/1/Dialogue < UNTRANSLATED
-
+Grandma Beth
+"Forward! Take this, foul creature!"
 > END STRING
 
 > BEGIN STRING
 ベスばあさん
 「インフィニティ・ユニオン・ブリンガー！！！」
 > CONTEXT: Map012/events/27/pages/0/3/Dialogue < UNTRANSLATED
-
+Grandma Beth
+"Infinity ・Union ・Bringer!!!"
 > END STRING
 
 > BEGIN STRING
 子供
 「ぎゃああー！！　やられたーーーー！！」
 > CONTEXT: Map012/events/27/pages/0/6/Dialogue < UNTRANSLATED
-
+Kid
+"Gyaaa!! I've been haaaaaad!"
 > END STRING
 
 > BEGIN STRING
 遊戯の途中で失礼するが、あなたがベスと
 いう名の老婆か？
 > CONTEXT: Map012/events/27/pages/0/10/Dialogue < UNTRANSLATED
-
+Sorry to interrupt your game, but are you the
+old lady known as Beth?
 > END STRING
 
 > BEGIN STRING
 ベスばあさん
 「いかにも、あたしがベスさ。」
 > CONTEXT: Map012/events/27/pages/0/16/Dialogue < UNTRANSLATED
-
+Grandma Beth
+"Indeed, I'm Beth."
 > END STRING
 
 > BEGIN STRING
 ベスばあさん
 「んで、そういうあんたは？」
 > CONTEXT: Map012/events/27/pages/0/18/Dialogue < UNTRANSLATED
-
+Grandma Beth
+"So, who would you be?"
 > END STRING
 
 > BEGIN STRING
 俺は早乙女。　とある高校の1年だ。
 > CONTEXT: Map012/events/27/pages/0/22/Dialogue < UNTRANSLATED
-
+I'm Saotome. A first-year in a certain school.
 > END STRING
 
 > BEGIN STRING
 あたしは常夏っていいます。　おなじく1年です。
 > CONTEXT: Map012/events/27/pages/0/27/Dialogue < UNTRANSLATED
-
+My name is Tokonatsu. A first-year, like him.
 > END STRING
 
 > BEGIN STRING
@@ -179,41 +192,47 @@ Welcome to Jinbu village.
 「・・・トアルコーコー？　よくわからんが、まあ
 　細かいことはいいわ。」
 > CONTEXT: Map012/events/27/pages/0/29/Dialogue < UNTRANSLATED
-
+Grandma Beth
+"...'A certain school'? That raises some questions,
+but never to mind."
 > END STRING
 
 > BEGIN STRING
 ベスばあさん
 「それで、あたしに何の用かしら？」
 > CONTEXT: Map012/events/27/pages/0/32/Dialogue < UNTRANSLATED
-
+Grandma Beth
+"So, is there some way I can help you?"
 > END STRING
 
 > BEGIN STRING
 俺たちは、このあたりの地図を探している。
 > CONTEXT: Map012/events/27/pages/0/36/Dialogue < UNTRANSLATED
-
+We're searching for a map of this area.
 > END STRING
 
 > BEGIN STRING
 あなたなら持っていると、ドノ村の老人が
 教示してくれた。
 > CONTEXT: Map012/events/27/pages/0/37/Dialogue < UNTRANSLATED
-
+An old man from Dono told us that if anyone
+had a map, it would be you.
 > END STRING
 
 > BEGIN STRING
 あの・・・よろしければ、地図を見せてもらえ
 ませんか？
 > CONTEXT: Map012/events/27/pages/0/43/Dialogue < UNTRANSLATED
-
+Um... if it's okay with you, would you please
+show us?
 > END STRING
 
 > BEGIN STRING
 ベスばあさん
 「なんだ、そんなことかい。　いいとも。」
 > CONTEXT: Map012/events/27/pages/0/46/Dialogue < UNTRANSLATED
-
+Grandma Beth
+"Ah, is that it? Very well."
 > END STRING
 
 > BEGIN STRING
@@ -221,13 +240,15 @@ Welcome to Jinbu village.
 「それじゃあたしの家までおいで。　雑貨屋が
 　あたしの家だよ。」
 > CONTEXT: Map012/events/27/pages/0/48/Dialogue < UNTRANSLATED
-
+Grandma Beth
+"In that case, please follow me to my home.
+My house is the general store."
 > END STRING
 
 > BEGIN STRING
 雑貨屋・・・？　どこでしたっけ・・・？？
 > CONTEXT: Map012/events/27/pages/0/54/Dialogue < UNTRANSLATED
-
+The general store...? Where was that, again...??
 > END STRING
 
 > BEGIN STRING
@@ -236,7 +257,10 @@ Welcome to Jinbu village.
 　“ＩＴＥＭ”って看板が貼ってあるから、
 　それを目印にするといい。」
 > CONTEXT: Map012/events/27/pages/0/56/Dialogue < UNTRANSLATED
-
+Grandma Beth
+"It's by the village entrance. It has a signboard that
+says "ITEM" stuck to it, so use that as a
+landmark."
 > END STRING
 
 > BEGIN STRING
@@ -244,14 +268,17 @@ Welcome to Jinbu village.
 「一足先に、その雑貨屋の２階で待ってるから
 　ね。」
 > CONTEXT: Map012/events/27/pages/0/60/Dialogue < UNTRANSLATED
-
+Grandma Beth
+"I'll run along and wait for you on the second floor
+of that building, alright?"
 > END STRING
 
 > BEGIN STRING
 雑貨屋の２階だな、分かった。
 すぐに向かおう。
 > CONTEXT: Map012/events/27/pages/0/65/Dialogue < UNTRANSLATED
-
+The general store's second story; understood.
+Let's head there straight away.
 > END STRING
 
 > BEGIN STRING

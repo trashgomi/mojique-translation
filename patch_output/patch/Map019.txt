@@ -3,27 +3,30 @@
 ベスばあさん
 「ふーむ・・・おかしいわね・・・」
 > CONTEXT: Map019/events/1/pages/0/2/Dialogue < UNTRANSLATED
-
+Grandma Beth
+"Hmmm.... how odd..."
 > END STRING
 
 > BEGIN STRING
 ベスばあさん
 「確かにこのあたりに地図が・・・」
 > CONTEXT: Map019/events/1/pages/0/4/Dialogue < UNTRANSLATED
-
+Grandma Beth
+"I'm sure I put it around here..."
 > END STRING
 
 > BEGIN STRING
 もしや、なくしたのか？
 > CONTEXT: Map019/events/1/pages/0/8/Dialogue < UNTRANSLATED
-
+Did you perhaps misplace it somewhere?
 > END STRING
 
 > BEGIN STRING
 ベスばあさん
 「いいや、そんなはずはないわ。」
 > CONTEXT: Map019/events/1/pages/0/13/Dialogue < UNTRANSLATED
-
+Grandma Beth
+"No, no, that's not possible."
 > END STRING
 
 > BEGIN STRING
@@ -31,7 +34,9 @@
 「このあたしが、モノをしまいなくすなんてことは
 　ありえない話よ。」
 > CONTEXT: Map019/events/1/pages/0/15/Dialogue < UNTRANSLATED
-
+Grandma Beth
+"It's unthinkable that I would ever lose
+anything in my life."
 > END STRING
 
 > BEGIN STRING
@@ -39,13 +44,15 @@
 「このあたりじゃ、【モノをしまいなくさないベス】
 　で名が通ってるくらいだからね！」
 > CONTEXT: Map019/events/1/pages/0/18/Dialogue < UNTRANSLATED
-
+Grandma Beth
+"In fact, around here they call me, 'Never-Loses-
+A-Single-Thing Beth'!"
 > END STRING
 
 > BEGIN STRING
 ピンポイントな通り名ですね・・・
 > CONTEXT: Map019/events/1/pages/0/23/Dialogue < UNTRANSLATED
-
+That's a pretty specific name...
 > END STRING
 
 > BEGIN STRING
@@ -53,14 +60,16 @@
 「おばあちゃん、もしかして地図を探してる
 　のー？」
 > CONTEXT: Map019/events/1/pages/0/42/Dialogue < UNTRANSLATED
-
+General Store Clerk
+"Grandma, are you looking for the map?"
 > END STRING
 
 > BEGIN STRING
 ベスばあさん
 「そうだよ。　何か知ってるのかい？」
 > CONTEXT: Map019/events/1/pages/0/49/Dialogue < UNTRANSLATED
-
+Grandma Beth
+"That's right. Do you know something about it?"
 > END STRING
 
 > BEGIN STRING
@@ -68,7 +77,9 @@
 「もう・・・おばあちゃんは直前のことをすぐ
 　忘れちゃうのねー。」
 > CONTEXT: Map019/events/1/pages/0/51/Dialogue < UNTRANSLATED
-
+General Store Clerk
+"Geez... you have a memory like a goldfish,
+Grandma."
 > END STRING
 
 > BEGIN STRING
@@ -76,21 +87,25 @@
 「さっきやってきた女の子に、地図あげちゃった
 　ばかりでしょー？」
 > CONTEXT: Map019/events/1/pages/0/54/Dialogue < UNTRANSLATED
-
+General Store Clerk
+"You gave the map to that girl who came by
+just a little earlier, didn't you?"
 > END STRING
 
 > BEGIN STRING
 ベスばあさん
 「・・・・・・。」
 > CONTEXT: Map019/events/1/pages/0/57/Dialogue < UNTRANSLATED
-
+Grandma Beth
+"..."
 > END STRING
 
 > BEGIN STRING
 ベスばあさん
 「・・・あっ！　そういやそうだったねえ！！」
 > CONTEXT: Map019/events/1/pages/0/59/Dialogue < UNTRANSLATED
-
+Grandma Beth
+"...Ah! That's right, I did!!"
 > END STRING
 
 > BEGIN STRING
@@ -98,26 +113,29 @@
 「昔のことは覚えてても、ついさっきのことを
 　忘れるようになっちゃったのよ！」
 > CONTEXT: Map019/events/1/pages/0/79/Dialogue < UNTRANSLATED
-
+Grandma Beth
+"I remember things from way back when, but I've
+come to forget things that've just happened!"
 > END STRING
 
 > BEGIN STRING
 ベスばあさん
 「たははははは！！」
 > CONTEXT: Map019/events/1/pages/0/82/Dialogue < UNTRANSLATED
-
+Grandma Beth
+"Wahahahahahaha!!"
 > END STRING
 
 > BEGIN STRING
 えーと、つまり・・・
 > CONTEXT: Map019/events/1/pages/0/86/Dialogue < UNTRANSLATED
-
+Uhhh, so basically...
 > END STRING
 
 > BEGIN STRING
 無駄足だったというわけか。
 > CONTEXT: Map019/events/1/pages/0/89/Dialogue < UNTRANSLATED
-
+This was a fool's errand.
 > END STRING
 
 > BEGIN STRING
@@ -125,20 +143,23 @@
 「ごめんなさいねえ。　地図は1つしか無いから
 　あきらめてくれるかい？」
 > CONTEXT: Map019/events/1/pages/0/91/Dialogue < UNTRANSLATED
-
+Grandma Beth
+"Sorry about that. Since I only have the one map,
+would you mind giving it a rest?"
 > END STRING
 
 > BEGIN STRING
 致し方あるまい。　地図による現在地確認は
 あきらめるとしよう。
 > CONTEXT: Map019/events/1/pages/0/96/Dialogue < UNTRANSLATED
-
+It's no use. We'll have to give up on confirming
+our location using a map.
 > END STRING
 
 > BEGIN STRING
 問題は、今後の策だな。
 > CONTEXT: Map019/events/1/pages/0/98/Dialogue < UNTRANSLATED
-
+The problem is our next strategy.
 > END STRING
 
 > BEGIN STRING
@@ -146,28 +167,31 @@
 「なんだ、あんたたちは自分のいる場所が
 　分からないのかい？」
 > CONTEXT: Map019/events/1/pages/0/100/Dialogue < UNTRANSLATED
-
+Grandma Beth
+"What, you don't recognise where you are?"
 > END STRING
 
 > BEGIN STRING
 は、はい。　気が付いたら、森の中に倒れてて
 ・・・
 > CONTEXT: Map019/events/1/pages/0/106/Dialogue < UNTRANSLATED
-
+Y-yes. When we woke up, we had collapsed
+in the forest...
 > END STRING
 
 > BEGIN STRING
 ここがどこなのか、ぜんぜん分からないん
 です。
 > CONTEXT: Map019/events/1/pages/0/108/Dialogue < UNTRANSLATED
-
+We have absolutely no idea where this is.
 > END STRING
 
 > BEGIN STRING
 ベスばあさん
 「ああ・・・そういえば・・・」
 > CONTEXT: Map019/events/1/pages/0/111/Dialogue < UNTRANSLATED
-
+Grandma Beth
+"Aah... speaking of which..."
 > END STRING
 
 > BEGIN STRING
@@ -175,33 +199,38 @@
 「さっき地図をあげた女の子も、そんなことを
 　言ってたわねえ。」
 > CONTEXT: Map019/events/1/pages/0/113/Dialogue < UNTRANSLATED
-
+Grandma Beth
+"The young lady to whom I just gave the map
+said exactly the same thing."
 > END STRING
 
 > BEGIN STRING
 え？　それって・・・
 > CONTEXT: Map019/events/1/pages/0/119/Dialogue < UNTRANSLATED
-
+Eh? That means...
 > END STRING
 
 > BEGIN STRING
 俺たちの同級生の可能性が高いな。
 > CONTEXT: Map019/events/1/pages/0/123/Dialogue < UNTRANSLATED
-
+There's a strong possibility that she's our
+classmate.
 > END STRING
 
 > BEGIN STRING
 質問だが、地図を渡した女がどこへ向かったか
 分かるか？
 > CONTEXT: Map019/events/1/pages/0/124/Dialogue < UNTRANSLATED
-
+Sorry to ask, but do you know which way
+this woman went?
 > END STRING
 
 > BEGIN STRING
 ベスばあさん
 「そうだねえ。」
 > CONTEXT: Map019/events/1/pages/0/127/Dialogue < UNTRANSLATED
-
+Grandma Beth
+"Yes, I do."
 > END STRING
 
 > BEGIN STRING
@@ -209,7 +238,9 @@
 「その娘はたしか、『交通手段がほしい』って
 　言ってたから、もしかしたら・・・」
 > CONTEXT: Map019/events/1/pages/0/129/Dialogue < UNTRANSLATED
-
+Grandma Beth
+"That young lady said she needed transportation,
+so maybe..."
 > END STRING
 
 > BEGIN STRING
@@ -217,28 +248,32 @@
 「船が出入りしてて、しかもここから一番近い
 　『港町ザザーブ』に向かったかもね。」
 > CONTEXT: Map019/events/1/pages/0/132/Dialogue < UNTRANSLATED
-
+Grandma Beth
+"She could have gone to Zazabu Port Town, which
+is nearby and has ships come and go all the time."
 > END STRING
 
 > BEGIN STRING
 なるほど。　電車や船が通っている地域ならば
 おのずと現在位置が把握できるというわけか。
 > CONTEXT: Map019/events/1/pages/0/137/Dialogue < UNTRANSLATED
-
+I see. If it's a place where trains and ships pass
+through, it's naturally where you would go.
 > END STRING
 
 > BEGIN STRING
 そ、そのザザーブっていう町は、えっと・・・
 どこにあるんですか？
 > CONTEXT: Map019/events/1/pages/0/143/Dialogue < UNTRANSLATED
-
+T-this Zazabu Port, umm... where is it?
 > END STRING
 
 > BEGIN STRING
 ベスばあさん
 「あんたたち、ドノ村から来たんだったね。」
 > CONTEXT: Map019/events/1/pages/0/146/Dialogue < UNTRANSLATED
-
+Grandma Beth
+"You two came from Dono village, didn't you?"
 > END STRING
 
 > BEGIN STRING
@@ -246,39 +281,43 @@
 「まずはドノ村まで戻って、それから村の南に
 　ある森を東の方へ進んでいけば、着くわよ。」
 > CONTEXT: Map019/events/1/pages/0/148/Dialogue < UNTRANSLATED
-
+Grandma Beth
+"Start by going back through that village to the
+forest in the south, then go east. You'll be there."
 > END STRING
 
 > BEGIN STRING
 了解した。　それなら、さほど時間もかからず
 到着できそうだ。
 > CONTEXT: Map019/events/1/pages/0/153/Dialogue < UNTRANSLATED
-
+Understood. It sounds like it won't take
+particularly long to get there, either.
 > END STRING
 
 > BEGIN STRING
 はむこ、すぐに出発するとしよう。
 急げばまだ追いつけるかもしれない。
 > CONTEXT: Map019/events/1/pages/0/155/Dialogue < UNTRANSLATED
-
+Hamuko, let's go right away.
+We might be able to catch up if we hurry.
 > END STRING
 
 > BEGIN STRING
 あ、う・・・うん。
 > CONTEXT: Map019/events/1/pages/0/161/Dialogue < UNTRANSLATED
-
+Ah, y... yeah.
 > END STRING
 
 > BEGIN STRING
 どうした、具合でも悪いのか？
 > CONTEXT: Map019/events/1/pages/0/165/Dialogue < UNTRANSLATED
-
+What's the matter, are you feeling unwell?
 > END STRING
 
 > BEGIN STRING
 べ、別に・・・そういうわけじゃ・・・ないけど・・・
 > CONTEXT: Map019/events/1/pages/0/169/Dialogue < UNTRANSLATED
-
+N-no... not really... just...
 > END STRING
 
 > BEGIN STRING
@@ -286,7 +325,9 @@
 「地図を持ってった女の子は、そりゃもう嵐の
 　ように元気なコだったわよ。」
 > CONTEXT: Map019/events/1/pages/0/171/Dialogue < UNTRANSLATED
-
+Grandma Beth
+"The girl with the map was quite the lively young
+lady. She was more energetic than a hurricane!"
 > END STRING
 
 > BEGIN STRING
@@ -294,19 +335,22 @@
 「あの俊足なら、若い頃のあたしでも
 　追いつけないかもねえ。」
 > CONTEXT: Map019/events/1/pages/0/174/Dialogue < UNTRANSLATED
-
+Grandma Beth
+"At the speed she ran, even the young me probably
+couldn't catch up to her."
 > END STRING
 
 > BEGIN STRING
 ならばなおさら急ごう。　行くぞはむこ。
 > CONTEXT: Map019/events/1/pages/0/179/Dialogue < UNTRANSLATED
-
+Then we should hurry that much more. Hamuko,
+let's go.
 > END STRING
 
 > BEGIN STRING
 う、ん・・・えっと・・・分かった。
 > CONTEXT: Map019/events/1/pages/0/183/Dialogue < UNTRANSLATED
-
+Y-yeah... uhh... got it.
 > END STRING
 
 > BEGIN STRING
@@ -314,5 +358,7 @@
 「若いうちに、いっぱい冒険しときな。
 　たははは！！」
 > CONTEXT: Map019/events/1/pages/1/1/Dialogue < UNTRANSLATED
-
+Grandma Beth
+"I was once quite the little adventurer.
+Wahahaha!!"
 > END STRING

@@ -3,24 +3,26 @@
 雑貨屋店員
 「いらっしゃいませー！」
 > CONTEXT: Map016/events/2/pages/0/1/Dialogue < UNTRANSLATED
-
+General Store Clerk
+"Welcome!"
 > END STRING
 
 > BEGIN STRING
 価格単位が・・・「レン」？
 > CONTEXT: Map016/events/2/pages/0/5/Dialogue < UNTRANSLATED
-
+The unit of currency is... "Ren"?
 > END STRING
 
 > BEGIN STRING
 いったいどこの通貨だ・・・
 > CONTEXT: Map016/events/2/pages/0/6/Dialogue < UNTRANSLATED
-
+Where on earth is that used?
 > END STRING
 
 > BEGIN STRING
 このあたりのお水はとってもおいしいのよね。
 天然水だからかしら？
 > CONTEXT: Map016/events/5/pages/0/1/Dialogue < UNTRANSLATED
-
+The water around is very tasty, don't you think?
+I suppose it's because it's all natural?
 > END STRING
