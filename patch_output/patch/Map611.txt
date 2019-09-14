@@ -2,30 +2,30 @@
 > BEGIN STRING
 も、もれちゃううぅぅっ！！
 > CONTEXT: Map611/events/1/pages/0/11/Dialogue < UNTRANSLATED
-
+I-it's leaaakiiiing!!
 > END STRING
 
 > BEGIN STRING
 はあぁぁーーーーーっ！
 > CONTEXT: Map611/events/1/pages/0/49/Dialogue < UNTRANSLATED
-
+Haaaaaaah—————!
 > END STRING
 
 > BEGIN STRING
 スッキリしたあぁーーーっ！！
 > CONTEXT: Map611/events/1/pages/0/50/Dialogue < UNTRANSLATED
-
+So much better———!!
 > END STRING
 
 > BEGIN STRING
 水いっぱい飲んだあとだから、すっごい
 いっぱい出ちゃった・・・////
 > CONTEXT: Map611/events/1/pages/0/54/Dialogue < UNTRANSLATED
-
+I drank loads of water, so a lot came out... ////
 > END STRING
 
 > BEGIN STRING
 ふぅー～・・・我慢できてよかったぁ・・・
 > CONTEXT: Map611/events/1/pages/0/56/Dialogue < UNTRANSLATED
-
+Phew~... I'm glad I made it...
 > END STRING

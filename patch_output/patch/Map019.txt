@@ -61,7 +61,7 @@ That's a pretty specific name...
 　のー？」
 > CONTEXT: Map019/events/1/pages/0/42/Dialogue < UNTRANSLATED
 General Store Clerk
-"Grandma, are you looking for the map?"
+"Grandma, could you be looking for the map—?"
 > END STRING
 
 > BEGIN STRING
@@ -79,7 +79,7 @@ Grandma Beth
 > CONTEXT: Map019/events/1/pages/0/51/Dialogue < UNTRANSLATED
 General Store Clerk
 "Geez... you have a memory like a goldfish,
-Grandma."
+Grandma—."
 > END STRING
 
 > BEGIN STRING
@@ -89,7 +89,7 @@ Grandma."
 > CONTEXT: Map019/events/1/pages/0/54/Dialogue < UNTRANSLATED
 General Store Clerk
 "You gave the map to that girl who came by
-just a little earlier, didn't you?"
+just a little earlier, didn't you—?"
 > END STRING
 
 > BEGIN STRING

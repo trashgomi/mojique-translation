@@ -551,7 +551,7 @@
 > CONTEXT: Map702/events/2/pages/0/385/Dialogue < UNTRANSLATED
 > CONTEXT: Map609/events/6/pages/0/12/Dialogue < UNTRANSLATED
 > CONTEXT: Map544/events/80/pages/0/402/Dialogue < UNTRANSLATED
-
+Y-yeah...
 > END STRING
 
 > BEGIN STRING

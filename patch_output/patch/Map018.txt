@@ -148,7 +148,7 @@ she'll be outside playing with the youngsters."
 「村の民を守るには、道を封鎖するしかない
 　のです。」
 > CONTEXT: Map018/events/2/pages/2/1/Dialogue < UNTRANSLATED
-?
+
 > END STRING
 
 > BEGIN STRING
@@ -157,7 +157,7 @@ she'll be outside playing with the youngsters."
 　分かっています。　しかし、他に手段など
 　ないのです。」
 > CONTEXT: Map018/events/2/pages/2/4/Dialogue < UNTRANSLATED
-?
+
 > END STRING
 
 > BEGIN STRING
@@ -165,5 +165,5 @@ she'll be outside playing with the youngsters."
 「村の民を守るためなら、ある程度生活が
 　不便になっても、いたしかたないでしょう。」
 > CONTEXT: Map018/events/2/pages/3/1/Dialogue < UNTRANSLATED
-?
+
 > END STRING

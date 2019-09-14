@@ -28918,7 +28918,7 @@ Pメモリーを見る
 ・・・・・・。
 > CONTEXT: Commonevents/922/3789/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/922/3818/Dialogue < UNTRANSLATED
-
+......
 > END STRING
 
 > BEGIN STRING

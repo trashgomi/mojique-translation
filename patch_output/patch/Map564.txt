@@ -32,7 +32,7 @@
 > CONTEXT: Map258/events/1/pages/2/162/Dialogue < UNTRANSLATED
 > CONTEXT: Map083/events/49/pages/0/484/Dialogue < UNTRANSLATED
 > CONTEXT: Map127/events/15/pages/0/77/Dialogue < UNTRANSLATED
-
+Yeah.
 > END STRING
 
 > BEGIN STRING

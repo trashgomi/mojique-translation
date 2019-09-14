@@ -88,7 +88,8 @@ important points!"
 > CONTEXT: Map047/events/35/pages/0/121/Dialogue < UNTRANSLATED
 > CONTEXT: Map028/events/22/pages/4/44/Dialogue < UNTRANSLATED
 > CONTEXT: Map016/events/1/pages/1/46/Dialogue < UNTRANSLATED
-
+About to dive into a pee event.
+Save?
 > END STRING
 
 > BEGIN STRING
@@ -737,7 +738,7 @@ important points!"
 > CONTEXT: Commonevents/926/1607/Choice/0 < UNTRANSLATED
 > CONTEXT: Commonevents/926/1657/Choice/0 < UNTRANSLATED
 > CONTEXT: Commonevents/926/1707/Choice/0 < UNTRANSLATED
-
+Yes
 > END STRING
 
 > BEGIN STRING
@@ -1386,7 +1387,7 @@ important points!"
 > CONTEXT: Commonevents/926/1607/Choice/1 < UNTRANSLATED
 > CONTEXT: Commonevents/926/1657/Choice/1 < UNTRANSLATED
 > CONTEXT: Commonevents/926/1707/Choice/1 < UNTRANSLATED
-
+No
 > END STRING
 
 > BEGIN STRING
@@ -1405,39 +1406,41 @@ important points!"
 > CONTEXT: Map607/events/4/pages/2/4/Dialogue < UNTRANSLATED
 > CONTEXT: Map174/events/2/pages/0/284/Dialogue < UNTRANSLATED
 > CONTEXT: Map016/events/4/pages/2/4/Dialogue < UNTRANSLATED
-
+(Fidget... fidget...)
 > END STRING
 
 > BEGIN STRING
 ・・・え！？　も、もしかして・・・
 > CONTEXT: Map610/events/5/pages/0/27/Dialogue < UNTRANSLATED
-
+...Eh?! C-could it be...
 > END STRING
 
 > BEGIN STRING
 清掃中ぅ・・・っ！？
 > CONTEXT: Map610/events/5/pages/0/28/Dialogue < UNTRANSLATED
-
+Cleaning in progress...?!
 > END STRING
 
 > BEGIN STRING
 おばちゃん
 「おや、トイレかい？」
 > CONTEXT: Map610/events/5/pages/0/32/Dialogue < UNTRANSLATED
-
+Old Lady
+"Oh, you need the toilet?"
 > END STRING
 
 > BEGIN STRING
 おばちゃん
 「終わるまで、ちょっと待っておくれ。」
 > CONTEXT: Map610/events/5/pages/0/34/Dialogue < UNTRANSLATED
-
+Old Lady
+"Just hold on a moment, 'til I'm done."
 > END STRING
 
 > BEGIN STRING
 え、あの・・・ど・・・どれくらいですかっ！？
 > CONTEXT: Map610/events/5/pages/0/39/Dialogue < UNTRANSLATED
-
+Eh, um... h... how long will it take?!
 > END STRING
 
 > BEGIN STRING
@@ -1445,39 +1448,43 @@ important points!"
 「今始めたばっかだから、15分くらいしたら
 　またおいで。」
 > CONTEXT: Map610/events/5/pages/0/41/Dialogue < UNTRANSLATED
-
+Old Lady
+"I just got started here, so come back in about fifteen
+minutes."
 > END STRING
 
 > BEGIN STRING
 じゅ、15分は・・・ちょっと・・・その・・・っ////
 > CONTEXT: Map610/events/5/pages/0/47/Dialogue < UNTRANSLATED
-
+F-fifteen minutes is... a little... um...
 > END STRING
 
 > BEGIN STRING
 おばちゃん
 「なんだい、ガマンできないのかい？」
 > CONTEXT: Map610/events/5/pages/0/49/Dialogue < UNTRANSLATED
-
+Old Lady
+"What's the matter? You can't hold it?"
 > END STRING
 
 > BEGIN STRING
 ご、ごめんなさい・・・もう、我慢できなくて・・・っ
 > CONTEXT: Map610/events/5/pages/0/54/Dialogue < UNTRANSLATED
-
+I, I'm sorry... I can't wait any longer...
 > END STRING
 
 > BEGIN STRING
 おトイレ・・・つ、使わせてください・・・っ////
 > CONTEXT: Map610/events/5/pages/0/55/Dialogue < UNTRANSLATED
-
+Please... l-let me use the toilet... ////
 > END STRING
 
 > BEGIN STRING
 おばちゃん
 「まったく、しょうがないねぇ。」
 > CONTEXT: Map610/events/5/pages/0/57/Dialogue < UNTRANSLATED
-
+Old Lady
+"My goodness, I suppose I have no choice."
 > END STRING
 
 > BEGIN STRING
@@ -1485,18 +1492,20 @@ important points!"
 「そんなに股握ってもじもじされちゃあ、ダメとは
 　言えないわ。」
 > CONTEXT: Map610/events/5/pages/0/59/Dialogue < UNTRANSLATED
-
+Old Lady
+"I can't say no if you're fidgeting and grabbing that much."
 > END STRING
 
 > BEGIN STRING
 おばちゃん
 「ほら、さっさと済ませてきな。」
 > CONTEXT: Map610/events/5/pages/0/67/Dialogue < UNTRANSLATED
-
+Old Lady
+"Go on, be quick."
 > END STRING
 
 > BEGIN STRING
 あ、あ、ありがとうございますっ/////
 > CONTEXT: Map610/events/5/pages/0/72/Dialogue < UNTRANSLATED
-
+Th-th-thank you! /////
 > END STRING
