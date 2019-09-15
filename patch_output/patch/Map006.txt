@@ -3,5 +3,6 @@
 今日のお昼はジャガイモの煮物に
 しようかしら♪
 > CONTEXT: Map006/events/2/pages/0/1/Dialogue < UNTRANSLATED
-
+Maybe I'll have boiled potatoes for lunch
+today ♪
 > END STRING

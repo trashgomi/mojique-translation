@@ -3,12 +3,14 @@
 村の外には魔物がいっぱいいるから危ないって
 お母さんが言ってた。
 > CONTEXT: Map007/events/2/pages/0/1/Dialogue < UNTRANSLATED
-
+It would be nice if my kids could play in the
+forest, without a care in the world...
 > END STRING
 
 > BEGIN STRING
 本当は子供にも、元気に森で遊んでほしいん
 だけど・・・
 > CONTEXT: Map007/events/3/pages/0/1/Dialogue < UNTRANSLATED
-
+Mom said the forest outside the village is
+dangerous, 'cause of all the demons.
 > END STRING
