@@ -249,8 +249,8 @@ so maybe..."
 　『港町ザザーブ』に向かったかもね。」
 > CONTEXT: Map019/events/1/pages/0/132/Dialogue < UNTRANSLATED
 Grandma Beth
-"She could have gone to Zazabu Port Town, which
-is nearby and has ships come and go all the time."
+"She could have gone to nearby Zazabu Port
+Town, which has ships come and go all the time."
 > END STRING
 
 > BEGIN STRING
@@ -336,8 +336,8 @@ lady. She was more energetic than a hurricane!"
 　追いつけないかもねえ。」
 > CONTEXT: Map019/events/1/pages/0/174/Dialogue < UNTRANSLATED
 Grandma Beth
-"At the speed she ran, even the young me probably
-couldn't catch up to her."
+"At the speed she ran, even the young me
+probably couldn't catch up to her."
 > END STRING
 
 > BEGIN STRING

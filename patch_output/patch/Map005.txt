@@ -2,7 +2,7 @@
 > BEGIN STRING
 ふう。　もうヤツは追ってこないようだな。
 > CONTEXT: Map005/events/1/pages/0/19/Dialogue < UNTRANSLATED
-Phew. Looks like it's stopped chasing me.
+Phew. It looks like it's stopped chasing me.
 > END STRING
 
 > BEGIN STRING
@@ -15,7 +15,8 @@ I can hear people talking. This must be a village.
 ちょうどいい。　ここがどこなのか尋ねると共に、
 助けを呼ぶとしよう。
 > CONTEXT: Map005/events/1/pages/0/31/Dialogue < UNTRANSLATED
-Perfect. I can ask around and find out where I am.
+Perfect. I can ask around and find out where I
+am.
 > END STRING
 
 > BEGIN STRING
@@ -23,9 +24,9 @@ Perfect. I can ask around and find out where I am.
 \\C[2]セーブファイルは32個まで作成可能。
 \\C[0]レッツこまめにセーブ！
 > CONTEXT: Map005/events/1/pages/0/35/Dialogue < UNTRANSLATED
-You can save your game by interacting with a red mailbox.
-\\C[2]You can create up to 32 save files.
-\\C[0]Be sure to save often!
+You can save your game by interacting with a red
+mailbox. \\C[2]You can create up to 32 save files.
+\\C[0]Let's be sure to save often!
 > END STRING
 
 > BEGIN STRING
@@ -38,15 +39,15 @@ Yo. This here is the village of Dono.
 見ない顔だね。　どこか遠くの町から来たの
 かい？
 > CONTEXT: Map005/events/10/pages/0/1/Dialogue < UNTRANSLATED
-I ain't seen your face around here. You come from
-some far off town?
+I ain't seen your face around here. You come
+from some far off town?
 > END STRING
 
 > BEGIN STRING
 あんた、背高いのに貧弱な体つきねえ・・・
 ちゃんと体動かしてる？
 > CONTEXT: Map005/events/11/pages/0/1/Dialogue < UNTRANSLATED
-You're tall but you look so frail, my dear. Are you
+You're tall but you look so frail, dearie. Are you
 exercising properly?
 > END STRING
 
@@ -61,15 +62,17 @@ Here's hopin' the village stays safe...
 盗賊が火事場ドロボウに入るってウワサ
 だぜ。
 > CONTEXT: Map005/events/13/pages/0/1/Dialogue < UNTRANSLATED
-There's a rumour goin' around that thieves are takin'
-advantage of the chaos caused by all the monsters
-that've been showin' up lately.
+There's a rumour goin' around that there are
+some mighty-vicious thieves takin' advantage of
+all the chaos caused by the monsters that've
+been showin' up lately.
 > END STRING
 
 > BEGIN STRING
 さっきの女の子、変わった服装してたなあ。
 > CONTEXT: Map005/events/14/pages/0/1/Dialogue < UNTRANSLATED
-That girl just now sure was wearing some strange clothes.
+That girl just now sure was wearing some
+strange clothes.
 > END STRING
 
 > BEGIN STRING
@@ -88,8 +91,8 @@ Waa! What a hunk!
 兄さん、どこから来たんだい？　その服
 ずいぶん質のいい布でできてるね。
 > CONTEXT: Map005/events/16/pages/0/1/Dialogue < UNTRANSLATED
-Where'd you come from, bro? Those look like some mighty
-fine clothes.
+Where'd you come from, fella? Those look like
+some mighty fine garments.
 > END STRING
 
 > BEGIN STRING
@@ -99,7 +102,7 @@ fine clothes.
 > CONTEXT: Map005/events/17/pages/0/1/Dialogue < UNTRANSLATED
 This here's a cucumber field. Or was it eggplants?
 No, wait... watermelons! ...Huh?
-What was it...?
+What was it, again...?
 > END STRING
 
 > BEGIN STRING
@@ -112,7 +115,7 @@ What was it...?
 女の子が森で倒れてたらしいわよ。
 今、家のベッドで休ませてるわ。
 > CONTEXT: Map005/events/30/pages/0/1/Dialogue < UNTRANSLATED
-I heard that the young lass collapsed in the forest.
+I heard that a young lass collapsed in the forest.
 She's resting on the bed in this house.
 > END STRING
 

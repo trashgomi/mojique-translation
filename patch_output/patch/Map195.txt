@@ -225,7 +225,7 @@
 > CONTEXT: Map004/events/10/pages/0/44/Dialogue < UNTRANSLATED
 > CONTEXT: Map004/events/11/pages/0/44/Dialogue < UNTRANSLATED
 > CONTEXT: Map004/events/18/pages/0/44/Dialogue < UNTRANSLATED
-
+This is...
 > END STRING
 
 > BEGIN STRING

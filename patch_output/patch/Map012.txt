@@ -258,8 +258,8 @@ The general store...? Where was that, again...??
 　それを目印にするといい。」
 > CONTEXT: Map012/events/27/pages/0/56/Dialogue < UNTRANSLATED
 Grandma Beth
-"It's by the village entrance. It has a signboard that
-says "ITEM" stuck to it, so use that as a
+"It's by the village entrance. It has a signboard
+that says "ITEM" stuck to it, so use that as a
 landmark."
 > END STRING
 
@@ -269,8 +269,8 @@ landmark."
 　ね。」
 > CONTEXT: Map012/events/27/pages/0/60/Dialogue < UNTRANSLATED
 Grandma Beth
-"I'll run along and wait for you on the second floor
-of that building, alright?"
+"I'll run along and wait for you on the second
+floor of that building, alright?"
 > END STRING
 
 > BEGIN STRING

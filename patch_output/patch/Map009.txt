@@ -55,8 +55,8 @@ Elderly Man
 　襲われて気を失ったのじゃろう。」
 > CONTEXT: Map009/events/2/pages/1/36/Dialogue < UNTRANSLATED
 Elderly Man
-"She wasn't injured badly, but she must'a passed out
-after gettin' attacked by one'a those demons."
+"She wasn't injured badly, but she must'a passed
+out after gettin' attacked by one'a them demons."
 > END STRING
 
 > BEGIN STRING
@@ -101,8 +101,8 @@ Interesting, I don't get it.
 　覚ましてもいい頃合いじゃのう。」
 > CONTEXT: Map009/events/2/pages/1/59/Dialogue < UNTRANSLATED
 Elderly Man
-"She's been out like a light for quite some time, so I
-reckon she'll be wakin' up any minute now."
+"She's been out like a light for quite some time,
+so I reckon she'll be wakin' up any minute now."
 > END STRING
 
 > BEGIN STRING
@@ -161,8 +161,8 @@ Ah! I remember!
 わたし森でヘンなお化けみたいなのと戦って、
 いつの間にか意識を失ってた・・・のかな？
 > CONTEXT: Map009/events/2/pages/1/113/Dialogue < UNTRANSLATED
-I was fighting some weird monsters in the forest and
-lost consciousness at some point... I think?
+I was fighting some weird monsters in the forest
+and lost consciousness at some point... I think?
 > END STRING
 
 > BEGIN STRING
@@ -185,8 +185,8 @@ those. Reckless woman.
 いや～、何匹かやっつけたんだけど、そのうち
 疲れちゃって・・・
 > CONTEXT: Map009/events/2/pages/1/124/Dialogue < UNTRANSLATED
-No way~ I beat up so many of them, it's just that I
-got sleepy...
+No way~ I beat up so many of them, it's just that
+I got sleepy...
 > END STRING
 
 > BEGIN STRING
@@ -209,8 +209,8 @@ With your bare hands...?
 う、うん。　なんというか、もう夢中でポカポカ
 やってたら、勝てちゃって・・・
 > CONTEXT: Map009/events/2/pages/1/136/Dialogue < UNTRANSLATED
-Y-yeah. It's like, I got carried away and beat them
-up like bonk, bonk, and then I won....
+Y-yeah. It's like, I got carried away and beat
+them all up like bonk, bonk, and then I won....
 > END STRING
 
 > BEGIN STRING
@@ -219,7 +219,8 @@ up like bonk, bonk, and then I won....
 　のう！」
 > CONTEXT: Map009/events/2/pages/1/139/Dialogue < UNTRANSLATED
 Elderly Man
-"Young lass, ya got more mettle than ya look!"
+"Why, young lass, ya got more mettle than
+it seems!"
 > END STRING
 
 > BEGIN STRING
@@ -244,8 +245,8 @@ Incidentally, Hamuko.
 フェリーに乗っていたはずの俺は、気が
 付いたら森の中に倒れていたのだが・・・
 > CONTEXT: Map009/events/2/pages/1/152/Dialogue < UNTRANSLATED
-Despite having boarded the ferry, I was in the forest
-when I came to.
+Despite having boarded the ferry, I was in the
+forest when I came to.
 > END STRING
 
 > BEGIN STRING
@@ -264,15 +265,15 @@ Oh, yeah. It was the same for me.
 クラスの友達と一緒に甲板で海原を眺めてた
 とこまでは覚えてるんだけど・・・
 > CONTEXT: Map009/events/2/pages/1/159/Dialogue < UNTRANSLATED
-All I remember is being on deck, looking out over the
-sea with my classmates...
+All I remember is being on deck, looking out over
+the ocean with my friend from class...
 > END STRING
 
 > BEGIN STRING
 わたしも気が付いた時には、森に突っ伏してた！
 > CONTEXT: Map009/events/2/pages/1/164/Dialogue < UNTRANSLATED
-When I woke up, I was totally just lying there in the
-forest!
+When I woke up, I was totally just lying there in
+the forest!
 > END STRING
 
 > BEGIN STRING
@@ -285,8 +286,8 @@ Hmm. So it was the same situation for you, huh?
 あ、そう言えば・・・まだおじいさんにお礼言って
 ませんでした！
 > CONTEXT: Map009/events/2/pages/1/175/Dialogue < UNTRANSLATED
-Oh, come to think of it... I still haven't thanked you,
-Gramps!
+Oh, come to think of it... I still haven't thanked
+you, Gramps!
 > END STRING
 
 > BEGIN STRING
@@ -301,8 +302,8 @@ Thank you very much for saving me!
 　じゃ。」
 > CONTEXT: Map009/events/2/pages/1/181/Dialogue < UNTRANSLATED
 Elderly Man
-"Absolutely not, my dear. We hafta look out for each
-other!"
+"Absolutely not, my dear. We hafta look out for
+each other!"
 > END STRING
 
 > BEGIN STRING
@@ -315,8 +316,8 @@ Right then, now what...?
 この様子だと、他の同級生たちも近くに
 いるかもしれないな。
 > CONTEXT: Map009/events/2/pages/1/193/Dialogue < UNTRANSLATED
-From the looks of things, more of our schoolmates
-could be nearby.
+From the looks of things, more of our
+schoolmates could be nearby.
 > END STRING
 
 > BEGIN STRING
@@ -346,7 +347,8 @@ Kind of a rare name, so I totally forgot it!
 > BEGIN STRING
 で、どうする？　他の人たちも捜してみる？
 > CONTEXT: Map009/events/2/pages/1/217/Dialogue < UNTRANSLATED
-So, what now? Are we searching for others?
+So, what now? Shall we go looking for more
+people?
 > END STRING
 
 > BEGIN STRING
@@ -354,9 +356,9 @@ So, what now? Are we searching for others?
 いるような場所だ。　まずは、ここがどこなのか
 把握しておくべきだろう。
 > CONTEXT: Map009/events/2/pages/1/221/Dialogue < UNTRANSLATED
-Hold it. There could more of these "demons" lurking
-around here. First off, we should try and better
-understand where we are.
+Hold it. There could more of these "demons"
+prowling around. First off, we should try and
+better understand where we are.
 > END STRING
 
 > BEGIN STRING
@@ -378,8 +380,8 @@ This isn't Sadogashima, is it?
 「サドガシマ・・・？　はて、聞かぬ地名じゃの。」
 > CONTEXT: Map009/events/2/pages/1/238/Dialogue < UNTRANSLATED
 Elderly Man
-"Sa-do-ga-shi-ma...? That's no place I've ever heard
-of."
+"Sa-do-ga-shi-ma...? That ain't no place I've ever
+heard of."
 > END STRING
 
 > BEGIN STRING
@@ -388,8 +390,8 @@ of."
 　小さな田舎村じゃよ」
 > CONTEXT: Map009/events/2/pages/1/240/Dialogue < UNTRANSLATED
 Elderly Man
-"This here is Dono village, a little rural village on the
-southernmost point'a the Midlands."
+"This here is Dono village, a tiny rural village
+on the southernmost point'a the Midlands."
 > END STRING
 
 > BEGIN STRING
@@ -416,8 +418,8 @@ Old man, is that information correct?
 　ついているように見えるかの？」
 > CONTEXT: Map009/events/2/pages/1/255/Dialogue < UNTRANSLATED
 Elderly Man
-"What's with the pixel-art-lookin' face? Does it look
-like I'm tellin' lies?"
+"What's with the pixel-art-lookin' face? Does it
+look like I'm tellin' lies?"
 > END STRING
 
 > BEGIN STRING
@@ -472,8 +474,8 @@ Old man, you have a map?
 　大それたモノは無いのう・・・」
 > CONTEXT: Map009/events/2/pages/1/281/Dialogue < UNTRANSLATED
 Elderly Man
-"A map, ya say? Sorry to break it to ya, but we don't
-have nothin' as grand as that."
+"A map, ya say? Sorry to break it to ya, but we
+don't have nothin' as grand as that."
 > END STRING
 
 > BEGIN STRING
@@ -506,8 +508,8 @@ come cheap."
 　シロモノではないのじゃよ。」
 > CONTEXT: Map009/events/2/pages/1/293/Dialogue < UNTRANSLATED
 Elderly Man
-"They ain't something that yer'll find rolled up in any
-old village like this."
+"They ain't something that yer'll find rolled up in
+any old village like this."
 > END STRING
 
 > BEGIN STRING
@@ -521,8 +523,9 @@ prefecture?)
 って！！　群馬は田舎じゃねえべ！！
 山が多くてビルが少ないだけだんべ！！
 > CONTEXT: Map009/events/2/pages/1/302/Dialogue < UNTRANSLATED
-I'll be! Gunma ain't no countryside! Just that there're
-lotsa mountains and not so many buildin's!
+Well, I'll be! There might be lotsa mountains and
+not so many buildin's, but Gunma ain't no
+countryside or nothin'!
 > END STRING
 
 > BEGIN STRING
@@ -539,8 +542,8 @@ Elderly Man
 　地図を持っているかもしれんのう。」
 > CONTEXT: Map009/events/2/pages/1/307/Dialogue < UNTRANSLATED
 Elderly Man
-"But... yep. Could be that Grandma Beth has one of
-them maps yer after."
+"But... yep. Could be that Grandma Beth has one
+of them maps yer after."
 > END STRING
 
 > BEGIN STRING
@@ -595,8 +598,8 @@ Jinbu village!"
 　分かっておろうに。」
 > CONTEXT: Map009/events/2/pages/1/330/Dialogue < UNTRANSLATED
 Elderly Man
-"As ya well know, that there forest is full'a demons
-on the prowl."
+"As ya well know, that there forest is full'a
+demons on the prowl."
 > END STRING
 
 > BEGIN STRING
@@ -609,8 +612,8 @@ Ah... really...?
 おい、はむこ。　あの化け物を何匹か倒したと
 いうのは、確かなんだな？
 > CONTEXT: Map009/events/2/pages/1/339/Dialogue < UNTRANSLATED
-Hey, Hamuko. Did you really defeat several of those
-monsters?
+Hey, Hamuko. Did you really defeat several of
+those monsters?
 > END STRING
 
 > BEGIN STRING
@@ -660,7 +663,7 @@ W- will we be OK?
 任せろ。　俺の指示通りに動けば、問題なく
 突破できる。
 > CONTEXT: Map009/events/2/pages/1/368/Dialogue < UNTRANSLATED
-Leave it to me. If we act according my instruction,
+Leave it to me. If we act according my direction,
 we'll overcome this obstacle without issue.
 > END STRING
 
@@ -675,7 +678,8 @@ Oh, okay... gotcha.
 「どうしても行くと言うなら止めはせんが・・・」
 > CONTEXT: Map009/events/2/pages/1/375/Dialogue < UNTRANSLATED
 Elderly Man
-"I guess I can't stop ya if ya really wanna go, but..."
+"I guess I can't stop ya if ya really wanna go,
+but..."
 > END STRING
 
 > BEGIN STRING
@@ -731,8 +735,8 @@ Take care of yourselves, okay?
 　ある。」
 > CONTEXT: Map009/events/8/pages/0/1/Dialogue < UNTRANSLATED
 Elderly Man
-"If yer goin' to Jinbu village, ya gotta go through the
-forest to the north."
+"If yer goin' to Jinbu village, ya gotta go through
+the forest to the north."
 > END STRING
 
 > BEGIN STRING

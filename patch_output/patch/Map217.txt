@@ -320,7 +320,7 @@
 > CONTEXT: Map004/events/10/pages/0/16/Dialogue < UNTRANSLATED
 > CONTEXT: Map004/events/11/pages/0/16/Dialogue < UNTRANSLATED
 > CONTEXT: Map004/events/18/pages/0/16/Dialogue < UNTRANSLATED
-
+...Hm?
 > END STRING
 
 > BEGIN STRING

@@ -102,8 +102,9 @@ Ahoy.
 ここまで実に見事な立ち回りで敵を退けてきた
 お前だが、何か武術の心得でもあるのか？
 > CONTEXT: Map011/events/19/pages/0/32/Dialogue < UNTRANSLATED
-You've brilliantly repelled the enemy in our battles
-here. Do you have experience in any martial arts?
+You've brilliantly repelled the enemies we've
+encountered so far. Do you have any kind of
+experience in martial arts?
 > END STRING
 
 > BEGIN STRING

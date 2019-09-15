@@ -6,7 +6,7 @@
 > CONTEXT: Map004/events/10/pages/0/2/Dialogue < UNTRANSLATED
 > CONTEXT: Map004/events/11/pages/0/2/Dialogue < UNTRANSLATED
 > CONTEXT: Map004/events/18/pages/0/2/Dialogue < UNTRANSLATED
-
+The air is fresh.
 > END STRING
 
 > BEGIN STRING
@@ -17,7 +17,9 @@
 > CONTEXT: Map004/events/10/pages/0/3/Dialogue < UNTRANSLATED
 > CONTEXT: Map004/events/11/pages/0/3/Dialogue < UNTRANSLATED
 > CONTEXT: Map004/events/18/pages/0/3/Dialogue < UNTRANSLATED
-
+As if completely disconnected with the hustle
+and bustle of a city, or even to contrast with it,
+one could call this a great natural healing spot.
 > END STRING
 
 > BEGIN STRING
@@ -27,7 +29,8 @@
 > CONTEXT: Map004/events/10/pages/0/8/Dialogue < UNTRANSLATED
 > CONTEXT: Map004/events/11/pages/0/8/Dialogue < UNTRANSLATED
 > CONTEXT: Map004/events/18/pages/0/8/Dialogue < UNTRANSLATED
-
+This is on-par with Yakushima, or perhaps
+even better.
 > END STRING
 
 > BEGIN STRING
@@ -38,7 +41,8 @@
 > CONTEXT: Map004/events/10/pages/0/45/Dialogue < UNTRANSLATED
 > CONTEXT: Map004/events/11/pages/0/45/Dialogue < UNTRANSLATED
 > CONTEXT: Map004/events/18/pages/0/45/Dialogue < UNTRANSLATED
-
+This would not appear to be any animal that
+lives on this Earth, judging from its appearance.
 > END STRING
 
 > BEGIN STRING
@@ -49,7 +53,7 @@
 > CONTEXT: Map004/events/10/pages/0/47/Dialogue < UNTRANSLATED
 > CONTEXT: Map004/events/11/pages/0/47/Dialogue < UNTRANSLATED
 > CONTEXT: Map004/events/18/pages/0/47/Dialogue < UNTRANSLATED
-
+One might even call this a "Monster"...
 > END STRING
 
 > BEGIN STRING
@@ -60,7 +64,8 @@
 > CONTEXT: Map004/events/10/pages/0/49/Dialogue < UNTRANSLATED
 > CONTEXT: Map004/events/11/pages/0/49/Dialogue < UNTRANSLATED
 > CONTEXT: Map004/events/18/pages/0/49/Dialogue < UNTRANSLATED
-
+It's difficult to believe, but I'm astounded by
+this creature's existence...
 > END STRING
 
 > BEGIN STRING
@@ -70,5 +75,6 @@
 > CONTEXT: Map004/events/10/pages/0/51/Dialogue < UNTRANSLATED
 > CONTEXT: Map004/events/11/pages/0/51/Dialogue < UNTRANSLATED
 > CONTEXT: Map004/events/18/pages/0/51/Dialogue < UNTRANSLATED
-
+In any case, this place is too dangerous.
+Time to run.
 > END STRING

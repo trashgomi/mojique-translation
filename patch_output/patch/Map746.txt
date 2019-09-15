@@ -190,7 +190,7 @@
 > CONTEXT: Commonevents/150/2494/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/150/3034/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/150/3555/Dialogue < UNTRANSLATED
-
+......
 > END STRING
 
 > BEGIN STRING
