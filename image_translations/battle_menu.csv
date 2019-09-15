@@ -1,0 +1,11 @@
+﻿Location,Pictures/,,,,,
+No. Files,?,,,,,
+Files,s全体コマンド*,sES*,sヒロインスキル*,sスキル*,s敵スキル*,sコマンドメニュー01-03
+,,,,,,
+File,Notes,Initial,Checked,Localized,,
+sコマンドメニュー01-03,,Attack/Skills/Wait,,,,
+sヒロインスキル00カウンター,,Counter!!,,,,
+s全体コマンド*,,Fight/Item/Run,,,,
+,,,,,,
+sスキル01はむパンチ,,Hamu-Punch,,,,
+sヒロインスキル01はむパンチ,,Hamu-Punch,,,,
