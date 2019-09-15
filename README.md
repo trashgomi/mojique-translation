@@ -9,7 +9,7 @@ I have made a small start on establishing this project, but it is currently in t
 ### Alpha Translation
 Lines that have been given an initial translation, but not checked or playtested.
 
-Text: 569/19466 = 2.92% (Updated 09/14/2019)
+Text: 611/19466 = 3.14% (Updated 09/15/2019)
 
 Images: 0/?
 
