@@ -2,5 +2,5 @@
 > BEGIN STRING
 もじクエ Ver1.44
 > CONTEXT: GameINI/Title < UNTRANSLATED
-
+Mojique Ver1.44
 > END STRING

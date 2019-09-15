@@ -2,7 +2,7 @@
 > BEGIN STRING
 はむパンチ
 > CONTEXT: Skills/1/name/ < UNTRANSLATED
-
+Hamu-Punch
 > END STRING
 
 > BEGIN STRING

@@ -214,7 +214,7 @@
 > BEGIN STRING
 "ファイル #{@file_index + 1}"
 > CONTEXT: Scripts/Window_SaveFile/47:12 < UNTRANSLATED
-
+"File #{@file_index + 1}"
 > END STRING
 
 > BEGIN STRING
@@ -1478,19 +1478,19 @@
 > BEGIN STRING
 "ステータス"
 > CONTEXT: Scripts/Scene_Menu/23:10 < UNTRANSLATED
-
+"Status"
 > END STRING
 
 > BEGIN STRING
 "セーブ"
 > CONTEXT: Scripts/Scene_Menu/24:10 < UNTRANSLATED
-
+"Save"
 > END STRING
 
 > BEGIN STRING
 "ゲーム終了"
 > CONTEXT: Scripts/Scene_Menu/25:10 < UNTRANSLATED
-
+"Quit Game"
 > END STRING
 
 > BEGIN STRING
@@ -1574,20 +1574,20 @@
 > BEGIN STRING
 "ニューゲーム"
 > CONTEXT: Scripts/Scene_Title/37:10 < UNTRANSLATED
-
+"New Game"
 > END STRING
 
 > BEGIN STRING
 "コンティニュー"
 > CONTEXT: Scripts/Scene_Title/38:10 < UNTRANSLATED
-
+"Continue"
 > END STRING
 
 > BEGIN STRING
 "シャットダウン"
 > CONTEXT: Scripts/Scene_Title/39:10 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_End/14:10 < UNTRANSLATED
-
+"Shut Down"
 > END STRING
 
 > BEGIN STRING
@@ -1686,7 +1686,7 @@
 "【←】or【→】キーでページ切替"
 > CONTEXT: Scripts/Scene_Save/12:11 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Load/28:11 < UNTRANSLATED
-
+"【←】 and 【→】 keys to swap page"
 > END STRING
 
 > BEGIN STRING
@@ -1704,7 +1704,7 @@
 > BEGIN STRING
 "タイトルへ"
 > CONTEXT: Scripts/Scene_End/13:10 < UNTRANSLATED
-
+"To Title"
 > END STRING
 
 > BEGIN STRING

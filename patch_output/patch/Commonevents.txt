@@ -11,7 +11,7 @@ moment.
 > CONTEXT: Commonevents/16/543/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/16/574/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/16/952/Dialogue < UNTRANSLATED
-Can't choose right now!
+Can't select this right now!
 > END STRING
 
 > BEGIN STRING
@@ -14537,7 +14537,7 @@ Phew... um... th-thanks for waiting...
 > CONTEXT: Commonevents/362/380/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/362/448/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/362/516/Dialogue < UNTRANSLATED
-
+Haven't learned any usable skills!
 > END STRING
 
 > BEGIN STRING
