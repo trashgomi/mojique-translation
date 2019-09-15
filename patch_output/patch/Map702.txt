@@ -751,7 +751,7 @@ Y-yeah...
 > CONTEXT: Map605/events/1/pages/0/348/Dialogue < UNTRANSLATED
 > CONTEXT: Map546/events/80/pages/0/143/Dialogue < UNTRANSLATED
 > CONTEXT: Map505/events/3/pages/0/157/Dialogue < UNTRANSLATED
-
+Haaah... haaah...
 > END STRING
 
 > BEGIN STRING

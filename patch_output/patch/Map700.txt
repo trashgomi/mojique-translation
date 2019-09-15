@@ -123,7 +123,7 @@
 > CONTEXT: Map605/events/1/pages/0/396/Dialogue < UNTRANSLATED
 > CONTEXT: Map327/events/10/pages/0/83/Dialogue < UNTRANSLATED
 > CONTEXT: Map048/events/18/pages/0/180/Dialogue < UNTRANSLATED
-
+Glug... glug... glug...
 > END STRING
 
 > BEGIN STRING

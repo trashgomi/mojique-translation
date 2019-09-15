@@ -6,171 +6,172 @@
 > CONTEXT: Map433/events/6/pages/0/44/Dialogue < UNTRANSLATED
 > CONTEXT: Map404/events/4/pages/0/550/Dialogue < UNTRANSLATED
 > CONTEXT: Map048/events/18/pages/0/14/Dialogue < UNTRANSLATED
-
+Ah...
 > END STRING
 
 > BEGIN STRING
 あれ・・・？？
 > CONTEXT: Map605/events/1/pages/0/11/Dialogue < UNTRANSLATED
-
+Huh...??
 > END STRING
 
 > BEGIN STRING
 どこでしょう・・・？
 > CONTEXT: Map605/events/1/pages/0/33/Dialogue < UNTRANSLATED
-
+Where am I...?
 > END STRING
 
 > BEGIN STRING
 え、マジでどこ？　なんで森？
 > CONTEXT: Map605/events/1/pages/0/34/Dialogue < UNTRANSLATED
-
+Seriously, where? Why a forest?
 > END STRING
 
 > BEGIN STRING
 ・・・にゃんこ？　にゃんこー！　どこー！！？
 > CONTEXT: Map605/events/1/pages/0/35/Dialogue < UNTRANSLATED
-
+...Nyanko? Nyankoooo! Where are youuuu?!!
 > END STRING
 
 > BEGIN STRING
 ど、どうすればいいの、わたし・・・
 > CONTEXT: Map605/events/1/pages/0/53/Dialogue < UNTRANSLATED
-
+W-what should I do...?
 > END STRING
 
 > BEGIN STRING
 お・・・？
 > CONTEXT: Map605/events/1/pages/0/87/Dialogue < UNTRANSLATED
 > CONTEXT: Map503/events/1/pages/1/36/Dialogue < UNTRANSLATED
-
+Oh...?
 > END STRING
 
 > BEGIN STRING
 な・・・なんだコレ？
 > CONTEXT: Map605/events/1/pages/0/88/Dialogue < UNTRANSLATED
-
+Wh... what are you?
 > END STRING
 
 > BEGIN STRING
 見たことない生き物が・・・っ！
 > CONTEXT: Map605/events/1/pages/0/89/Dialogue < UNTRANSLATED
-
+I've never seen a creature like this before...!
 > END STRING
 
 > BEGIN STRING
 攻撃してきたーーーーーーっ！！！
 > CONTEXT: Map605/events/1/pages/0/102/Dialogue < UNTRANSLATED
-
+It attacked meeeeeeeeeee!!!
 > END STRING
 
 > BEGIN STRING
 ええと、ええと！　初めて見るヘンな生き物に
 突然襲われた時は・・・！
 > CONTEXT: Map605/events/1/pages/0/113/Dialogue < UNTRANSLATED
-
+Let's see, let's see! If attacked by a strange
+creature you've never seen, you should...!
 > END STRING
 
 > BEGIN STRING
 とりあえずグーパンチで反撃だっ！！！
 > CONTEXT: Map605/events/1/pages/0/115/Dialogue < UNTRANSLATED
-
+For starters, punch back!!!
 > END STRING
 
 > BEGIN STRING
 ・・・あ、やっつけた！
 > CONTEXT: Map605/events/1/pages/0/147/Dialogue < UNTRANSLATED
-
+...Woah, I beat it!
 > END STRING
 
 > BEGIN STRING
 わたしすごい！！
 > CONTEXT: Map605/events/1/pages/0/151/Dialogue < UNTRANSLATED
-
+I'm amazing!!
 > END STRING
 
 > BEGIN STRING
 うわ！　また出た！！
 > CONTEXT: Map605/events/1/pages/0/175/Dialogue < UNTRANSLATED
-
+Uwah! More of 'em!!
 > END STRING
 
 > BEGIN STRING
 あいたっ！！
 > CONTEXT: Map605/events/1/pages/0/208/Dialogue < UNTRANSLATED
-
+Hiyaah!!
 > END STRING
 
 > BEGIN STRING
 ここ、ヤバいとこだ・・・！
 > CONTEXT: Map605/events/1/pages/0/242/Dialogue < UNTRANSLATED
-
+This place is totally dangerous...!
 > END STRING
 
 > BEGIN STRING
 とりあえず逃げなきゃ！
 > CONTEXT: Map605/events/1/pages/0/243/Dialogue < UNTRANSLATED
-
+I have to get out of here!
 > END STRING
 
 > BEGIN STRING
 い、痛・・・っ！！
 > CONTEXT: Map605/events/1/pages/0/294/Dialogue < UNTRANSLATED
-
+O-ouch...!!
 > END STRING
 
 > BEGIN STRING
 つ、疲れた・・・
 > CONTEXT: Map605/events/1/pages/0/349/Dialogue < UNTRANSLATED
-
+S-so tired...!!
 > END STRING
 
 > BEGIN STRING
 ・・・あ！　水だ！
 > CONTEXT: Map605/events/1/pages/0/372/Dialogue < UNTRANSLATED
-
+...Ah! Water!
 > END STRING
 
 > BEGIN STRING
 の、飲めるかな・・・？
 > CONTEXT: Map605/events/1/pages/0/392/Dialogue < UNTRANSLATED
-
+I-I wonder if this is drinkable...?
 > END STRING
 
 > BEGIN STRING
 おおー！　おいしい！！
 > CONTEXT: Map605/events/1/pages/0/400/Dialogue < UNTRANSLATED
-
+Wooaahh! Delicious!!
 > END STRING
 
 > BEGIN STRING
 ごく・・・ごく・・・ごく・・・ごく・・・ごく・・・ごく・・・
 > CONTEXT: Map605/events/1/pages/0/404/Dialogue < UNTRANSLATED
 > CONTEXT: Map327/events/10/pages/0/89/Dialogue < UNTRANSLATED
-
+Glug... glug... glug... glug... glug... glug...
 > END STRING
 
 > BEGIN STRING
 ごく・・・・ごく・・・・ごく・・・・・ごく・・・・・ごく・・・・・
 > CONTEXT: Map605/events/1/pages/0/405/Dialogue < UNTRANSLATED
-
+Glug..... glug..... glug..... glug..... glug.....
 > END STRING
 
 > BEGIN STRING
 ぷはー！　生き返るぅ・・・
 > CONTEXT: Map605/events/1/pages/0/409/Dialogue < UNTRANSLATED
-
+Puhaa! I'm back to life...
 > END STRING
 
 > BEGIN STRING
 ふう・・・ちょ、ちょっと飲みすぎたかな・・・？
 > CONTEXT: Map605/events/1/pages/0/413/Dialogue < UNTRANSLATED
-
+Fu... m-maybe I drank a little too much...?
 > END STRING
 
 > BEGIN STRING
 わぁお・・・
 > CONTEXT: Map605/events/1/pages/0/453/Dialogue < UNTRANSLATED
 > CONTEXT: Map127/events/16/pages/1/330/Dialogue < UNTRANSLATED
-
+Waaohh...
 > END STRING
