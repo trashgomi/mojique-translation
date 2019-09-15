@@ -2,15 +2,16 @@
 > BEGIN STRING
 どうやら、無事に森を抜けることができたようだ。
 > CONTEXT: Map012/events/5/pages/0/10/Dialogue < UNTRANSLATED
-It appears we've made it safely through the forest.
+It appears we've made it safely through
+the forest.
 > END STRING
 
 > BEGIN STRING
 ここが老人の言っていた「ジンブー村」と
 見える。
 > CONTEXT: Map012/events/5/pages/0/11/Dialogue < UNTRANSLATED
-This must be the "Jinbu village" that the old man
-mentioned.
+This must be the "Jinbu village" that the old
+man mentioned.
 > END STRING
 
 > BEGIN STRING
@@ -99,7 +100,7 @@ reopened it as a training ground.
 > BEGIN STRING
 あ、バッタ！！
 > CONTEXT: Map012/events/23/pages/0/1/Dialogue < UNTRANSLATED
-Woah, grasshopper!!
+Woah, a grasshopper!!
 > END STRING
 
 > BEGIN STRING
@@ -140,7 +141,7 @@ Grandma Beth
 「インフィニティ・ユニオン・ブリンガー！！！」
 > CONTEXT: Map012/events/27/pages/0/3/Dialogue < UNTRANSLATED
 Grandma Beth
-"Infinity ・Union ・Bringer!!!"
+"Infinity ・ Union ・ Bringer!!!"
 > END STRING
 
 > BEGIN STRING
@@ -193,8 +194,8 @@ My name is Tokonatsu. A first-year, like him.
 　細かいことはいいわ。」
 > CONTEXT: Map012/events/27/pages/0/29/Dialogue < UNTRANSLATED
 Grandma Beth
-"...'A certain school'? That raises some questions,
-but never to mind."
+"...'A certain school'? That raises some
+questions, but never to mind."
 > END STRING
 
 > BEGIN STRING
@@ -259,7 +260,7 @@ The general store...? Where was that, again...??
 > CONTEXT: Map012/events/27/pages/0/56/Dialogue < UNTRANSLATED
 Grandma Beth
 "It's by the village entrance. It has a signboard
-that says "ITEM" stuck to it, so use that as a
+that says "ＩＴＥＭ" stuck to it, so use that as a
 landmark."
 > END STRING
 

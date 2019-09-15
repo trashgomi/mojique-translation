@@ -55,16 +55,16 @@ village children."
 　からも人気者でしてな。」
 > CONTEXT: Map018/events/2/pages/0/17/Dialogue < UNTRANSLATED
 Village Head
-"She's an energetic, good-spirited old dame, that
-Beth. She's popular with the kids, too."
+"She's an energetic, good-spirited old dame,
+that Beth. She's popular with the kids, too."
 > END STRING
 
 > BEGIN STRING
 はむこ、聞いているのか？　目的の老婆は
 ここではなく、外にいるとのことだ。
 > CONTEXT: Map018/events/2/pages/0/27/Dialogue < UNTRANSLATED
-Hamuko, are you listening? The old woman we're
-looking for is outside, after all.
+Hamuko, are you listening? The old woman
+we're looking for was outside all along.
 > END STRING
 
 > BEGIN STRING
@@ -94,7 +94,7 @@ her?"
 地図を持っていると聞いた。
 > CONTEXT: Map018/events/2/pages/0/39/Dialogue < UNTRANSLATED
 We heard from a villager in Dono that an old
-lady called Beth owned a map.
+woman called Beth owned a map.
 > END STRING
 
 > BEGIN STRING
@@ -124,7 +124,8 @@ Village Head
 > BEGIN STRING
 よし。　さっそく外を探してみるとしよう。
 > CONTEXT: Map018/events/2/pages/0/50/Dialogue < UNTRANSLATED
-Very good. Let's go now and look around outside.
+Very good. Let's go straight away and have a
+look around outside.
 > END STRING
 
 > BEGIN STRING

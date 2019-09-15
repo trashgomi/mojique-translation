@@ -363,7 +363,7 @@
 え、えっと・・・
 > CONTEXT: Map315/events/10/pages/0/176/Dialogue < UNTRANSLATED
 > CONTEXT: Map009/events/2/pages/1/93/Dialogue < UNTRANSLATED
-
+U-umm...
 > END STRING
 
 > BEGIN STRING

@@ -146,7 +146,7 @@ SKL＋\\V[400], AGI＋\\V[401]
 > CONTEXT: Commonevents/110/1/Dialogue < UNTRANSLATED
 Hamuko
 「Uhh... w-what should I do?
-　I guess I'll start by attacking?
+　I guess I'll start by charging in?
 > END STRING
 
 > BEGIN STRING
@@ -209,8 +209,8 @@ Please start by choosing "Fight".
 「戦う」を選ぶと、行動力の高いキャラから順に
 行動することができます。
 > CONTEXT: Commonevents/110/27/Dialogue < UNTRANSLATED
-Upon selecting "Fight", characters will be able to act
-in order of initiative.
+Upon selecting "Fight", characters will be able
+to act in order of initiative.
 > END STRING
 
 > BEGIN STRING
@@ -219,15 +219,16 @@ in order of initiative.
 「攻撃」、「スキル」、「待機」
 が選択できます。
 > CONTEXT: Commonevents/110/29/Dialogue < UNTRANSLATED
-When an allied character is able to act, a command
-menu will be shown from which you can choose
-between "Attack", "Skills", and "Wait".
+When an allied character is able to act, a
+command menu will be shown from which you
+can choose "Attack", "Skills", or "Wait".
 > END STRING
 
 > BEGIN STRING
 「攻撃」を選び、敵にダメージを与えましょう。
 > CONTEXT: Commonevents/110/33/Dialogue < UNTRANSLATED
-Let's choose "Attack" and deal some damage to the opponent.
+Let's choose "Attack" and deal some damage
+to the opponent.
 > END STRING
 
 > BEGIN STRING
@@ -236,17 +237,18 @@ Let's choose "Attack" and deal some damage to the opponent.
 今のはむこは何も覚えていないので選択
 できません。
 > CONTEXT: Commonevents/110/42/Dialogue < UNTRANSLATED
-By choosing "Skills" from the command menu, special
-attacks and moves can be unleashed. However, Hamuko
-doesn't know any skills yet, so this can't be selected.
+By choosing "Skills" from the command menu,
+special attacks and moves can be unleashed.
+However, Hamuko doesn't know any skills yet,
+so this can't be selected.
 > END STRING
 
 > BEGIN STRING
 「待機」を選ぶと、何もせずに自分の行動を
 終了します。
 > CONTEXT: Commonevents/110/46/Dialogue < UNTRANSLATED
-If you choose "Wait", you can skip your turn without
-doing anything.
+If you choose "Wait", you can skip your turn
+without doing anything.
 > END STRING
 
 > BEGIN STRING
@@ -254,9 +256,9 @@ doing anything.
 されます。その後は敵や味方が5回行動を
 取るごとに表示されます。
 > CONTEXT: Commonevents/110/56/Dialogue < UNTRANSLATED
-The "Top Menu" will be shown at the start of combat, and
-then after every 5 turns taken by our allies and enemies in
-battle.
+The "Top Menu" will be shown at the start of
+combat, and then after every 5 turns taken by
+our enemies and allies in battle.
 > END STRING
 
 > BEGIN STRING
@@ -264,32 +266,35 @@ battle.
 アローキーで動かして、攻撃対象を選ぶ
 ことができます。
 > CONTEXT: Commonevents/110/67/Dialogue < UNTRANSLATED
-When there are multiple enemies, you can choose the target
-of your attacks, shown by the target cursor, using the arrow
-keys.
+When there are multiple enemies, you can
+choose the target of your attacks, shown by
+the target cursor, using the arrow keys.
 > END STRING
 
 > BEGIN STRING
 時々、ダメージが2倍に跳ね上がる
 「クリティカルヒット」が出る場合があります。
 > CONTEXT: Commonevents/110/78/Dialogue < UNTRANSLATED
-Occasionally, a double-damage "Critical Hit" will occur.
+Occasionally, a double-damage "Critical Hit"
+will occur.
 > END STRING
 
 > BEGIN STRING
 敵から攻撃を受けた際、反撃を繰り出す
 「カウンター」が発動する場合があります。
 > CONTEXT: Commonevents/110/88/Dialogue < UNTRANSLATED
-When attacked by an enemy, our allies may execute a
-"Counter", responding with an attack of their own.
+When attacked by an enemy, our allies may
+execute a "Counter", responding with an
+attack of their own.
 > END STRING
 
 > BEGIN STRING
 カウンターの発動確率や威力は、攻撃を
 受けたキャラの防御力に依存します。
 > CONTEXT: Commonevents/110/90/Dialogue < UNTRANSLATED
-The chance of a counter occurring, and its power, depends
-on the Defense of the character.
+The chance of a counter occurring, and its
+power, depends on the Defense of the
+character.
 > END STRING
 
 > BEGIN STRING
@@ -16204,13 +16209,13 @@ Watch Tomocchi's outdoor scene?
 > BEGIN STRING
 ふぅ～・・・スッキリした・・・
 > CONTEXT: Commonevents/322/56/Dialogue < UNTRANSLATED
-Fuu~... much better...
+Fuu～... much better...
 > END STRING
 
 > BEGIN STRING
 ふぅ～・・・スッキリ♪
 > CONTEXT: Commonevents/322/62/Dialogue < UNTRANSLATED
-Fuu~... better ♪
+Fuu～... better ♪
 > END STRING
 
 > BEGIN STRING
@@ -22212,7 +22217,7 @@ Sniff... I, I couldn't... hold it in... uuu... ////
 > BEGIN STRING
 セーブする？
 > CONTEXT: Commonevents/919/2/Dialogue < UNTRANSLATED
-
+Save?
 > END STRING
 
 > BEGIN STRING

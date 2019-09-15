@@ -27,5 +27,5 @@ I drank loads of water, so a lot came out... ////
 > BEGIN STRING
 ふぅー～・・・我慢できてよかったぁ・・・
 > CONTEXT: Map611/events/1/pages/0/56/Dialogue < UNTRANSLATED
-Phew~... I'm glad I made it...
+Phew～... I'm glad I made it...
 > END STRING

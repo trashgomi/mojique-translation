@@ -79,5 +79,5 @@
 > CONTEXT: Map402/events/2/pages/0/109/Dialogue < UNTRANSLATED
 > CONTEXT: Map170/events/13/pages/0/89/Dialogue < UNTRANSLATED
 > CONTEXT: Map009/events/2/pages/1/353/Dialogue < UNTRANSLATED
-
+Let's move.
 > END STRING

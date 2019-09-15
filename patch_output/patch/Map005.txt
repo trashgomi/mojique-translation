@@ -2,13 +2,14 @@
 > BEGIN STRING
 ふう。　もうヤツは追ってこないようだな。
 > CONTEXT: Map005/events/1/pages/0/19/Dialogue < UNTRANSLATED
-Phew. It looks like it's stopped chasing me.
+Phew. It looks like it's no longer chasing me.
 > END STRING
 
 > BEGIN STRING
 人の話し声が聞こえる。　集落だろうか。
 > CONTEXT: Map005/events/1/pages/0/30/Dialogue < UNTRANSLATED
-I can hear people talking. This must be a village.
+I can hear people's voices. This must be a
+settlement of some kind.
 > END STRING
 
 > BEGIN STRING
@@ -100,8 +101,8 @@ some mighty fine garments.
 あ、違う、スイカだ！　ん？　・・・あれ？
 ・・・なんだっけ。
 > CONTEXT: Map005/events/17/pages/0/1/Dialogue < UNTRANSLATED
-This here's a cucumber field. Or was it eggplants?
-No, wait... watermelons! ...Huh?
+This here's a cucumber field. Or was it
+eggplants? No, wait... watermelons! ...Huh?
 What was it, again...?
 > END STRING
 

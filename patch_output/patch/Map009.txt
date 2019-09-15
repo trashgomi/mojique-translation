@@ -17,8 +17,8 @@ Elderly Man
 いや、連れというわけではないが、同じ高校に
 通う同級生だ。
 > CONTEXT: Map009/events/2/pages/1/11/Dialogue < UNTRANSLATED
-Well I wouldn't call her a friend, but we are in the
-same grade at high school.
+Well I wouldn't call her a friend, but we are in
+the same grade at high school.
 > END STRING
 
 > BEGIN STRING
@@ -55,8 +55,8 @@ Elderly Man
 　襲われて気を失ったのじゃろう。」
 > CONTEXT: Map009/events/2/pages/1/36/Dialogue < UNTRANSLATED
 Elderly Man
-"She wasn't injured badly, but she must'a passed
-out after gettin' attacked by one'a them demons."
+"She wasn't injured badly, but she must'a
+passed out after gettin' attacked by a demon."
 > END STRING
 
 > BEGIN STRING
@@ -132,7 +132,7 @@ Do you know where we are?
 > BEGIN STRING
 ここ、どこ？
 > CONTEXT: Map009/events/2/pages/1/98/Dialogue < UNTRANSLATED
-Where's this?
+Where am I?
 > END STRING
 
 > BEGIN STRING
@@ -147,8 +147,8 @@ No idea. That's what I'd like to know.
 　のじゃが・・・」
 > CONTEXT: Map009/events/2/pages/1/103/Dialogue < UNTRANSLATED
 Elderly Man
-"Ya don't remember? You were passed out in the
-forest to the north..."
+"Ya don't remember? You were passed out in
+the forest to the north..."
 > END STRING
 
 > BEGIN STRING
@@ -177,16 +177,16 @@ encountered in the forest.
 あんな化け物と戦えば負けるに決まってる
 だろう。　無鉄砲な女だな。
 > CONTEXT: Map009/events/2/pages/1/120/Dialogue < UNTRANSLATED
-Of course you'd lost a fight against creatures like
-those. Reckless woman.
+Of course you'd lost a fight against creatures
+like those. Reckless woman.
 > END STRING
 
 > BEGIN STRING
 いや～、何匹かやっつけたんだけど、そのうち
 疲れちゃって・・・
 > CONTEXT: Map009/events/2/pages/1/124/Dialogue < UNTRANSLATED
-No way~ I beat up so many of them, it's just that
-I got sleepy...
+No way～, I beat up so many of them, it's just
+that I got tired out...
 > END STRING
 
 > BEGIN STRING
@@ -232,7 +232,7 @@ Agreed. That's worthy of admiration.
 > BEGIN STRING
 い、いやいや、それほどでも～！
 > CONTEXT: Map009/events/2/pages/1/147/Dialogue < UNTRANSLATED
-N-no way, it's nothing special~!
+N-no way, it's nothing special～!
 > END STRING
 
 > BEGIN STRING
@@ -265,8 +265,8 @@ Oh, yeah. It was the same for me.
 クラスの友達と一緒に甲板で海原を眺めてた
 とこまでは覚えてるんだけど・・・
 > CONTEXT: Map009/events/2/pages/1/159/Dialogue < UNTRANSLATED
-All I remember is being on deck, looking out over
-the ocean with my friend from class...
+All I remember is being on deck, looking out
+over the ocean with my friend from class...
 > END STRING
 
 > BEGIN STRING
@@ -323,7 +323,7 @@ schoolmates could be nearby.
 > BEGIN STRING
 えと・・・早乙女・・・・ナニくんだっけ？
 > CONTEXT: Map009/events/2/pages/1/202/Dialogue < UNTRANSLATED
-Umm... Saotome... what was it?
+Umm... it was Saotome... something, right?
 > END STRING
 
 > BEGIN STRING
@@ -380,8 +380,8 @@ This isn't Sadogashima, is it?
 「サドガシマ・・・？　はて、聞かぬ地名じゃの。」
 > CONTEXT: Map009/events/2/pages/1/238/Dialogue < UNTRANSLATED
 Elderly Man
-"Sa-do-ga-shi-ma...? That ain't no place I've ever
-heard of."
+"Sa-do-ga-shi-ma...? That ain't no place I've
+ever heard of."
 > END STRING
 
 > BEGIN STRING
@@ -444,8 +444,8 @@ village."
 　ゆっくり休んで行くとええ。」
 > CONTEXT: Map009/events/2/pages/1/265/Dialogue < UNTRANSLATED
 Elderly Man
-"I don't know where ya came from, but kick back
-and relax to yer heart's content."
+"I don't know where ya came from, but kick
+back and relax to yer heart's content."
 > END STRING
 
 > BEGIN STRING
@@ -458,8 +458,8 @@ I appreciate the concern.
 どこかも分からないところで、じっとしてるわけ
 にもいかないよね・・・
 > CONTEXT: Map009/events/2/pages/1/274/Dialogue < UNTRANSLATED
-We don't have time to wait around in a place like
-this...
+We don't have time to wait around in a place
+like this...
 > END STRING
 
 > BEGIN STRING
@@ -481,7 +481,7 @@ don't have nothin' as grand as that."
 > BEGIN STRING
 地図など、別に珍しい物じゃないだろう。
 > CONTEXT: Map009/events/2/pages/1/286/Dialogue < UNTRANSLATED
-Is a map really so special as that?
+Is a map really anything that special?
 > END STRING
 
 > BEGIN STRING
@@ -489,7 +489,7 @@ Is a map really so special as that?
 「お前さんたち、町の出身かな？」
 > CONTEXT: Map009/events/2/pages/1/288/Dialogue < UNTRANSLATED
 Elderly Man
-"You kids, do ya come from the town?"
+"You kids, d'ya come from town?"
 > END STRING
 
 > BEGIN STRING
@@ -515,15 +515,15 @@ any old village like this."
 > BEGIN STRING
 （い、田舎なんだなぁ・・・群馬レベルかも？）
 > CONTEXT: Map009/events/2/pages/1/298/Dialogue < UNTRANSLATED
-(T-this is super countryside... Is this, like, Gunma
-prefecture?)
+(T-this is super countryside... Is this, like,
+Gunma prefecture?)
 > END STRING
 
 > BEGIN STRING
 って！！　群馬は田舎じゃねえべ！！
 山が多くてビルが少ないだけだんべ！！
 > CONTEXT: Map009/events/2/pages/1/302/Dialogue < UNTRANSLATED
-Well, I'll be! There might be lotsa mountains and
+Well, I'll be! There might be lotsa mountains'n
 not so many buildin's, but Gunma ain't no
 countryside or nothin'!
 > END STRING
@@ -542,8 +542,8 @@ Elderly Man
 　地図を持っているかもしれんのう。」
 > CONTEXT: Map009/events/2/pages/1/307/Dialogue < UNTRANSLATED
 Elderly Man
-"But... yep. Could be that Grandma Beth has one
-of them maps yer after."
+"But... yep. Could be that Grandma Beth has
+one of them maps yer after."
 > END STRING
 
 > BEGIN STRING
@@ -588,8 +588,8 @@ To the north, right? Thank you very much!
 　森を抜けねばならんぞ。」
 > CONTEXT: Map009/events/2/pages/1/327/Dialogue < UNTRANSLATED
 Elderly Man
-"Wait, wait, ya can't just go through the forest ta
-Jinbu village!"
+"Wait, wait, ya can't just go through that there
+forest ta Jinbu village!"
 > END STRING
 
 > BEGIN STRING
@@ -626,15 +626,15 @@ Yeah. Like, 5 or 6 of them, I think.
 夢中で暴れたから、途中で息切れしちゃって
 負けちゃったみたいだけどね・・・
 > CONTEXT: Map009/events/2/pages/1/347/Dialogue < UNTRANSLATED
-I just went wild on them, in a total daze.
-But I guess I ran out of breath halfway and lost...
+I just went wild on them, in a total daze. But I
+guess I ran out of breath halfway and lost...
 > END STRING
 
 > BEGIN STRING
 よし。　ならば安全に森を抜ける算段はある。
 > CONTEXT: Map009/events/2/pages/1/352/Dialogue < UNTRANSLATED
-Good. In that case, we can safely make it through
-the forest.
+Good. In that case, we can safely make it
+through the forest.
 > END STRING
 
 > BEGIN STRING
@@ -656,7 +656,7 @@ here forever.
 > BEGIN STRING
 だ、大丈夫かな？
 > CONTEXT: Map009/events/2/pages/1/364/Dialogue < UNTRANSLATED
-W- will we be OK?
+W-will we be OK?
 > END STRING
 
 > BEGIN STRING

@@ -29,7 +29,7 @@
 > CONTEXT: Map548/events/8/pages/0/14/Dialogue < UNTRANSLATED
 > CONTEXT: Map381/events/12/pages/0/36/Dialogue < UNTRANSLATED
 > CONTEXT: Map009/events/2/pages/1/198/Dialogue < UNTRANSLATED
-
+That's true.
 > END STRING
 
 > BEGIN STRING

@@ -18,24 +18,25 @@ I'm really sorry...
 　ですからー・・・」
 > CONTEXT: Map609/events/6/pages/0/15/Dialogue < UNTRANSLATED
 General Store Clerk
-"Not at all, it was my fault for not reading the atmosphere,
-and leading you here and there—..."
+"Not at all, it was my fault for not reading the
+atmosphere, and leading you here and
+there—..."
 > END STRING
 
 > BEGIN STRING
 ちゃ、ちゃんと言わなかったわたしが一番
 悪いんだよ・・・
 > CONTEXT: Map609/events/6/pages/0/20/Dialogue < UNTRANSLATED
-I was the one at fault for not saying anything in the
-first place...
+I was the one at fault for not saying anything
+in the first place...
 > END STRING
 
 > BEGIN STRING
 いろいろ不可思議なことがあって、気持ちが
 混乱していたのもあるだろう。
 > CONTEXT: Map609/events/6/pages/0/25/Dialogue < UNTRANSLATED
-There were circumstances beyond your control, and you
-simply got thrown off.
+There were circumstances beyond your control,
+and you simply got thrown off.
 > END STRING
 
 > BEGIN STRING
@@ -68,8 +69,8 @@ Thanks for your care, lady.
 出発する。
 > CONTEXT: Map609/events/6/pages/0/37/Dialogue < UNTRANSLATED
 > CONTEXT: Map609/events/6/pages/0/125/Dialogue < UNTRANSLATED
-We'll be off to find the classmate of ours who left with
-the map.
+We'll be off to find the classmate of ours who
+ran off with the map.
 > END STRING
 
 > BEGIN STRING
@@ -143,7 +144,8 @@ General Store Clerk
 > CONTEXT: Map609/events/6/pages/0/82/Dialogue < UNTRANSLATED
 > CONTEXT: Map609/events/6/pages/0/171/Dialogue < UNTRANSLATED
 General Store Clerk
-"Those are really convenient for healing your body!"
+"Those are really convenient whenever you
+want to heal your body!"
 > END STRING
 
 > BEGIN STRING
@@ -164,7 +166,8 @@ Wah! Orange juice—!
 飲みすぎて、また粗相しないようにな。
 > CONTEXT: Map609/events/6/pages/0/95/Dialogue < UNTRANSLATED
 > CONTEXT: Map609/events/6/pages/0/184/Dialogue < UNTRANSLATED
-Don't drink too much, or you'll have another accident.
+Don't drink too much, or you'll have another
+accident.
 > END STRING
 
 > BEGIN STRING
@@ -188,8 +191,8 @@ You made it, and that's what matters.
 > BEGIN STRING
 次からは、恥ずかしがらずに申告してほしい。
 > CONTEXT: Map609/events/6/pages/0/109/Dialogue < UNTRANSLATED
-From now on, I want you to tell me when you need
-something. Don't be embarrassed.
+From now on, I want you to tell me when you
+need something. Don't be embarrassed.
 > END STRING
 
 > BEGIN STRING
@@ -198,8 +201,8 @@ something. Don't be embarrassed.
 　訴えるのは、恥ずかしいですよねー。」
 > CONTEXT: Map609/events/6/pages/0/114/Dialogue < UNTRANSLATED
 General Store Clerk
-"You say that, but it's pretty embarrassing to say
-that you need the toilet in front of a boy—."
+"You say that, but it's pretty embarrassing to
+say that you need the toilet in front of a boy—."
 > END STRING
 
 > BEGIN STRING
@@ -209,9 +212,9 @@ that you need the toilet in front of a boy—."
 　よく分かりますしー。」
 > CONTEXT: Map609/events/6/pages/0/117/Dialogue < UNTRANSLATED
 General Store Clerk
-"In my line of work, I often can't leave my seat even
-if I feel that urge, so I know how hard it is to
-hold it, too—."
+"In my line of work, I often can't leave my seat
+even if I feel urge to go, so I know how hard it
+is to hold it, too—."
 > END STRING
 
 > BEGIN STRING
@@ -232,23 +235,25 @@ Lady, thanks for your help.
 　ちゃったお詫びも込めてです！」
 > CONTEXT: Map609/events/6/pages/0/168/Dialogue < UNTRANSLATED
 General Store Clerk
-"Of course—! It includes an apology for not reading
-the atmosphere and pulling you around!"
+"Of course—! It includes an apology for not
+reading the atmosphere and pulling you
+around everywhere!"
 > END STRING
 
 > BEGIN STRING
 し、し、してないもん！！　ちゃんと間に合った
 もん！！！
 > CONTEXT: Map609/events/6/pages/0/187/Dialogue < UNTRANSLATED
-I, I, I did not have an accident!! I totally made it!!!
+I, I, I did not have an accident!! I totally
+made it!!!
 > END STRING
 
 > BEGIN STRING
 【メニューコマンド】と【キャラ会話】が
 使用可能になりました。
 > CONTEXT: Map609/events/6/pages/0/211/Dialogue < UNTRANSLATED
-Gained the ability to use【Menu Commands】 and
-【Chat】.
+Gained the ability to use 【Menu Commands】
+and 【Chat】.
 > END STRING
 
 > BEGIN STRING
@@ -256,9 +261,9 @@ Gained the ability to use【Menu Commands】 and
 開き、アイテムの使用やステータスの確認が
 できます。
 > CONTEXT: Map609/events/6/pages/0/213/Dialogue < UNTRANSLATED
-By pressing the 【X】 key, the menu screen will open,
-allowing you to use items, check character statuses, and
-more.
+By pressing the 【X】 key, the menu screen
+will open, allowing you to use items, check
+character statuses, and so on.
 > END STRING
 
 > BEGIN STRING
@@ -267,6 +272,6 @@ more.
 現在の目的などを確認できます。
 > CONTEXT: Map609/events/6/pages/0/216/Dialogue < UNTRANSLATED
 By pressing the 【Z】 key, you can talk to the
-characters in your party. This way, you can confirm
-your current objective, and so on.
+characters in your party. This way, you can
+confirm your current objective, and more.
 > END STRING

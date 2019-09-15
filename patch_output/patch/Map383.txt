@@ -379,7 +379,7 @@
 > CONTEXT: Map097/events/2/pages/0/34/Dialogue < UNTRANSLATED
 > CONTEXT: Map009/events/2/pages/1/41/Dialogue < UNTRANSLATED
 > CONTEXT: Map127/events/11/pages/0/259/Dialogue < UNTRANSLATED
-
+I see.
 > END STRING
 
 > BEGIN STRING

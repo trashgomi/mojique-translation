@@ -19,8 +19,8 @@ General Store Clerk
 > CONTEXT: Map607/events/1/pages/1/22/Dialogue < UNTRANSLATED
 > CONTEXT: Map016/events/1/pages/1/22/Dialogue < UNTRANSLATED
 General Store Clerk
-"From what I can tell, you two seem to be a liiiitle
-inexperienced at journeying."
+"From what I can tell, you two seem to be a
+liiiitle new to journeying."
 > END STRING
 
 > BEGIN STRING
@@ -64,8 +64,8 @@ Ah... uhh... yep...
 > CONTEXT: Map607/events/1/pages/1/38/Dialogue < UNTRANSLATED
 > CONTEXT: Map016/events/1/pages/1/38/Dialogue < UNTRANSLATED
 General Store Clerk
-"In that case, please follow me. I'll let you know the most
-important points!"
+"In that case, please follow me. I'll teach you
+everything you need to know!"
 > END STRING
 
 > BEGIN STRING
@@ -1434,7 +1434,7 @@ Old Lady
 「終わるまで、ちょっと待っておくれ。」
 > CONTEXT: Map610/events/5/pages/0/34/Dialogue < UNTRANSLATED
 Old Lady
-"Just hold on a moment, 'til I'm done."
+"Just hold on a moment 'til I'm done."
 > END STRING
 
 > BEGIN STRING
@@ -1449,8 +1449,8 @@ Eh, um... h... how long will it take?!
 　またおいで。」
 > CONTEXT: Map610/events/5/pages/0/41/Dialogue < UNTRANSLATED
 Old Lady
-"I just got started here, so come back in about fifteen
-minutes."
+"I just got started here, so come back in about
+fifteen minutes."
 > END STRING
 
 > BEGIN STRING
@@ -1493,7 +1493,8 @@ Old Lady
 　言えないわ。」
 > CONTEXT: Map610/events/5/pages/0/59/Dialogue < UNTRANSLATED
 Old Lady
-"I can't say no if you're fidgeting and grabbing that much."
+"I can't say no if you're fidgeting and grabbing
+that much."
 > END STRING
 
 > BEGIN STRING

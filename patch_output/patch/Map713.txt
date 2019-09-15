@@ -66,7 +66,7 @@
 > CONTEXT: Map098/events/5/pages/0/722/Dialogue < UNTRANSLATED
 > CONTEXT: Map098/events/5/pages/0/727/Dialogue < UNTRANSLATED
 > CONTEXT: Map009/events/2/pages/1/75/Dialogue < UNTRANSLATED
-
+...Ah.
 > END STRING
 
 > BEGIN STRING

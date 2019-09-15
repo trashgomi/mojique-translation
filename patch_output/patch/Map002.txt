@@ -72,5 +72,5 @@ This suspicious item is gleaming and sparkling.
 今は触らないでおこう・・・。
 > CONTEXT: Map002/events/5/pages/0/2/Dialogue < UNTRANSLATED
 > CONTEXT: Map002/events/6/pages/0/2/Dialogue < UNTRANSLATED
-I'll leave it for now...
+Better leave it for now...
 > END STRING

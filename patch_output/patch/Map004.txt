@@ -6,7 +6,7 @@
 > CONTEXT: Map004/events/10/pages/0/2/Dialogue < UNTRANSLATED
 > CONTEXT: Map004/events/11/pages/0/2/Dialogue < UNTRANSLATED
 > CONTEXT: Map004/events/18/pages/0/2/Dialogue < UNTRANSLATED
-The air is fresh.
+The air is crisp, and fresh.
 > END STRING
 
 > BEGIN STRING
@@ -41,8 +41,8 @@ even better.
 > CONTEXT: Map004/events/10/pages/0/45/Dialogue < UNTRANSLATED
 > CONTEXT: Map004/events/11/pages/0/45/Dialogue < UNTRANSLATED
 > CONTEXT: Map004/events/18/pages/0/45/Dialogue < UNTRANSLATED
-This would not appear to be any animal that
-lives on this Earth, judging from its appearance.
+Judging from its appearance, that would not
+appear to be any animal that lives on this Earth.
 > END STRING
 
 > BEGIN STRING
@@ -64,8 +64,8 @@ One might even call this a "Monster"...
 > CONTEXT: Map004/events/10/pages/0/49/Dialogue < UNTRANSLATED
 > CONTEXT: Map004/events/11/pages/0/49/Dialogue < UNTRANSLATED
 > CONTEXT: Map004/events/18/pages/0/49/Dialogue < UNTRANSLATED
-It's difficult to believe, but I'm astounded by
-this creature's existence...
+It's difficult to believe that such a creature
+exists. I'm completely astounded...
 > END STRING
 
 > BEGIN STRING

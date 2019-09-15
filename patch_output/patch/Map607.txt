@@ -24,14 +24,14 @@ C-c-cleaning in progress?!?!
 そんなぁ！　ど、どうしよぉ・・・っ！　がまん・・・
 しなくちゃ・・・っ！
 > CONTEXT: Map607/events/5/pages/0/37/Dialogue < UNTRANSLATED
-That can't be! W-what am I gonna do...?! I have to...
-hold it...!
+That can't be! W-what am I gonna do...?!
+I have to... hold it...!
 > END STRING
 
 > BEGIN STRING
 うううぅーーー・・・っ！　ううううぅぅーー～～っ！
 > CONTEXT: Map607/events/5/pages/0/43/Dialogue < UNTRANSLATED
-Uuuuuuu———...! Uuuuuuu——~~!
+Uuuuuuu———...! Uuuuuuu——～～!
 > END STRING
 
 > BEGIN STRING

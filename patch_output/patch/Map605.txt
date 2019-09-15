@@ -30,13 +30,13 @@ Seriously, where? Why a forest?
 > BEGIN STRING
 ・・・にゃんこ？　にゃんこー！　どこー！！？
 > CONTEXT: Map605/events/1/pages/0/35/Dialogue < UNTRANSLATED
-...Nyanko? Nyankoooo! Where are youuuu?!!
+...Nyanko? Nyankoooo! Wheeere aaare youuu?!!
 > END STRING
 
 > BEGIN STRING
 ど、どうすればいいの、わたし・・・
 > CONTEXT: Map605/events/1/pages/0/53/Dialogue < UNTRANSLATED
-W-what should I do...?
+Wh-what should I do...?
 > END STRING
 
 > BEGIN STRING
@@ -75,7 +75,7 @@ creature you've never seen, you should...!
 > BEGIN STRING
 とりあえずグーパンチで反撃だっ！！！
 > CONTEXT: Map605/events/1/pages/0/115/Dialogue < UNTRANSLATED
-For starters, punch back!!!
+First things first, you punch back!!!
 > END STRING
 
 > BEGIN STRING
@@ -87,7 +87,7 @@ For starters, punch back!!!
 > BEGIN STRING
 わたしすごい！！
 > CONTEXT: Map605/events/1/pages/0/151/Dialogue < UNTRANSLATED
-I'm amazing!!
+I'm totally amazing!!
 > END STRING
 
 > BEGIN STRING
@@ -99,7 +99,7 @@ Uwah! More of 'em!!
 > BEGIN STRING
 あいたっ！！
 > CONTEXT: Map605/events/1/pages/0/208/Dialogue < UNTRANSLATED
-Hiyaah!!
+Owie!!
 > END STRING
 
 > BEGIN STRING
@@ -166,7 +166,7 @@ Puhaa! I'm back to life...
 > BEGIN STRING
 ふう・・・ちょ、ちょっと飲みすぎたかな・・・？
 > CONTEXT: Map605/events/1/pages/0/413/Dialogue < UNTRANSLATED
-Fu... m-maybe I drank a little too much...?
+Fuu... m-maybe I drank a little too much...?
 > END STRING
 
 > BEGIN STRING

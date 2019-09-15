@@ -20,7 +20,7 @@ Which way?
 > BEGIN STRING
 ほっ・・・やっつけた～！
 > CONTEXT: Map010/events/5/pages/2/19/Dialogue < UNTRANSLATED
-Hoh... we beat 'em~!
+Hoh... we beat 'em～!
 > END STRING
 
 > BEGIN STRING
@@ -45,8 +45,9 @@ No, no, that's not true.
 前に戦った時は、めちゃくちゃに暴れちゃった
 から、自分でもわけわかんなくなっちゃったけど、
 > CONTEXT: Map010/events/5/pages/2/29/Dialogue < UNTRANSLATED
-When I fought last time, I was just flailing around
-and didn't even know what was going on, but...
+When I fought last time, I was just flailing
+around and didn't even know what was going
+on, but...
 > END STRING
 
 > BEGIN STRING
@@ -91,13 +92,13 @@ Sure thing!
 > BEGIN STRING
 楽勝～！
 > CONTEXT: Map010/events/9/pages/2/17/Dialogue < UNTRANSLATED
-Easy peasy~!
+Easy peasy～!
 > END STRING
 
 > BEGIN STRING
 危なげない戦いだ。　見事と言っていい。
 > CONTEXT: Map010/events/9/pages/2/21/Dialogue < UNTRANSLATED
-It would be safe to call that an excellent victory.
+That was a safe victory. Excellent work.
 > END STRING
 
 > BEGIN STRING

@@ -4,7 +4,7 @@
 「いらっしゃいませー！」
 > CONTEXT: Map016/events/2/pages/0/1/Dialogue < UNTRANSLATED
 General Store Clerk
-"Welcome!"
+"Welcome—!"
 > END STRING
 
 > BEGIN STRING

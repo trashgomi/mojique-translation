@@ -105,7 +105,7 @@ Grandma Beth
 「・・・あっ！　そういやそうだったねえ！！」
 > CONTEXT: Map019/events/1/pages/0/59/Dialogue < UNTRANSLATED
 Grandma Beth
-"...Ah! That's right, I did!!"
+"...Ah! That's right, so I did!!"
 > END STRING
 
 > BEGIN STRING
@@ -114,8 +114,8 @@ Grandma Beth
 　忘れるようになっちゃったのよ！」
 > CONTEXT: Map019/events/1/pages/0/79/Dialogue < UNTRANSLATED
 Grandma Beth
-"I remember things from way back when, but I've
-come to forget things that've just happened!"
+"I remember things from way back when, but
+now I forget things that've just happened!"
 > END STRING
 
 > BEGIN STRING
@@ -144,8 +144,8 @@ This was a fool's errand.
 　あきらめてくれるかい？」
 > CONTEXT: Map019/events/1/pages/0/91/Dialogue < UNTRANSLATED
 Grandma Beth
-"Sorry about that. Since I only have the one map,
-would you mind giving it a rest?"
+"Sorry about that. Since I only have the one
+map, would you mind giving it a rest?"
 > END STRING
 
 > BEGIN STRING
@@ -191,7 +191,7 @@ We have absolutely no idea where this is.
 「ああ・・・そういえば・・・」
 > CONTEXT: Map019/events/1/pages/0/111/Dialogue < UNTRANSLATED
 Grandma Beth
-"Aah... speaking of which..."
+"Aaa... speaking of which..."
 > END STRING
 
 > BEGIN STRING
@@ -213,8 +213,8 @@ Eh? That means...
 > BEGIN STRING
 俺たちの同級生の可能性が高いな。
 > CONTEXT: Map019/events/1/pages/0/123/Dialogue < UNTRANSLATED
-There's a strong possibility that she's our
-classmate.
+There's a strong possibility that this 'young
+lady' is our classmate.
 > END STRING
 
 > BEGIN STRING
@@ -239,8 +239,8 @@ Grandma Beth
 　言ってたから、もしかしたら・・・」
 > CONTEXT: Map019/events/1/pages/0/129/Dialogue < UNTRANSLATED
 Grandma Beth
-"That young lady said she needed transportation,
-so maybe..."
+"That young lady was saying that she needed
+transportation, so maybe..."
 > END STRING
 
 > BEGIN STRING
@@ -265,7 +265,7 @@ through, it's naturally where you would go.
 そ、そのザザーブっていう町は、えっと・・・
 どこにあるんですか？
 > CONTEXT: Map019/events/1/pages/0/143/Dialogue < UNTRANSLATED
-T-this Zazabu Port, umm... where is it?
+Th-this Zazabu Port, umm... where is it?
 > END STRING
 
 > BEGIN STRING
@@ -282,8 +282,9 @@ Grandma Beth
 　ある森を東の方へ進んでいけば、着くわよ。」
 > CONTEXT: Map019/events/1/pages/0/148/Dialogue < UNTRANSLATED
 Grandma Beth
-"Start by going back through that village to the
-forest in the south, then go east. You'll be there."
+"Start by going back to Dono village, and
+continue south to the forest. Go east from
+there, and you're there."
 > END STRING
 
 > BEGIN STRING
@@ -326,8 +327,9 @@ N-no... not really... just...
 　ように元気なコだったわよ。」
 > CONTEXT: Map019/events/1/pages/0/171/Dialogue < UNTRANSLATED
 Grandma Beth
-"The girl with the map was quite the lively young
-lady. She was more energetic than a hurricane!"
+"The girl with the map was quite the lively
+young lady. She was more energetic than
+a hurricane!"
 > END STRING
 
 > BEGIN STRING
@@ -336,7 +338,7 @@ lady. She was more energetic than a hurricane!"
 　追いつけないかもねえ。」
 > CONTEXT: Map019/events/1/pages/0/174/Dialogue < UNTRANSLATED
 Grandma Beth
-"At the speed she ran, even the young me
+"At the speed she ran, even a younger me
 probably couldn't catch up to her."
 > END STRING
 

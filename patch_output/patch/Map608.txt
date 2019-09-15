@@ -46,7 +46,7 @@ Uuuu... what do I do... /////
 「あら～・・・」
 > CONTEXT: Map608/events/10/pages/0/54/Dialogue < UNTRANSLATED
 General Store Clerk
-"Oh dear~..."
+"Oh dear～..."
 > END STRING
 
 > BEGIN STRING

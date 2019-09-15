@@ -1686,7 +1686,7 @@
 "【←】or【→】キーでページ切替"
 > CONTEXT: Scripts/Scene_Save/12:11 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Load/28:11 < UNTRANSLATED
-"【←】 and 【→】 keys to swap page"
+"Use 【←】 and 【→】 keys to swap page."
 > END STRING
 
 > BEGIN STRING
@@ -1722,7 +1722,7 @@
 > BEGIN STRING
 "ファイル #{filename} が見つかりません。"
 > CONTEXT: Scripts/Main/22:9 < UNTRANSLATED
-
+"Couldn't locate file #{filename}."
 > END STRING
 
 > BEGIN STRING

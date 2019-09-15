@@ -83,7 +83,7 @@ break around here.
 > BEGIN STRING
 賛成～。
 > CONTEXT: Map011/events/19/pages/0/12/Dialogue < UNTRANSLATED
-No objections here!
+I agree～!
 > END STRING
 
 > BEGIN STRING
@@ -110,7 +110,7 @@ experience in martial arts?
 > BEGIN STRING
 そんなの無いよ～！
 > CONTEXT: Map011/events/19/pages/0/36/Dialogue < UNTRANSLATED
-Nope, not at all~!
+Nope, not at all～!
 > END STRING
 
 > BEGIN STRING
@@ -131,8 +131,9 @@ kamikaze attack, I'll pretty much win!
 その道理はよく分からないが、その無鉄砲さが
 お前の力の秘訣なのかもしれないな。
 > CONTEXT: Map011/events/19/pages/0/46/Dialogue < UNTRANSLATED
-I don't really understand that logic, but I suppose
-that recklessness is the key to your strength.
+I don't really understand that logic, but I
+suppose that recklessness is the key to your
+strength.
 > END STRING
 
 > BEGIN STRING
@@ -146,7 +147,7 @@ work hard...
 > BEGIN STRING
 フッ、甘く見られたものだな。
 > CONTEXT: Map011/events/19/pages/0/55/Dialogue < UNTRANSLATED
-Hm, that's a naive point of view.
+Hm, that's a simplistic point of view.
 > END STRING
 
 > BEGIN STRING
@@ -160,7 +161,7 @@ the enemy, unless it's by using my brain.
 > BEGIN STRING
 そんなこと威張らなくても・・・
 > CONTEXT: Map011/events/19/pages/0/63/Dialogue < UNTRANSLATED
-You don't have to be modest...
+You don't have to be so modest...
 > END STRING
 
 > BEGIN STRING
