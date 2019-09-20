@@ -7,8 +7,10 @@ assignees: ''
 
 ---
 
-Number of Lines: X
-Scene Description: Conversation between Hamuko and Nyanko.
+**Number of Lines**: X
+**Scene Description**:
+Conversation between Hamuko and Nyanko;
+Chats at this point in the story.
 
 #### Map001
 
@@ -18,6 +20,6 @@ Lines 500-900
 
 Line 3456
 
-#### Map963
+#### Common
 
 Lines 300-301, 999
