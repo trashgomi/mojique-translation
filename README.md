@@ -38,33 +38,76 @@ It is possible that some of our contributors may wish to receive donations - but
 
 This section is required for any contributors making any actual changes to the text in the game.
 
-* First, download and install any required tools from the subsection below.
+* First, download and install any tools that you think you need from the subsection below.
 * Next, clone this repository into an appropriate folder on your computer.
 * [Download the appropriate version of Mojique](https://aokurage.booth.pm/items/966800). This is necessary because the repo doesn't contain all of the game's files.
 * Copy all of the downloaded game files into your local repository, but **don't overwrite any existing files**. The entire _mojikue ver-.--_ folder you downloaded goes inside the repo's root directory (_mojique-translation_)
 * Test that the game runs.
-* Run Translator++ and open the _translation.trans_ file.
 * You are now ready to contribute!
 
-### Required Tools
+### Useful Tools
+
+#### .ods Editor
+
+Our translations are stored as .ods (OpenDocument Spreadsheets), with the hope that anyone can edit them whether they use software that is proprietary (such as Excel) or free as in freedom (such as [LibreOffice](https://www.libreoffice.org)).
+If you are going to be writing any translations or localisations, either pick some software that can edit an .ods file, or consider Translator++ (see the below section).
+
+#### Translator++
 
 This project is made possible by [Translator++](https://forums.rpgmakerweb.com/index.php?threads/translator-game-translation-tool.102706/).
-This tool is required for making any changes to the game. **You must contact me via [Discord](https://discord.gg/Zs3dgsP) or [email](mailto:trashgomi@protonmail.com) to get the correct version.**
+I use this tool to patch the executable, but **it is not required by other contributors**.
+
+Unfortunately, this program is not optimized for collaboration, and so we have to work around its limitations. It requires a bit more setup, but it does have some important advantages such as column headings and a global search feature.
+
+Setup is as follows:
+
+* Follow the main setup instructions to get your repository ready.
+* Get the correct version of the software from me.
+* In the program, **create a new project**. You will select the Mojikue _Game.exe_ file from the repository.
+* Wait for the program to patch your executable and set up your cache. **This is what will allow you to export your translations later on.**
+* Set up your columns by renaming and adding columns as appropriate:
+  * The first column after the Japanese "Original Text" column should be called **Notes**, or similar
+  * The second column should be **Character**, as it refers to the character speaking the corresponding dialogue
+  * The third column is the **Initial** translation
+  * The fourth column is the **Checked** translation
+  * There must be a fifth column to accommodate the **Localized** translation
+  * Column names are only seen by you, but you **must** at least have the correct number of editable columns (5)
+* Save your project. The output will be a .trans file. It is for your use only, and should not be pushed to the repository.
+
+Unfortunately, Translator++ does not let you import all columns of data from translation files, so you will be manually importing individual files of data as you need it, later on. Follow the set of instructions in the next section when you are ready to make a contribution.
+
+If you'd like to use this software, **please contact me via [Discord](https://discord.gg/Zs3dgsP) or [email](mailto:trashgomi@protonmail.com) to get the correct version.**
 
 ## Making Changes
 
-The best way to add new translations is to first choose a scene (i.e. one of the many maps) that hasn't been touched yet. Then you should make an appopriately-named branch and make commits to that branch as you please.
+Choose a GitHub issue. Make an appopriately-named branch on which you can make commits as you please.
 
-Translator++ supports multiple columns (stages) of translations.
-* Assistant translators should write their translations into the **Initial** column. 
-* Lead translators should use the column called **Checked**, and write their version of the initial translations in that column. If the initial version is correct, the lead translator can simply copy it into their **Checked** column.
-* Localizers should write their version of checked translations in the **Localized** column. However, localizers must then get all of their localized lines checked once more by a lead translator.
+We are using multiple stages (columns) of translation.
 
-When you have finished work on a branch, you should export the changes as RPGMakerTrans formatted \*.txt files to the _patch_output_ directory. Ensure that you only commit the relevant changes. Although these files aren't used in the game, this step is important because it makes it much easier for collaborators to view your changes using the Git diffs.
+* Assistant translators should write their translations into the **Initial** column (column **D**). 
+* Lead translators should use the column called **Checked** (column **E**), and write their version of the initial translations in that column. If the initial version is correct, the lead translator can simply copy it into their **Checked** column.
+* Localizers should write their version of checked translations in the **Localized** (column **F**) column. However, localizers must then get all of their localized lines checked once more by a lead translator.
 
-Branches shouldn't be merged into _master_ until they have gone through this whole process.
+### Translator++
 
-Following this convention, we can avoid work overlap and merge conflicts.
+* Identify which files you will need to modify. This information should be on the relevant issue on GitHub, or else you should make a list yourself.
+* Bring those files up to date. For each file:
+  * Open the appropriate .ods file in your .ods editor, such as Excel.
+  * Select columns **B to F**. These correspond to the 5 columns we made earlier. Copy to clipboard.
+  * In the corresponding Translator++ file click the correct cell: the very top-left non-Japanese cell. (This should be the **Notes** column, row 1).
+  * Paste from clipboard.
+  * If you did everything right, this file now contains every cell of data in the correct place!
+  * Be aware that this method will overwrite the entire file, destroying any data currently in there.
+  * If necessary, you can select only the rows that have data in them, to avoid overwriting your data with blank lines.
+* Make your changes.
+* Check the public repo: has anyone else made changes to any files that you have touched? If so, things get a little more complicated. You will need to merge your changes together manually. Contact that contributor and work together to do this properly.
+* With any merge conflicts solved, save your project.
+* You need to export your changed files as an .ods. Annoyingly, the main export option in Translator++ will end up changing every single file in the patch_output directory, so we will use an alternative method.
+* In the Translator++ file list (on the left), tick the checkboxes of all of the files, and only the files, that you modified.
+* Right click on any file > With x Selected > Export into... > ODS Spreadsheets > patch_output directory.
+* In Git, ensure that your only changes are to those files.
+* Commit to a **new, sensibly-named branch**. Push when ready!
+* Your changes will be reviewed.
 
 ## Contributors
 
