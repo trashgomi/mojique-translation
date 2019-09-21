@@ -1,0 +1,22 @@
+
+
+
+　　You can move just the "saveXX" files from inside the "mojikue Ver1.0" game
+　　folder to this "mojikue Ver1.4x" folder that you have downloaded.
+　　Please take care not to move any other files by accident.
+
+
+　　I believe it is possible to transfer these files, but there is no
+　　guarantee that all of the game's functions will work correctly.
+	I think there is a possibility that error messages like
+
+　　「ファイル Audio/BGM/○○○○が見つかりません」
+
+　　may appear.
+　　In this event, I think you can duplicate the "ダミー" audio file within 
+　　the Audio > BGM folder, and rename it to match whatever the ○○○○
+　　displayed in the the error message was.
+
+
+　　Also, it appears that there are some save files whose timestamps cannot
+　　be transferred. You will have to give up on these. My apologies.
