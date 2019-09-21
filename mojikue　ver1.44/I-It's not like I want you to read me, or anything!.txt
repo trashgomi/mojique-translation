@@ -1,0 +1,62 @@
+﻿
+
+--------　Mojique　Ver1.44　--------
+
+
+★Controls----------------------------------------------------------------------------------------------------------
+
+　Ｃ		：Confirm an option when in a menu. Speak to people, and investigate items in front of you.
+　Ｘ	　	：Show the menu (not available at the start of the game). Cancel an option when in a menu.
+　Ｚ		：Chat to members of your party (not available at the start of the game).
+　Ａ		：Throw away items, and more.
+　Ｓ		：Evade enemy encounters when in a hostile area (not available at the start of the game).
+　Arrow Keys	：Character movement, and cursor movement in menus.
+　F1		：Options to toggle BGM, configure keys, and more.
+　Alt＋Enter	：Toggle fullscreen.
+　F12		：Force return to main menu.
+
+
+★Starring----------------------------------------------------------------------------------------------------------
+
+　♂Saotome Reguma 		Type A	：He pretends to be a pervert, a ladies' man, and a hikikomori. Really, he's quite thoughtful.
+　♀Tokonatsu Hamuko 		Type B	：A bit of an airhead. She loves action games, but only plays on easy mode - they aren't her strong suit. Full breasts.
+　♀Harukaze "Nyanko" Tama 	Type O	：Total tsundere. An all-round athlete, a keen intellect, and a great cook. Behind her harsh manner of speaking, she's nicer than anyone. Beautiful breasts.
+　♀Akizora "Tomocchi" Tomoe	Type B	：Reckless. A self-sufficient troublemaker stuffed full of tomboy-ish charm. Despite her loli looks, she has an erotic personality. Lonely breasts.
+　♀Kiriu "Hime" Orihime		Type B	：Not a people-person, but wants to be a sharp-minded detective. Often stares off into space. A highly sheltered princess-like girl. Precious breasts.
+
+
+★Warning!----------------------------------------------------------------------------------------------------------
+
+　This game contains frequent depictions of girls who are desperate to urinate.
+　Fellows who harbor any dislike towards this genre should, without hesitation, drag and drop this folder onto the "Recycle Bin",
+　and proceed to click "Empty Recycle Bin", so that they may return to their peaceful days.
+
+
+★Prerequisite Applications-----------------------------------------------------------------------------------------
+
+　RPG Maker XP Runtime must be installed (no cost). Those who do not have should download it from
+　https://www.rpgmakerweb.com/download/additional/run-time-packages
+　and proceed to install it.
+
+
+★Materials Used----------------------------------------------------------------------------------------------------
+
+　・Sound Effects	：Taira Komori		：http://taira-komori.jpn.org/index.html
+　		：The Matchmakers	：http://osabisi.sakura.ne.jp/m2/
+
+
+
+★OC borrowed from others-------------------------------------------------------------------------------------------
+
+　・Displayed in the ending
+
+
+
+★Producer----------------------------------------------------------------------------------------------------------
+
+　Ao Kurage
+
+
+★Finally-----------------------------------------------------------------------------------------------------------
+
+　Distribution of game resources is a no-go, but redistribution of the game is okay.
