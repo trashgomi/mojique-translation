@@ -1,6 +1,0 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
-> BEGIN STRING
-レバーがある。　倒しますか？
-> CONTEXT: Map163/events/10/pages/0/1/Dialogue < UNTRANSLATED
-
-> END STRING

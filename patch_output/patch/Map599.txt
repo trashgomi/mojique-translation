@@ -1,6 +1,0 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
-> BEGIN STRING
--道は、我を境に鏡面に写すがごとし-
-> CONTEXT: Map599/events/33/pages/0/1/Dialogue < UNTRANSLATED
-
-> END STRING

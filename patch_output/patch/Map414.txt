@@ -1,6 +1,0 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
-> BEGIN STRING
-狭いところが落ち着くんじゃ。
-> CONTEXT: Map414/events/2/pages/0/1/Dialogue < UNTRANSLATED
-
-> END STRING

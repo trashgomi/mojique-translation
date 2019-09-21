@@ -1,9 +1,0 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
-> BEGIN STRING
-ゼリーちゃん
-「hoーー！」
-> CONTEXT: Map512/events/3/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map511/events/3/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map509/events/8/pages/0/1/Dialogue < UNTRANSLATED
-
-> END STRING

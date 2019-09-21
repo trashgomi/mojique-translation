@@ -1,8 +1,0 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
-> BEGIN STRING
-ようこそロング食堂へ！
-> CONTEXT: Map335/events/12/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map334/events/12/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map314/events/12/pages/0/1/Dialogue < UNTRANSLATED
-
-> END STRING

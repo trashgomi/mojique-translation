@@ -1,9 +1,0 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
-> BEGIN STRING
--炎の導きに従え-
-> CONTEXT: Map443/events/15/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map442/events/15/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map441/events/15/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map440/events/15/pages/0/1/Dialogue < UNTRANSLATED
-
-> END STRING

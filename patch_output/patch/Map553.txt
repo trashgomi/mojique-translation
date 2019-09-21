@@ -1,6 +1,0 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
-> BEGIN STRING
-マグマ噴出地帯につき、立入禁止
-> CONTEXT: Map553/events/20/pages/0/1/Dialogue < UNTRANSLATED
-
-> END STRING

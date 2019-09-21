@@ -1,7 +1,0 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
-> BEGIN STRING
-ふさがれていて進めない・・・
-> CONTEXT: Map320/events/40/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map318/events/5/pages/0/1/Dialogue < UNTRANSLATED
-
-> END STRING
