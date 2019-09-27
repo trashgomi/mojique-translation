@@ -88,7 +88,16 @@ We are using multiple stages (columns) of translation.
 * Lead translators should use the column called **Checked** (column **E**), and write their version of the initial translations in that column. If the initial version is correct, the lead translator can simply copy it into their **Checked** column.
 * Localizers should write their version of checked translations in the **Localized** (column **F**) column. However, localizers must then get all of their localized lines checked once more by a lead translator.
 
-### Translator++
+### Method 1: Directly Edit the Source Files (Simpler)
+
+* Identify which files you will need to modify. This information should be on the relevant issue on GitHub, or else you should make a list yourself.
+* Make your changes.
+* Check the public repo: has anyone else made changes to any files that you have touched? If so, things get a little more complicated. You will need to merge your changes together manually. Contact that contributor and work together to do this properly.
+* In Git, ensure that your only changes are to the files that you changed.
+* Commit to a **new, sensibly-named branch**. Push when ready!
+* Your changes will be reviewed.
+
+### Method 2: Translator++ (More Powerful)
 
 * Identify which files you will need to modify. This information should be on the relevant issue on GitHub, or else you should make a list yourself.
 * Bring those files up to date. For each file:
@@ -106,6 +115,7 @@ We are using multiple stages (columns) of translation.
 * In the Translator++ file list (on the left), tick the checkboxes of all of the files, and only the files, that you modified.
 * Right click on any file > With x Selected > Export into... > ODS Spreadsheets > patch_output directory.
 * In Git, ensure that your only changes are to those files.
+* Additionally, you can commit your saved .trans file under the _tracked_ folder in the repo, in a subfolder that you make for yourself.
 * Commit to a **new, sensibly-named branch**. Push when ready!
 * Your changes will be reviewed.
 
