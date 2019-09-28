@@ -119,6 +119,12 @@ We are using multiple stages (columns) of translation.
 * Commit to a **new, sensibly-named branch**. Push when ready!
 * Your changes will be reviewed.
 
+### The Glossary
+
+One of the most important parts of localization is to translate terms used within the world, in a consistent and interesting way. The _glossary.ods_ file found within the root folder maintains a list of our most subjective terms, especially those that are specific to this game and used repeatedly. Examples include character and place names, and other fictional concepts.
+
+Contributors should skim through this file before making translations or localizations, and keep an eye on the file as the project goes on. Translators should also update the glossary when they encounter new terms that they think should go on the list, and propose a localization for those terms! Those proposals should be discussed with the rest of the team at some point.
+
 ## Contributors
 
 If you are contributing in one of the ways mentioned above (or in some other capacity), please edit this file and leave your name and role here! Alternatively, ask someone else to add your name for you.
