@@ -1,7 +1,7 @@
 ---
 name: Desperation Translation Template
 about: Template for issues regarding translations for desperate chats and suggesting peeing outdoors.
-title: Desperation: [What point in the story?]
+title: 'Desperation: [What point in the story?]'
 labels: desp
 assignees: ''
 
