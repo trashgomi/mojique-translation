@@ -136,3 +136,4 @@ If you are contributing in one of the ways mentioned above (or in some other cap
 * folley - Typesetting
 * 0x2F - Playtesting
 * RubyRedRose - Playtesting
+* AnonymousJS - Localization
