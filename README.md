@@ -28,11 +28,11 @@ Localizers and playtesters can get away with simply creating [issues](https://gi
 
 ### Communication
 
-We are currently using the [OMOORG discord](https://discord.gg/Zs3dgsP) to chat and co-operate. Please join us there.
+We are currently using a Discord group chat to co-operate. Please join us there: add me at **trashゴミ#7244**.
 
 ### Donations
 
-It is possible that some of our contributors may wish to receive donations - but this isn't happening yet. We would have to decide whether this is feasible; how it can be managed; and methods of transfer. It may also not be okay to do without Aoi Kurage's blessing. 
+It is possible that some of our contributors may wish to receive donations - but this isn't happening yet. We would have to decide whether this is feasible; how it can be managed; and methods of transfer. It may also not be okay to do without Ao Kurage's blessing. 
 
 ## Setup
 
@@ -50,7 +50,7 @@ This section is required for any contributors making any actual changes to the t
 #### .ods Editor
 
 Our translations are stored as .ods (OpenDocument Spreadsheets), with the hope that anyone can edit them whether they use software that is proprietary (such as Excel) or free as in freedom (such as [LibreOffice](https://www.libreoffice.org)).
-If you are going to be writing any translations or localisations, either pick some software that can edit an .ods file, or consider Translator++ (see the below section).
+If you are going to be writing any translations or localizations, either pick some software that can edit an .ods file, or consider Translator++ (see the below section).
 
 #### Translator++
 
@@ -86,7 +86,7 @@ We are using multiple stages (columns) of translation.
 
 * Assistant translators should write their translations into the **Initial** column (column **D**). 
 * Lead translators should use the column called **Checked** (column **E**), and write their version of the initial translations in that column. If the initial version is correct, the lead translator can simply copy it into their **Checked** column.
-* Localizers should write their version of checked translations in the **Localized** (column **F**) column. However, localizers must then get all of their localized lines checked once more by a lead translator.
+* Localizers should write their version of checked translations in the **Localized** (column **F**) column. They should be careful not to change text that sounds good already, to avoid unnecessary work for everyone. When adding these localizations into the master branch, a translator will look at each line and either allow it, reject it in favor of the checked translation, or create something in-between.
 
 ### Method 1: Directly Edit the Source Files (Simpler)
 
@@ -121,9 +121,11 @@ We are using multiple stages (columns) of translation.
 
 ### The Glossary
 
-One of the most important parts of localization is to translate terms used within the world, in a consistent and interesting way. The _glossary.ods_ file found within the root folder maintains a list of our most subjective terms, especially those that are specific to this game and used repeatedly. Examples include character and place names, and other fictional concepts.
+One of the most important parts of localization is to translate terms used within the world, in a consistent and interesting way. [This online spreadsheet](https://sheet.zoho.com/sheet/published.do?rid=hbvaibb530e19e4cb4abb98d4309d30b9433c) contains a list of our most subjective terms, especially those that are specific to this game and used repeatedly. Examples include character and place names, and other fictional concepts.
 
-Contributors should skim through this file before making translations or localizations, and keep an eye on the file as the project goes on. Translators should also update the glossary when they encounter new terms that they think should go on the list, and propose a localization for those terms! Those proposals should be discussed with the rest of the team at some point.
+Contributors should skim through each page of this glossary before making translations or localizations, and keep an eye on the file as the project goes on.
+Translators should update the glossary when they encounter new terms that they think should go on the list, and propose a localization for those terms!
+Localizers are welcome to regularly go and propose new localizations as well, or dispute or agree with existing proposals.
 
 ## Contributors
 
