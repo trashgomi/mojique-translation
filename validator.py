@@ -13,7 +13,8 @@ skip_files = []
 
 character_blacklist = [
     '…',  # Use three periods ...
-    '~'  # Use a Japanese wave dash 〜
+    '~',  # Use a Japanese wave dash 〜
+    'ー'  # Use an Em dash —
 ]
 
 columns = [
