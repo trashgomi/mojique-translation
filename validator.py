@@ -1,15 +1,24 @@
+# coding=utf-8
 from PIL import ImageFont
 from io import open
 
 import json
 
+debug = False
 trans_file = "tracked/trashgomi/translation.trans"
-font_size = 18
+font_size = 22
 font_path = "C:\\WINDOWS\\FONTS\\MSGOTHIC.TTC"  # Must be correctly set for your system!
-font = ImageFont.truetype(font_path, font_size)
-cutoff_px = 442
+font = ImageFont.truetype(font_path, font_size, 1)  # Face 1 = MS PGothic
+cutoff_px = 444
 
 skip_files = []
+
+skip_indices = [
+    ("Commonevents.txt", 18),
+    ("Commonevents.txt", 19),
+    ("Commonevents.txt", 20),
+    ("Map039.txt", 0)
+]
 
 character_blacklist = [
     '…',  # Use three periods ...
@@ -27,49 +36,77 @@ columns = [
     "Padding Column"
 ]
 
-with open(trans_file, "rb") as f:
-    j = json.load(f)
+if debug:
+    lines = [
+        "I thought she was just a character in the story",
+        "The meeting room is through here. You may enter,",
+        "Palace guards must devote themselves to throwing",
+        "The coffee served here is absolutely delicious ♪"
+    ]
+    for line in lines:
+        w = font.getsize(line)[0]
+        print("{}: {}".format(line, w))
+else:
+    with open(trans_file, "rb") as f:
+        j = json.load(f)
 
-for filename, data in list(j["project"]["files"].items()):
-    if filename in skip_files:
-        continue
-    print_break = False
-    for l, text in enumerate(data["data"]):
-        en_text = ""
-        c = len(columns) - 1
-        for c in range(len(columns) - 1, 2, -1):
-            en_text = text[c]
-            if en_text:
-                if bool(en_text.strip()):
-                    break
-                else:
-                    print("{}: line {}, column {} {} - whitespace only!".format(filename, l + 1, c + 1, columns[c]))
-                    en_text = ""
+    problems = 0
+    for filename, data in list(j["project"]["files"].items()):
+        if filename in skip_files:
+            continue
+        print_break = False
+        for l, text in enumerate(data["data"]):
+            if (filename, l) in skip_indices:
+                continue
+            en_text = ""
+            c = len(columns) - 1
+            for c in range(len(columns) - 1, 2, -1):
+                en_text = text[c]
+                if en_text:
+                    if bool(en_text.strip()):
+                        break
+                    else:
+                        print("{}: line {}, column {} {} - whitespace only!".format(filename, l + 1, c + 1, columns[c]))
+                        problems += 1
+                        en_text = ""
+                        print_break = True
+            if type(en_text) != str:
+                continue
+            if not en_text:
+                continue
+            for character in character_blacklist:
+                if character in en_text:
+                    print("{}: line {}, column {} {} - bad character ({})".format(
+                        filename, l + 1, c + 1, columns[c], character))
+                    problems += 1
                     print_break = True
-        if type(en_text) != str:
-            continue
-        if not en_text:
-            continue
-        for character in character_blacklist:
-            if character in en_text:
-                print("{}: line {}, column {} {} - bad character ({})".format(
-                    filename, l + 1, c + 1, columns[c], character))
+            lines = en_text.split("\n")
+            if len(lines) > 4:
+                print("{}: line {}, column {} {} - too many lines ({}/4)".format(
+                    filename, l + 1, c + 1, columns[c], len(lines)))
+                problems += 1
                 print_break = True
-        lines = en_text.split("\n")
-        if len(lines) > 4:
-            print("{}: line {}, column {} {} - too many lines ({}/4)".format(
-                filename, l + 1, c + 1, columns[c], len(lines)))
-            print_break = True
-        for line in lines:
-            w, h = font.getsize(line)
-            if w > cutoff_px:
-                un_text = "{}: line {}, column {} {} - too long ({}/{}px): {}".format(
-                    filename, l + 1, c + 1, columns[c], w, cutoff_px, line)
-                print(un_text)
+
+            bad_lines = []
+            feedback = "{}: line {}, column {} {} - ".format(filename, l + 1, c + 1, columns[c])
+            for i in range(0, len(lines)):
+                w = font.getsize(lines[i])[0]
+                if w > cutoff_px:
+                    bad_lines.append(i)
+                    problems += 1
+                    feedback += "[too long] "
+                if lines[i] != lines[i].lstrip():
+                    bad_lines.append(i)
+                    problems += 1
+                    feedback += "[starts with whitespace] "
+            if len(bad_lines) > 0:
                 print_break = True
-            elif line != line.lstrip():
-                print("{}: line {}, column {} {} - line starts with whitespace: {}".format(
-                    filename, l + 1, c + 1, columns[c], line))
-                print_break = True
-    if print_break:
-        print()
+                print(feedback)
+                for j in range(0, len(lines)):
+                    w = font.getsize(lines[j])[0]
+                    arrow = "<" if j in bad_lines else ""
+                    print("{} ({}/{}px) {}".format(lines[j], w, cutoff_px, arrow))
+                print()
+        if print_break:
+            print()
+    print("Done! Problems: {}".format(problems))
