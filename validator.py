@@ -1,4 +1,7 @@
 # coding=utf-8
+import re
+import sys
+
 from PIL import ImageFont
 from io import open
 
@@ -50,6 +53,15 @@ else:
     with open(trans_file, "rb") as f:
         j = json.load(f)
 
+    spec_file = None
+    found_spec_file = False
+    if len(sys.argv) > 1:
+        spec_file = str(sys.argv[1])
+        spec_file = spec_file.partition(".")[0]
+        print("Only validating file matching name '{}'".format(spec_file))
+    else:
+        print("Validating all files in project")
+
     problems = 0
     for filename, data in list(j["project"]["files"].items()):
         if filename in skip_files:
@@ -58,6 +70,12 @@ else:
         for l, text in enumerate(data["data"]):
             if (filename, l) in skip_indices:
                 continue
+            if spec_file:
+                if filename.partition(".")[0] != spec_file:
+                    continue
+                elif not found_spec_file:
+                    print("Found specified file!")
+                    found_spec_file = True
             en_text = ""
             c = len(columns) - 1
             for c in range(len(columns) - 1, 2, -1):
@@ -80,6 +98,7 @@ else:
                         filename, l + 1, c + 1, columns[c], character))
                     problems += 1
                     print_break = True
+            en_text = re.sub("\\\C\[\d\]", "", en_text)
             lines = en_text.split("\n")
             if len(lines) > 4:
                 print("{}: line {}, column {} {} - too many lines ({}/4)".format(
@@ -109,4 +128,7 @@ else:
                 print()
         if print_break:
             print()
-    print("Done! Problems: {}".format(problems))
+    if spec_file and not found_spec_file:
+        print("Did not find specified file.")
+    else:
+        print("Done! Problems: {}".format(problems))
