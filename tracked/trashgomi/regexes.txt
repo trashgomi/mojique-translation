@@ -1,0 +1,37 @@
+,\"(\w+)(のクラス)(【[\w\s]+】)(が\\r\\nレベル)(\\\\V\[\d+\])(になった！)\\r\\n(【[\w\s]+】)を極めた！！
+,\"$1 grew to $3 class\\r\\nlevel $5!\\r\\nMastered the $7 class!!
+
+,\"(\w+)(のクラス)(【[\w\s]+】)(が\\r\\nレベル)(\\\\V\[\d+\])(になった！)
+,\"$1 grew to $3 class\\r\\nlevel $5!
+
+,\"(\w+)(は、スキル)(【[\w\s]+】)\\r\\nを習得した！
+,\"$1 learned the $3\\r\\nskill!
+
+,\"(\w+)のクラスEXPが一定値に達した！\\r\\nボーナスパラメータをゲット！
+,\"$1 has reached the EXP limit!\\r\\nBonus stats earned!
+
+
+ノーマル
+Normal
+
+ファイター
+Fighter
+
+華龍
+Huálóng
+
+トロピカル
+Tropical
+
+パイアン
+Paeon
+
+タナトス
+Thanatos
+
+くノ一
+Kunoichi
+
+チアリーダー
+Cheerleader
+
