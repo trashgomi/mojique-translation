@@ -19,4 +19,4 @@ jobs:
         pip install pillow
     - name: Run validator
       run: |
-        python validator.py
+        python validator/validator.py
