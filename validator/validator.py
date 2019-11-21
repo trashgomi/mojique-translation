@@ -8,7 +8,7 @@ from io import open
 import json
 
 debug = False
-trans_file = "tracked/trashgomi/translation.trans"
+trans_file = "../tracked/trashgomi/translation.trans"
 font_size = 22
 font_path = "C:\\WINDOWS\\FONTS\\MSGOTHIC.TTC"  # Must be correctly set for your system!
 font = ImageFont.truetype(font_path, font_size, 1)  # Face 1 = MS PGothic
@@ -62,12 +62,15 @@ else:
     else:
         print("Validating all files in project")
 
+    line_count = 0
+    translated_count = 0
     problems = 0
     for filename, data in list(j["project"]["files"].items()):
         if filename in skip_files:
             continue
         print_break = False
         for l, text in enumerate(data["data"]):
+            line_count += 1
             if (filename, l) in skip_indices:
                 continue
             if spec_file:
@@ -92,6 +95,7 @@ else:
                 continue
             if not en_text:
                 continue
+            translated_count += 1
             for character in character_blacklist:
                 if character in en_text:
                     print("{}: line {}, column {} {} - bad character ({})".format(
@@ -128,7 +132,14 @@ else:
                 print()
         if print_break:
             print()
-    if spec_file and not found_spec_file:
-        print("Did not find specified file.")
+    if spec_file:
+        if found_spec_file:
+            print("Lines translated: {}/{} in specified file.".format(translated_count, line_count))
+        if not found_spec_file:
+            print("Did not find specified file.")
     else:
         print("Done! Problems: {}".format(problems))
+        print("Lines translated: {}/{} = {}%.".format(
+            translated_count,
+            line_count,
+            float(translated_count)/line_count) * 100)

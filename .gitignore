@@ -8,3 +8,5 @@
 /mojikue　ver1.44/rpgmktranslated
 /patch_output/~$*.ods
 .~lock.*#
+.idea
+venv
