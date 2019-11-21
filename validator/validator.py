@@ -8,7 +8,7 @@ from io import open
 import json
 
 debug = False
-trans_file = "../tracked/trashgomi/translation.trans"
+trans_file = "tracked/trashgomi/translation.trans"
 font_size = 22
 font_path = "C:\\WINDOWS\\FONTS\\MSGOTHIC.TTC"  # Must be correctly set for your system!
 font = ImageFont.truetype(font_path, font_size, 1)  # Face 1 = MS PGothic
