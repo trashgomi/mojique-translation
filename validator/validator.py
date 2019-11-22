@@ -62,7 +62,7 @@ else:
     else:
         print("Validating all files in project")
 
-    line_count = 0
+    line_count = -1
     translated_count = 0
     problems = 0
     for filename, data in list(j["project"]["files"].items()):
@@ -70,7 +70,6 @@ else:
             continue
         print_break = False
         for l, text in enumerate(data["data"]):
-            line_count += 1
             if (filename, l) in skip_indices:
                 continue
             if spec_file:
@@ -91,6 +90,7 @@ else:
                         problems += 1
                         en_text = ""
                         print_break = True
+            line_count += 1
             if type(en_text) != str:
                 continue
             if not en_text:
@@ -142,4 +142,6 @@ else:
         print("Lines translated: {}/{} = {}%.".format(
             translated_count,
             line_count,
-            float(translated_count)/line_count) * 100)
+            (float(translated_count)/float(line_count)) * 100))
+        if problems > 0:
+            exit(-1)
