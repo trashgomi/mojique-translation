@@ -14,7 +14,9 @@ font_path = "C:\\WINDOWS\\FONTS\\MSGOTHIC.TTC"  # Must be correctly set for your
 font = ImageFont.truetype(font_path, font_size, 1)  # Face 1 = MS PGothic
 cutoff_px = 444
 
-skip_files = []
+skip_files = [
+    "Scripts.txt",
+]
 
 skip_indices = [
     ("Commonevents.txt", 18),
@@ -26,7 +28,8 @@ skip_indices = [
 character_blacklist = [
     '…',  # Use three periods ...
     '~',  # Use a Japanese wave dash 〜
-    'ー'  # Use an Em dash —
+    'ー',  # Use an Em dash —
+    '#',  # Just don't
 ]
 
 columns = [
