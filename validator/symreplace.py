@@ -23,15 +23,15 @@ columns = [
     "Padding Column"
 ]
 
+characters = [
+    ['~', '〜']
+]
 
-# Does not support replacing _
-def replace_quotes(dialogue: str, old_sym: str, new_left: str, new_right: str, except_prefix: list = None):
+
+def replace_quotes(dialogue: str, old_sym: str, new_left: str, new_right: str):
     if not dialogue.__contains__(old_sym):
         return None
     else:
-        if except_prefix:
-            for prefix in except_prefix:
-                dialogue = dialogue.replace(old_sym + prefix, "_" + prefix)
         no_of_quotes = dialogue.count(old_sym)
         if no_of_quotes % 2 != 0:
             return -1
@@ -40,9 +40,14 @@ def replace_quotes(dialogue: str, old_sym: str, new_left: str, new_right: str, e
                 dialogue = dialogue.replace(old_sym, new_left, 1)
                 dialogue = new_right.join(dialogue.rsplit(old_sym, 1))
                 no_of_quotes = dialogue.count(old_sym)
-            if except_prefix:
-                for prefix in except_prefix:
-                    dialogue = dialogue.replace("_" + prefix, old_sym + prefix)
+            return dialogue
+
+
+def replace_symbols(dialogue: str):
+    for old_sym, new_sym in characters:
+        if dialogue.__contains__(old_sym):
+            return dialogue.replace(old_sym, new_sym)
+        else:
             return dialogue
 
 
@@ -93,11 +98,7 @@ for filename, data in list(j["project"]["files"].items()):
         elif result:
             en_text = result
 
-        # result = replace_quotes(en_text, '\'', '‘', '’', ['s', 'll', 't', 've', 'd', 'm', 're'])
-        # if result == -1:
-        #     print("Found odd numbers of single quotes in file {}, line {}".format(filename, l + 1))
-        # elif result:
-        #     en_text = result
+        en_text = replace_symbols(en_text)
 
         j["project"]["files"][filename]["data"][l][c] = en_text
 
