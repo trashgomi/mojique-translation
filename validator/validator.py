@@ -24,6 +24,7 @@ skip_indices = [
     ("Commonevents.txt", 20),
     ("Map039.txt", 0),
     ("Map083.txt", 3),
+    ("Map617.txt", 29),
 ]
 
 character_blacklist = [
