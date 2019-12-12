@@ -22,7 +22,8 @@ skip_indices = [
     ("Commonevents.txt", 18),
     ("Commonevents.txt", 19),
     ("Commonevents.txt", 20),
-    ("Map039.txt", 0)
+    ("Map039.txt", 0),
+    ("Map083.txt", 3),
 ]
 
 character_blacklist = [
@@ -41,6 +42,40 @@ columns = [
     "Localized",
     "Padding Column"
 ]
+
+duplicate_whitelist = {
+    "I-I'll be done in just a minute!!",
+    "Save?",
+    "Incidentally, Hamuko.",
+    "Zzz...",
+
+    "There are picture books here, but there's no"
+    "one who'll read 'em to me since you're not"
+    "allowed to shout...",
+
+    "Understood.",
+    "*glare*",
+    "Thank God～!!",
+    "You have my thanks.",
+    "Indeed.",
+    "U-Umm...",
+    "I see.",
+    "......!",
+    "Understood.",
+    "Yeah.",
+    "Mm.",
+    "U-Umm...",
+    "...!",
+    "...",
+    "...Eh?",
+    "*fidget*...",
+    "......",
+    "Haaah... haaah...",
+    "That's right.",
+}
+use_whitelist = True
+
+hashes = set()
 
 if debug:
     lines = [
@@ -99,11 +134,22 @@ else:
             if not en_text:
                 continue
             translated_count += 1
+
+            if use_whitelist and not duplicate_whitelist.__contains__(en_text):
+                text_hash = en_text.__hash__()
+                if hashes.__contains__(text_hash):
+                    print("{}: line {}, column {} {} - duplicate text ({})".format(
+                        filename, l + 1, c + 1, columns[c], en_text))
+                    problems += 1
+                    print_break = True
+                else:
+                    hashes.add(text_hash)
+
             for character in character_blacklist:
                 if character in en_text:
                     print("{}: line {}, column {} {} - bad character ({})".format(
                         filename, l + 1, c + 1, columns[c], character))
-                    problems += 1
+                    # Don't consider as a real problem
                     print_break = True
             en_text = re.sub("\\\C\[\d\]", "", en_text)
             lines = en_text.split("\n")
