@@ -32,7 +32,9 @@ We are currently using a Discord group chat to co-operate. Please join us there:
 
 ### Donations
 
-It is possible that some of our contributors may wish to receive donations - but this isn't happening yet. We would have to decide whether this is feasible; how it can be managed; and methods of transfer. It may also not be okay to do without Ao Kurage's blessing. 
+Donations can be made here: https://www.subscribestar.com/trashgomi
+
+Further information will be made available at a later time.
 
 ## Setup
 
