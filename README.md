@@ -32,9 +32,19 @@ We are currently using a Discord group chat to co-operate. Please join us there:
 
 ### Donations
 
-Donations can be made here: https://www.subscribestar.com/trashgomi
+Please click the badge below to support me while I work on this project!
 
-Further information will be made available at a later time.
+[![Donate](https://img.shields.io/badge/Donate-SubscribeStar-green)](https://www.subscribestar.com/trashgomi)
+
+[Amazon gift cards](https://www.amazon.com/Amazon-eGift-Card-Logo/dp/B07PCMWTSG/) are an acceptable alternative form of donation which can be emailed to ***trashgomi@protonmail.com***.
+
+Donations are very much appreciated, and supporters will get early access to releases and exclusive blogs relating to the project! Supporters can also optionally get their names added to the credits file. Of course, the final translation will be available to all.
+
+#### Why don't you accept X as a method of payment?
+
+I have struggled to find a good way to do this. I need a platform which is as anonymous as possible, but accessible to as many people as possible. I have considered bitcoin, but I am not sure how easily I could set it up. I wanted to accept Steam cards as well, but it can't be done without giving out your Steam profile.
+
+Please email me at [trashgomi@protonmail.com] if you have any particular suggestions.
 
 ## Setup
 
