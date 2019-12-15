@@ -1,6 +1,10 @@
 name: Run validator
 
-on: [push]
+on:
+  push:
+    branches:
+      - master
+      - v*
 
 jobs:
   build:
@@ -19,4 +23,4 @@ jobs:
         pip install pillow
     - name: Run validator
       run: |
-        python validator/validator.py
+        python mojiscripts/validator.py
