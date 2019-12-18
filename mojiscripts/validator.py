@@ -24,6 +24,10 @@ skip_indices = [
     ("Commonevents.txt", 20),
     ("Map039.txt", 0),
     ("Map083.txt", 3),
+    ("Map289.txt", 4),
+    ("Map289.txt", 5),
+    ("Map289.txt", 7),
+    ("Map289.txt", 14),
     ("Map617.txt", 29),
 ]
 
