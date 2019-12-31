@@ -135,7 +135,8 @@ else:
                         problems += 1
                         en_text = ""
                         print_break = True
-            line_count += 1
+            if text[0]:
+                line_count += 1
             if type(en_text) != str:
                 continue
             if not en_text:
