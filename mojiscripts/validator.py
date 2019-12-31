@@ -78,6 +78,7 @@ duplicate_whitelist = {
     "Haaah... haaah...",
     "That's right.",
     "No way...",
+    "Fine by me.",
 }
 use_whitelist = True
 
