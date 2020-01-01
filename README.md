@@ -1,17 +1,14 @@
 # mojique-translation
 
-This project is a fan-made English translation for Mojique (もじクエ), the RPG by Aoi Kurage (青くらげ). If you aren't familiar with this RPG, its creator, or a concept called "omorashi", **now is the time to close this page**.
+This project is a fan-made English translation for Mojique (もじクエ), the RPG by Ao Kurage (青くらげ). If you aren't familiar with this RPG, its creator, or a concept called "omorashi", **now is the time to close this page**.
 
 ## Progress
 
-I have made a small start on establishing this project, but it is currently in the process of gathering volunteers. If you'd like to see this translation get started, please spread word far and wide! Also consider joining yourself: see the section below.
+Text: 6777/19151 = 35.39% (Updated 01/01/2020)
 
-### Alpha Translation
-Lines that have been given an initial translation, but not checked or playtested.
+Images: 577/1122 = 51.43% (Updated 01/01/2020)
 
-Text: 708/19466 = 3.64% (Updated 09/29/2019)
-
-Images: 0/?
+If you'd like to join in the project and possibly speed up progress, please see the section below.
 
 ## Can I Help?
 
@@ -28,7 +25,7 @@ Localizers and playtesters can get away with simply creating [issues](https://gi
 
 ### Communication
 
-We are currently using a Discord group chat to co-operate. Please join us there: add me at **trashゴミ#7244**.
+We are currently using a Discord group chat to co-operate. Please join us there: add me at **trashゴミ#7244**. You may also chat with me one-on-one on Discord or by email.
 
 ### Donations
 
@@ -144,10 +141,10 @@ Localizers are welcome to regularly go and propose new localizations as well, or
 If you are contributing in one of the ways mentioned above (or in some other capacity), please edit this file and leave your name and role here! Alternatively, ask someone else to add your name for you.
 **Need your name pulled down?** [Let me know](mailto:trashgomi@protonmail.com).
 
-* trashgomi - Translation, Repo Owner
-* Kobold - Translation
-* WriterForce6XV - Localization, Playtesting
-* folley - Typesetting
-* AnonymousJS - Localization
-* 0x2F - Playtesting
-* RubyRedRose - Playtesting
+* trashgomi - Project Lead, Repo Owner, Translator, Typesetter
+* folley - Image Cleaner, Playtester
+* WriterForce6XV - Translator++ Supplier
+* AnonymousJS - Localization Consultant, Misc.
+* Kobold - Translator
+* 0x2F - Playtester, Additional Scripts
+* RubyRedRose - Playtester
