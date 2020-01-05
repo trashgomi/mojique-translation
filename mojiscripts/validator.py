@@ -162,6 +162,7 @@ else:
                         filename, l + 1, c + 1, columns[c], character))
                     # Don't consider as a real problem
                     print_break = True
+
             en_text = re.sub("\\\C\[\d\]", "", en_text)
             lines = en_text.split("\n")
             if len(lines) > 4:
@@ -182,6 +183,10 @@ else:
                     bad_lines.append(i)
                     problems += 1
                     feedback += "[starts with whitespace] "
+                if (re.search("\\w【|】\\w", lines[i])):
+                    bad_lines.append(i)
+                    problems += 1
+                    feedback += "[contains adjoined 【】"
             if len(bad_lines) > 0:
                 print_break = True
                 print(feedback)

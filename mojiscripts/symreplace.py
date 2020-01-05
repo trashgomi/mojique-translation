@@ -99,9 +99,9 @@ for filename, data in list(j["project"]["files"].items()):
         elif result:
             en_text = result
 
-        result = replace_quotes(en_text, '\`', '“', '”')
+        result = replace_quotes(en_text, '`', '‘', '’')
         if result == -1:
-            print("Found odd numbers of double quotes in file {}, line {}".format(filename, l + 1))
+            print("Found odd numbers of graves in file {}, line {}".format(filename, l + 1))
         elif result:
             en_text = result
 
