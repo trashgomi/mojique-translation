@@ -83,6 +83,8 @@ duplicate_whitelist = {
     "...!!",
     "...?!",
     "Yep.",
+    "*gulp*...",
+    "*glug*... *glug*...",
 }
 use_whitelist = True
 
