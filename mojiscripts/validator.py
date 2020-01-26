@@ -29,6 +29,7 @@ skip_indices = [
     ("Map289.txt", 7),
     ("Map289.txt", 14),
     ("Map617.txt", 29),
+    ("Map384.txt", 171),
 ]
 
 character_blacklist = [
@@ -85,6 +86,7 @@ duplicate_whitelist = {
     "Yep.",
     "*gulp*...",
     "*glug*... *glug*...",
+    "What is it?",
 }
 use_whitelist = True
 
