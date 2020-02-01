@@ -139,6 +139,7 @@ Localizers are welcome to regularly go and propose new localizations as well, or
 ## Contributors
 
 If you are contributing in one of the ways mentioned above (or in some other capacity), please edit this file and leave your name and role here! Alternatively, ask someone else to add your name for you.
+
 **Need your name pulled down?** [Let me know](mailto:trashgomi@protonmail.com).
 
 * trashgomi - Project Lead, Repo Owner, Translator, Typesetter
@@ -148,3 +149,14 @@ If you are contributing in one of the ways mentioned above (or in some other cap
 * Kobold - Translator
 * 0x2F - Playtester, Additional Scripts
 * RubyRedRose - Playtester
+
+## Supporters
+
+Many thanks to those who have supported me through SubscribeStar or another platform!
+
+**Need your name pulled down?** [Let me know](mailto:trashgomi@protonmail.com).
+
+* Rheth - Top Supporter!
+* Jzap
+* TJ Rock
+* And several anonymous supporters
