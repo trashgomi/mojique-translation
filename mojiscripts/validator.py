@@ -92,6 +92,9 @@ duplicate_whitelist = {
     "Let's go.",
     "Found you.",
     "This is...",
+    "Ah!",
+    "Is that right?",
+    "Now, then.",
 }
 use_whitelist = True
 
