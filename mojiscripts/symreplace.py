@@ -80,8 +80,11 @@ for filename, data in list(j["project"]["files"].items()):
                 print("Found specified file!")
                 found_spec_file = True
         en_text = ""
-        c = len(columns) - 1
+
         for c in range(len(columns) - 1, 2, -1):
+            if c + 1 > len(text):
+                print("{}: line {} - text did not have enough columns!".format(filename, l + 1))
+                exit(-1)
             en_text = text[c]
             if en_text:
                 if bool(en_text.strip()):

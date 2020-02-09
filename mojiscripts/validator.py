@@ -16,6 +16,8 @@ cutoff_px = 444
 
 skip_files = [
     "Scripts.txt",
+    "GameINI.txt",
+    "Actors.txt"
 ]
 
 skip_indices = [
@@ -44,9 +46,7 @@ columns = [
     "Notes",
     "Character",
     "Initial",
-    "Checked",
-    "Localized",
-    "Padding Column"
+    "Final"
 ]
 
 duplicate_whitelist = {
@@ -95,6 +95,7 @@ duplicate_whitelist = {
     "Ah!",
     "Is that right?",
     "Now, then.",
+    "I agree.",
 }
 use_whitelist = True
 
@@ -123,7 +124,7 @@ else:
     else:
         print("Validating all files in project")
 
-    line_count = -1
+    line_count = 0
     translated_count = 0
     problems = 0
     for filename, data in list(j["project"]["files"].items()):
@@ -140,11 +141,22 @@ else:
                     print("Found specified file!")
                     found_spec_file = True
             en_text = ""
-            c = len(columns) - 1
-            for c in range(len(columns) - 1, 2, -1):
+
+            for c in range(len(columns) - 1, 1, -1):
+                if c + 1 > len(text):
+                    print("{}: line {} - text did not have enough columns!".format(filename, l + 1))
+                    exit(-1)
                 en_text = text[c]
                 if en_text:
                     if bool(en_text.strip()):
+                        if c <= 2:
+                            print("{}: line {}, column {} {} - bad column used as translation!".format(filename,
+                                                                                                       l + 1,
+                                                                                                       c + 1,
+                                                                                                       columns[c]))
+                            problems += 1
+                            en_text = ""
+                            print_break = True
                         break
                     else:
                         print("{}: line {}, column {} {} - whitespace only!".format(filename, l + 1, c + 1, columns[c]))
