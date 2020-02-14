@@ -10,7 +10,7 @@ skip_files = [
 ]
 
 skip_indices = [
-    ("Commonevents.txt", 1953),
+
 ]
 
 columns = [
@@ -18,9 +18,7 @@ columns = [
     "Notes",
     "Character",
     "Initial",
-    "Checked",
-    "Localized",
-    "Padding Column"
+    "Final"
 ]
 
 characters = [
