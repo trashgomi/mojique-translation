@@ -96,6 +96,7 @@ duplicate_whitelist = {
     "Is that right?",
     "Now, then.",
     "I agree.",
+    "Oh...?",
 }
 use_whitelist = True
 
