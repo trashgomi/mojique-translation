@@ -100,6 +100,7 @@ duplicate_whitelist = {
     "Haah... haah...!",
     "Hm?",
     "...Eh...?",
+    "Yup!",
 }
 use_whitelist = True
 
