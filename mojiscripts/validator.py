@@ -1,11 +1,10 @@
 # coding=utf-8
+import json
 import re
 import sys
-
-from PIL import ImageFont
 from io import open
 
-import json
+from PIL import ImageFont
 
 debug = False
 trans_file = "tracked/trashgomi/translation.trans"
@@ -39,6 +38,25 @@ character_blacklist = [
     '~',  # Use a Japanese wave dash 〜
     'ー',  # Use an Em dash —
     '#',  # Just don't
+]
+
+line_end_punctuation = [
+    '.',
+    '!',
+    '?',
+    '”',
+    '*',
+    ')',
+    ']',
+    '—',
+    '♪',
+    '/',
+    '】',
+    '☆',
+    'ﾉ',
+    ',',
+    ':',
+    ';',
 ]
 
 columns = [
@@ -185,6 +203,17 @@ else:
                     print_break = True
                 else:
                     hashes.add(text_hash)
+
+            if not text[2] or text[2] not in {"System", "Sign", "Corrupt", "Slang", "Robot"}:
+                if en_text[len(en_text) - 1] not in line_end_punctuation:
+                    print("{}: line {}, column {} {} - unexpected end character {}".format(
+                        filename,
+                        l + 1,
+                        c + 1,
+                        columns[c],
+                        en_text[len(en_text) - 1]))
+                    # Don't consider as a real problem
+                    print_break = True
 
             for character in character_blacklist:
                 if character in en_text:

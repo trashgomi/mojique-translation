@@ -9,12 +9,12 @@ skip_files = {
     "GameINI.txt",
     "Skills.txt",
     "System.txt",
-    "Map318.txt",
-    "Map320.txt",
-    "Map330.txt",
+    "Map451.txt",
     "Map452.txt",
     "Map639.txt",
     "Map640.txt",
+    "Map729.txt",
+    "Map730.txt",
 }
 
 if len(sys.argv) < 2:
