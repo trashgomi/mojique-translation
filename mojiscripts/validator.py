@@ -57,6 +57,7 @@ line_end_punctuation = [
     ',',
     ':',
     ';',
+    "\"",
 ]
 
 columns = [
