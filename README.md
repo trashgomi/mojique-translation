@@ -159,4 +159,5 @@ Many thanks to those who have supported me through SubscribeStar or another plat
 * Rheth - Top Supporter!
 * Jzap
 * TJ Rock
+* Artilleryfire
 * And several anonymous supporters
