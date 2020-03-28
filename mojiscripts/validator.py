@@ -122,6 +122,8 @@ duplicate_whitelist = {
     "...Eh...?",
     "Yup!",
     "Don't board",
+    "(...!!)",
+    "(Hoh...)",
 }
 use_whitelist = True
 
