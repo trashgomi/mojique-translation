@@ -11,3 +11,4 @@
 .idea
 venv
 *.ttf
+mojiscripts/render_output.png

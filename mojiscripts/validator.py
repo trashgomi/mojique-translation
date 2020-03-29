@@ -31,6 +31,7 @@ skip_indices = [
     ("Map289.txt", 14),
     ("Map617.txt", 29),
     ("Map384.txt", 171),
+    ("Map488.txt", 2),
 ]
 
 character_blacklist = [
