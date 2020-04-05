@@ -128,6 +128,8 @@ duplicate_whitelist = {
     "...?!?!",
     "(Doyaaah!!)",
     "...Ah...",
+    "...Ah!",
+    "I-Is that so...",
 }
 use_whitelist = True
 
