@@ -130,6 +130,9 @@ duplicate_whitelist = {
     "...Ah...",
     "...Ah!",
     "I-Is that so...",
+    "Haah... haah...",
+    "......!!",
+    "Thank you very much.",
 }
 use_whitelist = True
 
