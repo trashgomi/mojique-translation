@@ -133,6 +133,7 @@ duplicate_whitelist = {
     "Haah... haah...",
     "......!!",
     "Thank you very much.",
+    "Huh?",
 }
 use_whitelist = True
 
