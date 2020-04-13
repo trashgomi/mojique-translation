@@ -14,7 +14,7 @@ cutoff_px = 444
 
 columns = ["Original Text", "Notes", "Character", "Initial", "Final"]
 
-render_line = ("Map488.txt", 2)
+render_line = ("Map315.txt", 5)
 
 with open(trans_file, "rb") as f:
 	j = json.load(f)
@@ -41,5 +41,7 @@ with open(trans_file, "rb") as f:
 							image.save("mojiscripts/render_output.png")
 
 							break
+						else:
+							print("")
 
 print("Done!")
