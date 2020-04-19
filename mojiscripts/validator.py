@@ -32,6 +32,7 @@ skip_indices = [
     ("Map617.txt", 29),
     ("Map384.txt", 171),
     ("Map488.txt", 2),
+    ("Map548.txt", 38),
 ]
 
 character_blacklist = [
@@ -59,7 +60,8 @@ line_end_punctuation = [
     ':',
     ';',
     "\"",
-    "』"
+    "』",
+    "↑",
 ]
 
 columns = [
