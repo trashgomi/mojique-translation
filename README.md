@@ -6,26 +6,15 @@ This project is a fan-made English translation for Mojique (もじクエ), the R
 
 Text: 13716/19145 = 71.64% (Updated 20 Apr, 2020)
 
-Images: 790/1122 = 70.41% (Updated 14 Mar, 2020)
+Images: 864/1122 = 77.01% (Updated 22 Apr, 2020)
 
 If you'd like to join in the project and possibly speed up progress, please see the section below.
 
-## Can I Help?
-
-There are many ways you can contribute, whether or not you can translate Japanese.
-
-* If you have a very strong grasp of both Japanese and English, you can act as a **lead translator**. We need at least one of these! Lead translators will be in charge of organising other translators, checking translations for correctness, and deciphering the most obscure lines of Japanese dialogue.
-* If you have decent knowledge of both Japanese and English, you can be an **assistant translator**. We need several of these. Assistant translators will do a lot of the heavy lifting and translate most of the text so that the lead translators can do their job.
-* If you are fluent in English, you can act as a **localizer**. Localizers will ensure that every line of dialogue sounds natural and has appropriate levels of expression and stylization.
-* We also need at least one **typesetter**. This is someone who knows a thing or two about image editing (e.g. Photoshop) and can add English text to images in place of Japanese text.
-* Otherwise, you can be a **playtester** (as long as you have a decent grasp of English). Playtesters will check for typos, missing translations and other dialogue errors, as well as ensuring that the game works as it should.
-
-To contribute, you should register for a GitHub account. Ideally, all translators should know how to create commits to this project - you can find out how using the [GitHub guides](https://guides.github.com/).
-Localizers and playtesters can get away with simply creating [issues](https://github.com/trashgomi/mojique-translation/issues) on this project as appropriate.
-
 ### Communication
 
-We are currently using a Discord group chat to co-operate. Please join us there: add me at **trashゴミ#7244**. You may also chat with me one-on-one on Discord or by email.
+Discord: **trashゴミ#7244**.
+
+Email: [trashgomi@protonmail.com].
 
 ### Donations
 
@@ -33,15 +22,7 @@ Please click the badge below to support me while I work on this project!
 
 [![Donate](https://img.shields.io/badge/Donate-SubscribeStar-green)](https://www.subscribestar.com/trashgomi)
 
-[Amazon gift cards](https://www.amazon.com/Amazon-eGift-Card-Logo/dp/B07PCMWTSG/) are an acceptable alternative form of donation which can be emailed to ***trashgomi@protonmail.com***.
-
 Donations are very much appreciated, and supporters will get early access to releases and exclusive blogs relating to the project! Supporters can also optionally get their names added to the credits file. Of course, the final translation will be available to all.
-
-#### Why don't you accept X as a method of payment?
-
-I have struggled to find a good way to do this. I need a platform which is as anonymous as possible, but accessible to as many people as possible. I have considered bitcoin, but I am not sure how easily I could set it up. I wanted to accept Steam cards as well, but it can't be done without giving out your Steam profile.
-
-Please email me at [trashgomi@protonmail.com] if you have any particular suggestions.
 
 ## Setup
 
@@ -142,13 +123,13 @@ If you are contributing in one of the ways mentioned above (or in some other cap
 
 **Need your name pulled down?** [Let me know](mailto:trashgomi@protonmail.com).
 
-* trashgomi - Project Lead, Repo Owner, Translator, Typesetter
-* folley - Image Cleaner, Playtester
+* trashgomi - Project Lead, Repo Owner, Translations, Typesetting
+* folley - Image Cleaning, Playtester
 * WriterForce6XV - Translator++ Supplier
-* AnonymousJS - Localization Consultant, Misc.
-* Kobold - Translator
-* 0x2F - Playtester, Additional Scripts
-* RubyRedRose - Playtester
+* AnonymousJS - Localization Consultancy, Misc.
+* Kobold - Additional Translations
+* 0x2F - Playtesting, Additional Scripts
+* RubyRedRose - Playtesting
 
 ## Supporters
 
