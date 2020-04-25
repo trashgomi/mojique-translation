@@ -35,6 +35,8 @@ skip_indices = [
     ("Map548.txt", 38),
 ]
 
+pmemories = range(3058, 3842)
+
 character_blacklist = [
     '…',  # Use three periods ...
     '~',  # Use a Japanese wave dash 〜
@@ -256,10 +258,11 @@ else:
                     bad_lines.append(i)
                     problems += 1
                     feedback += "[too long] "
-                if lines[i] != lines[i].lstrip():
-                    bad_lines.append(i)
-                    problems += 1
-                    feedback += "[starts with whitespace] "
+                if not (filename == 'Commonevents.txt' and l in pmemories):
+                    if lines[i] != lines[i].lstrip():
+                        bad_lines.append(i)
+                        problems += 1
+                        feedback += "[starts with whitespace] "
                 if (re.search("\\w【|】\\w", lines[i])):
                     bad_lines.append(i)
                     problems += 1
