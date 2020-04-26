@@ -277,16 +277,16 @@ else:
                 print()
         if print_break:
             print()
+    print("Done! Problems: {}".format(problems))
     if spec_file:
         if found_spec_file:
             print("Lines translated: {}/{} in specified file.".format(translated_count, line_count))
         if not found_spec_file:
             print("Did not find specified file.")
     else:
-        print("Done! Problems: {}".format(problems))
         print("Lines translated: {}/{} = {}%.".format(
             translated_count,
             line_count,
             (float(translated_count)/float(line_count)) * 100))
-        if problems > 0:
-            exit(-1)
+    if problems > 0:
+        exit(-1)
