@@ -173,7 +173,7 @@ else:
     for filename, data in list(j["project"]["files"].items()):
         if filename in skip_files:
             continue
-        print_break = False
+        problem_in_file = False
         for l, text in enumerate(data["data"]):
             if (filename, l) in skip_indices:
                 continue
@@ -199,13 +199,13 @@ else:
                                                                                                        columns[c]))
                             problems += 1
                             en_text = ""
-                            print_break = True
+                            problem_in_file = True
                         break
                     else:
                         print("{}: line {}, column {} {} - whitespace only!".format(filename, l + 1, c + 1, columns[c]))
                         problems += 1
                         en_text = ""
-                        print_break = True
+                        problem_in_file = True
             if text[0]:
                 line_count += 1
             if type(en_text) != str:
@@ -217,10 +217,9 @@ else:
             if use_whitelist and not duplicate_whitelist.__contains__(en_text):
                 text_hash = en_text.__hash__()
                 if hashes.__contains__(text_hash):
-                    print("{}: line {}, column {} {} - duplicate text ({})".format(
-                        filename, l + 1, c + 1, columns[c], en_text))
+                    print("{}: line {} - duplicate text ({})".format(filename, l + 1, en_text))
                     problems += 1
-                    print_break = True
+                    problem_in_file = True
                 else:
                     hashes.add(text_hash)
 
@@ -233,14 +232,14 @@ else:
                         columns[c],
                         en_text[len(en_text) - 1]))
                     # Don't consider as a real problem
-                    print_break = True
+                    problem_in_file = True
 
             for character in character_blacklist:
                 if character in en_text:
                     print("{}: line {}, column {} {} - bad character ({})".format(
                         filename, l + 1, c + 1, columns[c], character))
                     # Don't consider as a real problem
-                    print_break = True
+                    problem_in_file = True
 
             en_text = re.sub("\\\C\[\d\]", "", en_text)
             lines = en_text.split("\n")
@@ -248,7 +247,7 @@ else:
                 print("{}: line {}, column {} {} - too many lines ({}/4)".format(
                     filename, l + 1, c + 1, columns[c], len(lines)))
                 problems += 1
-                print_break = True
+                problem_in_file = True
 
             bad_lines = []
             feedback = "{}: line {}, column {} {} - ".format(filename, l + 1, c + 1, columns[c])
@@ -263,19 +262,20 @@ else:
                         bad_lines.append(i)
                         problems += 1
                         feedback += "[starts with whitespace] "
-                if (re.search("\\w【|】\\w", lines[i])):
+                if re.search("\\w【|】\\w", lines[i]):
                     bad_lines.append(i)
                     problems += 1
                     feedback += "[contains adjoined 【】"
             if len(bad_lines) > 0:
-                print_break = True
+                problem_in_file = True
                 print(feedback)
                 for j in range(0, len(lines)):
                     w = font.getsize(lines[j])[0]
                     arrow = "<" if j in bad_lines else ""
                     print("{} ({}/{}px) {}".format(lines[j], w, cutoff_px, arrow))
                 print()
-        if print_break:
+        if problem_in_file:
+            print("Found problems in file {}.".format(filename))
             print()
     print("Done! Problems: {}".format(problems))
     if spec_file:
