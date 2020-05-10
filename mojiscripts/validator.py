@@ -31,6 +31,9 @@ skip_indices = [
     ("Map384.txt", 171),
     ("Map488.txt", 2),
     ("Map548.txt", 38),
+    ("Map581.txt", 10),
+    ("Map581.txt", 11),
+    ("Map581.txt", 16),
 ]
 
 pmemories = range(3058, 3842)
