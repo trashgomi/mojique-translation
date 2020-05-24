@@ -9,6 +9,8 @@ skip_files = {
     "GameINI.txt",
     "Skills.txt",
     "System.txt",
+    "Map329.txt",
+    "Map330.txt",
     "Map451.txt",
     "Map452.txt",
     "Map639.txt",
