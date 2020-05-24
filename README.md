@@ -4,9 +4,9 @@ This project is a fan-made English translation for Mojique (もじクエ), the R
 
 ## Progress
 
-Text: 13708/19145 = 71.60% (Updated 24 Apr, 2020)
+Text: 15632/19144 = 81.65% (Updated 24 May, 2020)
 
-Images: 869/1122 = 77.45% (Updated 24 Apr, 2020)
+Images: 969/1122 = 86.36% (Updated 24 May, 2020)
 
 If you'd like to join in the project and possibly speed up progress, please see the section below.
 
