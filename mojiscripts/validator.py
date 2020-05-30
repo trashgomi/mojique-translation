@@ -140,6 +140,8 @@ duplicate_whitelist = {
     "Thank you very much.",
     "Huh?",
     "Y-Yes...",
+    "(......)",
+    "Huuuh?",
 }
 use_whitelist = True
 
