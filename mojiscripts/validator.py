@@ -143,6 +143,7 @@ duplicate_whitelist = {
     "(......)",
     "Huuuh?",
     "*glug*...",
+    "What do you mean?",
 }
 use_whitelist = True
 
