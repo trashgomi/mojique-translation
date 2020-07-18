@@ -135,10 +135,4 @@ If you are contributing in one of the ways mentioned above (or in some other cap
 
 Many thanks to those who have supported me through SubscribeStar or another platform!
 
-**Need your name pulled down?** [Let me know](mailto:trashgomi@protonmail.com).
-
-* Rheth - Top Supporter!
-* Jzap
-* TJ Rock
-* Artilleryfire
-* And several anonymous supporters
+If you donated and want your name listed in the Supporters file distributed with the game, please [contact me](mailto:trashgomi@protonmail.com).
