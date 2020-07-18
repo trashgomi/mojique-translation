@@ -114,6 +114,13 @@ for filename, data in list(j["project"]["files"].items()):
                     if not en_text.startswith("\r\n\r\n"):
                         en_text = "\r\n\r\n" + en_text.strip()
 
+        # Special event
+        if filename == 'Map735.txt':
+            jp_text: str = text[0]
+            if jp_text.startswith("\r\n\r\n"):
+                if not en_text.startswith("\r\n\r\n"):
+                    en_text = "\r\n\r\n" + en_text.strip()
+
         en_text = replace_symbols(en_text)
 
         j["project"]["files"][filename]["data"][l][c] = en_text

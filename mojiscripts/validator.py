@@ -262,7 +262,7 @@ else:
                     bad_lines.append(i)
                     problems += 1
                     feedback += "[too long] "
-                if not (filename == 'Commonevents.txt' and l in pmemories):
+                if not (filename == 'Commonevents.txt' and l in pmemories or filename == 'Map735.txt'):
                     if lines[i] != lines[i].lstrip():
                         bad_lines.append(i)
                         problems += 1
