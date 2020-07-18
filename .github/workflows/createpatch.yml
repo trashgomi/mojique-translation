@@ -4,6 +4,8 @@ on:
   push:
     tags:
       - 'v*-alpha'
+      - 'v*-beta'
+      - 'v*-rc'
 
 jobs:
   build:
