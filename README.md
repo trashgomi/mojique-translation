@@ -8,6 +8,8 @@ Text: 18957/18957 = 100% (Updated 18 July, 2020)
 
 Images: 1084/1084 = 100% (Updated 18 July, 2020)
 
+Testing: 42/116 = 36.2% (Updated 23 August, 2020)
+
 If you'd like to join in the project and possibly speed up progress, please see the section below.
 
 ### Communication
