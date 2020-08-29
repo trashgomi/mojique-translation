@@ -8,15 +8,13 @@ Text: 18957/18957 = 100% (Updated 18 July, 2020)
 
 Images: 1084/1084 = 100% (Updated 18 July, 2020)
 
-Testing: 71/116 = 61% (Updated 29 August, 2020)
-
-If you'd like to join in the project and possibly speed up progress, please see the section below.
+Testing: 74/116 = 64% (Updated 30 August, 2020)
 
 ### Communication
 
 Discord: **trashゴミ#7244**.
 
-Email: [trashgomi@protonmail.com].
+Email: trashgomi@protonmail.com.
 
 ### Donations
 
