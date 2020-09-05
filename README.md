@@ -8,7 +8,7 @@ Text: 18957/18957 = 100% (Updated 18 July, 2020)
 
 Images: 1084/1084 = 100% (Updated 18 July, 2020)
 
-Testing: 102/116 = 88% (Updated 31 August, 2020)
+Testing: 115/130 = 88% (Updated 05 September, 2020)
 
 ### Communication
 
