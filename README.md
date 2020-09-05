@@ -8,7 +8,7 @@ Text: 18960/18960 = 100% (Updated 05 September, 2020)
 
 Images: 1084/1084 = 100% (Updated 18 July, 2020)
 
-Testing: 117/130 = 90% (Updated 05 September, 2020)
+Testing: 130/130 = 100% (Updated 05 September, 2020)
 
 ### Communication
 
