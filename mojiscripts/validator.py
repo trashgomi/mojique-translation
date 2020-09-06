@@ -71,8 +71,7 @@ columns = [
     "Original Text",
     "Notes",
     "Character",
-    "Initial",
-    "Final"
+    "Translation",
 ]
 
 duplicate_whitelist = {
