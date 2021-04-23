@@ -2,6 +2,16 @@
 
 This project is a fan-made English translation for MojiQue (もじクエ), the RPG by Ao Kurage (青くらげ).
 
+## Download
+
+https://www.omorashi.org/files/file/6021-mojique-english-translation/
+
+[MEGA Mirror](https://mega.nz/file/NJNmFI4S#liezqPdwT2S5wqXcKG1z3_FLyoRnp-9wwrK0ReJFOn4)
+
+## Installation
+
+Carefully read the instructions [here](https://www.omorashi.org/files/file/6021-mojique-english-translation/).
+
 ## Progress
 
 Text: 18960/18960 = 100% (Updated 05 September, 2020)
